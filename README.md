@@ -8,7 +8,7 @@ A comprehensive Retrieval-Augmented Generation (RAG) system designed to provide 
 
 Below is a visual overview of the LLM module workflow:
 
-![LLM Module Workflow](LLM_module_workflow.png)
+![LLM Module Workflow](LLM_pipeline_figure.png)
 
 *The diagram above illustrates the main components and data flow in the ITRI Museum RAG LLM system.*
 
