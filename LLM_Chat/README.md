@@ -165,7 +165,7 @@ chroma_db_path = "/mnt/HDD4/thanglq/he110/LLM_Chat/itri_museum_docs/chroma_db"
 chroma_collection, embedding_model = rag_pipeline.build_hybrid_vector_store(
     chunks,
     collection_name="custom_collection", 
-    embedding_model="nomic-embed-text",
+    embedding_model="bge-m3:latest",
     reload=True  # Force rebuild
 )
 ```
@@ -335,7 +335,7 @@ The module requires a running Ollama instance with these endpoints:
 
 ```bash
 # Install required models
-ollama pull nomic-embed-text          # For embeddings
+ollama pull bge-m3:latest          # For embeddings
 ollama pull linly-llama3.1:70b-instruct-q4_0  # For generation
 ```
 

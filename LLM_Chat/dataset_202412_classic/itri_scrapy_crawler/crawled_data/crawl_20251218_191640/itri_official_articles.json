@@ -1,0 +1,316 @@
+[
+  {
+    "research_area": "電子",
+    "technology_type": "5G",
+    "applications": [],
+    "keywords": [],
+    "id": "itri_official_817671",
+    "title": "OTT 雲端影音服務技術整合方案-智慧消費與運籌服務-智慧生活-尖端科技-工業技術研究院",
+    "content": "OTT雲端影音服務平台系統完整地包含了影片上架與管理、影片傳輸、系統服務及收視端的播放軟體。以分散式運算處理架構，解決大量多媒體視訊格式轉換、視訊資料管理與視訊串流，提供彈性分配雲端運算資源，並包括多重服務整合管理技術與Advertising & Monetization 應用服務技術，供雲端多重OTT TV服務的建立、存取與管理。 、內容業者、旅館、數位學習、運動賽事、演唱會等多媒體影音服務與應用。",
+    "url": "https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1220471661424412226&MGID=1254072207515124023",
+    "source": "itri_official",
+    "language": "zh-tw",
+    "crawled_at": "2025-12-18T20:13:13.295133",
+    "content_type": "research",
+    "category": "尖端科技",
+    "tags": [],
+    "summary": "OTT雲端影音服務平台系統完整地包含了影片上架與管理、影片傳輸、系統服務及收視端的播放軟體。以分散式運算處理架構，解決大量多媒體視訊格式轉換、視訊資料管理與視訊串流，提供彈性分配雲端運算資源，並包括多重服務整合管理技術與Advertising & Monetization 應用服務技術，供雲端多重OTT TV服務的建立、存取與管理。",
+    "images": [
+      "https://www.itri.org.tw/WebTools/Thumbnail.ashx?Siteid=1&MmmID=1220471661424412226&fd=MessagessPic_Pics&Pname=OTT.jpg",
+      "https://www.itri.org.tw/images/itrilogo.svg",
+      "https://www.itri.org.tw/images/icon_map.svg",
+      "https://www.itri.org.tw/images/AA_logo.png",
+      "https://www.itri.org.tw/images/f_logo.png"
+    ],
+    "published_date": "",
+    "content_hash": "4025590337af18c0008aca214fb5c25b",
+    "pure_content_hash": "847ba097bf2eeb78e3cdd5b4b686abcb",
+    "quality_score": 0.8200000000000001
+  },
+  {
+    "research_area": "資通訊",
+    "technology_type": "5G",
+    "applications": [],
+    "keywords": [
+      "5G"
+    ],
+    "id": "itri_official_988490",
+    "title": "5G企業專網監控可視化解決方案-智慧消費與運籌服務-智慧生活-尖端科技-工業技術研究院",
+    "content": "5G專網監控中心提供企業專網從用戶到應用持續性網路監控管理，實時動態偵測專網使用資源掌控網路狀態，並及時偵測核心網路或網路設備故障異常，透過告警監控推播系統通知管理人員，能有效快速排除問題，以提高專網應用服務可靠性。 5G專網監控管理、通訊協定介接、通訊設備資料擷取、專網告警管理。",
+    "url": "https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1220471661424412226&MGID=1254072207736500576",
+    "source": "itri_official",
+    "language": "zh-tw",
+    "crawled_at": "2025-12-18T20:13:15.305942",
+    "content_type": "research",
+    "category": "尖端科技",
+    "tags": [
+      "網路",
+      "通訊",
+      "5G"
+    ],
+    "summary": "5G專網監控中心提供企業專網從用戶到應用持續性網路監控管理，實時動態偵測專網使用資源掌控網路狀態，並及時偵測核心網路或網路設備故障異常，透過告警監控推播系統通知管理人員，能有效快速排除問題，以提高專網應用服務可靠性。5G專網監控管理、通訊協定介接、通訊設備資料擷取、專網告警管理。",
+    "images": [
+      "https://www.itri.org.tw/WebTools/Thumbnail.ashx?Siteid=1&MmmID=1220471661424412226&fd=MessagessPic_Pics&Pname=5G%E4%BC%81%E6%A5%AD%E5%B0%88%E7%B6%B2%E7%9B%A3%E6%8E%A7%E5%8F%AF%E8%A6%96%E5%8C%96%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88__24090510394054__.jpg",
+      "https://www.itri.org.tw/images/itrilogo.svg",
+      "https://www.itri.org.tw/images/icon_map.svg",
+      "https://www.itri.org.tw/images/AA_logo.png",
+      "https://www.itri.org.tw/images/f_logo.png"
+    ],
+    "published_date": "",
+    "content_hash": "9ba7f1b5cbe31cdf49b53cf7826e1327",
+    "pure_content_hash": "f8de22d0d14bda40baf707fa5b8120a5",
+    "quality_score": 0.7500000000000001
+  },
+  {
+    "research_area": "光電",
+    "technology_type": "5G",
+    "applications": [],
+    "keywords": [],
+    "id": "itri_official_560523",
+    "title": "無標記3D真人動作捕捉技術-智慧消費與運籌服務-智慧生活-尖端科技-工業技術研究院",
+    "content": "只要走入簡易攝影棚，不需穿戴裝置，在影像錄製動作後，即可擷取3D動作姿態，打造虛擬人物、虛擬場景。",
+    "url": "https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1220471661424412226&MGID=1254353622320324767",
+    "source": "itri_official",
+    "language": "zh-tw",
+    "crawled_at": "2025-12-18T20:13:17.303139",
+    "content_type": "research",
+    "category": "尖端科技",
+    "tags": [
+      "影像"
+    ],
+    "summary": "只要走入簡易攝影棚，不需穿戴裝置，在影像錄製動作後，即可擷取3D動作姿態，打造虛擬人物、虛擬場景。",
+    "images": [
+      "https://www.itri.org.tw/WebTools/Thumbnail.ashx?Siteid=1&MmmID=1220471661424412226&fd=MessagessPic_Pics&Pname=3D.png",
+      "https://www.itri.org.tw/images/itrilogo.svg",
+      "https://www.itri.org.tw/images/icon_map.svg",
+      "https://www.itri.org.tw/images/AA_logo.png",
+      "https://www.itri.org.tw/images/f_logo.png"
+    ],
+    "published_date": "",
+    "content_hash": "19c3d1420a7ec97e8f84c610e3a24ba2",
+    "pure_content_hash": "1ca96a8d391f8389785d5fda3e1a4b23",
+    "quality_score": 0.7500000000000001
+  },
+  {
+    "research_area": "電子",
+    "technology_type": "AI",
+    "applications": [],
+    "keywords": [
+      "AI"
+    ],
+    "id": "itri_official_930261",
+    "title": "糖尿病視網膜病變診斷輔助分析技術-技術移轉-產業服務-工業技術研究院",
+    "content": "結合眼科醫師專業知識與人工智慧技術所產生的人腦與AI雙腦的AI診斷輔助分析系統，透過AI模型間的互補性，有效提高各自任務 (如：分類、物件偵測) 的效能表現，且軟硬整合於手持式醫材方便攜帶，加快醫師確診的速度，進而提高潛在病患早期發現的比率，減少醫療照護支出與社會成本，守護民眾健康。 This technology is a collaboration of the minds of the human brain and artificial intelligence through the expertise of doctors and AI analysis. Due to the complementary nature between the AI models, the efficacy of separate tasks, such as categorizing and detecting, can be significantly increased. The combination of hardware and software into a portable medical device makes it easy to carry around, and can shorten the time for diagnosis. The technology therefore increases the early detection rate for potential patients and reduces the cost of healthcare and social care. 1. 標示糖尿病眼底病變主要病徵與重要組織的位置 國際上目前唯一可偵測糖尿病眼底病變四種主要病徵 (微血管瘤、出血、軟滲出物、硬滲出物) 以及二種眼底重要組織結構 (視盤、黃斑部區域)，並且清楚標示所在位置的AI判讀技術，可有效輔助醫師針對病變嚴重程度的判讀，以及方便與病患解說病情，提升醫囑的遵循性。 2. 切合臺灣糖尿病共同照護網的病變分級需求。 • 糖尿病視網膜病變 (DR) 分級：提供糖尿病視網膜病變五個級別 (No DR、Mild NPDR、Moderate NPDR、Severe NPDR、PDR) 的分類模型 ，給予不同分級病患更為貼切的醫療照護。亦提供是否轉診眼科的二分類模型。 • 糖尿病黃斑部水腫 (DME) 分級：提供臨床上有意義黃斑部水腫 (Clinically Significant Macular Edema；CSME) 分級結果可決定黃斑部水腫最佳治療的時機。 1. Labels the lesion locations of diabetic retinopathy and identifies location of tissues. This is currently the only AI detection technology in the world that can detect the main four lesions (Microaneurysms, Hemorrhages, Soft Exudates, Hard Exudates), identify two fundus tissues (Disc, Macular), clearly label the corresponding locations, and effectively assist doctors in the detection of the lesions’ severity levels. 2. Is in accordance with the needs of the severity scales of Taiwan’s Diabetes Shared Care Network. •The severity scale of diabetic retinopathy: This technology provides a classification model for the five severity scales of diabetic retinopathy (No DR, Mild NPDR, Moderate NPDR, Severe NPDR, PDR), and ensures suitable healthcare for patients with different severity levels. It also produces a binary classification model regarding the decision for referrals to ophthalmologists •The severity scale of macular edema: The severity for CSME (Clinically Significant Macular Edema) is also presented to identify the proper timing for macular edema treatment. 以AI輔助非眼科醫師診斷解決眼科醫生不足不均。 結合眼科醫師專業知識與人工智慧技術所產生的人腦與AI雙腦的AI診斷輔助分析系統，將更有效率協助非眼科醫師進行眼底影像的細微病變判讀，加快醫師確診的速度，進而提高潛在病患早期發現的比率，減少醫療照護支出與社會成本，守護民眾健康。 糖尿病患者可於新陳代謝科/家醫科/一般科定期回診取藥時，以AI病變嚴重程度分級與病徵辨識輔助非眼科醫師進行眼底影像判讀，達到如眼科專科醫生般的判讀能力，免除轉診眼科的不便利，提升篩檢率。 至少安裝有一張NVIDIA Pascal以上世代GPU之主機。 深度學習專家、資深醫療產業顧問、影像處理人員。 電話：+886-3-5912218 或 Email：Michelle.Chen＠itri.org.tw 客服專線：+886-800-45-8899",
+    "url": "https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=13_content&SiteID=1&MmmID=1036233405427625204&Trt_idx=8468",
+    "source": "itri_official",
+    "language": "zh-tw",
+    "crawled_at": "2025-12-18T20:13:19.266758",
+    "content_type": "research",
+    "category": "首頁",
+    "tags": [
+      "診斷",
+      "醫療",
+      "AI",
+      "人工智慧",
+      "IC",
+      "治療",
+      "影像",
+      "深度學習"
+    ],
+    "summary": "結合眼科醫師專業知識與人工智慧技術所產生的人腦與AI雙腦的AI診斷輔助分析系統，透過AI模型間的互補性，有效提高各自任務 (如：分類、物件偵測) 的效能表現，且軟硬整合於手持式醫材方便攜帶，加快醫師確診的速度，進而提高潛在病患早期發現的比率，減少醫療照護支出與社會成本，守護民眾健康。",
+    "images": [
+      "https://www.itri.org.tw/images/ITRILOGO_OLD.png",
+      "https://www.itri.org.tw/images/itrilogo.svg",
+      "https://www.itri.org.tw/images/icon_map.svg",
+      "https://www.itri.org.tw/images/AA_logo.png",
+      "https://www.itri.org.tw/images/f_logo.png"
+    ],
+    "published_date": "",
+    "content_hash": "1a958b970cd6c1b91952c683cadacbfb",
+    "pure_content_hash": "390f5fb20fdff2aa61042372925eb6bd",
+    "quality_score": 1.0
+  },
+  {
+    "research_area": "機械",
+    "technology_type": "5G",
+    "applications": [],
+    "keywords": [
+      "研發"
+    ],
+    "id": "itri_official_054190",
+    "title": "材料多尺度模擬互動平台—以簡易快速驅動新材料開發與設計-智慧消費與運籌服務-智慧生活-尖端科技-工業技術研究院",
+    "content": "工研院多尺度模擬研究室深耕建立之材料多尺度模擬互動平台技術，致力於協助台灣相關產業之關鍵性材料開發與設計，搶進全球相關製造業之龐大商機。其中，各模擬技術方塊持續與國內研究／學術單位合作並驗證，以應變產業各類新材料研發與加工製程問題。",
+    "url": "https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1220471661424412226&MGID=1000627507151512260",
+    "source": "itri_official",
+    "language": "zh-tw",
+    "crawled_at": "2025-12-18T20:13:21.310377",
+    "content_type": "research",
+    "category": "尖端科技",
+    "tags": [
+      "研發",
+      "製造",
+      "材料"
+    ],
+    "summary": "工研院多尺度模擬研究室深耕建立之材料多尺度模擬互動平台技術，致力於協助台灣相關產業之關鍵性材料開發與設計，搶進全球相關製造業之龐大商機。其中，各模擬技術方塊持續與國內研究／學術單位合作並驗證，以應變產業各類新材料研發與加工製程問題。",
+    "images": [
+      "https://www.itri.org.tw/WebTools/Thumbnail.ashx?Siteid=1&MmmID=1220471661424412226&fd=MessagessPic_Pics&Pname=%E6%9D%90%E6%96%99%E5%A4%9A%E5%B0%BA%E5%BA%A6%E6%A8%A1%E6%93%AC%E4%BA%92%E5%8B%95%E5%B9%B3%E5%8F%B0%E2%80%94%E4%BB%A5%E7%B0%A1%E6%98%93%E5%BF%AB%E9%80%9F%E9%A9%85%E5%8B%95%E6%96%B0%E6%9D%90%E6%96%99%E9%96%8B%E7%99%BC%E8%88%87%E8%A8%AD%E8%A8%88.jpg",
+      "https://www.itri.org.tw/WebTools/Thumbnail.ashx?SiteID=1&MmmID=1036233376121650057&fd=MessagessPic_Pics&Pname=材料多尺度模擬互動平台_應用成果.jpg",
+      "https://www.itri.org.tw/WebTools/Thumbnail.ashx?SiteID=1&MmmID=1036233376121650057&fd=MessagessPic_Pics&Pname=材料快速物性預測技術.jpg",
+      "https://www.itri.org.tw/WebTools/Thumbnail.ashx?SiteID=1&MmmID=1036233376121650057&fd=MessagessPic_Pics&Pname=高分子之微介觀模擬預測技術.jpg",
+      "https://www.itri.org.tw/WebTools/Thumbnail.ashx?SiteID=1&MmmID=1036233376121650057&fd=MessagessPic_Pics&Pname=微粒分散之模擬預測與調控技術.jpg"
+    ],
+    "published_date": "",
+    "content_hash": "5b9b615da1fa9f83a2afcb33cfc115ac",
+    "pure_content_hash": "087b73c7920bf78aab672564eba05207",
+    "quality_score": 0.81
+  },
+  {
+    "news_type": "general_news",
+    "department": "在經濟部",
+    "contact_info": {
+      "email": "tracyshen@itri.org.tw",
+      "phone": "103627626315"
+    },
+    "id": "itri_official_061747",
+    "title": "新奇有趣的「溫室 效應 · 實驗圖書館」活動 將於3/26在彰化溪州公園登場-最新新聞",
+    "content": "電動搖控車幫忙噴農藥，掃地機器人幫忙清潔仔牛畜舍，無人機幫忙載運農作物下山，這些農友們可能曾經幻想過的情節，都將於3/26（六）在經濟部指導，由工研院與設研院主辦的「溫室 效應 · 實驗圖書館」活動華麗現身！透過「百科閱覽室」特展，民眾可近距離目睹超過25項經濟部支持研發的智慧農工與循環設計亮點成果，當天民眾甚至還可親眼看到「短途高負重無人機物流」現場搭載冷凍櫃飛行運送冰棒喔！ 除了難得公開亮相的農工技術成果以外，當天上午的「對談Saloon」時段，將進行「智慧農工科技發展永續論壇」，邀請立法院謝衣鳯委員、農委會科技處王仕賢處長、台灣農機公會楊建生理事長、福壽實業洪堯昆董事長、元沛農坊創辦人許又仁、工研院彭裕民副院長、設研院張基義院長等重量級產官學研代表，共同探討科技如何改變農業的樣貌，透過傳統與創新的撞擊，跨產業領域的交流，希望能以工輔農為中台灣產業導入新思維、新願景！ 現場不能錯過「一日限定溫・市集」，由彰化農友販售在地優質農產品，包含將傳統鐵工廠變身智慧溫室，主打無毒水耕新鮮生菜的在地青農商家PickFresh，以及以科技化環控溫室栽種番茄為名的番茄方舟，當天也會販售溫室番茄、花胡瓜等新鮮蔬果；市集將匯聚多項中臺灣特色農產品，展現獨具彰化農村風情與活力，非常值得一逛。 好看、好聽又好買的「溫室 效應 · 實驗圖書館」活動將於3/26上午9點到下午5點在彰化溪州公園產業陳列館登場，不論你是從事農業、科技業、設計業、機械業，還是享受知識趣味兼具的輕旅行，來到彰化溪州公園，都能收穫滿滿！詳細活動與論壇報名請參考網站：",
+    "url": "https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=111031812203782301",
+    "source": "itri_official",
+    "language": "zh-tw",
+    "crawled_at": "2025-12-18T20:13:23.474482",
+    "content_type": "news",
+    "category": "新聞中心",
+    "tags": [
+      "機械",
+      "創新",
+      "IC",
+      "機器人",
+      "研發"
+    ],
+    "summary": "電動搖控車幫忙噴農藥，掃地機器人幫忙清潔仔牛畜舍，無人機幫忙載運農作物下山，這些農友們可能曾經幻想過的情節，都將於3/26（六）在經濟部指導，由工研院與設研院主辦的「溫室 效應 · 實驗圖書館」活動華麗現身。透過「百科閱覽室」特展，民眾可近距離目睹超過25項經濟部支持研發的智慧農工與循環設計亮點成果，當天民眾甚至還可親眼看到「短途高負重無人機物流」現場搭載冷凍櫃飛行運送冰棒喔。",
+    "images": [
+      "https://www.itri.org.tw/WebTools/Thumbnail.ashx?Siteid=1&MmmID=1036276263153520257&fd=NewsLetter_Pics&Pname=253fb15d-c0b6-4e14-8806-706349a36e72_20220318_57_01.jpg",
+      "https://www.itri.org.tw/images/itrilogo.svg",
+      "https://www.itri.org.tw/images/icon_map.svg",
+      "https://www.itri.org.tw/images/AA_logo.png",
+      "https://www.itri.org.tw/images/f_logo.png"
+    ],
+    "published_date": "2022-03-18",
+    "content_hash": "4ed64bea3bf73d3f8b35c7f2f97100af",
+    "pure_content_hash": "a492241892a31aca422169656151648c",
+    "research_area": "電子",
+    "quality_score": 0.9900000000000001
+  },
+  {
+    "news_type": "general_news",
+    "department": "經濟部",
+    "contact_info": {
+      "email": "tracyshen@itri.org.tw",
+      "phone": "103627626315"
+    },
+    "id": "itri_official_567430",
+    "title": "經濟部推動智慧農工跨域合作 以科技協助農業永續發展-最新新聞",
+    "content": "經濟部今（26）日在彰化溪州公園舉辦「溫室 效應．一日限定實驗圖書館」展覽，展示25項智慧農工技術與循環設計成果，包含臺灣自主研發客製化電動無人噴藥車、最適合臺灣地形需求的長時間無人機物流，以及可有效預防病蟲害的作物病害精準預警系統；展現經濟部投入人機協作、智慧感測和循環永續等技術發展，協助解決傳統農業因缺乏人工、氣候變遷而收成不穩，以及龐大農業剩餘廢材處理的問題，以科技帶領農業邁向智慧化與循環永續，進一步推動農業的升級和轉型。 經濟部次長林全能表示，我國農牧戶人口約269萬餘人，平均年齡達67歲，農業面臨人口老化的壓力，且近年極端氣候愈見頻繁，農業極需智慧轉型，減少看天吃飯的壓力，以提高青年務農意願，經濟部預見此趨勢，多年來投入智慧農工技術的研發，例如發展人機協作技術，讓老農省力耕作，並解決農業勞動力不足的問題；運用智慧感測AIoT物聯網技術，偵測土壤、天氣等多重環境因素，可讓農民預先防範，並提高耕種效率；此外，因應循環經濟全球趨勢，經濟部也投入許多農業廢棄物循環再利用的技術，以跨部會合作方式，將科技導入臺灣農產業，推動永續農業，創造智慧農工新價值。 工研院副院長彭裕民指出，自2019年起，在經濟部技術處和農委會的共同支持下，工研院開始推動農工跨域合作，藉由打造跨域生態系與數位新科技的導入，探索農業數位轉型的新策略與新價值，推動臺灣智慧農工的發展。在農業面臨的眾多困難中，人口急速老化所帶來的缺工問題更為難解，因此工研院團隊在農業試驗機關的專業協助下，共同將工業上已成熟發展的人機協作應用到田間。在人機協作方面，「智慧化複合式巡場噴藥移動裝置」可載重超過250公斤，農民只要在100公尺外遠端遙控，就可輕鬆完成噴藥工作，除了較傳統噴藥方式省去60%的人力時間，也省下30%的噴藥量之外，更重要的是農友們不用再擔心因為吸入過多農藥而影響健康。「長時間高負重無人機物流」可協助農民解決山區物流運輸費時耗人力的問題，只要透過地面遙導控系統設定好飛行路徑，即可進行自動飛行的運輸任務，為山區補給運輸的一大助力。在智慧感測方面，「作物病害精準預警系統」藉由大量收集作物生長期間田區環境溫度、濕度、光照或雨量因子，與作物根域附近土壤微環境等參數，進行作物發病機率預測，不須要重新安裝App，加入會員後直接透過手機上Line的聊天機器人，就可以提醒農民病害防治施藥，減少農產損失及藥劑支出，可有效預防病蟲害，避免農民們辛苦耕耘的收成因病蟲害而受影響。在永續循環方面，與農業改良場共同開發的「生態資材數位預控生產設備」，將智慧與材料科技結合地方需求，將像是葡萄藤等農業剩餘廢料，轉化為生態炭和天然醋液，成為天然的資材繼續友善耕種，產生的熱能也能回收再利用。 出身彰化的立法委員謝衣鳯表示，彰化為國內的農業大縣，務農人口數達全縣1/5以上，為了在地農業能永續發展，支持在地農業轉型，特別邀請工研院與設研院合辦本次特展，期能透過智慧科技協助彰化農業升級，彰化縣近年來也陸續設立「智慧農業-農、漁、牧的標準示範場域」和成立二林精密園區，運用科技推動農業，讓當地農友可以利用相關資源，善用科技來提升收益，同時，從農作物耕種到農產品推廣，整體推動食農產業的創新研發，進而翻轉傳統產業型態、厚植彰化農產品的競爭力。 設研院院長張基義表示，設計的價值在於協助科技，為使用者在不同場景中創新體驗。舉例來說，在本次展覽的策展形式，建造一座專屬彰化民眾的實驗圖書館，要從前所未有的創意角度，閱讀臺灣智慧農工的發展，透過設計師的視角，一窺科技帶給使用者的全新價值。此外，由經濟部工業局指導、設研院輔導下的循環設計展品，如咖啡渣回收再製的隨行杯、及100%竹纖維打造的菱格盤、都是將原本的農業廢棄物，藉由技術突破、設計創新並投入量產的循環產品。本次展覽參加市集的廠商，也多是設研院協助彰化在地農企業，設計轉型的成果，打造在地產業的新價值。 今日在活動現場同步舉辦智慧農工科技發展永續論壇，包括立法委員謝衣鳯、農委會科技處處長王仕賢、台灣農機公會理事長楊建生、福壽實業董事長洪堯昆、元沛農坊創辦人許又仁、工研院副院長彭裕民以及設研院院長張基義等重量級產官學研代表，在論壇中暢談智慧農工合作的契機，共同探討科技如何改變農業的樣貌，透過傳統與創新的撞擊，跨產業領域的交流，期望能以工輔農為臺灣農產業導入新思維、新願景！ 未來科技協作與永續發展將在臺灣農業發展上扮演更重要的角色，透過跨部會合作共同推動新農業發展，發揮臺灣不同產業的既有優勢，找到傳統農業下一波轉型升級的機會，透過智慧科技的協助，創造農工跨界應用新價值，甚至能進一步實現循環與零碳排的產業生態，也將引領另一波創新產業發展！",
+    "url": "https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=111032810560431347",
+    "source": "itri_official",
+    "language": "zh-tw",
+    "crawled_at": "2025-12-18T20:13:25.436193",
+    "content_type": "news",
+    "category": "新聞中心",
+    "tags": [
+      "物聯網",
+      "AI",
+      "創新",
+      "IoT",
+      "材料",
+      "機器人",
+      "研發",
+      "精密"
+    ],
+    "summary": "",
+    "images": [
+      "https://www.itri.org.tw/WebTools/Thumbnail.ashx?Siteid=1&MmmID=1036276263153520257&fd=NewsLetter_Pics&Pname=0d82bd34-af76-41b7-ae8b-127d44821084_20220326_57_01.jpg",
+      "https://www.itri.org.tw/WebTools/Thumbnail.ashx?SiteID=1&MmmID=1036276263153520257&fd=NewsLetter_Pics&Pname=0d82bd34-af76-41b7-ae8b-127d44821084_20220326_57_02.jpg",
+      "https://www.itri.org.tw/WebTools/Thumbnail.ashx?SiteID=1&MmmID=1036276263153520257&fd=NewsLetter_Pics&Pname=0d82bd34-af76-41b7-ae8b-127d44821084_20220326_57_03.jpg",
+      "https://www.itri.org.tw/WebTools/Thumbnail.ashx?SiteID=1&MmmID=1036276263153520257&fd=NewsLetter_Pics&Pname=0d82bd34-af76-41b7-ae8b-127d44821084_20220326_57_04.jpg",
+      "https://www.itri.org.tw/WebTools/Thumbnail.ashx?SiteID=1&MmmID=1036276263153520257&fd=NewsLetter_Pics&Pname=0d82bd34-af76-41b7-ae8b-127d44821084_20220326_57_05.jpg"
+    ],
+    "published_date": "2022-03-26",
+    "content_hash": "a207f78969d153154b95be2a04dca975",
+    "pure_content_hash": "92ad96bfef10753342b0f47102bdeaf5",
+    "research_area": "資通訊",
+    "technology_type": "AI",
+    "quality_score": 1.0
+  },
+  {
+    "research_area": "機械",
+    "technology_type": "自動化",
+    "applications": [
+      "節能",
+      "自動化"
+    ],
+    "keywords": [
+      "生技"
+    ],
+    "id": "itri_official_492124",
+    "title": "環控生產系統技術開發-智慧消費與運籌服務-智慧生活-尖端科技-工業技術研究院",
+    "content": "工研院整合光機電、精密環控、材料、生技與自動化等核心技術，與農業產學研單位合作，開發出最適化光源系統、先進立體栽培設施、病原體檢測系統、節能控制及自動監控系統，打造適合亞熱帶氣候的智慧溫室系統。",
+    "url": "https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1220471661424412226&MGID=1002412743200202233",
+    "source": "itri_official",
+    "language": "zh-tw",
+    "crawled_at": "2025-12-18T20:13:27.319979",
+    "content_type": "research",
+    "category": "尖端科技",
+    "tags": [
+      "自動化",
+      "精密",
+      "材料",
+      "節能"
+    ],
+    "summary": "工研院整合光機電、精密環控、材料、生技與自動化等核心技術，與農業產學研單位合作，開發出最適化光源系統、先進立體栽培設施、病原體檢測系統、節能控制及自動監控系統，打造適合亞熱帶氣候的智慧溫室系統。",
+    "images": [
+      "https://www.itri.org.tw/WebTools/Thumbnail.ashx?Siteid=1&MmmID=1220471661424412226&fd=MessagessPic_Pics&Pname=%E7%92%B0%E6%8E%A7%E7%94%9F%E7%94%A2%E7%B3%BB%E7%B5%B1%E6%8A%80%E8%A1%93%E9%96%8B%E7%99%BC.png",
+      "https://www.itri.org.tw/WebTools/Thumbnail.ashx?SiteID=1&MmmID=1036233376121650057&fd=MessagessPic_Pics&Pname=客製化水耕栽培與環控系統設計與建置__20092615510601__.jpg",
+      "https://www.itri.org.tw/WebTools/Thumbnail.ashx?SiteID=1&MmmID=1036233376121650057&fd=MessagessPic_Pics&Pname=高值水耕蔬菜專用LED人工光源.jpg",
+      "https://www.itri.org.tw/WebTools/Thumbnail.ashx?Siteid=1&MmmID=1220471661424412226&fd=MessagessPic_Pics&Pname=%E7%8F%8A%E7%91%9A%E4%BA%BA%E5%B7%A5%E7%92%B0%E6%8E%A7%E5%9F%B9%E8%82%B2%E7%B3%BB%E7%B5%B1%E5%AF%A6%E6%99%AF.jpg",
+      "https://www.itri.org.tw/images/itrilogo.svg"
+    ],
+    "published_date": "",
+    "content_hash": "3605aa5a411ae24fe5d1907d3a48ce9c",
+    "pure_content_hash": "64153d812ab8e4ebf20370d37d06e6ea",
+    "quality_score": 0.7900000000000001
+  },
+  {
+    "research_area": "電子",
+    "technology_type": "5G",
+    "applications": [
+      "自動化"
+    ],
+    "keywords": [],
+    "id": "itri_official_254393",
+    "title": "高值作物栽培系統技術開發-智慧消費與運籌服務-智慧生活-尖端科技-工業技術研究院",
+    "content": "傳統的溫室監控系統需要電線布設與供電保護等設施，不僅占用空間、架設不便，建置成本也很高。工研院開發的溫室生長監控與栽培系統採用無線感測傳輸，可整合太陽能板進行電源供電，可簡化設施複雜度及降低成本，同時還能連結各種感測器，蒐集植物生長與環境資訊，配合植物生理所需條件，從遠端就能進行智能化監控與決策。",
+    "url": "https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1220471661424412226&MGID=1002412743224036452",
+    "source": "itri_official",
+    "language": "zh-tw",
+    "crawled_at": "2025-12-18T20:13:29.307983",
+    "content_type": "research",
+    "category": "尖端科技",
+    "tags": [
+      "太陽能",
+      "感測器"
+    ],
+    "summary": "傳統的溫室監控系統需要電線布設與供電保護等設施，不僅占用空間、架設不便，建置成本也很高。工研院開發的溫室生長監控與栽培系統採用無線感測傳輸，可整合太陽能板進行電源供電，可簡化設施複雜度及降低成本，同時還能連結各種感測器，蒐集植物生長與環境資訊，配合植物生理所需條件，從遠端就能進行智能化監控與決策。",
+    "images": [
+      "https://www.itri.org.tw/WebTools/Thumbnail.ashx?Siteid=1&MmmID=1220471661424412226&fd=MessagessPic_Pics&Pname=%E8%88%9E%E8%8F%87%E6%96%B0%E5%9E%8B%E7%93%B6%E6%A0%BD%E5%AF%A6%E6%99%AF.jpg",
+      "https://www.itri.org.tw/WebTools/Thumbnail.ashx?Siteid=1&MmmID=1220471661424412226&fd=MessagessPic_Pics&Pname=%E8%8D%89%E8%8E%93%E9%AB%98%E7%94%A2%E9%87%8F%E7%AB%8B%E9%AB%94%E6%A0%BD%E5%9F%B9%E7%B3%BB%E7%B5%B1.jpg",
+      "https://www.itri.org.tw/images/itrilogo.svg",
+      "https://www.itri.org.tw/images/icon_map.svg",
+      "https://www.itri.org.tw/images/AA_logo.png"
+    ],
+    "published_date": "",
+    "content_hash": "3a69c568539f294ba0709300bbe3b955",
+    "pure_content_hash": "7dca080f6dacd4da14dcbf89d4875c1b",
+    "quality_score": 0.7700000000000001
+  }
+]

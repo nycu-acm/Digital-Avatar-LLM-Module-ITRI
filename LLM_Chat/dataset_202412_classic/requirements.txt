@@ -1,0 +1,57 @@
+# ITRI Scrapy Crawler Requirements
+# Core web scraping framework
+scrapy>=2.13.0
+
+# HTTP requests and parsing
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# URL parsing and handling
+urllib3>=2.0.0
+
+# Data processing and validation
+itemadapter>=0.8.0
+itemloaders>=1.1.0
+
+# Text processing
+jieba>=0.42.1  # Chinese text segmentation
+
+# Date and time handling
+python-dateutil>=2.8.0
+
+# JSON handling (built-in, but for completeness)
+# json (built-in)
+
+# Logging and monitoring
+# logging (built-in)
+
+# File and path handling
+pathlib2>=2.3.0  # For older Python versions compatibility
+
+# Optional: Advanced features
+# pandas>=2.0.0  # For data analysis
+# numpy>=1.24.0  # For numerical operations
+
+# Development and testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Code quality
+flake8>=6.0.0
+black>=23.0.0
+
+# Documentation
+markdown>=3.5.0
+
+
+
+
+
+
+
+
+
+
+
+

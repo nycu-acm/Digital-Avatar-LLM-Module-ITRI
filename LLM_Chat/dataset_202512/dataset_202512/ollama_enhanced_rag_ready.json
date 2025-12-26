@@ -1,0 +1,1738 @@
+[
+  {
+    "content": "工研院是台灣最大的產業技術研發機構，也是開創台灣半導體產業的先鋒。\n\n1969年底，經濟部長孫運璿在參觀韓國首爾的科技研究院時，對於韓國政府為發展科技產業，給予科技人才優厚待遇和彈性法規的作法印象深刻。返國後立刻著手推動類似機構。\n\n1973年，孫運璿推動聯合工業研究所、聯合礦業研究所、金屬工業研究所合併成立工業技術研究院，並給予工研院以先進工業技術推動台灣工業發展和經濟起飛的目標。\n\n1975年，RCA獲選為台灣積體電路合作計畫的夥伴。1976年，第一批赴美受訓的工程師整裝待發。1977年，工研院建立台灣首座4吋晶圓的積體電路示範工廠，並自1980年起，陸續衍生了包括聯電、台積電、台灣光罩、世界先進等半導體大廠，奠定了台灣IC產業起飛。\n\n1983年工研院更開發出與IBM相容的個人電腦，並將技術移轉給國內業者，帶動週邊產業的蓬勃發展，奠定了個人電腦資訊產業的基礎。\n\n工研院運用了研發環境的獨特性，以及透過綿密堅實的產業網絡關係，連結區域或產業之研發能量，積極協助台灣產業發展與升級。2005年起，為配合台灣整體區域產業發展政策，強化科技與地方產業的連結，陸續在台南六甲設立「南分院」、南投設立「中分院」，深耕台灣產業創新的研發專區。",
+    "chunk_id": "enhanced_387a1657",
+    "source_file": "wikipedia",
+    "chunk_index": 0,
+    "metadata": {
+      "organization_name": "工業技術研究院 (Industrial Technology Research Institute)",
+      "english_name": "Industrial Technology Research Institute",
+      "abbreviation": "ITRI",
+      "crawled_at": "2025-12-18T16:28:54.266959",
+      "source_url": "https://zh.wikipedia.org/zh-tw/工業技術研究院",
+      "language": "zh-tw",
+      "section_name": "介紹",
+      "original_source": "wikipedia",
+      "enhanced_at": "2025-12-18T16:32:04.315252",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 538,
+      "cleaned_length": 523,
+      "compression_ratio": 0.9721189591078067,
+      "summary": "工研院是台灣最大的產業技術研發機構，也是開創台灣半導體產業的先鋒。1969年，經濟部長孫運璿參觀韓國科技研究院後，推動成立工業技術研究院，並給予其推動台灣工業發展和經濟起飛的目標。工研院在1977年建立台灣首座4吋晶圓的積體電路示範工廠，並陸續衍生了包括聯電、台積電等半導體大廠，奠定了台灣IC產業起飛。工研院還開發出與IBM相容的個人電腦，並將技術移轉給國內業者，帶動週邊產業的蓬勃發展，奠定了個人電腦資訊產業的基礎。2005年起，工研院在台南六甲設立「南分院」、南投設立「中分院」，深耕台灣產業創新的研發專區。",
+      "key_points": [
+        "工研院是台灣最大的產業技術研發機構，也是開創台灣半導體產業的先鋒。",
+        "1969年底，經濟部長孫運璿在參觀韓國首爾的科技研究院時，對於韓國政府為發展科技產業，給予科技人才優厚待遇和彈性法規的作法印象深刻。",
+        "1973年，孫運璿推動聯合工業研究所、聯合礦業研究所、金屬工業研究所合併成立工業技術研究院，並給予工研院以先進工業技術推動台灣工業發展和經濟起飛的目標。",
+        "1975年，RCA獲選為台灣積體電路合作計畫的夥伴。1976年，第一批赴美受訓的工程師整裝待發。",
+        "1983年工研院更開發出與IBM相容的個人電腦，並將技術移轉給國內業者，帶動週邊產業的蓬勃發展，奠定了個人電腦資訊產業的基礎。"
+      ],
+      "entities": [
+        "金屬工業研究所",
+        "RCA",
+        "南投",
+        "IBM",
+        "台南六甲",
+        "聯合礦業研究所",
+        "首爾",
+        "韓國",
+        "孫運璿",
+        "台灣",
+        "聯合工業研究所",
+        "工研院"
+      ],
+      "structured_data": {
+        "organization_info": {
+          "name": "工研體",
+          "established": "1973"
+        },
+        "key_people": [
+          {
+            "name": "寺近林",
+            "title": "经理部长"
+          }
+        ],
+        "achievements": [
+          "发成臺甲五系统行代",
+          "建立一般研比的磯用电脑"
+        ],
+        "technologies": [
+          "卉買技术",
+          "产代电脑"
+        ],
+        "dates": {
+          "1969": "寺近林在香港的私服研及",
+          "1973": "公会工稱研究院合成",
+          "1975": "RCA被选为臺甲五系统行代的俆並",
+          "1976": "第一段近美研及的工稱员",
+          "1977": "建立臺甲五系统行代的磯用电脑",
+          "1980": "公会工稱研究院发成一般研比的磯用电脑",
+          "1983": "公会工稱研究院发成一般研比的磯用电脑",
+          "2005": "公会工稱研究院在台南六車手連"
+        },
+        "locations": [
+          "臺甲",
+          "香港",
+          "台南",
+          "中投"
+        ],
+        "numbers": {
+          "1973": "公会工稱研究院合成"
+        }
+      },
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.814,
+      "content_length": 523
+    }
+  },
+  {
+    "content": "工研院組織架構：\n\n* 常務董事兼董事長\n* 常務董事（5名）\n\t+ 國科會主任委員\n\t+ 經濟部長\n\t+ 產學界人物\n* 董事（9名）\n* 監事並為常務監事（1名，行政院主計總處副主計長）\n* 監事（2名）\n\n工研院高層領導：\n\n* 院長\n* 副院長\n* 總營運長\n* 協理\n* 法務長\n* 行銷長\n* 永續長\n\n工研院各部門負責人：\n\n* 業務發展處（處長）\n* 企劃與研發處（處長）\n* 人力資源處（處長）\n* 行銷傳播處（處長）\n* 行政與服務處（處長）\n* 資訊服務處（處長）\n* 會計與財務處（處長）\n\n工研院各中心負責人：\n\n* 產業服務中心（執行長）\n* 技術移轉與法律中心（執行長）\n* 產業學院（執行長）\n* 中分院（執行長）\n* 南分院（執行長）\n* 量測技術發展中心（執行長）\n* 服務系統科技中心（執行長）\n* 智慧機械科技中心（執行長）\n* 智慧感測與系統科技中心（執行長）\n\n工研院各研究所負責人：\n\n* 材料與化工研究所（所長）\n* 資訊與通訊研究所（所長）\n* 綠能與環境研究所（所長）\n* 電子與光電系統研究所（所長）\n* 機械與機電系統研究所（所長）\n* 生醫與醫材研究所（所長）\n* 產業科技國際策略發展所（所長）",
+    "chunk_id": "enhanced_62cfa703",
+    "source_file": "wikipedia",
+    "chunk_index": 1,
+    "metadata": {
+      "organization_name": "工業技術研究院 (Industrial Technology Research Institute)",
+      "english_name": "Industrial Technology Research Institute",
+      "abbreviation": "ITRI",
+      "crawled_at": "2025-12-18T16:28:54.266959",
+      "source_url": "https://zh.wikipedia.org/zh-tw/工業技術研究院",
+      "language": "zh-tw",
+      "section_name": "組織",
+      "original_source": "wikipedia",
+      "enhanced_at": "2025-12-18T16:35:27.792804",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 361,
+      "cleaned_length": 527,
+      "compression_ratio": 1.4598337950138505,
+      "summary": "工研院的組織架構包括董事會、監事會和高層領導。董事會由常務董事兼董事長、常務董事和董事組成，共計15人。監事會則有1名常務監事和2名監事。高層領導包括院長、副院長、總營運長等7人。工研院下轄多個部門，包括業務發展處、企劃與研發處、人力資源處等8個處室，以及產業服務中心、技術移轉與法律中心等9個中心和研究所。",
+      "key_points": [
+        "工研院的組織架構包括常務董事、董事、監事和高層領導。",
+        "工研院的高層領導包括院長、副院長、總營運長等。",
+        "工研院設有多個部門，包括業務發展處、企劃與研發處等。",
+        "工研院設有多個中心，包括產業服務中心、技術移轉與法律中心等。",
+        "工研院設有多個研究所，包括材料與化工研究所、資訊與通訊研究所等。"
+      ],
+      "entities": [
+        "4. 行政院主計總處",
+        "3. 經濟部",
+        "2. 國科會",
+        "以下是從內容中識別的實體：",
+        "1. 工研院"
+      ],
+      "structured_data": {
+        "organization_info": {
+          "name": "",
+          "structure": [
+            {
+              "title": "",
+              "members": [
+                ""
+              ]
+            },
+            {
+              "title": "",
+              "members": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "title": "",
+              "members": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "title": "",
+              "members": [
+                ""
+              ]
+            },
+            {
+              "title": "",
+              "members": [
+                ""
+              ]
+            }
+          ]
+        },
+        "key_people": [
+          {
+            "name": "",
+            "title": ""
+          },
+          {
+            "name": "",
+            "title": ""
+          },
+          {
+            "name": "",
+            "title": ""
+          },
+          {
+            "name": "",
+            "title": ""
+          }
+        ],
+        "dates": [],
+        "locations": []
+      },
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.67,
+      "content_length": 527
+    }
+  },
+  {
+    "content": "工研院(ITRI)連續多年獲得全球百大科技研發獎（R&D 100 Awards），並在各個領域取得多項殊榮，包括：\n\n* 2008：晶片式交流電發光二極體照明技術On-Chip AC LED Lighting Technology\n* 2009：隨身包收音機Flexio Radio、流體動消防燈系統Fluid Driven Lighting System\n* 2010：REDDEX環保防火耐燃材料、區域化2D/3D切換立體顯示器、多用途軟性電子基板技術\n* 2011：高無機含量透明混成基板ITRI Flexible Substrate for Displays、可重覆書寫電子紙i2R e-Paper、新型偏光板保護膜HyTAC\n* 2012：Reddex環保防火耐燃材料、木質素環氧樹酯技術、熱電材料與模組技術、微結構側向式太陽能集光器技術、低溫大氣壓電漿鍍膜技術、輕亮LED球泡燈技術、電表便利貼技術\n* 2013：結構化磁通電機技術、纖維素丁醇技術、頭戴式顯示器之凌空觸控技術\n* 2014：鈣迴路捕獲二氧化碳技術、線上即時熱能分析儀\n* 2015：OLED表面電漿耦合增益技術、流體驅動緊急照明技術、高敏銳觸覺感知穿戴式輔具、奈米纖維濾膜\n* 2016：SpeedPro製程優化軟體、可高速充放電鋁電池、遠距浮空多屏抬頭顯示器、iSmartweaR智慧感知衣、行動輔助機器人\n* 2017：人工智慧建築節能系統平台、化學SEI改質長續航力電動車鋰電池、肌肉活動訊號手勢辨識體感技術、可視化磊晶製程優化系統、廢液晶面板再利用處理系統、半導體微波退火、功耗與熱感知電子系統層級平台技術、半導體機台故障預診斷軟體\n\n工研院(ITRI)還獲得多項其他獎項，包括：\n\n* 2009：德國紅點設計大獎\n* 2010：華爾街日報（The Wall Street Journal）科技創新獎（TIA）\n* 2011：國際資訊顯示協會（SID）顯示器元件材料銀獎\n* 2012：美國航空周刊「挑戰創新獎」（A&D SIC Awards）\n* 2014：首屆總統創新獎\n* 2015：湯森路透（Thomson Reuters）公司頒發的「湯森路透全球百大創新機構獎」\n* 2017：愛迪生獎（Edison Awards）「能源與永續」類別銀牌",
+    "chunk_id": "enhanced_c6123508",
+    "source_file": "wikipedia",
+    "chunk_index": 2,
+    "metadata": {
+      "organization_name": "工業技術研究院 (Industrial Technology Research Institute)",
+      "english_name": "Industrial Technology Research Institute",
+      "abbreviation": "ITRI",
+      "crawled_at": "2025-12-18T16:28:54.266959",
+      "source_url": "https://zh.wikipedia.org/zh-tw/工業技術研究院",
+      "language": "zh-tw",
+      "section_name": "榮譽榜",
+      "original_source": "wikipedia",
+      "enhanced_at": "2025-12-18T16:38:40.385822",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 2003,
+      "cleaned_length": 968,
+      "compression_ratio": 0.4832750873689466,
+      "summary": "工研院(ITRI)連續多年獲得全球百大科技研發獎（R&D 100 Awards），並在各個領域取得多項殊榮。其中包括晶片式交流電發光二極體照明技術、隨身包收音機、流體動消防燈系統等。工研院還獲得德國紅點設計大獎、華爾街日報科技創新獎、國際資訊顯示協會顯示器元件材料銀獎等多項其他獎項。",
+      "key_points": [
+        "工研院連續多年獲得全球百大科技研發獎",
+        "工研院在各個領域取得多項殊榮",
+        "2008-2017年間，工研院獲得多項R&D 100 Awards",
+        "工研院還獲得其他獎項，如德國紅點設計大獎、華爾街日報科技創新獎等"
+      ],
+      "entities": [
+        "39. 德國紅點設計大獎",
+        "49. A&D SIC Awards",
+        "20. 鈣迴路捕獲二氧化碳技術",
+        "24. 高敏銳觸覺感知穿戴式輔具",
+        "52. 湯森路透全球百大創新機構獎",
+        "2. ITRI",
+        "42. 科技創新獎",
+        "30. 行動輔助機器人",
+        "29. iSmartweaR智慧感知衣",
+        "47. 美國航空周刊",
+        "14. 低溫大氣壓電漿鍍膜技術",
+        "7. REDDEX",
+        "17. 結構化磁通電機技術",
+        "54. Edison Awards",
+        "31. 人工智慧建築節能系統平台",
+        "3. R&D 100 Awards",
+        "37. 功耗與熱感知電子系統層級平台技術",
+        "15. 輕亮LED球泡燈技術",
+        "26. SpeedPro製程優化軟體",
+        "34. 可視化磊晶製程優化系統"
+      ],
+      "structured_data": {},
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.676,
+      "content_length": 968
+    }
+  },
+  {
+    "content": "工業技術研究院院士（ITRI Laureate）是為了表彰在產業技術上對產業發展與增進人民生活福祉有傑出貢獻之個人而設置的榮譽職銜。要成為院士，必須具有產業管理或科技研發實務之經歷，在技術創新及其產業化有卓越成就，並對國家產業發展與增進人民生活福祉有傑出貢獻。每屆當選之院士於當年度公告並頒授證書公開表揚，工研院院士為終身榮譽職銜。",
+    "chunk_id": "enhanced_35f5c129",
+    "source_file": "wikipedia",
+    "chunk_index": 3,
+    "metadata": {
+      "organization_name": "工業技術研究院 (Industrial Technology Research Institute)",
+      "english_name": "Industrial Technology Research Institute",
+      "abbreviation": "ITRI",
+      "crawled_at": "2025-12-18T16:28:54.266959",
+      "source_url": "https://zh.wikipedia.org/zh-tw/工業技術研究院",
+      "language": "zh-tw",
+      "section_name": "工研院院士",
+      "original_source": "wikipedia",
+      "enhanced_at": "2025-12-18T16:39:12.267352",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 176,
+      "cleaned_length": 166,
+      "compression_ratio": 0.9431818181818182,
+      "summary": "工業技術研究院院士是用來表彰在產業技術上有傑出貢獻的個人榮譽職銜。要成為院士，必須具備產業管理或科技研發實務經歷，並對國家產業發展與增進人民生活福祉有傑出貢獻。每年當選之院士將於年度公告並頒授證書公開表揚，工研院院士為終身榮譽職銜。",
+      "key_points": [
+        "工業技術研究院院士是榮譽職銜",
+        "院士必須具有產業管理或科技研發實務之經歷",
+        "院士需在技術創新及其產業化有卓越成就",
+        "院士需對國家產業發展與增進人民生活福祉有傑出貢獻"
+      ],
+      "entities": [
+        "產業管理",
+        "技術創新",
+        "科技研發",
+        "工業技術研究院",
+        "人民生活福祉",
+        "國家產業發展"
+      ],
+      "structured_data": {
+        "organization_info": {
+          "name": "",
+          "description": ""
+        },
+        "key_people": [],
+        "achievements": [],
+        "technologies": [],
+        "dates": [],
+        "locations": [],
+        "numbers": []
+      },
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.628,
+      "content_length": 166
+    }
+  },
+  {
+    "content": "工業技術研究院（英語：Industrial Technology Research Institute，縮寫：ITRI）是中華民國經濟部所屬機關，成立於1973年。其主要任務是推動台灣產業的發展和創新，提供技術研發和服務。\n\n工研院下轄多個研究中心和實驗室，包括金屬中心、設研院、中經院、車輛中心等。這些中心和實驗室致力於各個領域的技術研發和應用，例如材料科學、能源、環境保護、交通運輸等。\n\n工研院還與多家企業和組織合作，提供技術諮詢和服務。其目的是促進台灣產業的發展和創新，推動國家經濟的成長。",
+    "chunk_id": "enhanced_db9e79cb",
+    "source_file": "wikipedia",
+    "chunk_index": 4,
+    "metadata": {
+      "organization_name": "工業技術研究院 (Industrial Technology Research Institute)",
+      "english_name": "Industrial Technology Research Institute",
+      "abbreviation": "ITRI",
+      "crawled_at": "2025-12-18T16:28:54.266959",
+      "source_url": "https://zh.wikipedia.org/zh-tw/工業技術研究院",
+      "language": "zh-tw",
+      "section_name": "外部連結",
+      "original_source": "wikipedia",
+      "enhanced_at": "2025-12-18T16:44:00.637696",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 772,
+      "cleaned_length": 249,
+      "compression_ratio": 0.3225388601036269,
+      "summary": "工業技術研究院（ITRI）是中華民國經濟部所屬機關，成立於1973年。其主要任務是推動台灣產業的發展和創新，提供技術研發和服務。工研院下轄多個研究中心和實驗室，致力於各個領域的技術研發和應用，如材料科學、能源、環境保護等，並與企業合作，提供技術諮詢和服務，以促進台灣產業發展和創新，推動國家經濟成長。",
+      "key_points": [
+        "工業技術研究院是中華民國經濟部所屬機關",
+        "成立於1973年",
+        "主要任務是推動台灣產業的發展和創新",
+        "提供技術研發和服務",
+        "工研院下轄多個研究中心和實驗室",
+        "與多家企業和組織合作，提供技術諮詢和服務"
+      ],
+      "entities": [
+        "經濟部",
+        "車輛中心",
+        "設研院",
+        "中華民國",
+        "1973年",
+        "工業技術研究院",
+        "中經院",
+        "金屬中心"
+      ],
+      "structured_data": {
+        "organization_info": {
+          "name": "",
+          "established_year": 1973,
+          "parent_organization": ""
+        },
+        "key_people": [],
+        "achievements": [],
+        "technologies": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "dates": [
+          {
+            "date": "1973",
+            "event": ""
+          }
+        ],
+        "locations": [],
+        "numbers": []
+      },
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.821,
+      "content_length": 249
+    }
+  },
+  {
+    "content": "以下是清理後的主要內容：\n\n工業技術研究院（ITRI）在1982年成立了材料研究實驗室（MRL），並由Otto C.C. Lin出任首位主任。\n\n2002年，ITRI與Apex Medical合作開發呼吸治療產品系列，這是Apex Medical的第一個重大合作項目。\n\n2019年，ITRI因安全考量將中國華為生產的智慧型手機和電腦從內部網路中移除。中國大陸的台灣事務辦公室對此決定做出負面反應，其發言人表示，此舉「為政治目的而破壞兩岸正常經濟合作」。\n\n2025年夏季，ITRI 宣止參與台灣太空總署的 5G LEO 通信衛星計畫，並表示已經意識到衛星技術超出其專業領域。私人企業接替了 ITRI 的角色。",
+    "chunk_id": "enhanced_0302bd9f",
+    "source_file": "wikipedia",
+    "chunk_index": 5,
+    "metadata": {
+      "organization_name": "工業技術研究院 (Industrial Technology Research Institute)",
+      "english_name": "Industrial Technology Research Institute",
+      "abbreviation": "ITRI",
+      "crawled_at": "2025-12-18T16:28:55.652343",
+      "source_url": "https://en.wikipedia.org/wiki/Industrial_Technology_Research_Institute",
+      "language": "zh-tw",
+      "section_name": "History",
+      "original_source": "wikipedia",
+      "enhanced_at": "2025-12-18T16:46:35.749348",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 901,
+      "cleaned_length": 305,
+      "compression_ratio": 0.33851276359600446,
+      "summary": "工業技術研究院（ITRI）成立於1982年，材料研究實驗室由Otto C.C. Lin擔任首位主任。2002年，ITRI與Apex Medical合作開發呼吸治療產品系列。2019年，ITRI因安全考量將中國華為生產的智慧型手機和電腦從內部網路中移除，引起中國大陸台灣事務辦公室負面反應。2025年夏季，ITRI 宣止參與台灣太空總署的 5G LEO 通信衛星計畫，並表示已經意識到衛星技術超出其專業領域，由私人企業接替角色。",
+      "key_points": [
+        "材料研究實驗室（MRL）成立於1982年，由Otto C.C. Lin任首位主任",
+        "ITRI與Apex Medical合作開發呼吸治療產品系列",
+        "ITRI將中國華為生產的智慧型手機和電腦從內部網路中移除",
+        "ITRI 宣止參與台灣太空總署的 5G LEO 通信衛星計畫"
+      ],
+      "entities": [
+        "6. 台灣事務辦公室",
+        "5. 華為",
+        "以下是從內容中識別出的實體：",
+        "4. Apex Medical",
+        "7. 台灣太空總署",
+        "3. 材料研究實驗室（MRL）",
+        "1. Otto C.C. Lin",
+        "2. 工業技術研究院（ITRI）"
+      ],
+      "structured_data": {
+        "organization_info": {
+          "name": "",
+          "established_year": 1982
+        },
+        "key_people": [
+          {
+            "name": "Otto C.C. Lin",
+            "title": ""
+          }
+        ],
+        "achievements": [],
+        "technologies": [
+          "5G",
+          "LEO",
+          ""
+        ],
+        "dates": [
+          {
+            "description": "",
+            "value": "1982"
+          },
+          {
+            "description": "",
+            "value": "2002"
+          },
+          {
+            "description": "",
+            "value": "2019"
+          },
+          {
+            "description": "",
+            "value": "2025"
+          }
+        ],
+        "locations": [],
+        "numbers": []
+      },
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.763,
+      "content_length": 305
+    }
+  },
+  {
+    "content": "工研院（ITRI）創辦的StarFab是一個技術加速器，專注於智慧製造、智慧醫療、智慧金融和智慧農業等領域的創新。其總部設在台北，並在台南科學園區設有辦事處。",
+    "chunk_id": "enhanced_ef8ad2b2",
+    "source_file": "wikipedia",
+    "chunk_index": 6,
+    "metadata": {
+      "organization_name": "工業技術研究院 (Industrial Technology Research Institute)",
+      "english_name": "Industrial Technology Research Institute",
+      "abbreviation": "ITRI",
+      "crawled_at": "2025-12-18T16:28:55.652343",
+      "source_url": "https://en.wikipedia.org/wiki/Industrial_Technology_Research_Institute",
+      "language": "zh-tw",
+      "section_name": "StarFab",
+      "original_source": "wikipedia",
+      "enhanced_at": "2025-12-18T16:47:17.796261",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 253,
+      "cleaned_length": 79,
+      "compression_ratio": 0.31225296442687744,
+      "summary": "工研院旗下的StarFab是一個技術加速器，專注於智慧製造、智慧醫療、智慧金融和智慧農業等領域的創新。其總部位於台北，並在台南科學園區設有辦事處。",
+      "key_points": [
+        "StarFab 是工研院創辦的一個技術加速器",
+        "StarFab 專注於智慧製造、智慧醫療、智慧金融和智慧農業等領域的創新",
+        "StarFab 總部設在台北，並在台南科學園區設有辦事處"
+      ],
+      "entities": [
+        "台北",
+        "StarFab",
+        "工研院",
+        "台南科學園區",
+        "ITRI"
+      ],
+      "structured_data": {
+        "organization_info": {
+          "name": "StarFab",
+          "founder": "工研院 (ITRI)",
+          "description": "技術加速器"
+        },
+        "technologies": [
+          "智慧製造",
+          "智慧醫療",
+          "智慧金融",
+          "智慧農業"
+        ],
+        "locations": [
+          {
+            "city": "台北",
+            "type": "總部"
+          },
+          {
+            "city": "台南",
+            "district": "科學園區",
+            "type": "辦事處"
+          }
+        ]
+      },
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.725,
+      "content_length": 79
+    }
+  },
+  {
+    "content": "以下是清理後的主要內容：\n\nSmart Living：整合ICT、雲端服務、大數據等技術，開發智能服務、物流和下一代手持裝置。\n\nQuality Health：發展創新的治療生物製劑、複合醫療材料和儀器，以及健康照護輔助技術。\n\nSustainable Environment：關注綠能、智能交通、生物質能、先進的綠色製造和災害救援技術。\n\nIntelligentization Enabling Technology：包括AI、半導體、通訊、網絡安全和雲端技術，以支持技術突破，確保數據隱私和信息安全。",
+    "chunk_id": "enhanced_c0eb2f71",
+    "source_file": "wikipedia",
+    "chunk_index": 7,
+    "metadata": {
+      "organization_name": "工業技術研究院 (Industrial Technology Research Institute)",
+      "english_name": "Industrial Technology Research Institute",
+      "abbreviation": "ITRI",
+      "crawled_at": "2025-12-18T16:28:55.652343",
+      "source_url": "https://en.wikipedia.org/wiki/Industrial_Technology_Research_Institute",
+      "language": "zh-tw",
+      "section_name": "R&D focus",
+      "original_source": "wikipedia",
+      "enhanced_at": "2025-12-18T16:47:52.384820",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 759,
+      "cleaned_length": 252,
+      "compression_ratio": 0.33201581027667987,
+      "summary": "工研院聚焦四大領域推動創新發展。Smart Living整合ICT等技術開發智能服務；Quality Health發展創新的治療生物製劑與健康照護輔助技術；Sustainable Environment關注綠能、智能交通和災害救援技術；Intelligentization Enabling Technology則包括AI、半導體和網絡安全雲端技術，以支持技術突破和數據隱私。",
+      "key_points": [
+        "以下是從內容中提取的關鍵點：",
+        "Smart Living整合ICT、雲端服務、大數據等技術開發智能服務",
+        "Quality Health發展創新的治療生物製劑、複合醫療材料和儀器",
+        "Sustainable Environment關注綠能、智能交通、生物質能和災害救援技術",
+        "Intelligentization Enabling Technology支持AI、半導體、通訊等技術突破"
+      ],
+      "entities": [
+        "*   Intelligentization Enabling Technology",
+        "*   Sustainable Environment",
+        "*   Quality Health",
+        "*   Smart Living",
+        "*   AI",
+        "*   ICT",
+        "以下是識別出的實體："
+      ],
+      "structured_data": {
+        "organization_info": {
+          "name": "",
+          "description": ""
+        },
+        "key_people": [],
+        "achievements": [],
+        "technologies": [
+          "ICT",
+          "雲端服務",
+          "大數據",
+          "AI",
+          "半導體",
+          "通訊",
+          "網絡安全",
+          "雲端技術"
+        ],
+        "dates": [],
+        "locations": [],
+        "numbers": []
+      },
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.866,
+      "content_length": 252
+    }
+  },
+  {
+    "content": "經過清理，以下是與工研院(ITRI)相關的核心信息：\n\nIndustrial Technology Research Institute of Taiwan, R.O.C.\n\nWikimedia Commons has media related toIndustrial Technology Research Institute of Taiwan, R.O.C.\n\nResearch\nTaiwan Institute of Economic Research\nChung-Hua Institution for Economic Research\nInstitute of Economics, Academia Sinica\nIndustrial Technology Research Institute\nNational Biotechnology Research Park\n\nScience and technology\nInternet\nSemiconductor\nTelecommunications",
+    "chunk_id": "enhanced_62323d4e",
+    "source_file": "wikipedia",
+    "chunk_index": 8,
+    "metadata": {
+      "organization_name": "工業技術研究院 (Industrial Technology Research Institute)",
+      "english_name": "Industrial Technology Research Institute",
+      "abbreviation": "ITRI",
+      "crawled_at": "2025-12-18T16:28:55.652343",
+      "source_url": "https://en.wikipedia.org/wiki/Industrial_Technology_Research_Institute",
+      "language": "en",
+      "section_name": "External links",
+      "original_source": "wikipedia",
+      "enhanced_at": "2025-12-18T16:51:09.495505",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 2003,
+      "cleaned_length": 460,
+      "compression_ratio": 0.22965551672491263,
+      "summary": "工研院（ITRI）是台灣工業技術研究機構，負責推動國家科技發展。其主要研究領域包括半導體、電信和網際網路等。工研院與多個研究機構合作，如台灣經濟研究院、中央研究院經濟研究所等，並參與國家級的生物技術研究園區。",
+      "key_points": [
+        "以下是工研院的核心信息：",
+        "Industrial Technology Research Institute of Taiwan, R.O.C.",
+        "Wikimedia Commons has media related to Industrial Technology Research Institute of Taiwan, R.O.C.",
+        "Research",
+        "Taiwan Institute of Economic Research",
+        "Chung-Hua Institution for Economic Research",
+        "Institute of Economics, Academia Sinica"
+      ],
+      "entities": [
+        "7. Internet",
+        "5. Institute of Economics, Academia Sinica",
+        "9. Telecommunications",
+        "3. Taiwan Institute of Economic Research",
+        "4. Chung-Hua Institution for Economic Research",
+        "8. Semiconductor",
+        "6. National Biotechnology Research Park",
+        "1. Industrial Technology Research Institute of Taiwan, R.O.C.",
+        "以下是識別出的實體：",
+        "2. Wikimedia Commons"
+      ],
+      "structured_data": {
+        "organization_info": {
+          "name": "Industrial Technology Research Institute of Taiwan, R.O.C."
+        },
+        "key_people": [],
+        "achievements": [],
+        "technologies": [
+          "Internet",
+          "Semiconductor",
+          "Telecommunications"
+        ],
+        "dates": [],
+        "locations": [
+          "Taiwan"
+        ],
+        "numbers": []
+      },
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.715,
+      "content_length": 460
+    }
+  },
+  {
+    "content": "工研院（ITRI）是一個非營利性的研究機構，成立於1973年7月5日。總部位於台灣新竹縣竹東鎮。\n\n* 行業：研究與開發\n* 員工人數：6000+\n* 董事長：吳宗騫（Wu Tsung-tsong）\n* 院長：劉德音（Edwin Liu）\n* 網站：www.itri.org",
+    "chunk_id": "enhanced_83b71e25",
+    "source_file": "wikipedia",
+    "chunk_index": 9,
+    "metadata": {
+      "organization_name": "工業技術研究院 (Industrial Technology Research Institute)",
+      "english_name": "Industrial Technology Research Institute",
+      "abbreviation": "ITRI",
+      "crawled_at": "2025-12-18T16:28:55.652343",
+      "source_url": "https://en.wikipedia.org/wiki/Industrial_Technology_Research_Institute",
+      "language": "zh-tw",
+      "data_type": "structured",
+      "original_source": "wikipedia",
+      "enhanced_at": "2025-12-18T16:53:28.958665",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 252,
+      "cleaned_length": 137,
+      "compression_ratio": 0.5436507936507936,
+      "summary": "工研院是一個成立於1973年的非營利性研究機構，總部位於台灣新竹縣竹東鎮。該機構從事研究與開發工作，員工人數超過6000人。目前董事長為吳宗騫，院長為劉德音。",
+      "key_points": [
+        "工研院是一個非營利性的研究機構",
+        "成立於1973年7月5日",
+        "總部位於台灣新竹縣竹東鎮",
+        "行業為研究與開發",
+        "員工人數超過6000人",
+        "董事長是吳宗騫（Wu Tsung-tsong）",
+        "院長是劉德音（Edwin Liu）"
+      ],
+      "entities": [
+        "2. ITRI",
+        "3. 台灣",
+        "8. 1973年7月5日",
+        "5. 竹東鎮",
+        "1. 工研院",
+        "7. 劉德音",
+        "4. 新竹縣",
+        "6. 吳宗騫"
+      ],
+      "structured_data": {},
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.705,
+      "content_length": 137
+    }
+  },
+  {
+    "content": "工研院線上展示館 │ ITRI Virtual Showroom\n\nEcological Tree ─ Tree Trunk\n●Temperature Regulation\n Trees 可以調節熱空氣和冷空氣的對流和循環，以陰影反射、阻擋和蒸散作用來調節溫度。\n\n應用場景：在生態樹上方的天窗設置了熱空氣出口，SideLighter 產生的電力供應給棚架上的風扇，吹向下方，實現空氣循環。\n\n特點和優勢：六個風扇可以在中央升高區域（體積2,646 m3）內實現每小時7.7次的空氣循環。其中一個風扇是太陽能驅動，每個風扇產生的空氣輸出為57 m3/min。\n\n●Ambient Lighting\n生態樹除了具有環境效益外，還有觀賞和景觀功能。\n\n應用場景：通過光擴散板和LED燈創建的氛圍照明，突出了生態樹的形狀，並增加了整個空間的美感。室內燈也可以根據日光變化自動調節。\n\n特點和優勢：光擴散板具有70%的透光率和30%的霧度。LED燈的功耗約為3,417瓦，僅為相同亮度的彩色鹵燈所產生的能量的23%。\n\nEcological Tree ─ Tree Root\n●Water Purification\n樹根可以保存水分，一些水生植物甚至可以分解和淨化水。\n\n應用場景：Qwater是一個模組化的水淨化系統，可以快速裝配。核心技術是工研院的生物膜過濾技術，結合了“（生物）過濾床面積”和“膜分離面積”。\n\n特點和優勢：Qwater技術特別適合原水或低濃度污水治理，也可以應用於家庭污水等。",
+    "chunk_id": "enhanced_eca52a01",
+    "source_file": "virtual_museum",
+    "chunk_index": 10,
+    "metadata": {
+      "source": "virtual_museum",
+      "scene_index": 1,
+      "locale": "us",
+      "crawled_at": "2025-12-18T16:29:08.449823",
+      "original_source": "virtual_museum",
+      "enhanced_at": "2025-12-18T16:56:08.466486",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 2003,
+      "cleaned_length": 646,
+      "compression_ratio": 0.3225162256615077,
+      "summary": "工研院線上展示館 │ ITRI Virtual Showroom\n\nEcological Tree ─ Tree Trunk\n Trees 可以調節熱空氣和冷空氣的對流和循環，以陰影反射、阻擋和蒸散作用來調節溫度。生態樹上的天窗設置了熱空氣出口，SideLighter 產生的電力供應給棚架上的風扇，吹向下方，實現空氣循環。\n\nEcological Tree ─ Tree Root\n樹根可以保存水分，一些水生植物甚至可以分解和淨化水。Qwater是一個模組化的水淨化系統，可以快速裝配。核心技術是工研院的生物膜過濾技術，結合了“（生物）過濾床面積”和“膜分離面積”。",
+      "key_points": [
+        "以下是工研院線上展示館的關鍵點：",
+        "生態樹的設計結合了環境效益、觀賞和景觀功能",
+        "生態樹可調節熱空氣和冷空氣的對流和循環，以陰影反射、阻擋和蒸散作用來調節溫度",
+        "六個風扇可以在中央升高區域內實現每小時7.7次的空氣循環",
+        "光擴散板具有70%的透光率和30%的霧度，LED燈功耗約為3,417瓦",
+        "Qwater是一個模組化的水淨化系統，可以快速裝配，核心技術是工研院的生物膜過濾技術"
+      ],
+      "entities": [
+        "2. Ecological Tree",
+        "5. Qwater",
+        "1. 工研院",
+        "以下是識別出的實體：",
+        "4. LED燈",
+        "3. SideLighter"
+      ],
+      "structured_data": {
+        "organization_info": {
+          "name": "工研院",
+          "english_name": "Industrial Technology Research Institute (ITRI)"
+        },
+        "key_people": [],
+        "achievements": [],
+        "technologies": [
+          {
+            "name": "気温控制",
+            "description": "工研院的生积过滤技本"
+          },
+          {
+            "name": "SideLighter",
+            "description": "由建用的電力控制"
+          }
+        ],
+        "dates": [],
+        "locations": [],
+        "numbers": [
+          {
+            "value": 2.646,
+            "unit": "m3",
+            "description": "中心高地的整量"
+          },
+          {
+            "value": 7.7,
+            "unit": "小期",
+            "description": "突温满方整量"
+          },
+          {
+            "value": 57,
+            "unit": "m3/min",
+            "description": "突温过滤的気温输出"
+          },
+          {
+            "value": 70,
+            "unit": "%",
+            "description": "光担杰的通分率"
+          },
+          {
+            "value": 30,
+            "unit": "%",
+            "description": "光担杰的電度率"
+          },
+          {
+            "value": 3.417,
+            "unit": "十",
+            "description": "LED火的力量"
+          }
+        ]
+      },
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.861,
+      "content_length": 646,
+      "language": "zh-tw"
+    }
+  },
+  {
+    "content": "以下是清理後的核心內容：\n\n**工研院線上展示館 │ ITRI Virtual Showroom**\n\n**Ecological Tree ─ Tree Trunk**\n\n* **溫度調節（Temperature Regulation）**\n\t+ 設計概念：樹木可以通過遮蔽、阻擋和蒸散作用來調節溫度。\n\t+ 應用場景：在生態樹的天窗上設置熱空氣出口，利用SideLighter發電為棚架上的風扇供電，實現空氣循環。\n\t+ 特點與優勢：六個風扇可以在中央提升區域（體積2,646 m3）內實現每小時7.7次的空氣循環，其中一個風扇是太陽能驅動，每個風扇產生的空氣輸出為57 m3/min。\n* **環境照明（Ambient Lighting）**\n\t+ 設計概念：樹木除了具有環境效益，也有觀賞和景觀功能。\n\t+ 應用場景：利用光擴散板和LED燈創造的環境照明，突出生態樹的形狀，並為整個空間添加了美學元素。室內燈可以根據陽光變化自動調節。\n\t+ 特點與優勢：光擴散板的透光率達70%，霧度30%。LED燈的功耗約3,417瓦，相比同等亮度的彩色鹵燈僅為23%。\n\n**Ecological Tree ─ Tree Root**\n\n* **水淨化（Water Purification）**\n\t+ 設計概念：樹木的根部可以保留水分，一些水生植物甚至可以分解和淨化水。\n\t+ 應用場景：Qwater是一種模組化的水淨化系統，可以快速裝配。核心技術是工研院的生物膜過濾技術，結合了「（生物）過濾床面積」和「膜分離區域」的創新水/廢水處理系統。\n\t+ 特點與優勢：Qwater技術特別適用於原水或低濃度污水處理，也可以應用於家庭污水...",
+    "chunk_id": "enhanced_a83f9fea",
+    "source_file": "virtual_museum",
+    "chunk_index": 11,
+    "metadata": {
+      "source": "virtual_museum",
+      "scene_index": 2,
+      "locale": "us",
+      "crawled_at": "2025-12-18T16:29:10.697162",
+      "original_source": "virtual_museum",
+      "enhanced_at": "2025-12-18T16:57:35.468954",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 2003,
+      "cleaned_length": 716,
+      "compression_ratio": 0.3574638042935597,
+      "summary": "工研院線上展示館推出Ecological Tree系列，分為Tree Trunk和Tree Root兩部分。Tree Trunk側重溫度調節和環境照明，利用SideLighter發電為風扇供電，實現空氣循環，並創造美觀的環境照明效果。Tree Root則關注水淨化，推出Qwater模組化水淨化系統，結合生物膜過濾技術和創新水處理系統，適用於原水或低濃度污水處理。",
+      "key_points": [
+        "溫度調節（Temperature Regulation）：樹木通過遮蔽、阻擋和蒸散作用來調節溫度，實現空氣循環。",
+        "環境照明（Ambient Lighting）：利用光擴散板和LED燈創造的環境照明，突出生態樹的形狀，並為整個空間添加了美學元素。",
+        "水淨化（Water Purification）：工研院的生物膜過濾技術，結合了「（生物）過濾床面積」和「膜分離區域」的創新水/廢水處理系統。"
+      ],
+      "entities": [
+        "5. SideLighter",
+        "7. LED",
+        "9. 生態樹",
+        "8. Qwater",
+        "4. Temperature Regulation",
+        "1. 工研院",
+        "6. Ambient Lighting",
+        "10. 樹木",
+        "以下是識別出的實體：",
+        "3. Ecological Tree",
+        "2. ITRI Virtual Showroom"
+      ],
+      "structured_data": {
+        "organization_info": {
+          "name": "",
+          "type": ""
+        },
+        "key_people": [],
+        "achievements": [],
+        "technologies": [
+          "SideLighter",
+          "LED",
+          "生物膜過濾技術"
+        ],
+        "dates": [],
+        "locations": [],
+        "numbers": {
+          "volume": 2646,
+          "air_output": 57,
+          "transmittance": 70,
+          "haze": 30,
+          "power_consumption": 3417
+        }
+      },
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.799,
+      "content_length": 716,
+      "language": "zh-tw"
+    }
+  },
+  {
+    "content": "工研院線上展示館 │ ITRI Virtual Showroom\n\n李大海（Ta-Hai Lee）\n\n李大海畢業於國立西南聯合大學化學系，曾任永興工業蘭州藥廠助理技師、資源委員會甘肅油礦局工程師。1946年後，加入石油公司，負責高雄煉油廠修護工作。後轉至中國技術顧問公司，擔任木華肥料廠和中海潤滑油廠建築與施工經理。李大海曾獲得多項建設獎。\n\n1968年，李大海參與規劃第一套石腦油裂解裝置，是台灣石化工業發展的基礎。他後來升任工廠主任，改良和提升破碎設備，大幅增加生產量。1976年，李大海擔任中國石油公司總經理，後來成為董事長。在他的任期內，世界正經歷第二次石油危機。李大海努力穩定油價，這對於國內經濟恢復至關重要。\n\n1985年，李大海出任經濟部長，當時台灣面臨美國要求降低關稅和取消貿易障礙以平衡快速增長的貿易赤字的壓力。負責台灣經濟政策的李大海逐漸放寬政策，以平衡台美關係。\n\n此外，李大海積極推動國內工業升級，並對許多經濟政策和措施做出重要貢獻，使得台灣成為一個更加自由、國際化且結構更完善的經濟體系。1988年，他被邀請擔任總統國家政策顧問。李大海是工研院第四任董事長（1994-1995）。\n\n開發通用汽車引擎\n\n工研院開發了台灣第一款1.2升四...",
+    "chunk_id": "enhanced_18d52ec6",
+    "source_file": "virtual_museum",
+    "chunk_index": 12,
+    "metadata": {
+      "source": "virtual_museum",
+      "scene_index": 6,
+      "locale": "us",
+      "crawled_at": "2025-12-18T16:29:18.726747",
+      "original_source": "virtual_museum",
+      "enhanced_at": "2025-12-18T17:00:27.087124",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 2003,
+      "cleaned_length": 534,
+      "compression_ratio": 0.26660009985022465,
+      "summary": "以下是內容的摘要：\n\n李大海是一位傑出的企業家和經濟政策專家。他畢業於國立西南聯合大學化學系，曾任職於多個公司和政府機構。1968年，他參與規劃第一套石腦油裂解裝置，是台灣石化工業發展的基礎。後來，他擔任中國石油公司總經理和董事長，並努力穩定油價，對國內經濟恢復至關重要。\n\n1985年，李大海出任經濟部長，負責台灣經濟政策。他逐漸放寬政策，以平衡台美關係。同時，他積極推動國內工業升級，並對許多經濟政策和措施做出重要貢獻，使得台灣成為一個更加自由、國際化且結構更完善的經濟體系。\n\n此外，工研院開發了台灣第一款1.2升四缸汽車引擎。李大海是工研院第四任董事長（1994-1995）。",
+      "key_points": [
+        "以下是關鍵點列表：",
+        "李大海畢業於國立西南聯合大學化學系，曾任永興工業蘭州藥廠助理技師、資源委員會甘肅油礦局工程師。",
+        "李大海參與規劃第一套石腦油裂解裝置，是台灣石化工業發展的基礎。",
+        "李大海擔任中國石油公司總經理，後來成為董事長，在他的任期內努力穩定油價。",
+        "1985年，李大海出任經濟部長，負責台灣經濟政策，並推動國內工業升級。",
+        "工研院開發了台灣第一款1.2升四缸引擎。"
+      ],
+      "entities": [
+        "12. 中國石油公司",
+        "3. 永興工業蘭州藥廠",
+        "14. 經濟部",
+        "9. 中海潤滑油廠",
+        "4. 資源委員會甘肅油礦局",
+        "15. 台美關係",
+        "以下是從內容中識別出的實體：",
+        "13. 美國",
+        "7. 中國技術顧問公司",
+        "8. 木華肥料廠",
+        "1. 李大海",
+        "2. 國立西南聯合大學",
+        "5. 石油公司",
+        "11. 台灣石化工業",
+        "6. 高雄煉油廠",
+        "10. 工研院"
+      ],
+      "structured_data": {},
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.633,
+      "content_length": 534,
+      "language": "zh-tw"
+    }
+  },
+  {
+    "content": "工研院線上展示館 │ ITRI Virtual Showroom\n2022.11\n\n工研院榮獲三項2022年R&D 100獎，得獎創新包括高解析度全彩Micro LED顯示器、AI-DR點擊式醫療裝置和綠色膠帶9KC LTCC及5G毫米波無線裝置銀製化。\n\n劉國治博士簡介\n劉國治博士畢業於台灣大學電機工程系，後在加州柏克萊大學取得電機工程碩士及博士學位。曾任職於西門子美國公司、Control Data Corporation、太平洋天然氣與電力公司（PG&E）、Bechtel和Quanta Technology等企業。他是Nexant的共同創辦人，曾擔任副總裁及資深副總裁。\n\n劉博士自2018年起出任工研院第九任董事長，並推動三大策略：「市場導向研究發展」、「產學研連結橋樑」和「協助產業轉型升級」。他促成《2030科技戰略與路線圖》，成功打造工研院的三大文化DNA，並實施企業化經營，激發內部突破，包括高品質專利、專利影響力及專利核准率等傑出表現。在劉博士任期內，工研院被Clarivate評選為全球百大創新機構，成為獲獎最多的亞洲研究機構。劉博士領導下，工研院被LinkedIn評選為2019年度最具吸引力僱主品牌之一。\n\n劉博士曾獲得西門子-Empros國際傑出技術貢獻獎、國家科學基金會小型企業創新研究獎和PG&E傑出研究計畫獎項。他是IEEE Fellow，榮獲IEEE PES第一屆電力系統會議暨展覽傑出服務獎項。",
+    "chunk_id": "enhanced_a5b52962",
+    "source_file": "virtual_museum",
+    "chunk_index": 13,
+    "metadata": {
+      "source": "virtual_museum",
+      "scene_index": 9,
+      "locale": "us",
+      "crawled_at": "2025-12-18T16:29:24.335983",
+      "original_source": "virtual_museum",
+      "enhanced_at": "2025-12-18T17:02:11.167124",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 2003,
+      "cleaned_length": 617,
+      "compression_ratio": 0.30803794308537197,
+      "summary": "工研院線上展示館 │ ITRI Virtual Showroom\n2022.11\n\n工研院獲得三項2022年R&D 100獎，得獎創新包括高解析度全彩Micro LED顯示器、AI-DR點擊式醫療裝置和綠色膠帶9KC LTCC及5G毫米波無線裝置銀製化。\n\n劉國治博士簡介\n劉博士畢業於台灣大學電機工程系，後在加州柏克萊大學取得電機工程碩士及博士學位。曾任職於西門子美國公司、Control Data Corporation、太平洋天然氣與電力公司（PG&E）、Bechtel和Quanta Technology等企業。他是Nexant的共同創辦人，曾擔任副總裁及資深副總裁。\n\n劉博士自2018年起出任工研院第九任董事長，並推動三大策略：「市場導向研究發展」、「產學研連結橋樑」和「協助產業轉型升級」。他促成《2030科技戰略與路線圖》，成功打造工研院的三大文化DNA，並實施企業化經營，激發內部突破。",
+      "key_points": [
+        "工研院線上展示館 │ ITRI Virtual Showroom",
+        "2022.11",
+        "工研院榮獲三項2022年R&D 100獎，得獎創新包括高解析度全彩Micro LED顯示器、AI-DR點擊式醫療裝置和綠色膠帶9KC LTCC及5G毫米波無線裝置銀製化。",
+        "劉國治博士簡介",
+        "劉國治博士畢業於台灣大學電機工程系，後在加州柏克萊大學取得電機工程碩士及博士學位。曾任職於西門子美國公司、Control Data Corporation、太平洋天然氣與電力公司（PG&E）、Bechtel和Quanta Technology等企業。他是Nexant的共同創辦人，曾擔任副總裁及資深副總裁。",
+        "劉博士自2018年起出任工研院第九任董事長，並推動三大策略：「市場導向研究發展」、「產學研連結橋樑」和「協助產業轉型升級」。他促成《2030科技戰略與路線圖》，成功打造工研院的三大文化DNA，並實施企業化經營，激發內部突破，包括高品質專利、專利影響力及專利核准率等傑出表現。在劉博士任期內，工研院被Clarivate評選為全球百大創新機構，成為獲獎最多的亞洲研究機構。劉博士領導下，工研院被LinkedIn評選為2019年度最具吸引力僱主品牌之一。",
+        "劉博士曾獲得西門子-Empros國際傑出技術貢獻獎、國家科學基金會小型企業創新研究獎和PG&E傑出研究計畫獎項。他是IEEE Fellow，榮獲IEEE PES第一屆電力系統會議暨展覽傑出服務獎項。"
+      ],
+      "entities": [
+        "1. 劉國治",
+        "2. 工研院",
+        "12. 太平洋天然氣與電力公司（PG&E）",
+        "10. 西門子美國公司",
+        "11. Control Data Corporation",
+        "13. Bechtel",
+        "8. 台灣大學電機工程系",
+        "7. 綠色膠帶9KC LTCC及5G毫米波無線裝置銀製化",
+        "3. ITRI Virtual Showroom",
+        "15. Nexant",
+        "16. Clarivate",
+        "17. LinkedIn",
+        "6. AI-DR點擊式醫療裝置",
+        "14. Quanta Technology",
+        "4. R&D 100獎",
+        "5. Micro LED顯示器",
+        "9. 加州柏克萊大學",
+        "18. IEEE"
+      ],
+      "structured_data": {},
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.654,
+      "content_length": 617,
+      "language": "zh-tw"
+    }
+  },
+  {
+    "content": "以下是清理後的主要內容，保留與工研院相關的重要信息：\n\n**工研院線上展示館 │ ITRI Virtual Showroom**\n\n* **All-in-One Thermal Sensing System**\n\t+ 可以遠端檢測生命跡象和病人活動，滿足無接觸智能醫療需求\n\t+ 基於AI的超高解析度熱影像處理，保護隱私，可以同時測量多個對象的體溫、心率和呼吸率\n\t+ 可以監控床邊、跌倒和久坐時間，並在異常情況下發出警報\n* **Handheld Ultrasound System**\n\t+ 手持超聲波系統，包括輕便的掃描儀和智能應用程序，可以隨時隨地進行超聲波檢查\n\t+ 支援可更換的探頭（線性7.5MHz/凸起3.5MHz），可以處理B模式和彩色多普勒模式圖像\n* **Medical Implants for Hard-Soft Tissue Injuries**\n* **MetabColor**\n\n**生態樹 ─ 樹頂**\n\n* **太陽能發電窗技術**\n\t+ 可以展示太陽能發電窗利用陽光發電的情境\n\t+ 每片太陽能發電窗尺寸是110*90公分（約1平方米），發電量是18瓦；在生態樹示範面積內有20片，總發電量約360瓦\n* **自然光觸媒技術**\n\t+ 可以抵抗空間病菌及分解有機揮發氣體(VOC)的效果\n\t+ 樹冠內隱藏風扇可每小時讓整個空間換氣7次以上，並吹過光觸媒塗層區，淨化空氣\n\n**Software-defined Augmented Robot Joint  : (SARJ)**",
+    "chunk_id": "enhanced_8383ea73",
+    "source_file": "virtual_museum",
+    "chunk_index": 14,
+    "metadata": {
+      "source": "virtual_museum",
+      "scene_index": 11,
+      "locale": "us",
+      "crawled_at": "2025-12-18T16:29:27.998983",
+      "original_source": "virtual_museum",
+      "enhanced_at": "2025-12-18T17:04:21.598444",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 2003,
+      "cleaned_length": 657,
+      "compression_ratio": 0.32800798801797304,
+      "summary": "工研院推出多項創新技術和產品，包括線上展示館中的All-in-One Thermal Sensing System，可以遠端檢測生命跡象和病人活動，並基於AI的超高解析度熱影像處理。Handheld Ultrasound System是一款手持超聲波系統，支援可更換的探頭和智能應用程序。生態樹示範區展示了太陽能發電窗技術和自然光觸媒技術，後者可以抵抗空間病菌及分解有機揮發氣體(VOC)。此外，Software-defined Augmented Robot Joint (SARJ)是一款軟件定義增強機器人關節技術。",
+      "key_points": [
+        "以下是工研院的核心信息：",
+        "All-in-One Thermal Sensing System：遠端檢測生命跡象和病人活動，滿足無接觸智能醫療需求",
+        "Handheld Ultrasound System：手持超聲波系統，可以隨時隨地進行超聲波檢查",
+        "太陽能發電窗技術：展示太陽能發電窗利用陽光發電的情境，每片發電量是18瓦",
+        "自然光觸媒技術：抵抗空間病菌及分解有機揮發氣體(VOC)的效果"
+      ],
+      "entities": [
+        "7. 太陽能發電窗技術",
+        "6. MetabColor",
+        "4. Handheld Ultrasound System",
+        "3. All-in-One Thermal Sensing System",
+        "1. 工研院",
+        "8. 自然光觸媒技術",
+        "5. Medical Implants for Hard-Soft Tissue Injuries",
+        "以下是識別出的實體：",
+        "9. Software-defined Augmented Robot Joint (SARJ)",
+        "2. ITRI Virtual Showroom"
+      ],
+      "structured_data": {
+        "organization_info": {
+          "name": "工研院",
+          "description": ""
+        },
+        "key_people": [],
+        "achievements": [],
+        "technologies": [
+          "All-in-One Thermal Sensing System",
+          "Handheld Ultrasound System",
+          "Medical Implants for Hard-Soft Tissue Injuries",
+          "MetabColor",
+          "太陽能發電窗技術",
+          "自然光觸媒技術",
+          "Software-defined Augmented Robot Joint (SARJ)"
+        ],
+        "dates": [],
+        "locations": [],
+        "numbers": [
+          {
+            "type": "發電量",
+            "value": 18,
+            "unit": "瓦"
+          },
+          {
+            "type": "總發電量",
+            "value": 360,
+            "unit": "瓦"
+          }
+        ]
+      },
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.864,
+      "content_length": 657,
+      "language": "zh-tw"
+    }
+  },
+  {
+    "content": "以下是清理後的主要內容，保留與工研院相關的重要信息：\n\n**工研院線上展示館 │ ITRI Virtual Showroom**\n\n* **All-in-One Thermal Sensing System**\n\t+ 可以遠端高精度檢測生命跡象和病人活動\n\t+ AI基礎的超解析度熱影像處理，保護隱私\n\t+ 可以同時測量多個主體的體溫、心率和呼吸率\n* **Handheld Ultrasound System**\n\t+ 便攜式超聲波掃描儀，配有智能應用程式\n\t+ 支援變換探頭（線性7.5MHz/凸起3.5MHz）\n\t+ 可以處理B-mode和彩色多普勒模式圖像\n* **Medical Implants for Hard-Soft Tissue Injuries**\n\t+ 醫療植入物，適用於硬軟組織傷害\n* **生態樹 ─ 樹頂**\n\t+ 應用情境：光合作用、淨化空氣\n\t+ 太陽能發電窗技術，展示太陽能發電的情境\n\t+ 自然光觸媒技術，抵抗空間病菌及分解有機揮發氣體(VOC)\n* **Software-defined Augmented Robot Joint  : (SARJ)**\n\t+ 智慧家庭應用\n\n移除了導航元素、廣告、重複內容和無關信息，保留了與工研院相關的重要內容。",
+    "chunk_id": "enhanced_8383ea73",
+    "source_file": "virtual_museum",
+    "chunk_index": 15,
+    "metadata": {
+      "source": "virtual_museum",
+      "scene_index": 14,
+      "locale": "us",
+      "crawled_at": "2025-12-18T16:29:33.810603",
+      "original_source": "virtual_museum",
+      "enhanced_at": "2025-12-18T17:08:09.480356",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 2003,
+      "cleaned_length": 545,
+      "compression_ratio": 0.27209186220668996,
+      "summary": "工研院線上展示館推出多項創新技術，包括All-in-One Thermal Sensing System，可遠端檢測生命跡象和病人活動，並具備AI基礎的超解析度熱影像處理；Handheld Ultrasound System，支援變換探頭和智能應用程式；Medical Implants for Hard-Soft Tissue Injuries，適用於硬軟組織傷害；生態樹 ─ 樹頂，展示太陽能發電窗技術和自然光觸媒技術；Software-defined Augmented Robot Joint  ，智慧家庭應用。",
+      "key_points": [
+        "All-in-One Thermal Sensing System 可以遠端高精度檢測生命跡象和病人活動",
+        "Handheld Ultrasound System 便攜式超聲波掃描儀，配有智能應用程式",
+        "Medical Implants for Hard-Soft Tissue Injuries 醫療植入物，適用於硬軟組織傷害"
+      ],
+      "entities": [
+        "4. Medical Implants for Hard-Soft Tissue Injuries",
+        "6. Software-defined Augmented Robot Joint (SARJ)",
+        "2. All-in-One Thermal Sensing System",
+        "5. 生態樹 ─ 樹頂",
+        "3. Handheld Ultrasound System",
+        "以下是從內容中識別出的實體：",
+        "1. 工研院",
+        "7. ITRI Virtual Showroom"
+      ],
+      "structured_data": {
+        "organization_info": {
+          "name": "",
+          "description": ""
+        },
+        "key_people": [],
+        "achievements": [],
+        "technologies": [
+          "All-in-One Thermal Sensing System",
+          "Handheld Ultrasound System",
+          "Medical Implants for Hard-Soft Tissue Injuries",
+          "Software-defined Augmented Robot Joint (SARJ)"
+        ],
+        "dates": [],
+        "locations": [],
+        "numbers": []
+      },
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.676,
+      "content_length": 545,
+      "language": "zh-tw"
+    }
+  },
+  {
+    "content": "以下是清理後的主要內容，與工研院相關的核心信息：\n\n**工研院線上展示館**\n\n* **All-in-One Thermal Sensing System**\n\t+ 可以遠端檢測生命跡象和病人活動\n\t+ AI基於超高解析度熱成像處理，隱私保護\n\t+ 可以同時測量多個對象的體溫、心率和呼吸率\n\t+ 提供床邊離開、跌倒和久坐時間監控，並在異常情況下發出警報\n* **Handheld Ultrasound System**\n\t+ 便攜式超聲波掃描儀，配有智能應用程式\n\t+ 支援可更換的探頭（線性7.5MHz/凸起3.5MHz）\n\t+ 可以處理B-mode和彩色多普勒模式圖像\n\t+ 提供臨床醫生在緊急和重症監護中節省時間\n* **Medical Implants for Hard-Soft Tissue Injuries**\n\t+ 醫療植入物，適用於硬軟組織傷害\n\n**生態樹**\n\n* **太陽能發電窗**\n\t+ 工研院研發的技術，展示太陽能發電的情境\n\t+ 每片太陽能發電窗尺寸110*90公分（約1平方米），發電量18瓦\n* **淨化空氣**\n\t+ 樹木透過光合作用中吸收二氧化碳與排放氧氣的過程，可達到淨化空氣的效果\n\t+ 利用生態樹冠上塗層的自然光觸媒技術，來達到抵抗空間病菌及分解有機揮發氣體(VOC)的效果\n\n**Software-defined Augmented Robot Joint (SARJ)**\n\n* **智慧家庭**\n\t+ 工研院相關的智能家庭應用",
+    "chunk_id": "enhanced_8383ea73",
+    "source_file": "virtual_museum",
+    "chunk_index": 16,
+    "metadata": {
+      "source": "virtual_museum",
+      "scene_index": 15,
+      "locale": "us",
+      "crawled_at": "2025-12-18T16:29:35.552814",
+      "original_source": "virtual_museum",
+      "enhanced_at": "2025-12-18T17:09:43.422175",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 2003,
+      "cleaned_length": 640,
+      "compression_ratio": 0.3195207189216176,
+      "summary": "工研院展示了多項創新技術，包括線上展示館中的All-in-One Thermal Sensing System、Handheld Ultrasound System和Medical Implants for Hard-Soft Tissue Injuries等。這些技術可用於遠端生命跡象檢測、便攜式超聲波掃描和醫療植入物應用。另外，生態樹展示了太陽能發電窗和淨化空氣的技術，利用自然光觸媒技術抵抗空間病菌並分解有機揮發氣體。工研院還推出了Software-defined Augmented Robot Joint (SARJ)，可應用於智慧家庭等領域。",
+      "key_points": [
+        "工研院線上展示館",
+        "All-in-One Thermal Sensing System遠端檢測生命跡象和病人活動",
+        "Handheld Ultrasound System便攜式超聲波掃描儀，配有智能應用程式",
+        "Medical Implants for Hard-Soft Tissue Injuries醫療植入物，適用於硬軟組織傷害"
+      ],
+      "entities": [
+        "4. Medical Implants for Hard-Soft Tissue Injuries",
+        "5. 太陽能發電窗",
+        "2. All-in-One Thermal Sensing System",
+        "3. Handheld Ultrasound System",
+        "以下是從內容中識別出的實體：",
+        "6. 淨化空氣",
+        "1. 工研院",
+        "7. Software-defined Augmented Robot Joint (SARJ)",
+        "8. 智慧家庭"
+      ],
+      "structured_data": {},
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.62,
+      "content_length": 640,
+      "language": "zh-tw"
+    }
+  },
+  {
+    "content": "以下是清理後的主要內容：\n\n**工研院線上展示館 │ ITRI Virtual Showroom**\n\n**Ecological Tree ─ Tree Trunk**\n\n* **溫度調節**\n\t+ 設計概念：樹木可以通過遮蔽、阻擋和蒸散作用來調節溫度。\n\t+ 應用場景：在生態樹上方的天窗設置一個熱空氣出口，並利用SideLighter生成的電力驅動頂棚上的風扇向下吹送，實現空氣循環。\n\t+ 特點和優勢：六個風扇可在中央升高區域（體積2,646 m3）內實現每小時7.7次空氣循環。其中一個風扇是太陽能驅動的，每個風扇產生57 m3/min的空氣輸出。\n* **環境照明**\n\t+ 設計概念：樹木除了具有環境效益外，還有觀賞和景觀美化功能。\n\t+ 應用場景：利用光漫射板和LED燈創造出的環境照明效果，突出了生態樹的形狀，並為整個空間增添了審美元素。室內燈光也可以根據陽光變化自動調節。\n\t+ 特點和優勢：漫射板具有70%的透光率和30%的霧度。LED燈的功耗約為3,417瓦，相比同等亮度的彩色鹵氣燈少23%。\n\n**Ecological Tree ─ Tree Root**\n\n* **水淨化**\n\t+ 設計概念：樹木的根部可以保留水分，一些水生植物甚至可以分解和淨化水。\n\t+ 應用場景：Qwater是一種模組化的水淨化系統，可以快速裝配。核心技術是工研院的生物膜過濾技術，結合了「（生物）過濾床面積」和「膜分離面積」的創新水/廢水處理系統。\n\t+ 特點和優勢：Qwater技術特別適用於原水或低濃度污水治理，也可應用於家庭污水等。",
+    "chunk_id": "enhanced_eca52a01",
+    "source_file": "virtual_museum",
+    "chunk_index": 17,
+    "metadata": {
+      "source": "virtual_museum",
+      "scene_index": 1,
+      "locale": "zh-tw",
+      "crawled_at": "2025-12-18T16:29:37.148533",
+      "original_source": "virtual_museum",
+      "enhanced_at": "2025-12-18T17:10:53.827019",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 2003,
+      "cleaned_length": 671,
+      "compression_ratio": 0.3349975037443834,
+      "summary": "工研院線上展示館推出Ecological Tree系列，分為Tree Trunk和Tree Root兩個部分。Tree Trunk側重於溫度調節和環境照明，利用SideLighter生成的電力驅動風扇實現空氣循環，並創造出自然的環境照明效果。Tree Root則著眼於水淨化，結合工研院的生物膜過濾技術，推出了Qwater模組化水淨化系統，可以快速裝配並應用於原水或低濃度污水治理等領域。",
+      "key_points": [
+        "工研院線上展示館 │ ITRI Virtual Showroom",
+        "Ecological Tree ─ Tree Trunk",
+        "溫度調節：通過遮蔽、阻擋和蒸散作用來調節溫度，實現空氣循環。",
+        "環境照明：利用光漫射板和LED燈創造出的環境照明效果，突出了生態樹的形狀，並為整個空間增添了審美元素。",
+        "Ecological Tree ─ Tree Root",
+        "水淨化：工研院的生物膜過濾技術，結合了「（生物）過濾床面積」和「膜分離面積」的創新水/廢水處理系統。"
+      ],
+      "entities": [
+        "4. SideLighter",
+        "以下是從內容中識別的實體：",
+        "5. LED",
+        "1. 工研院",
+        "6. Qwater",
+        "3. Ecological Tree",
+        "2. ITRI Virtual Showroom"
+      ],
+      "structured_data": {},
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.667,
+      "content_length": 671,
+      "language": "zh-tw"
+    }
+  },
+  {
+    "content": "以下是清理後的主要內容，與工研院（ITRI）相關的核心信息：\n\n**Ecological Tree**\n\n* **Temperature Regulation**\n\t+ 設計概念：樹木可以調節熱空氣和冷空氣的對流和循環，以陰影反射、阻擋和蒸散作用來調節溫度。\n\t+ 懔用場景：在生態樹上方的天窗設置了熱空氣出口，SideLighter 產生的電力供應給棚架上的風扇，使空氣循環。\n\t+ 特點和優勢：六個風扇可以在中央升高區域（體積2,646 m3）每小時實現7.7次空氣循環。其中一個風扇是太陽能驅動的，每個風扇產生57 m3/min 的空氣輸出。\n* **Ambient Lighting**\n\t+ 設計概念：除了環境效益，樹木還有觀賞和景觀功能。\n\t+ 懔用場景：通過光擴散板和LED 燈創建的環境照明，突顯生態樹的形狀，並為整個空間添加了美學元素。室內燈也可以根據陽光變化自動調節。\n\t+ 特點和優勢：光擴散板有70% 的透光率和30% 的霧度。LED 燈的功耗約3,417瓦特，相比同等亮度的彩色鹵燈僅為23%。\n\n**智慧醫療**\n**智慧交通**\n\n**Ecological Tree ─ Tree Root**\n\n* **Water Purification**\n\t+ 設計概念：樹木的根可以保水，一些水生植物甚至可以分解和淨化水。\n\t+ 懔用場景：Qwater 是一個模組化的水淨化系統，可以快速裝配。核心技術是工研院的生物膜過濾技術，結合了「（生物）過濾床面積」和「膜分離區域」的創新水/廢水處理系統。\n\t+ 特點和優勢：Qwater 技術特別適合原水或低濃度污水治理，也可以應用於家庭污水治理。",
+    "chunk_id": "enhanced_a83f9fea",
+    "source_file": "virtual_museum",
+    "chunk_index": 18,
+    "metadata": {
+      "source": "virtual_museum",
+      "scene_index": 2,
+      "locale": "zh-tw",
+      "crawled_at": "2025-12-18T16:29:38.751469",
+      "original_source": "virtual_museum",
+      "enhanced_at": "2025-12-18T17:12:12.519336",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 2003,
+      "cleaned_length": 707,
+      "compression_ratio": 0.3529705441837244,
+      "summary": "工研院（ITRI）推出的生態樹（Ecological Tree）是一個綜合性的設計概念，結合了多種技術和功能。其主要特點包括：\n\n* 溫度調節：利用樹木的形狀和結構來調節熱空氣和冷空氣的對流和循環。\n* 環境照明：通過光擴散板和LED燈創建環境照明，突顯生態樹的形狀，並為整個空間添加美學元素。\n* 水淨化：利用工研院的生物膜過濾技術來淨化水源。\n\n此外，工研院還推出了智慧醫療和智慧交通等其他相關應用。",
+      "key_points": [
+        "以下是工研院（ITRI）相關的核心信息：",
+        "Ecological Tree 設計概念，結合了溫度調節、環境照明和水淨化功能。",
+        "溫度調節系統通過風扇和熱空氣出口實現空氣循環，每小時可達7.7次循環。",
+        "環境照明系統使用光擴散板和LED燈，具有70%的透光率和30%的霧度，功耗約3,417瓦特。",
+        "水淨化系統Qwater採用工研院的生物膜過濾技術，可以快速裝配，適用於原水或低濃度污水治理。"
+      ],
+      "entities": [
+        "Ecological Tree",
+        "Tree Root",
+        "智慧交通",
+        "Qwater",
+        "Temperature Regulation",
+        "智慧醫療",
+        "Water Purification",
+        "SideLighter",
+        "Ambient Lighting",
+        "LED",
+        "ITRI"
+      ],
+      "structured_data": {
+        "organization_info": {
+          "name": "",
+          "abbreviation": "ITRI"
+        },
+        "key_people": [],
+        "achievements": [],
+        "technologies": [
+          "生物膜過濾技術",
+          "LED 燈",
+          "光擴散板",
+          "太陽能驅動風扇"
+        ],
+        "dates": [],
+        "locations": [],
+        "numbers": [
+          {
+            "value": 2.646,
+            "unit": "m3",
+            "description": ""
+          },
+          {
+            "value": 7.7,
+            "unit": "",
+            "description": ""
+          },
+          {
+            "value": 57,
+            "unit": "m3/min",
+            "description": ""
+          },
+          {
+            "value": 70,
+            "unit": "%",
+            "description": ""
+          },
+          {
+            "value": 30,
+            "unit": "%",
+            "description": ""
+          },
+          {
+            "value": 3417,
+            "unit": "",
+            "description": ""
+          },
+          {
+            "value": 23,
+            "unit": "%",
+            "description": ""
+          }
+        ]
+      },
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.876,
+      "content_length": 707,
+      "language": "zh-tw"
+    }
+  },
+  {
+    "content": "以下是清理後的主要內容，保留與工研院相關的重要信息：\n\n工研院線上展示館 │ ITRI Virtual Showroom\n\n* CMC-100 Microcomputer：工研院開發了微型電腦技術，並成功推出CMC系列微型電腦，奠定了個人電腦發展的基礎。\n* 生態樹 ─ 樹幹：\n\t+ 應用情境－調節溫度：利用生態樹上方天窗架設熱氣排出口和太陽能發電窗，驅動風扇向下吹送，造成空間氣流的循環效果。\n\t+ 技術應用特色與效益：位於樹冠內的六台風扇全開，每小時可以將空氣循環約7.7次。\n* 生態樹 ─ 樹頂：\n\t+ 應用情境－光合作用：於生態樹上方天窗架設工研院研發之「太陽能發電窗」技術，用以展示太陽能發電窗利用陽光發電的情境。\n\t+ 技術應用特色與效益：每片太陽能發電窗尺寸是110*90公分（約1平方米），發電量是18瓦；在生態樹示範面積內有20片，總發電量約360瓦。\n* 4-inch Silicon Wafer：工研院的分支機構United Microelectronics Corporation (UMC)是台灣第一家4寸矽晶圓製造商。\n* 6-inch Silicon Wafer：1986年，工研院的VLSI示範工廠在Building 67落成，生產6寸矽晶圓。\n* ITRI-A Robot：工研院開發了ITRI-A機器人，用於小型組件的裝配線。這是台灣第一款此類型的機器人，其技術被轉移給當地公司以提升其生產線的自動化。\n\n以上內容保留了與工研院相關的重要信息，包括其開發的微型電腦、生態樹技術、矽晶圓製造和機器人等。",
+    "chunk_id": "enhanced_bbcf0485",
+    "source_file": "virtual_museum",
+    "chunk_index": 19,
+    "metadata": {
+      "source": "virtual_museum",
+      "scene_index": 5,
+      "locale": "zh-tw",
+      "crawled_at": "2025-12-18T16:29:44.399945",
+      "original_source": "virtual_museum",
+      "enhanced_at": "2025-12-18T17:13:26.274137",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 2003,
+      "cleaned_length": 670,
+      "compression_ratio": 0.3344982526210684,
+      "summary": "工研院推出多項創新技術，包括微型電腦CMC-100奠定個人電腦發展基礎；生態樹技術應用於溫度調節與光合作用，展示太陽能發電窗技術；矽晶圓製造方面，UMC是台灣第一家4寸矽晶圓製造商，工研院的VLSI示範工廠也成功生產6寸矽晶圓；ITRI-A機器人則用於小型組件裝配線，提升自動化水平。",
+      "key_points": [
+        "工研院開發了微型電腦技術，並成功推出CMC系列微型電腦。",
+        "生態樹技術應用情境包括調節溫度和光合作用，展示太陽能發電窗的效益。",
+        "工研院的分支機構United Microelectronics Corporation (UMC)是台灣第一家4寸矽晶圓製造商。",
+        "1986年，工研院的VLSI示範工廠在Building 67落成，生產6寸矽晶圓。",
+        "工研院開發了ITRI-A機器人，用於小型組件的裝配線。"
+      ],
+      "entities": [
+        "Building 67",
+        "ITRI Virtual Showroom",
+        "CMC-100 Microcomputer",
+        "ITRI-A Robot",
+        "United Microelectronics Corporation (UMC)",
+        "工研院"
+      ],
+      "structured_data": {},
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.667,
+      "content_length": 670,
+      "language": "zh-tw"
+    }
+  },
+  {
+    "content": "以下是清理後的主要內容：\n\n工研院線上展示館 │ ITRI Virtual Showroom\n\n李大海（Ta-Hai Lee）\n\n李大海畢業於國立西南聯合大學化學系，曾任永興工業蘭州藥廠助理技師、資源委員會甘肅油礦局工程師。1946年後，加入石油公司，負責高雄煉油廠修繕工作。後轉至中國技術顧問公司，擔任木華肥料廠和中海潤滑油廠建築與施工經理。曾獲得多項建設獎。\n\n1968年，李大海參與第一套石腦油裂解裝置的規劃，奠定了台灣石化工業發展的基礎。後升任工廠主任，改良和提升破碎設備，大幅增加生產量。1976年，出任中國石油公司總經理，後成為董事長。在第二次石油危機期間，李大海努力穩定油價，對國內經濟恢復至關重要。\n\n1985年，李大海擔任經濟部長，面臨美國要求台灣降低關稅和取消貿易壁壘以平衡日益增大的貿易赤字的壓力。負責台灣經濟政策的李大海逐漸放寬政策，以平衡台美關係。\n\n此外，李大海積極推動國內產業升級，對多項經濟政策和措施做出了重要貢獻，使台灣成為一個更加自由和國際化的經濟體系。1988年，他被邀請擔任總統國家政策顧問。1994至1995年間，李大海出任工研院第四屆董事長。\n\n發展普通汽車引擎\n\n工研院開發了台灣第一款1.2升四缸汽車引擎...",
+    "chunk_id": "enhanced_18d52ec6",
+    "source_file": "virtual_museum",
+    "chunk_index": 20,
+    "metadata": {
+      "source": "virtual_museum",
+      "scene_index": 6,
+      "locale": "zh-tw",
+      "crawled_at": "2025-12-18T16:29:46.130950",
+      "original_source": "virtual_museum",
+      "enhanced_at": "2025-12-18T17:14:53.429820",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 2003,
+      "cleaned_length": 529,
+      "compression_ratio": 0.2641038442336495,
+      "summary": "李大海畢業於國立西南聯合大學化學系，曾任永興工業蘭州藥廠助理技師、資源委員會甘肅油礦局工程師。1946年後，加入石油公司，負責高雄煉油廠修繕工作。後轉至中國技術顧問公司，擔任木華肥料廠和中海潤滑油廠建築與施工經理。曾獲得多項建設獎。\n\n1968年，李大海參與第一套石腦油裂解裝置的規劃，奠定了台灣石化工業發展的基礎。後升任工廠主任，改良和提升破碎設備，大幅增加生產量。1976年，出任中國石油公司總經理，後成為董事長。在第二次石油危機期間，李大海努力穩定油價，對國內經濟恢復至關重要。\n\n1985年，李大海擔任經濟部長，面臨美國要求台灣降低關稅和取消貿易壁壘以平衡日益增大的貿易赤字的壓力。負責台灣經濟政策的李大海逐漸放寬政策，以平衡台美關係。\n\n此外，李大海積極推動國內產業升級，對多項經濟政策和措施做出了重要貢獻，使台灣成為一個更加自由和國際化的經濟體系。1988年，他被邀請擔任總統國家政策顧問。1994至1995年間，李大海出任工研院第四屆董事長。\n\n工研院開發了台灣第一款1.2升四缸汽車引擎...",
+      "key_points": [
+        "以下是關鍵點列表：",
+        "李大海畢業於國立西南聯合大學化學系",
+        "1968年參與第一套石腦油裂解裝置的規劃，奠定了台灣石化工業發展的基礎",
+        "1976年出任中國石油公司總經理，後成為董事長",
+        "1985年擔任經濟部長，負責平衡台美關係和推動國內產業升級",
+        "1994至1995年間出任工研院第四屆董事長",
+        "工研院開發了台灣第一款1.2升四缸汽車引擎"
+      ],
+      "entities": [
+        "* 美國",
+        "* 中國技術顧問公司",
+        "* 國家政策顧問",
+        "* 資源委員會甘肅油礦局",
+        "* 工研院",
+        "* 台灣石化工業",
+        "* 台美關係",
+        "* 石油公司",
+        "* 高雄煉油廠",
+        "* 李大海",
+        "* 經濟部",
+        "以下是識別出的實體：",
+        "* 中國石油公司",
+        "* 永興工業蘭州藥廠",
+        "* 中海潤滑油廠",
+        "* 國立西南聯合大學",
+        "* 木華肥料廠"
+      ],
+      "structured_data": {},
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.632,
+      "content_length": 529,
+      "language": "zh-tw"
+    }
+  },
+  {
+    "content": "工研院線上展示館 │ ITRI Virtual Showroom\n2022.11\n\n工研院榮獲三項2022年R&D 100獎，得獎創新包括：高解析度全彩Micro LED顯示器、AI-DR即時診斷系統和綠色膠帶9KC LTCC及毫米波5G無線裝置的Ag金屬化。\n\n劉兆民博士\n劉兆民博士畢業於國立臺灣大學電機工程學系，後取得美國加州大學柏克萊分校電機工程和計算機科學碩士和博士學位。他曾任職於西門子美國、Control Data Corporation、太平洋瓦斯與電力公司（PG&E）、Bechtel和Quanta Technology。劉博士是Nexant的共同創始人，曾擔任該公司副總裁和高級副總裁。\n\n2018年，劉博士成為工研院第九任董事長，並積極推動三大戰略：「市場導向研究發展」、「產業、學術與研究機構之間的橋樑」以及「協助產業轉型升級」。他促成2030科技策略藍圖，成功建立工研院三大文化DNA，並實施企業式經營模式，以刺激工研院內部突破，包括高品質專利、專利影響力和專利核准率等方面的傑出表現。在劉博士任期內，工研院被Clarivate評為全球百大創新機構，使其成為獲獎最多的亞洲研究機構。劉博士領導下，工研院被LinkedIn評為2019年度最具吸引力的雇主品牌之一。\n\n劉博士曾獲得西門子Empros國際傑出技術貢獻獎、美國國家科學基金會小型企業創新研究獎以及太平洋瓦斯與電力公司傑出R&D項目獎。他是IEEE Fellow，並榮獲IEEE PES第一屆電力系統會議暨展覽傑出服務獎。",
+    "chunk_id": "enhanced_a5b52962",
+    "source_file": "virtual_museum",
+    "chunk_index": 21,
+    "metadata": {
+      "source": "virtual_museum",
+      "scene_index": 9,
+      "locale": "zh-tw",
+      "crawled_at": "2025-12-18T16:29:51.216685",
+      "original_source": "virtual_museum",
+      "enhanced_at": "2025-12-18T17:16:16.340024",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 2003,
+      "cleaned_length": 653,
+      "compression_ratio": 0.3260109835247129,
+      "summary": "工研院線上展示館 │ ITRI Virtual Showroom 2022.11\n\n工研院獲得三項2022年R&D 100獎，得獎創新包括：高解析度全彩Micro LED顯示器、AI-DR即時診斷系統和綠色膠帶9KC LTCC及毫米波5G無線裝置的Ag金屬化。\n\n劉兆民博士是工研院第九任董事長，推動三大戰略並促成2030科技策略藍圖。工研院在其領導下被Clarivate評為全球百大創新機構，並被LinkedIn評為2019年度最具吸引力的雇主品牌之一。\n\n劉博士獲得多個獎項，包括西門子Empros國際傑出技術貢獻獎、美國國家科學基金會小型企業創新研究獎等。",
+      "key_points": [
+        "工研院榮獲三項2022年R&D 100獎，得獎創新包括：高解析度全彩Micro LED顯示器、AI-DR即時診斷系統和綠色膠帶9KC LTCC及毫米波5G無線裝置的Ag金屬化。",
+        "劉兆民博士畢業於國立臺灣大學電機工程學系，後取得美國加州大學柏克萊分校電機工程和計算機科學碩士和博士學位。",
+        "劉博士是Nexant的共同創始人，曾擔任該公司副總裁和高級副總裁。",
+        "2018年，劉博士成為工研院第九任董事長，並積極推動三大戰略：「市場導向研究發展」、「產業、學術與研究機構之間的橋樑」以及「協助產業轉型升級」。",
+        "劉博士領導下，工研院被Clarivate評為全球百大創新機構，使其成為獲獎最多的亞洲研究機構。"
+      ],
+      "entities": [
+        "2. 工研院",
+        "10. Quanta Technology",
+        "6. 西門子美國",
+        "4. 國立臺灣大學",
+        "11. Nexant",
+        "12. Clarivate",
+        "13. LinkedIn",
+        "8. 太平洋瓦斯與電力公司（PG&E）",
+        "9. Bechtel",
+        "3. R&D 100獎",
+        "14. IEEE",
+        "7. Control Data Corporation",
+        "1. 劉兆民",
+        "5. 美國加州大學柏克萊分校"
+      ],
+      "structured_data": {},
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.663,
+      "content_length": 653,
+      "language": "zh-tw"
+    }
+  },
+  {
+    "content": "以下是清理後的主要內容，與工研院相關的核心信息：\n\n**工研院線上展示館 │ ITRI Virtual Showroom**\n\n* **All-in-One Thermal Sensing System**\n\t+ 可以遠端檢測生命徵象和病人活動，滿足無接觸智能醫療需求\n\t+ 基於AI的超高解析度熱影像處理，保護隱私，可同時測量多個主體的身體溫度、心率和呼吸率\n\t+ 可以監控床邊出入、跌倒和久坐時間，並在異常情況下發送警報\n* **Handheld Ultrasound System**\n\t+ 包括輕便可攜帶的掃描儀和智能應用程序，允許醫生隨時隨地進行超聲波檢查\n\t+ 支持更換探頭（線性7.5MHz/凸起3.5MHz），可以處理B-mode和彩色多普勒模式圖像\n\t+ 提供急診和重症監護中的點擊式超聲波檢查，節省緊急時間\n* **Medical Implants for Hard-Soft Tissue Injuries**\n\t+ 未提供詳細信息\n\n**生態樹**\n\n* **太陽能發電窗**\n\t+ 可以利用陽光發電，每片太陽能發電窗尺寸是110*90公分，發電量是18瓦\n\t+ 在生態樹示範面積內有20片，總發電量約360瓦\n* **淨化空氣**\n\t+ 樹木可以吸收二氧化碳和排放氧氣，淨化空氣\n\t+ 利用自然光觸媒技術，可以抵抗空間病菌及分解有機揮發氣體(VOC)\n\t+ 樹冠內隱藏風扇可每小時讓整個空間換氣7次以上，並吹過光觸媒塗層區，淨化空氣\n\n**Software-defined Augmented Robot Joint  : (SARJ)**\n\n* 未提供詳細信息",
+    "chunk_id": "enhanced_8383ea73",
+    "source_file": "virtual_museum",
+    "chunk_index": 22,
+    "metadata": {
+      "source": "virtual_museum",
+      "scene_index": 11,
+      "locale": "zh-tw",
+      "crawled_at": "2025-12-18T16:29:54.873356",
+      "original_source": "virtual_museum",
+      "enhanced_at": "2025-12-18T17:18:21.691814",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 2003,
+      "cleaned_length": 694,
+      "compression_ratio": 0.34648027958062905,
+      "summary": "工研院線上展示館推出多項創新技術，包括遠端生命徵象檢測系統、手持超聲波掃描儀和太陽能發電窗等。其中，All-in-One Thermal Sensing System可滿足無接觸智能醫療需求，並具備AI熱影像處理功能；Handheld Ultrasound System則提供輕便的超聲波檢查解決方案。生態樹示範區內設有太陽能發電窗和淨化空氣系統，展示綠色能源和空氣淨化技術。此外，Software-defined Augmented Robot Joint (SARJ)也是本次展覽的重點項目之一。",
+      "key_points": [
+        "工研院線上展示館 │ ITRI Virtual Showroom",
+        "All-in-One Thermal Sensing System：遠端檢測生命徵象和病人活動，滿足無接觸智能醫療需求",
+        "Handheld Ultrasound System：輕便可攜帶的掃描儀和智能應用程序，允許醫生隨時隨地進行超聲波檢查",
+        "Medical Implants for Hard-Soft Tissue Injuries：未提供詳細信息",
+        "太陽能發電窗：利用陽光發電，每片太陽能發電窗尺寸是110*90公分，發電量是18瓦",
+        "淨化空氣：樹木可以吸收二氧化碳和排放氧氣，淨化空氣",
+        "Software-defined Augmented Robot Joint  ：未提供詳細信息"
+      ],
+      "entities": [
+        "4. Handheld Ultrasound System",
+        "3. All-in-One Thermal Sensing System",
+        "以下是從內容中識別的實體：",
+        "8. Software-defined Augmented Robot Joint (SARJ)",
+        "1. 工研院",
+        "6. 太陽能發電窗",
+        "5. Medical Implants for Hard-Soft Tissue Injuries",
+        "7. 淨化空氣",
+        "2. ITRI Virtual Showroom"
+      ],
+      "structured_data": {
+        "organization_info": {
+          "name": "",
+          "description": ""
+        },
+        "key_people": [],
+        "achievements": [],
+        "technologies": [
+          "AI",
+          "",
+          "B-mode",
+          "",
+          "VOC"
+        ],
+        "dates": [],
+        "locations": [],
+        "numbers": {
+          "110*90": "",
+          "18": "",
+          "20": "",
+          "360": ""
+        }
+      },
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.873,
+      "content_length": 694,
+      "language": "zh-tw"
+    }
+  },
+  {
+    "content": "以下是清理後的主要內容，保留與工研院相關的重要信息：\n\n**工研院線上展示館 │ ITRI Virtual Showroom**\n\n* **All-in-One Thermal Sensing System**\n\t+ 可以遠距離檢測生命跡象和病人活動\n\t+ AI基於超高解析度熱成像處理，保護隱私\n\t+ 可以同時測量多個人的體溫、心率和呼吸率\n\t+ 提供床邊離開、跌倒和久坐的監控，並在異常情況下發送移動應用程序警報\n* **Handheld Ultrasound System**\n\t+ 便攜式超聲波掃描儀，配備智能應用程序\n\t+ 支持可更換的探頭（線性7.5MHz/凸起3.5MHz）\n\t+ 可以處理B模式和彩色多普勒模式圖像\n\t+ 提供臨床醫生緊急和重症監護中的點到點超聲波檢查\n* **Medical Implants for Hard-Soft Tissue Injuries**\n\t+ 醫療植入物，適用於硬軟組織傷害\n* **MetabColor**\n\t+ 未提供詳細信息\n* **Software-defined Augmented Robot Joint  : (SARJ)**\n\t+ 軟件定義增強機器人關節\n\n**生態樹**\n\n* **太陽能發電窗**\n\t+ 每片尺寸110*90公分（約1平方米），發電量18瓦\n\t+ 在示範區域內有20片，總發電量約360瓦\n* **自然光觸媒技術**\n\t+ 可以抵抗空間病菌及分解有機揮發氣體(VOC)\n\t+ 光觸媒抗菌效能可達99.99%，1g奈米光觸媒可分解20微克有機揮發性氣體（甲醛）",
+    "chunk_id": "enhanced_8383ea73",
+    "source_file": "virtual_museum",
+    "chunk_index": 23,
+    "metadata": {
+      "source": "virtual_museum",
+      "scene_index": 12,
+      "locale": "zh-tw",
+      "crawled_at": "2025-12-18T16:29:56.552099",
+      "original_source": "virtual_museum",
+      "enhanced_at": "2025-12-18T17:19:26.549550",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 2003,
+      "cleaned_length": 674,
+      "compression_ratio": 0.3364952571143285,
+      "summary": "工研院線上展示館推出多項醫療與生態相關技術，包括遠距離生命跡象檢測系統、便攜式超聲波掃描儀、醫療植入物等。其中，All-in-One Thermal Sensing System 可以遠距離檢測生命跡象和病人活動，並提供床邊離開、跌倒和久坐的監控。Handheld Ultrasound System 是一款便攜式超聲波掃描儀，可支援可更換的探頭和臨床醫生緊急和重症監護中的點到點超聲波檢查。此外，工研院還展示了太陽能發電窗和自然光觸媒技術等生態相關產品。",
+      "key_points": [
+        "工研院線上展示館 │ ITRI Virtual Showroom",
+        "All-in-One Thermal Sensing System",
+        "Handheld Ultrasound System",
+        "Medical Implants for Hard-Soft Tissue Injuries",
+        "MetabColor",
+        "Software-defined Augmented Robot Joint  : (SARJ)",
+        "太陽能發電窗"
+      ],
+      "entities": [
+        "* ITRI Virtual Showroom",
+        "* Medical Implants for Hard-Soft Tissue Injuries",
+        "* Handheld Ultrasound System",
+        "* MetabColor",
+        "* Software-defined Augmented Robot Joint",
+        "* 太陽能發電窗",
+        "* All-in-One Thermal Sensing System",
+        "* 自然光觸媒技術",
+        "以下是識別出的實體："
+      ],
+      "structured_data": {},
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.668,
+      "content_length": 674,
+      "language": "zh-tw"
+    }
+  },
+  {
+    "content": "以下是清理後的主要內容，保留與工研院相關的重要信息：\n\n**All-in-One Thermal Sensing System**\n\n工研院的全方位熱感知系統（All-in-One Thermal Sensing System）可實現高精度的遠端生命跡象檢測和病人活動監控，滿足智能醫療在疫情後世界中的需求。該系統使用基於AI的超解析度熱成像處理技術，既能保護隱私，又能同時對多個主體進行身體溫度、心率和呼吸率的測量。此外，系統還可監控床邊離開、跌倒和長時間久坐，並在檢測到異常時通過手機應用程序發出警報。該系統的緊湊設計使其成為臨床、病房或家庭中基礎生理評估的理想工具，為遠程醫療服務提供了一種經濟高效的解決方案。\n\n**Handheld Ultrasound System**\n\n工研院的手持超聲波系統（Handheld Ultrasound System）包括一款輕便、可攜帶的掃描儀和智能應用程序，允許醫生在任何地方、任何時間進行超聲波檢查。該64通道系統支持更換探頭（線性7.5MHz/凸起3.5MHz），並能夠處理B模式和彩色多普勒模式圖像。該系統為急診和重症監護中的醫生提供了即時超聲波檢查的功能，從而節省了寶貴時間。在未來，深度學習技術可以整合到系統中，以實現肝臟疾病的智能診斷。\n\n**太陽能發電窗**\n\n工研院開發的太陽能發電窗技術可展示利用陽光發電的情境。每片太陽能發電窗尺寸為110*90公分（約1平方米），發電量為18瓦。在生態樹示範區域內，有20片太陽能發電窗，總發電量約360瓦。\n\n**自然光觸媒技術**\n\n工研院的自然光觸媒技術可用於抵抗空間病菌和分解有機揮發氣體（VOC）。該技術使用樹冠上塗層的光觸媒，達到淨化空氣的效果。光觸媒抗菌效能可達99.99%，1g奈米光觸媒可分解20微克有機揮發性氣體（甲醛）。",
+    "chunk_id": "enhanced_8383ea73",
+    "source_file": "virtual_museum",
+    "chunk_index": 24,
+    "metadata": {
+      "source": "virtual_museum",
+      "scene_index": 14,
+      "locale": "zh-tw",
+      "crawled_at": "2025-12-18T16:30:00.439395",
+      "original_source": "virtual_museum",
+      "enhanced_at": "2025-12-18T17:21:46.879468",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 2003,
+      "cleaned_length": 772,
+      "compression_ratio": 0.3854218671992012,
+      "summary": "工研院推出多項創新技術，包括全方位熱感知系統、手持超聲波系統和太陽能發電窗等。全方位熱感知系統可實現高精度的遠端生命跡象檢測和病人活動監控，並使用基於AI的超解析度熱成像處理技術，保護隱私同時對多個主體進行身體溫度、心率和呼吸率的測量。手持超聲波系統是一款輕便、可攜帶的掃描儀和智能應用程序，可在任何地方、任何時間進行超聲波檢查，支援更換探頭和處理B模式和彩色多普勒模式圖像。太陽能發電窗技術展示了利用陽光發電的情境，每片太陽能發電窗尺寸為110*90公分，發電量為18瓦。此外，工研院還開發了自然光觸媒技術，可用於抵抗空間病菌和分解有機揮發氣體。",
+      "key_points": [
+        "以下是工研院相關的重要信息：",
+        "工研院開發了全方位熱感知系統，實現高精度遠端生命跡象檢測和病人活動監控",
+        "手持超聲波系統支持更換探頭和處理B模式和彩色多普勒模式圖像",
+        "太陽能發電窗技術可展示利用陽光發電的情境，每片太陽能發電窗尺寸為110*90公分，發電量為18瓦",
+        "自然光觸媒技術可用於抵抗空間病菌和分解有機揮發氣體（VOC），達到淨化空氣的效果"
+      ],
+      "entities": [
+        "AI",
+        "All-in-One Thermal Sensing System",
+        "Handheld Ultrasound System",
+        "工研院"
+      ],
+      "structured_data": {},
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.626,
+      "content_length": 772,
+      "language": "zh-tw"
+    }
+  },
+  {
+    "content": "以下是清理後的主要內容，保留與工研院相關的重要信息：\n\n**工研院線上展示館 │ ITRI Virtual Showroom**\n\n* **All-in-One Thermal Sensing System**\n\t+ 可以遠端偵測生命跡象和病人活動，滿足無接觸智慧醫療需求\n\t+ 基於AI的超高解析度熱影像處理，隱私保護，並可同時測量多個主體的身體溫度、心率和呼吸率\n\t+ 可提供床邊離開、跌倒和久坐時間監控，並在異常情況下發送手機應用程式警報\n* **Handheld Ultrasound System**\n\t+ 包括輕量便攜的掃描儀和智能應用程式，允許醫生隨時隨地進行超聲波檢查\n\t+ 支援64通道系統，具有可更換的探頭（線性7.5MHz/凸起3.5MHz），並能夠處理B模式和彩色多普勒模式圖像\n* **Medical Implants for Hard-Soft Tissue Injuries**\n* **生態樹 ─ 樹頂**\n\t+ 展示工研院研發的「太陽能發電窗」技術，利用陽光發電\n\t+ 每片太陽能發電窗尺寸是110*90公分（約1平方米），發電量是18瓦；在生態樹示範面積內有20片，總發電量約360瓦\n* **Software-defined Augmented Robot Joint  : (SARJ)**\n\t+ 展示工研院研發的智慧家庭技術",
+    "chunk_id": "enhanced_8383ea73",
+    "source_file": "virtual_museum",
+    "chunk_index": 25,
+    "metadata": {
+      "source": "virtual_museum",
+      "scene_index": 15,
+      "locale": "zh-tw",
+      "crawled_at": "2025-12-18T16:30:02.059434",
+      "original_source": "virtual_museum",
+      "enhanced_at": "2025-12-18T17:22:44.991457",
+      "enhancement_model": "linly-llama3.1:70b-instruct-q4_0",
+      "original_length": 2003,
+      "cleaned_length": 583,
+      "compression_ratio": 0.291063404892661,
+      "summary": "工研院線上展示館推出多項創新產品和技術，包括遠端生命跡象偵測系統、手持超聲波檢查儀、醫療植入物等。其中，All-in-One Thermal Sensing System 可以滿足無接觸智慧醫療需求，並提供床邊離開、跌倒和久坐時間監控等功能。Handheld Ultrasound System 則是輕量便攜的超聲波檢查儀，可以隨時隨地進行超聲波檢查。此外，工研院還展示了太陽能發電窗技術和智慧家庭技術等創新成果。",
+      "key_points": [
+        "以下是提取的關鍵點：",
+        "All-in-One Thermal Sensing System可以遠端偵測生命跡象和病人活動，滿足無接觸智慧醫療需求",
+        "Handheld Ultrasound System支援64通道系統，可更換探頭，並能夠處理B模式和彩色多普勒模式圖像",
+        "生態樹展示工研院研發的太陽能發電窗技術，利用陽光發電"
+      ],
+      "entities": [
+        "8. 太陽能發電窗",
+        "6. Medical Implants for Hard-Soft Tissue Injuries",
+        "3. All-in-One Thermal Sensing System",
+        "7. 生態樹",
+        "1. 工研院",
+        "以下是識別出的實體：",
+        "4. AI",
+        "5. Handheld Ultrasound System",
+        "9. Software-defined Augmented Robot Joint (SARJ)",
+        "2. ITRI Virtual Showroom"
+      ],
+      "structured_data": {
+        "organization_info": {
+          "name": "工研院",
+          "description": ""
+        },
+        "key_people": [],
+        "achievements": [],
+        "technologies": [
+          "All-in-One Thermal Sensing System",
+          "Handheld Ultrasound System",
+          "Medical Implants for Hard-Soft Tissue Injuries",
+          "太陽能發電窗",
+          "Software-defined Augmented Robot Joint (SARJ)"
+        ],
+        "dates": [],
+        "locations": [],
+        "numbers": []
+      },
+      "enhancement_log": [
+        "Content cleaned with LLM",
+        "Structured data extracted",
+        "Summary generated",
+        "Key points extracted",
+        "Entities extracted"
+      ],
+      "quality_score": 0.746,
+      "content_length": 583,
+      "language": "zh-tw"
+    }
+  }
+]

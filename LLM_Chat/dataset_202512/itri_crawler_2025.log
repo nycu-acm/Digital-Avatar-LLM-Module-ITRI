@@ -1,0 +1,111 @@
+2025-12-18 17:05:16,602 - INFO - ✅ Connected to Ollama server successfully
+2025-12-18 17:05:16,603 - INFO - 🤖 Ollama Data Enhancer initialized with model: linly-llama3.1:70b-instruct-q4_0
+2025-12-18 17:05:16,604 - INFO - ITRI Comprehensive Crawler 2025 initialized. Output directory: dataset_202512
+2025-12-18 17:05:16,604 - INFO - 🚀 Starting comprehensive ITRI data crawling...
+2025-12-18 17:05:16,605 - INFO - 📚 Crawling Wikipedia sources...
+2025-12-18 17:05:16,605 - INFO - Crawling Wikipedia (zh-tw): https://zh.wikipedia.org/zh-tw/工業技術研究院
+2025-12-18 17:05:17,730 - INFO - ✅ Wikipedia (zh-tw) crawled successfully: 12 items
+2025-12-18 17:05:18,730 - INFO - Crawling Wikipedia (en): https://en.wikipedia.org/wiki/Industrial_Technology_Research_Institute
+2025-12-18 17:05:19,120 - INFO - ✅ Wikipedia (en) crawled successfully: 9 items
+2025-12-18 17:05:20,120 - INFO - 🏢 Crawling official ITRI website...
+2025-12-18 17:05:20,120 - INFO - Crawling official website: https://www.itri.org.tw/index.aspx
+2025-12-18 17:05:20,347 - INFO - ✅ Official page crawled: 2 items
+2025-12-18 17:05:21,347 - INFO - Crawling official website: https://www.itri.org.tw/chi/Content/Messagess/contents.aspx?SiteID=1&MmmID=1036233376112763651&MGID=1036667243556261540
+2025-12-18 17:05:21,384 - INFO - ✅ Official page crawled: 1 items
+2025-12-18 17:05:22,385 - INFO - Crawling official website: https://www.itri.org.tw/chi/Content/Messagess/contents.aspx?SiteID=1&MmmID=1036233376112763651&MGID=1036667243556261541
+2025-12-18 17:05:22,416 - INFO - ✅ Official page crawled: 1 items
+2025-12-18 17:05:23,417 - INFO - Crawling official website: https://www.itri.org.tw/eng/index.aspx
+2025-12-18 17:05:23,461 - INFO - ✅ Official page crawled: 1 items
+2025-12-18 17:05:24,462 - INFO - Crawling official website: https://www.itri.org.tw/chi/about/
+2025-12-18 17:05:24,494 - INFO - ✅ Official page crawled: 1 items
+2025-12-18 17:05:25,495 - INFO - Crawling official website: https://www.itri.org.tw/eng/about/
+2025-12-18 17:05:25,512 - ERROR - Error fetching official page https://www.itri.org.tw/eng/about/: 404 Client Error: Not Found for url: https://www.itri.org.tw/eng/about/
+2025-12-18 17:05:26,512 - INFO - Crawling official website: https://www.itri.org.tw/chi/research/
+2025-12-18 17:05:26,554 - INFO - ✅ Official page crawled: 1 items
+2025-12-18 17:05:27,554 - INFO - Crawling official website: https://www.itri.org.tw/eng/research/
+2025-12-18 17:05:27,570 - ERROR - Error fetching official page https://www.itri.org.tw/eng/research/: 404 Client Error: Not Found for url: https://www.itri.org.tw/eng/research/
+2025-12-18 17:05:28,571 - INFO - Crawling official website: https://www.itri.org.tw/chi/news/
+2025-12-18 17:05:28,613 - INFO - ✅ Official page crawled: 1 items
+2025-12-18 17:05:29,613 - INFO - Crawling official website: https://www.itri.org.tw/eng/news/
+2025-12-18 17:05:29,633 - ERROR - Error fetching official page https://www.itri.org.tw/eng/news/: 404 Client Error: Not Found for url: https://www.itri.org.tw/eng/news/
+2025-12-18 17:05:30,634 - INFO - 🏛️ Crawling ITRI virtual museum...
+2025-12-18 17:05:30,634 - INFO - Crawling virtual museum scene 1 (us)
+2025-12-18 17:05:31,881 - INFO - ✅ Museum scene 1 (us) crawled: 1 items
+2025-12-18 17:05:32,882 - INFO - Crawling virtual museum scene 2 (us)
+2025-12-18 17:05:33,696 - INFO - ✅ Museum scene 2 (us) crawled: 1 items
+2025-12-18 17:05:34,696 - INFO - Crawling virtual museum scene 3 (us)
+2025-12-18 17:05:35,362 - INFO - ✅ Museum scene 3 (us) crawled: 1 items
+2025-12-18 17:05:36,362 - INFO - Crawling virtual museum scene 4 (us)
+2025-12-18 17:05:37,198 - INFO - ✅ Museum scene 4 (us) crawled: 1 items
+2025-12-18 17:05:38,198 - INFO - Crawling virtual museum scene 5 (us)
+2025-12-18 17:05:39,039 - INFO - ✅ Museum scene 5 (us) crawled: 1 items
+2025-12-18 17:05:40,040 - INFO - Crawling virtual museum scene 6 (us)
+2025-12-18 17:05:41,364 - INFO - ✅ Museum scene 6 (us) crawled: 1 items
+2025-12-18 17:05:42,365 - INFO - Crawling virtual museum scene 7 (us)
+2025-12-18 17:05:43,587 - INFO - ✅ Museum scene 7 (us) crawled: 1 items
+2025-12-18 17:05:44,587 - INFO - Crawling virtual museum scene 8 (us)
+2025-12-18 17:05:45,742 - INFO - ✅ Museum scene 8 (us) crawled: 1 items
+2025-12-18 17:05:46,742 - INFO - Crawling virtual museum scene 9 (us)
+2025-12-18 17:05:47,868 - INFO - ✅ Museum scene 9 (us) crawled: 1 items
+2025-12-18 17:05:48,868 - INFO - Crawling virtual museum scene 10 (us)
+2025-12-18 17:05:49,537 - INFO - ✅ Museum scene 10 (us) crawled: 1 items
+2025-12-18 17:05:50,537 - INFO - Crawling virtual museum scene 11 (us)
+2025-12-18 17:05:51,717 - INFO - ✅ Museum scene 11 (us) crawled: 1 items
+2025-12-18 17:05:52,718 - INFO - Crawling virtual museum scene 12 (us)
+2025-12-18 17:05:53,610 - INFO - ✅ Museum scene 12 (us) crawled: 1 items
+2025-12-18 17:05:54,611 - INFO - Crawling virtual museum scene 13 (us)
+2025-12-18 17:05:55,317 - INFO - ✅ Museum scene 13 (us) crawled: 1 items
+2025-12-18 17:05:56,317 - INFO - Crawling virtual museum scene 14 (us)
+2025-12-18 17:05:57,297 - INFO - ✅ Museum scene 14 (us) crawled: 1 items
+2025-12-18 17:05:58,297 - INFO - Crawling virtual museum scene 15 (us)
+2025-12-18 17:05:59,413 - INFO - ✅ Museum scene 15 (us) crawled: 1 items
+2025-12-18 17:06:00,413 - INFO - Crawling virtual museum scene 1 (zh-tw)
+2025-12-18 17:06:01,521 - INFO - ✅ Museum scene 1 (zh-tw) crawled: 1 items
+2025-12-18 17:06:02,522 - INFO - Crawling virtual museum scene 2 (zh-tw)
+2025-12-18 17:06:03,325 - INFO - ✅ Museum scene 2 (zh-tw) crawled: 1 items
+2025-12-18 17:06:04,326 - INFO - Crawling virtual museum scene 3 (zh-tw)
+2025-12-18 17:06:04,993 - INFO - ✅ Museum scene 3 (zh-tw) crawled: 1 items
+2025-12-18 17:06:05,993 - INFO - Crawling virtual museum scene 4 (zh-tw)
+2025-12-18 17:06:06,846 - INFO - ✅ Museum scene 4 (zh-tw) crawled: 1 items
+2025-12-18 17:06:07,846 - INFO - Crawling virtual museum scene 5 (zh-tw)
+2025-12-18 17:06:08,568 - INFO - ✅ Museum scene 5 (zh-tw) crawled: 1 items
+2025-12-18 17:06:09,569 - INFO - Crawling virtual museum scene 6 (zh-tw)
+2025-12-18 17:06:10,657 - INFO - ✅ Museum scene 6 (zh-tw) crawled: 1 items
+2025-12-18 17:06:11,657 - INFO - Crawling virtual museum scene 7 (zh-tw)
+2025-12-18 17:06:12,356 - INFO - ✅ Museum scene 7 (zh-tw) crawled: 1 items
+2025-12-18 17:06:13,357 - INFO - Crawling virtual museum scene 8 (zh-tw)
+2025-12-18 17:06:14,205 - INFO - ✅ Museum scene 8 (zh-tw) crawled: 1 items
+2025-12-18 17:06:15,205 - INFO - Crawling virtual museum scene 9 (zh-tw)
+2025-12-18 17:06:16,603 - INFO - ✅ Museum scene 9 (zh-tw) crawled: 1 items
+2025-12-18 17:06:17,604 - INFO - Crawling virtual museum scene 10 (zh-tw)
+2025-12-18 17:06:18,726 - INFO - ✅ Museum scene 10 (zh-tw) crawled: 1 items
+2025-12-18 17:06:19,726 - INFO - Crawling virtual museum scene 11 (zh-tw)
+2025-12-18 17:06:20,565 - INFO - ✅ Museum scene 11 (zh-tw) crawled: 1 items
+2025-12-18 17:06:21,565 - INFO - Crawling virtual museum scene 12 (zh-tw)
+2025-12-18 17:06:22,398 - INFO - ✅ Museum scene 12 (zh-tw) crawled: 1 items
+2025-12-18 17:06:23,398 - INFO - Crawling virtual museum scene 13 (zh-tw)
+2025-12-18 17:06:24,066 - INFO - ✅ Museum scene 13 (zh-tw) crawled: 1 items
+2025-12-18 17:06:25,066 - INFO - Crawling virtual museum scene 14 (zh-tw)
+2025-12-18 17:06:25,741 - INFO - ✅ Museum scene 14 (zh-tw) crawled: 1 items
+2025-12-18 17:06:26,741 - INFO - Crawling virtual museum scene 15 (zh-tw)
+2025-12-18 17:06:27,550 - INFO - ✅ Museum scene 15 (zh-tw) crawled: 1 items
+2025-12-18 17:06:28,550 - INFO - 📰 Crawling news sources...
+2025-12-18 17:06:28,550 - INFO - Crawling news source: https://www.itri.org.tw/chi/news/
+2025-12-18 17:06:28,589 - INFO - ✅ News source crawled: 1 items
+2025-12-18 17:06:29,589 - INFO - Crawling news source: https://www.itri.org.tw/eng/news/
+2025-12-18 17:06:29,606 - ERROR - Error fetching news page https://www.itri.org.tw/eng/news/: 404 Client Error: Not Found for url: https://www.itri.org.tw/eng/news/
+2025-12-18 17:06:30,606 - INFO - Crawling news source: https://technews.tw/tag/itri/
+2025-12-18 17:06:30,737 - INFO - ✅ News source crawled: 1 items
+2025-12-18 17:06:31,737 - INFO - Crawling news source: https://www.digitimes.com.tw/search/?keyword=工研院
+2025-12-18 17:06:32,131 - ERROR - Error fetching news page https://www.digitimes.com.tw/search/?keyword=工研院: 404 Client Error: Not Found for url: https://www.digitimes.com.tw/search/?keyword=%E5%B7%A5%E7%A0%94%E9%99%A2
+2025-12-18 17:06:33,131 - INFO - ⚙️ Processing and structuring data...
+2025-12-18 17:06:33,131 - INFO - Processing and structuring crawled data...
+2025-12-18 17:06:33,146 - INFO - Processed 8 content groups
+2025-12-18 17:06:33,146 - INFO - 📊 Generating comprehensive dataset...
+2025-12-18 17:06:33,146 - INFO - Generating comprehensive dataset...
+2025-12-18 17:06:33,155 - INFO - Generated comprehensive dataset with 51 RAG-ready items
+2025-12-18 17:06:33,159 - INFO - Crawling results saved to dataset_202512/crawling_results_2025.json
+2025-12-18 17:06:33,159 - INFO - Summary report saved to dataset_202512/crawling_summary_2025.md
+2025-12-18 17:06:33,159 - INFO - ✅ Crawling completed! Total items: 61
+2025-12-18 17:06:33,159 - INFO - 🚀 Starting Ollama-enhanced processing of itri_rag_ready_data_2025.json
+2025-12-18 17:06:33,161 - INFO - ⚙️ Processing batch 1

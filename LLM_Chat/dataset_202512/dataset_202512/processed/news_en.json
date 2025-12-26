@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "group": "news_en",
+    "total_items": 1,
+    "processed_at": "2025-12-18T17:06:33.145287"
+  },
+  "items": [
+    {
+      "source": "news",
+      "url": "https://www.itri.org.tw/chi/news/",
+      "title": "404 Page Not Found æ¾ä¸å°æ­¤ç¶²é -å·¥æ¥­æè¡ç ç©¶é¢",
+      "content": "ï»¿\n404 Page Not Found æ¾ä¸å°æ­¤ç¶²é -å·¥æ¥­æè¡ç ç©¶é¢\n404 Error\nå¾æ±æ­ï¼æ¨è¦çç¶²é æ«æç¡æ³ä½¿ç¨æå·²è¢«ç§»é¤ã\nåå°\nå·¥æ¥­æè¡ç ç©¶é¢é¦é ",
+      "language": "en",
+      "content_type": "news",
+      "metadata": {
+        "source": "news",
+        "crawled_at": "2025-12-18T17:06:28.588331",
+        "content_length": 172
+      },
+      "crawled_at": "2025-12-18T17:06:28.589043",
+      "content_hash": "76d5bde4457df98b8c57bc83891086f3"
+    }
+  ]
+}

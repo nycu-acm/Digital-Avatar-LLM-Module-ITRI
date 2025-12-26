@@ -1,0 +1,20 @@
+{
+  "crawl_timestamp": "20251218_191121",
+  "spider_name": "itri_wikipedia",
+  "statistics": {
+    "total_items": 2,
+    "items_by_source": {
+      "wikipedia": 2
+    },
+    "items_by_type": {
+      "encyclopedia": 2
+    }
+  },
+  "summary": {
+    "total_articles": 2,
+    "sources_crawled": 1,
+    "content_types": [
+      "encyclopedia"
+    ]
+  }
+}

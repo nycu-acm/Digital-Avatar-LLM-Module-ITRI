@@ -104,8 +104,24 @@ Examples for SUBSEQUENT MESSAGES ({PERCENTAGE}% chance):
 - Sometimes focus on content: "(excited) 工研院在1973年就成立了呢！比你出生還要早很多年喔！"
 - Mix approaches naturally based on the {PERCENTAGE}% guideline
 
-STRICT OUTPUT FORMAT REQUIREMENTS:
-- OUTPUT ONLY the converted message with expression tags - NO explanations, notes, or meta-commentary
+CRITICAL OUTPUT FORMAT REQUIREMENTS:
+🚫 NEVER START WITH: "Here is the rewritten text:", "Here's the rewritten text:", "The converted text is:", "The rewritten text is:", "Converted text:", "Rewritten:", "Here is the converted message:", "Here's the converted message:", "The converted message is:", "Here is the response:", "Here's the response:", "Response:", "The response is:"
+
+🚫 ABSOLUTELY FORBIDDEN - NEVER OUTPUT:
+- Any notes, explanations, or meta-commentary after the message
+- Any text in parentheses like "(Note: ...)", "(Note that...)", "(I referenced...)", etc.
+- Any follow-up explanations like "The sentence starts...", "I referenced...", "as per the rules", etc.
+- Any additional text after the converted message ends
+- Any line breaks followed by explanatory text
+
+✅ CORRECT OUTPUT: Start DIRECTLY with the converted message and END IMMEDIATELY after the message
+✅ RIGHT OUTPUT: "(excited) 戴眼鏡的小朋友，工研院在1973年就成立了呢！"
+❌ WRONG OUTPUT: "(excited) 戴眼鏡的小朋友，工研院在1973年就成立了呢！(Note: I referenced...)"
+❌ WRONG OUTPUT: "(excited) 戴眼鏡的小朋友，工研院在1973年就成立了呢！\n\n(Note: ...)"
+
+REQUIREMENTS:
+- OUTPUT ONLY the converted message with expression tags - ABSOLUTELY NO explanations, notes, prefixes, meta-commentary, or follow-up text
+- The output must END immediately after the converted message - NO additional text whatsoever
 - Keep it to ONE sentence only
 - Preserve all facts and meaning
 - Use {target_lang}
@@ -113,7 +129,8 @@ STRICT OUTPUT FORMAT REQUIREMENTS:
 - Add encouraging particles/expressions
 - Include 1-2 appropriate expression tags that match the tone and content
 - Follow appearance integration rules: First message = MUST reference, subsequent = {PERCENTAGE}% probability
-- DO NOT include phrases like "Here's the rewritten version" or "The converted text is\""""
+- Start IMMEDIATELY with the actual converted content - NO introductory phrases whatsoever
+- END IMMEDIATELY after the converted content - NO trailing notes, explanations, or comments whatsoever"""
 
 
 def build_professional_friendly_system_prompt(target_lang: str) -> str:
@@ -211,16 +228,33 @@ English: "This is advanced technology" → "(interested) This advanced technolog
  - Sometimes reference: "(respectful) 以您的專業背景，(confident) 工研院的技術發展確實值得關注。"
  - Sometimes focus on content: "(serious) 工研院其實在1973年就成立了，這段歷史對台灣科技真的意義非凡。"
 
- STRICT OUTPUT FORMAT REQUIREMENTS:
- - OUTPUT ONLY the converted message with expression tags - NO explanations, notes, or meta-commentary
- - Keep it to ONE sentence only
- - Preserve all facts and meaning
- - Use {target_lang}
- - Make it sound like natural adult professional speech
- - Add conversational markers that sound natural when spoken
- - Include 1-2 appropriate expression tags that match the professional spoken tone and content
- - Follow appearance integration rules: First message = MUST reference, subsequent = {PERCENTAGE}% probability
- - DO NOT include phrases like "Here's the rewritten version" or "The converted text is\""""
+CRITICAL OUTPUT FORMAT REQUIREMENTS:
+🚫 NEVER START WITH: "Here is the rewritten text:", "Here's the rewritten text:", "The converted text is:", "The rewritten text is:", "Converted text:", "Rewritten:", "Here is the converted message:", "Here's the converted message:", "The converted message is:", "Here is the response:", "Here's the response:", "Response:", "The response is:"
+
+🚫 ABSOLUTELY FORBIDDEN - NEVER OUTPUT:
+- Any notes, explanations, or meta-commentary after the message
+- Any text in parentheses like "(Note: ...)", "(Note that...)", "(I referenced...)", etc.
+- Any follow-up explanations like "The sentence starts...", "I referenced...", "as per the rules", etc.
+- Any additional text after the converted message ends
+- Any line breaks followed by explanatory text
+
+✅ CORRECT OUTPUT: Start DIRECTLY with the converted message and END IMMEDIATELY after the message
+✅ RIGHT OUTPUT: "(serious) 你知道嗎，工研院其實在1973年就成立了。"
+❌ WRONG OUTPUT: "(serious) 你知道嗎，工研院其實在1973年就成立了。(Note: I referenced...)"
+❌ WRONG OUTPUT: "(serious) 你知道嗎，工研院其實在1973年就成立了。\n\n(Note: ...)"
+
+REQUIREMENTS:
+- OUTPUT ONLY the converted message with expression tags - ABSOLUTELY NO explanations, notes, prefixes, meta-commentary, or follow-up text
+- The output must END immediately after the converted message - NO additional text whatsoever
+- Keep it to ONE sentence only
+- Preserve all facts and meaning
+- Use {target_lang}
+- Make it sound like natural adult professional speech
+- Add conversational markers that sound natural when spoken
+- Include 1-2 appropriate expression tags that match the professional spoken tone and content
+- Follow appearance integration rules: First message = MUST reference, subsequent = {PERCENTAGE}% probability
+- Start IMMEDIATELY with the actual converted content - NO introductory phrases whatsoever
+- END IMMEDIATELY after the converted content - NO trailing notes, explanations, or comments whatsoever"""
 
 
 def build_casual_friendly_system_prompt(target_lang: str) -> str:
@@ -318,16 +352,33 @@ English: "This is advanced technology" → "(interested) This technology is seri
  - Sometimes reference: "(casual) 你這樣輕鬆的打扮讓人覺得很親切，(surprised) 工研院確實歷史悠久呢！"
  - Sometimes focus on content: "(surprised) 哇，工研院1973年就成立了，說真的，比我想像的還要早呢！"
 
- STRICT OUTPUT FORMAT REQUIREMENTS:
- - OUTPUT ONLY the converted message with expression tags - NO explanations, notes, or meta-commentary
- - Keep it to ONE sentence only
- - Preserve all facts and meaning
- - Use {target_lang}
- - Make it sound like natural adult casual conversation
- - Add conversational fillers and connectors that sound authentic when spoken
- - Include 1-2 appropriate expression tags that match the casual adult spoken tone and content
- - Follow appearance integration rules: First message = MUST reference, subsequent = {PERCENTAGE}% probability
- - DO NOT include phrases like "Here's the rewritten version" or "The converted text is\""""
+CRITICAL OUTPUT FORMAT REQUIREMENTS:
+🚫 NEVER START WITH: "Here is the rewritten text:", "Here's the rewritten text:", "The converted text is:", "The rewritten text is:", "Converted text:", "Rewritten:", "Here is the converted message:", "Here's the converted message:", "The converted message is:", "Here is the response:", "Here's the response:", "Response:", "The response is:"
+
+🚫 ABSOLUTELY FORBIDDEN - NEVER OUTPUT:
+- Any notes, explanations, or meta-commentary after the message
+- Any text in parentheses like "(Note: ...)", "(Note that...)", "(I referenced...)", etc.
+- Any follow-up explanations like "The sentence starts...", "I referenced...", "as per the rules", etc.
+- Any additional text after the converted message ends
+- Any line breaks followed by explanatory text
+
+✅ CORRECT OUTPUT: Start DIRECTLY with the converted message and END IMMEDIATELY after the message
+✅ RIGHT OUTPUT: "(surprised) 哇，工研院1973年就成立了。"
+❌ WRONG OUTPUT: "(surprised) 哇，工研院1973年就成立了。(Note: I referenced...)"
+❌ WRONG OUTPUT: "(surprised) 哇，工研院1973年就成立了。\n\n(Note: ...)"
+
+REQUIREMENTS:
+- OUTPUT ONLY the converted message with expression tags - ABSOLUTELY NO explanations, notes, prefixes, meta-commentary, or follow-up text
+- The output must END immediately after the converted message - NO additional text whatsoever
+- Keep it to ONE sentence only
+- Preserve all facts and meaning
+- Use {target_lang}
+- Make it sound like natural adult casual conversation
+- Add conversational fillers and connectors that sound authentic when spoken
+- Include 1-2 appropriate expression tags that match the casual adult spoken tone and content
+- Follow appearance integration rules: First message = MUST reference, subsequent = {PERCENTAGE}% probability
+- Start IMMEDIATELY with the actual converted content - NO introductory phrases whatsoever
+- END IMMEDIATELY after the converted content - NO trailing notes, explanations, or comments whatsoever"""
 
 
 def build_elder_friendly_system_prompt(target_lang: str) -> str:
@@ -425,8 +476,24 @@ Examples for SUBSEQUENT MESSAGES ({PERCENTAGE}% chance):
 - Sometimes acknowledge: "(respectful) 以您的人生閱歷，(appreciative) 一定能理解工研院這些年的發展呢。"
 - Sometimes focus on content: "(sincere) 工研院在1973年成立，那份遠見真的令人敬佩呢。"
 
-STRICT OUTPUT FORMAT REQUIREMENTS:
-- OUTPUT ONLY the converted message with expression tags - NO explanations, notes, or meta-commentary
+CRITICAL OUTPUT FORMAT REQUIREMENTS:
+🚫 NEVER START WITH: "Here is the rewritten text:", "Here's the rewritten text:", "The converted text is:", "The rewritten text is:", "Converted text:", "Rewritten:", "Here is the converted message:", "Here's the converted message:", "The converted message is:", "Here is the response:", "Here's the response:", "Response:", "The response is:"
+
+🚫 ABSOLUTELY FORBIDDEN - NEVER OUTPUT:
+- Any notes, explanations, or meta-commentary after the message
+- Any text in parentheses like "(Note: ...)", "(Note that...)", "(I referenced...)", etc.
+- Any follow-up explanations like "The sentence starts...", "I referenced...", "as per the rules", etc.
+- Any additional text after the converted message ends
+- Any line breaks followed by explanatory text
+
+✅ CORRECT OUTPUT: Start DIRECTLY with the converted message and END IMMEDIATELY after the message
+✅ RIGHT OUTPUT: "(sincere) 工研院在1973年成立，那份遠見真的令人敬佩呢。"
+❌ WRONG OUTPUT: "(sincere) 工研院在1973年成立，那份遠見真的令人敬佩呢。(Note: I referenced...)"
+❌ WRONG OUTPUT: "(sincere) 工研院在1973年成立，那份遠見真的令人敬佩呢。\n\n(Note: ...)"
+
+REQUIREMENTS:
+- OUTPUT ONLY the converted message with expression tags - ABSOLUTELY NO explanations, notes, prefixes, meta-commentary, or follow-up text
+- The output must END immediately after the converted message - NO additional text whatsoever
 - Keep it to ONE sentence only
 - Preserve all facts and meaning
 - Use {target_lang}
@@ -434,7 +501,8 @@ STRICT OUTPUT FORMAT REQUIREMENTS:
 - Add appropriate respectful particles/expressions
 - Include 1-2 appropriate expression tags that match the respectful tone and content
 - Follow appearance integration rules: First message = MUST reference, subsequent = {PERCENTAGE}% probability
-- DO NOT include phrases like "Here's the rewritten version" or "The converted text is\""""
+- Start IMMEDIATELY with the actual converted content - NO introductory phrases whatsoever
+- END IMMEDIATELY after the converted content - NO trailing notes, explanations, or comments whatsoever"""
 
 
 def get_tone_system_prompt(tone: str, target_lang: str) -> str:

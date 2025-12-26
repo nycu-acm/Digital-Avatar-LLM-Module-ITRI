@@ -1,0 +1,75 @@
+工研院線上展示館 │ ITRI Virtual Showroom
+智慧醫療
+生態樹 ─ 樹幹
+● 生態樹的應用情境－調節溫度
+─ 概念說明：樹木也具有調節溫度的功能，透過樹蔭反射/阻隔/蒸散等功能，可調節冷熱空氣的對流與循環。
+
+─ 技術應用情境：於生態樹上方天窗架設熱氣排出口，再利用太陽能發電窗所產生的電力，驅動生態樹冠上的風扇向下吹送，造成空間氣流的循環效果。
+
+─ 技術應用特色與效益：位於樹冠內的六台風扇全開（1台由太陽能供電/5台由市電供電，每台出風量每分鐘57立方米），於中央挑高區容積(2,646立方米)，每小時可以將空氣循環約7.7次。
+
+● 生態樹的應用情境－情境照明
+─ 概念說明：樹木除了具有環境循環與調節的功能外，對人類來說還具有觀賞與造景功能。
+
+─ 技術應用情境：利用擴散光板與LED燈結合之情境照明，搭配生態樹本身的藝術造型，來營造整個空間美學的藝術內涵。此外擴散光板與LED燈也可隨時因應日照變化調節室內光線。
+
+─ 技術應用特色與效益：
+生態樹擴散光板示範效能穿透度光約70%，霧度約30%；LED燈的耗電量約3,417瓦，相對於同樣光通量之彩色鹵素燈約14,903瓦，其耗電量只有23%。
+ITRI Headquaters in the 1970s
+"In the 1970s, Taiwan’s domestic industrial structure was under transformation. In response to the urgent need for the structural shift from labor-intensive to technology-intensive, the government led the establishment of the Industrial Technology Research Institute (ITRI) in 1973, which shoulders the mission of leading the way in industrial technology. After that, ITRI sent technology elites to the US for learning and introducing advanced technologies from Europe and the US, which laid the foundation for the development of Taiwan’s semiconductor and precision industries.
+The headquarters of ITRI is located in the Chung Hsing Campus in Hsinchu County."
+Chao-Chen Wang
+Chao-Chen Wang graduated from the Department of Electrical Engineering at Shanghai Jiao Tong University. He received his master’s degree in electrophysics and Ph.D. in science from Harvard University. Dr. Wang worked as a microwave electronics research engineer at the Radio Corporation of America (RCA) and Westinghouse Electric Company. He was the chief electronics researcher and Director of electron optics at the Sperry Rand Company. He later served as an adjunct professor at Brooklyn Polytechnic Institute, Chair Professor at Cornell University, and ITRI’s first Chairman and President.
+
+Dr. Wang was an internationally renowned electrophysicist and one of the top researchers specializing in the development of microwave diodes. In 1957, he was elected Fellow of the Institute of Electrical and Electronics Engineers and in 1961 became Fellow of the American Association for the Advancement of Science. In 1968, he was elected as one of the 7th Academicians of Academia Sinica.
+
+In 1973, Dr. Wang returned to Taiwan from the US, prepared the establishment of ITRI, and served as ITRI’s first Chairman and President. In 1974, along with then Executive Yuan Secretary-General Hua Fei, Minister of Economic Affairs Yun-Suan Sun, Director General of Telecommunications Hsien-Chi Fang, Minister of Transportation and Communications Yu-Shu Kao, Telecommunication Laboratories Director Bao-Huang Kang, and RCA Laboratories Director Wen-Yuan Pan, Dr. Wang planned to bring in semiconductor manufacturing technology from the US. This encouraged the establishment of the Electronics Industry Research and Development Center within ITRI and the execution of the IC project, stimulating Taiwan’s electronics industry and economic development.
+Letter of Appointment for Dr. Wen-Yuan Pan
+Dr. Wen-Yuan Pan drafted Taiwan's first IC Project and cooperated with then Minister of Economic Affairs Yun-Suan Sun, enabling integrated circuit technology to take root in Taiwan. In 1974, Dr. Pan was appointed as Advisor to the Ministry of Economic Affairs by Minister Sun.
+智慧交通
+Hsien-Chi Fang
+Hsien-Chi Fang graduated from Shanghai Jiao Tong University. He worked as the Maintenance Director at Zhejiang Telephone Bureau; Section Chief of Canton-Hankou Railway Telecommunications Section; Deputy Director-General of the Taiwan Posts and Telecommunications Bureau, Ministry of Transportation and Communications (MOTC); Director General and Administrative Deputy Minister of Taiwan Telecommunication Administration, MOTC; Head of the Directorate General of Telecommunications; President of ITRI; First CEO, Managing Director, and Vice Chairman of the Institute for Information Industry (III); and the first Chairman of United Microelectronics Corporation (UMC).
+During his term as the head of the Directorate General of Telecommunications, Dr. Fang contributed significantly to the expansion of domestic telecom businesses. In 1974, he worked with then Radio Corporation of America (RCA) Laboratories Director Wen-Yuan Pan, Minister of Economic Affairs Yun-Suan Sun and four others to propose the industrial policies for semiconductor development. Dr. Fang also played a crucial role in coordinating the IC development project between different governmental agencies. He helped set up the Technical Advisory Committee (TAC), where members are mainly overseas Chinese, to provide technical consulting services for Taiwan’s electronics industries.
+In 1978, Dr. Fang became the second President of ITRI. In 1980, ITRI formed its first spinoff company UMC, marking a milestone for Taiwan’s semiconductor industry. Dr. Fang was later invited to serve as UMC’s first Chairman. He also assisted Kwoh-Ting Li in setting up III and worked as its Vice Chairman. Dr. Fang was later hired as Chairman for At Telecom Corp. (present Lucent Technologies Taiwan Telecommunications Co).
+生態樹 ─ 樹根
+● 生態樹的應用情境－潔淨水質
+─ 概念說明：樹木的根部具有涵養水源的功能，有一些水生植物則具有分解與浄化水質的功能。
+
+─ 技術應用情境： Qwater為一模組化且可快速組裝之淨水系統，核心技術為生物膜濾技術，係結合「(生物)濾床區」和「薄膜分離區」之創新水與廢水處理系統。
+
+─ 技術應用特色與效益：Qwater技術特別適用於原水或低濃度污水處理，適合應用於生活污水、工業廢水、洗車廢水、社區/學校簡易自來水等處理及中水回收等。
+生態樹 ─ 樹頂
+● 生態樹的應用情境－光合作用
+─ 概念說明：光合作用是植物利用陽光來製造能量(碳水化合物)的一種機制。
+
+─ 技術應用情境：於生態樹上方天窗架設工研院研發之「太陽能發電窗」技術，用以展示太陽能發電窗利用陽光發電的情境。
+
+─ 技術應用特色與效益：每片太陽能發電窗尺寸是110*90公分（約1平方米），發電量是18瓦；在生態樹示範面積內有20片，總發電量約360瓦。
+
+● 生態樹的應用情境－淨化空氣
+─ 概念說明：樹木透過光合作用中吸收二氧化碳與排放氧氣的過程，可達到淨化空氣的效果，此外植物散發的揮發性物質「芬多精」也可殺死空氣中的細菌、害蟲以及病原菌。
+
+─ 技術應用情境：利用生態樹冠上塗層的自然光觸媒技術，來達到抵抗空間病菌及分解有機揮發氣體(VOC)的效果。
+
+─ 技術應用特色與效益：樹冠內隱藏風扇可每小時讓整個空間換氣7次以上，並吹過光觸媒塗層區，淨化空氣。光觸媒抗菌效能可達99.99%，1g奈米光觸媒可分解20微克有機揮發性氣體（甲醛）。
+Dr. Wen-Yuan Pan introduces semiconductor technology to Taiwan.
+In February 1974, then Executive Yuan Secretary-General Hua Fei, Minister of Economic Affairs (MOEA) Yun-Suan Sun, Director General of Telecommunications Hsien-Chi Fang, Minister of Transportation and Communications Yu-Shu Kao, ITRI President Chao-Chen Wang, Telecommunication Laboratories Director Bao-Huang Kang, and Radio Corporation of America (RCA) Laboratories Director Wen-Yuan Pan gathered at a small breakfast shop on Huaining St. in Taipei to work out Taiwan's “Future Path for Electronics Development.” Dr. Pan believed that, to speed up the growth of Taiwan’s electronics industry, integrated circuit (IC) would be the best investment, and introducing technology from the US would be the most efficient way to realize it. Later that year in July, Dr. Pan shut himself away in The Grand Hotel to draft the IC development project. With the full support from Minister Sun, the project was launched. The MOEA also set up the Electronics Industry Research and Development Center within ITRI.
+
+Back then IC technology was considered very complex, and due to limited budget, Taiwan could only develop one technology. After considerable discussion, experts eventually decided to introduce CMOS technology. RCA, which had very mature CMOS technology, was chosen as the partner for Taiwan’s IC collaboration project. In April 1976, the first group of engineers (19 people) set off for the US and brought back the technology. In October 1977, Taiwan’s very first IC demo plant was completed. The IC technology transfer was successful and the production surpassed the 50% yield rate of the original RCA plant.
+Taiwan’s First Commercial IC-CIC001
+In 1976, ITRI began to assemble Taiwan's first CMOS IC demonstration production line in Building 15 under the supervision of Ding-Hua Hu, then General Director of the Electronics Research & Service Organization. Over 30 engineers who underwent training at RCA in the US, including Dr. Chin-Tay Shih, returned to Taiwan in 1977 and began IC technology research and development in the newly-completed Building 15. Their research results allowed Taiwan's IC industry to secure a world-leading position.
+3-inch Silicon Wafer
+ITRI signed the CMOS IC Technology Transfer Licensing Agreement with RCA, successfully introducing 3-inch silicon wafer and semiconductor manufacturing process technology.
+Hsien-Hsiu Hsu
+In 1973, Dr. Hsu, who was the Minister of the National Science Council of Executive Yuan, visited the US, Europe, Japan, and Korea to observe their technology development and learn why they were so successful. Later he suggested that Taiwan should establish science parks to attract major international companies to come to invest and set up production facilities. This would also stimulate the development of technology industries and encourage overseas talents to return home and start their businesses. Hsinchu already had certain technology R&D capabilities and talents as well as research and academic institutions such as ITRI, National Tsing Hua University, and National Chiao Tung University; thus, Dr. Hsu strongly recommended setting up a science park in Hsinchu.
+In 1978, Dr. Hsu assumed office as the second Chairman of ITRI. During his term, he encouraged the development of semiconductors and personal computers, laying down a strong foundation for emerging high-tech industries in Taiwan. Dr. Hsu was an Academician of the Academia Sinica. He received an Outstanding Contribution Award and Honorary Doctorate from Purdue University and an Honorary Doctorate from NTHU.
+Presidential Proclamation for ITRI Establishment Act
+President Chiang Kai-Shek formally proclaimed the Industrial Technology Research Institute Establishment Act on January 31, 1973. The establishment of ITRI marked an important milestone for Taiwan's industrial technology R&D and the development of scientific research systems.
+The No. 2 Chinese-Language Computer
+To provide Chinese localization of computers and improve national competitiveness, ITRI developed its No. 2 Chinese-language computer that can display and carry out data compilation in Chinese, and applied it to the Telecommunication Training Institute under the Ministry of Transportation and Communications.
+Dr. Yun-Suan Sun is instrumental in forging the establishment of ITRI.
+Yun-Suan Sun served as the Minister of Economic Affairs (MOEA) in 1969 when Taiwan was facing various diplomatic and economic challenges. Dr. Sun firmly believed that Taiwan’s economy could only fully transform and take off by transitioning from labor-intensive to technology-intensive industries. He therefore decided to merge MOEA’s three R&D institutes (the Union Industrial Research Institute, Mining Research and Service Organization, and Metal Industries Research Institute) and formed the Industrial Technology Research Institute (ITRI), in an effort to integrate resources and talents to assist Taiwan’s industries.
+
+Dr. Sun drafted the establishment plan and defined the institute as a foundation to break governmental regulations and give scholars who have returned to Taiwan more flexibility. Initially, the establishment act for ITRI were rejected by the Legislative Yuan. After Dr. Sun spent more than a year explaining and negotiating with them, ITRI was officially established on July 5, 1973. Academician of Academia Sinica Chao-Chen Wang was the first President, and Dr. Sun was honored as the “Father of ITRI.
+The Natural Gas Research Institute in 1973
+The Natural Gas Research Institute was established in 1936. It was one of the central research institutions in Taiwan during the Japanese Colonial Period and was also the earliest industrial research unit in Taiwan, mainly focusing on the research of the exploitation and application of oil, natural gas, condensate and coal. After the World War II, it was renamed as the Union Industrial Research Institute (UIRI) of the Ministry of Economic Affairs. With Dr. Yun-Suan Sun’s vigorous effort, the UIRI merged with the Mining Research and Service Organization and the Metal Industries Research Institute to form the Industrial Technology Research Institute in 1973, creating a series of transformation and upgrading for Taiwan's industries.

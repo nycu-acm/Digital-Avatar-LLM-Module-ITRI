@@ -1,0 +1,26 @@
+{
+  "crawl_timestamp": "20251218_191640",
+  "spider_name": "itri_official",
+  "statistics": {
+    "total_items": 1659,
+    "items_by_source": {
+      "itri_official": 1659
+    },
+    "items_by_type": {
+      "research": 935,
+      "news": 715,
+      "article": 8,
+      "service": 1
+    }
+  },
+  "summary": {
+    "total_articles": 1659,
+    "sources_crawled": 1,
+    "content_types": [
+      "research",
+      "news",
+      "article",
+      "service"
+    ]
+  }
+}

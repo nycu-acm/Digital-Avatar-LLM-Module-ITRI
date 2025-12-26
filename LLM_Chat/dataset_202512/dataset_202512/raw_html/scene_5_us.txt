@@ -1,0 +1,66 @@
+工研院線上展示館 │ ITRI Virtual Showroom
+The CMC-100 Microcomputer
+"ITRI carried out an industry development 
+project to develop microcomputer technology. It successfully developed a series of CMC microcomputers, solidifying the foundation for the subsequent development of PCs and opening a new page for Taiwan's computer industry. "
+生態樹 ─ 樹幹
+● 生態樹的應用情境－調節溫度
+─ 概念說明：樹木也具有調節溫度的功能，透過樹蔭反射/阻隔/蒸散等功能，可調節冷熱空氣的對流與循環。
+
+─ 技術應用情境：於生態樹上方天窗架設熱氣排出口，再利用太陽能發電窗所產生的電力，驅動生態樹冠上的風扇向下吹送，造成空間氣流的循環效果。
+
+─ 技術應用特色與效益：位於樹冠內的六台風扇全開（1台由太陽能供電/5台由市電供電，每台出風量每分鐘57立方米），於中央挑高區容積(2,646立方米)，每小時可以將空氣循環約7.7次。
+
+● 生態樹的應用情境－情境照明
+─ 概念說明：樹木除了具有環境循環與調節的功能外，對人類來說還具有觀賞與造景功能。
+
+─ 技術應用情境：利用擴散光板與LED燈結合之情境照明，搭配生態樹本身的藝術造型，來營造整個空間美學的藝術內涵。此外擴散光板與LED燈也可隨時因應日照變化調節室內光線。
+
+─ 技術應用特色與效益：
+生態樹擴散光板示範效能穿透度光約70%，霧度約30%；LED燈的耗電量約3,417瓦，相對於同樣光通量之彩色鹵素燈約14,903瓦，其耗電量只有23%。
+4-inch Silicon Wafer
+United Microelectronics Corporation (UMC), one of ITRI's spinoffs, was the first 4-inch silicon wafer maker in Taiwan. This set a new paradigm in Taiwan's turn-key technology transfers.
+6-inch Silicon 
+Wafer
+In 1986, the VLSI demonstration factory was inaugurated at ITRI's Building 67. The facility, known as Taiwan Semiconductor Fab 1 at that time, manufactured 6-inch silicon wafers.
+生態樹 ─ 樹頂
+● 生態樹的應用情境－光合作用
+─ 概念說明：光合作用是植物利用陽光來製造能量(碳水化合物)的一種機制。
+
+─ 技術應用情境：於生態樹上方天窗架設工研院研發之「太陽能發電窗」技術，用以展示太陽能發電窗利用陽光發電的情境。
+
+─ 技術應用特色與效益：每片太陽能發電窗尺寸是110*90公分（約1平方米），發電量是18瓦；在生態樹示範面積內有20片，總發電量約360瓦。
+
+● 生態樹的應用情境－淨化空氣
+─ 概念說明：樹木透過光合作用中吸收二氧化碳與排放氧氣的過程，可達到淨化空氣的效果，此外植物散發的揮發性物質「芬多精」也可殺死空氣中的細菌、害蟲以及病原菌。
+
+─ 技術應用情境：利用生態樹冠上塗層的自然光觸媒技術，來達到抵抗空間病菌及分解有機揮發氣體(VOC)的效果。
+
+─ 技術應用特色與效益：樹冠內隱藏風扇可每小時讓整個空間換氣7次以上，並吹過光觸媒塗層區，淨化空氣。光觸媒抗菌效能可達99.99%，1g奈米光觸媒可分解20微克有機揮發性氣體（甲醛）。
+The ITRI-A Robot
+ITRI completed development of its ITRI-A robot for use in assembly lines of small components. This was Taiwan's first robot of its type, and the technology was transferred to local firms to boost automation of their production lines.
+ITRI Headquaters in the 1980s
+ITRI actively established industrial automation technology to assist Taiwan’s traditional industries in shifting from the labor-intensive production model to a technology-intensive one. The Institute successfully promoted the personal computer, optoelectronic, and mechanical automation industries by cultivating and transferring technologies and talents. The seeds of Taiwan's personal computer development were planted, making personal computers become the mainstream of information industry and driving the establishment and development of new industries.
+Chung-Mou Chang
+Chung-Mou Chang received his bachelor’s and master’s degrees in mechanical engineering from the Massachusetts Institute of Technology and Ph.D. degree in electrical engineering from Stanford University. Dr. Chang started his career at Sylvania Semiconductor, and served as Group Senior Vice-President at Texas Instrument, and as President & COO at General Instrument Corporation. He later founded Taiwan Semiconductor Manufacturing Company (TSMC). 
+
+In 1985, Dr. Chang was invited by then ITRI Chairman Hsien-Hsiu Hsu to return to Taiwan and serve as the third President of ITRI. During his term, Dr. Chang initiated many reforms. He employed an American management style and launched a hiring system to encourage ITRI to be constantly innovative and creative. In 1988, Dr. Chang served as ITRI’s third Chairman and continued supporting ITRI to apply research results to the industry. By bridging the gap between research and industry, ITRI secured its role as one of the world’s leading R&D institutions.
+In 1986, ITRI set up the spinoff TSMC with Chang as its Chairman. In 2000, Dr. Chang was awarded the Institute of Electrical and Electronics Engineers (IEEE) Robert N. Noyce Medal. In 2011, he received the IEEE Medal of Honor, and was named as one of the first ITRI Laureates in 2012.
+Otto C. C. Lin
+Otto C. C. Lin received his bachelor’s degree from National Taiwan University, and master’s and Ph.D. degrees in macromolecular science from Columbia University. He worked as a researcher and research director at DuPont. Later he returned to Taiwan and taught at National Tsing Hua University (NTHU) as a professor. Dr. Lin served as the Dean of the College of Engineering at NTHU in 1978, during which he launched collaboration projects between the university and industries. He also set up the Center for Materials Science and facilitated many large material technology collaboration research projects, establishing the foundation for Taiwan’s polymer science.
+In 1983, Dr. Lin became the General Director of ITRI’s Materials Research Laboratories. He headed the six-year national industrial material technology project and was awarded the Excellent Research Result Award from the Ministry of Economic Affairs. In 1986, Dr. Lin was elected as the President of the Materials Research Society-Taiwan (MRS-T) and held the post for four years. During his term, MRS-T was evaluated as an “Outstanding Group” by the Ministry of the Interior. Dr. Lin also received the Chih-Hung Lu Memorial Award from MRS-T.
+In 1988, Dr. Lin served as the fourth President of ITRI. He emphasized the R&D of advanced technology and expanded the connection with industries by providing industrial services. This assisted in the development of Taiwan’s high-tech industries and the upgrading of traditional small and medium-sized enterprises. Under his leadership, ITRI also transferred many technologies to companies, including integrated circuits, laptops, optoelectronic components, general automobile engines, and composite materials. This set the foundation for Taiwan’s technology-intensive industry. In 1994, Dr. Lin was the winner of the Tung-Ho Outstanding Research Award - Material Science Category.
+Carbon Fiber Bicycles
+ITRI developed lightweight and stiff carbon fiber composite materials to replace the use of steel or aluminum in bicycle frames. This helped Giant become the world's first maker of carbon fiber bikes.
+生態樹 ─ 樹根
+● 生態樹的應用情境－潔淨水質
+─ 概念說明：樹木的根部具有涵養水源的功能，有一些水生植物則具有分解與浄化水質的功能。
+
+─ 技術應用情境： Qwater為一模組化且可快速組裝之淨水系統，核心技術為生物膜濾技術，係結合「(生物)濾床區」和「薄膜分離區」之創新水與廢水處理系統。
+
+─ 技術應用特色與效益：Qwater技術特別適用於原水或低濃度污水處理，適合應用於生活污水、工業廢水、洗車廢水、社區/學校簡易自來水等處理及中水回收等。
+Chung-Mou Chang
+Chung-Mou Chang received his bachelor’s and master’s degrees in mechanical engineering from the Massachusetts Institute of Technology and Ph.D. degree in electrical engineering from Stanford University. Dr. Chang started his career at Sylvania Semiconductor, and served as Group Senior Vice-President at Texas Instrument, and as President & COO at General Instrument Corporation. He later founded Taiwan Semiconductor Manufacturing Company (TSMC). 
+
+In 1985, Dr. Chang was invited by then ITRI Chairman Hsien-Hsiu Hsu to return to Taiwan and serve as the third President of ITRI. During his term, Dr. Chang initiated many reforms. He employed an American management style and launched a hiring system to encourage ITRI to be constantly innovative and creative. In 1988, Dr. Chang served as ITRI’s third Chairman and continued supporting ITRI to apply research results to the industry. By bridging the gap between research and industry, ITRI secured its role as one of the world’s leading R&D institutions.
+In 1986, ITRI set up the spinoff TSMC with Chang as its Chairman. In 2000, Dr. Chang was awarded the Institute of Electrical and Electronics Engineers (IEEE) Robert N. Noyce Medal. In 2011, he received the IEEE Medal of Honor, and was named as one of the first ITRI Laureates in 2012.
+智慧交通

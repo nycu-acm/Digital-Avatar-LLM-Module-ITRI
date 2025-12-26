@@ -1,0 +1,1 @@
+python create_showroom_db.py --golden --reload --embedding-model nomic-embed-text

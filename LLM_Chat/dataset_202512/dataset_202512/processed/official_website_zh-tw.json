@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "group": "official_website_zh-tw",
+    "total_items": 2,
+    "processed_at": "2025-12-18T17:06:33.136544"
+  },
+  "items": [
+    {
+      "source": "official_website",
+      "url": "https://www.itri.org.tw/index.aspx",
+      "title": "工業技術研究院-首頁",
+      "content": "為升級並提供更穩定的網路服務，本院將於6月21日（六）上午09:00至15:00進行網路維護作業。期間網站服務略有短暫中斷，感謝您的理解與支持！",
+      "language": "zh-tw",
+      "content_type": "webpage",
+      "metadata": {
+        "source": "official_website",
+        "crawled_at": "2025-12-18T17:05:20.345835",
+        "content_length": 72
+      },
+      "crawled_at": "2025-12-18T17:05:20.347136",
+      "content_hash": "09f333cab36c30d1b381f0b7a8c1cb76"
+    },
+    {
+      "source": "official_website",
+      "url": "https://www.itri.org.tw/index.aspx#尖端科技",
+      "title": "工業技術研究院-首頁 - 尖端科技",
+      "content": "智慧生活人機互動與服務自主移動系統智慧消費與運籌服務隨身定位及姿態感測模組多重感測隨身定位及姿態模組是整合加速度計、陀螺儀、磁力計及高度計之應用。且透過自有專...更多資訊\n健康樂活智慧醫療健康照護靜脈定位投影儀本裝置利用近紅外線探測皮下淺表靜脈，使靜脈血液對特定波長的峰值吸收進行運算，透過光電...更多資訊\n永續環境循環經濟低碳製造綠能系統與環境科技高效率水處理系統研發與推廣平台針對工業廢水處理議題，工研院建構「高效率水處理系統研發與推廣平台」，包括水中特定汙染...更多資訊\n韌性社會基礎設施韌性資源能源韌性生產力韌性動態力感測模組壓電式動態力感測模組，具備高動態反應以及高可靠度之特性，透過感測器訊號即時監控設備衝...更多資訊\n智慧化致能技術人工智慧與資安半導體晶片通訊智慧感測機器手臂泛用取物技術提供倉儲物流業及金屬加工業泛用取物應用所需之擬真自動標記資料產生機制與穩定取物點偵測...更多資訊",
+      "language": "zh-tw",
+      "content_type": "section",
+      "metadata": {
+        "source": "official_website",
+        "crawled_at": "2025-12-18T17:05:20.345835",
+        "content_length": 72,
+        "section_name": "尖端科技"
+      },
+      "crawled_at": "2025-12-18T17:05:20.347170",
+      "content_hash": "e228ece8a7e7be24aee65d0e9a3b09f3"
+    }
+  ]
+}

@@ -1,0 +1,933 @@
+{
+  "url": "https://www.itri.org.tw/index.aspx",
+  "title": "工業技術研究院-首頁",
+  "main_content": "為升級並提供更穩定的網路服務，本院將於6月21日（六）上午09:00至15:00進行網路維護作業。期間網站服務略有短暫中斷，感謝您的理解與支持！",
+  "sections": {
+    "工業技術研究院": "搜尋\n輸入關鍵字送出熱門搜尋：\n關閉視窗",
+    "尖端科技": "智慧生活人機互動與服務自主移動系統智慧消費與運籌服務隨身定位及姿態感測模組多重感測隨身定位及姿態模組是整合加速度計、陀螺儀、磁力計及高度計之應用。且透過自有專...更多資訊\n健康樂活智慧醫療健康照護靜脈定位投影儀本裝置利用近紅外線探測皮下淺表靜脈，使靜脈血液對特定波長的峰值吸收進行運算，透過光電...更多資訊\n永續環境循環經濟低碳製造綠能系統與環境科技高效率水處理系統研發與推廣平台針對工業廢水處理議題，工研院建構「高效率水處理系統研發與推廣平台」，包括水中特定汙染...更多資訊\n韌性社會基礎設施韌性資源能源韌性生產力韌性動態力感測模組壓電式動態力感測模組，具備高動態反應以及高可靠度之特性，透過感測器訊號即時監控設備衝...更多資訊\n智慧化致能技術人工智慧與資安半導體晶片通訊智慧感測機器手臂泛用取物技術提供倉儲物流業及金屬加工業泛用取物應用所需之擬真自動標記資料產生機制與穩定取物點偵測...更多資訊",
+    "產業服務": "技術移轉檢測服務業界合作創業育成中心"
+  },
+  "navigation": [
+    {
+      "text": "跳到主要內容區塊",
+      "href": "#mainContent",
+      "title": "跳到主要內容區塊"
+    },
+    {
+      "text": ":::",
+      "href": "#U",
+      "title": "右上方功能區塊"
+    },
+    {
+      "text": "網站導覽",
+      "href": "ListStyle.aspx?DisplayStyle=SiteMap&SiteID=1",
+      "title": "網站導覽"
+    },
+    {
+      "text": "線上展示館",
+      "href": "https://www.itri-showroom.com/",
+      "title": "另開視窗 線上展示館"
+    },
+    {
+      "text": "菁英招募",
+      "href": "ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1307112475533454221",
+      "title": "菁英招募"
+    },
+    {
+      "text": "公告",
+      "href": "ListStyle.aspx?DisplayStyle=12&SiteID=1&MmmID=1036461244216621372",
+      "title": "公告"
+    },
+    {
+      "text": "English",
+      "href": "https://www.itri.org.tw/english/index.aspx",
+      "title": "另開視窗 開啟英文網"
+    },
+    {
+      "text": "工業技術研究院",
+      "href": "/index.aspx",
+      "title": ""
+    },
+    {
+      "text": "尖端科技",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220471661407647132",
+      "title": "尖端科技"
+    },
+    {
+      "text": "智慧生活",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220471661407647132",
+      "title": "智慧生活"
+    },
+    {
+      "text": "人機互動與服務",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220471661407647132",
+      "title": "人機互動與服務"
+    },
+    {
+      "text": "自主移動系統",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376112763651",
+      "title": "自主移動系統"
+    },
+    {
+      "text": "智慧消費與運籌服務",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220471661424412226",
+      "title": "智慧消費與運籌服務"
+    },
+    {
+      "text": "智慧化致能技術",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220671723542215626",
+      "title": "智慧化致能技術"
+    },
+    {
+      "text": "人工智慧與資安",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220671723542215626",
+      "title": "人工智慧與資安"
+    },
+    {
+      "text": "半導體晶片",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1071732316365755674",
+      "title": "半導體晶片"
+    },
+    {
+      "text": "通訊",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1071732316442173030",
+      "title": "通訊"
+    },
+    {
+      "text": "智慧感測",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1164152504353117356",
+      "title": "智慧感測"
+    },
+    {
+      "text": "健康樂活",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376130625427",
+      "title": "健康樂活"
+    },
+    {
+      "text": "智慧醫療",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376130625427",
+      "title": "智慧醫療"
+    },
+    {
+      "text": "健康照護",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376157517435",
+      "title": "健康照護"
+    },
+    {
+      "text": "永續環境",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376167172113",
+      "title": "永續環境"
+    },
+    {
+      "text": "循環經濟",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376167172113",
+      "title": "循環經濟"
+    },
+    {
+      "text": "低碳製造",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220671723431671212",
+      "title": "低碳製造"
+    },
+    {
+      "text": "綠能系統與環境科技",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376244004650",
+      "title": "綠能系統與環境科技"
+    },
+    {
+      "text": "韌性社會",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220237422150543031",
+      "title": "韌性社會"
+    },
+    {
+      "text": "基礎設施韌性",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220237422150543031",
+      "title": "基礎設施韌性"
+    },
+    {
+      "text": "資源能源韌性",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220237422605107207",
+      "title": "資源能源韌性"
+    },
+    {
+      "text": "生產力韌性",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220237422646432531",
+      "title": "生產力韌性"
+    },
+    {
+      "text": "產業服務",
+      "href": "ListStyle.aspx?DisplayStyle=13&SiteID=1&MmmID=1036233405427625204",
+      "title": "產業服務"
+    },
+    {
+      "text": "技術移轉",
+      "href": "ListStyle.aspx?DisplayStyle=13&SiteID=1&MmmID=1036233405427625204",
+      "title": "技術移轉"
+    },
+    {
+      "text": "淨零排放服務",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1162132136253006037",
+      "title": "淨零排放服務"
+    },
+    {
+      "text": "淨零排放服務",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1162132136253006037",
+      "title": "淨零排放服務"
+    },
+    {
+      "text": "檢測服務",
+      "href": "ListStyle.aspx?DisplayStyle=14&SiteID=1&MmmID=1036233405457223112",
+      "title": "檢測服務"
+    },
+    {
+      "text": "產業人才培訓",
+      "href": "ListStyle.aspx?DisplayStyle=17&SiteID=1&MmmID=1036233406142165560",
+      "title": "產業人才培訓"
+    },
+    {
+      "text": "產業趨勢與情報",
+      "href": "ListStyle.aspx?DisplayStyle=15&SiteID=1&MmmID=1036461234426716651",
+      "title": "產業趨勢與情報"
+    },
+    {
+      "text": "產業情報焦點",
+      "href": "ListStyle.aspx?DisplayStyle=15&SiteID=1&MmmID=1036461234426716651",
+      "title": "產業情報焦點"
+    },
+    {
+      "text": "產業趨勢數據",
+      "href": "ListStyle.aspx?DisplayStyle=16&SiteID=1&MmmID=1036461234717610054",
+      "title": "產業趨勢數據"
+    },
+    {
+      "text": "開放實驗室與創業育成",
+      "href": "ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036741260767443023",
+      "title": "開放實驗室與創業育成"
+    },
+    {
+      "text": "開放實驗室",
+      "href": "ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036741260767443023",
+      "title": "開放實驗室"
+    },
+    {
+      "text": "創業育成中心",
+      "href": "ListStyle.aspx?DisplayStyle=03&SiteID=1&MmmID=1036741261042234155",
+      "title": "創業育成中心"
+    },
+    {
+      "text": "業界合作",
+      "href": "ListStyle.aspx?DisplayStyle=02&SiteID=1&MmmID=1036461235026737435",
+      "title": "業界合作"
+    },
+    {
+      "text": "委託研究及產品開發",
+      "href": "ListStyle.aspx?DisplayStyle=02&SiteID=1&MmmID=1036461235026737435",
+      "title": "委託研究及產品開發"
+    },
+    {
+      "text": "研發實驗室",
+      "href": "ListStyle.aspx?DisplayStyle=02&SiteID=1&MmmID=1036461235100031417",
+      "title": "研發實驗室"
+    },
+    {
+      "text": "產業聯盟",
+      "href": "ListStyle.aspx?DisplayStyle=02&SiteID=1&MmmID=1036461235706027373",
+      "title": "產業聯盟"
+    },
+    {
+      "text": "無形資產評價",
+      "href": "ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036677772233472511",
+      "title": "無形資產評價"
+    },
+    {
+      "text": "國際合作",
+      "href": "ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036233406747565624",
+      "title": "國際合作"
+    },
+    {
+      "text": "合作案例",
+      "href": "ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036233406747565624",
+      "title": "合作案例"
+    },
+    {
+      "text": "學研機構",
+      "href": "ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036233406747565624",
+      "title": "學研機構"
+    },
+    {
+      "text": "國際企業",
+      "href": "ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036233406757430274",
+      "title": "國際企業"
+    },
+    {
+      "text": "合作夥伴",
+      "href": "ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036461264154254513",
+      "title": "合作夥伴"
+    },
+    {
+      "text": "亞洲",
+      "href": "ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036461264154254513",
+      "title": "亞洲"
+    },
+    {
+      "text": "美洲",
+      "href": "ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036461264166221171",
+      "title": "美洲"
+    },
+    {
+      "text": "歐洲",
+      "href": "ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036461264273420723",
+      "title": "歐洲"
+    },
+    {
+      "text": "大洋洲",
+      "href": "ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036461264303735476",
+      "title": "大洋洲"
+    },
+    {
+      "text": "全球服務據點",
+      "href": "ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036461236020411264",
+      "title": "全球服務據點"
+    },
+    {
+      "text": "國內服務據點",
+      "href": "ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036461236020411264",
+      "title": "國內服務據點"
+    },
+    {
+      "text": "國外服務據點",
+      "href": "ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036461236030144272",
+      "title": "國外服務據點"
+    },
+    {
+      "text": "新聞中心",
+      "href": "ListStyle.aspx?DisplayStyle=06&SiteID=1&MmmID=1036276263153520257",
+      "title": "新聞中心"
+    },
+    {
+      "text": "新聞室",
+      "href": "ListStyle.aspx?DisplayStyle=06&SiteID=1&MmmID=1036276263153520257",
+      "title": "新聞室"
+    },
+    {
+      "text": "最新新聞",
+      "href": "ListStyle.aspx?DisplayStyle=06&SiteID=1&MmmID=1036276263153520257",
+      "title": "最新新聞"
+    },
+    {
+      "text": "澄清說明",
+      "href": "ListStyle.aspx?DisplayStyle=06&SiteID=1&MmmID=1125775676601166347",
+      "title": "澄清說明"
+    },
+    {
+      "text": "活動訊息",
+      "href": "ListStyle.aspx?DisplayStyle=06&SiteID=1&MmmID=1037361433721776651",
+      "title": "活動訊息"
+    },
+    {
+      "text": "電子報",
+      "href": "ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036461236504741606",
+      "title": "電子報"
+    },
+    {
+      "text": "出版品",
+      "href": "ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1036461236174225047",
+      "title": "出版品"
+    },
+    {
+      "text": "工業技術研究院年報",
+      "href": "ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1036461236174225047",
+      "title": "工業技術研究院年報"
+    },
+    {
+      "text": "工業技術研究院簡介",
+      "href": "ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1036461246000713111",
+      "title": "工業技術研究院簡介"
+    },
+    {
+      "text": "工業技術與資訊月刊",
+      "href": "ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1036452026061075714",
+      "title": "工業技術與資訊月刊"
+    },
+    {
+      "text": "機械工業雜誌",
+      "href": "ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1036452025756363357",
+      "title": "機械工業雜誌"
+    },
+    {
+      "text": "工業材料雜誌",
+      "href": "ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1036452026017131620",
+      "title": "工業材料雜誌 "
+    },
+    {
+      "text": "電腦與通訊",
+      "href": "ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1036452026006746322",
+      "title": "電腦與通訊"
+    },
+    {
+      "text": "永續報告書",
+      "href": "ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1254536553446732606",
+      "title": "永續報告書"
+    },
+    {
+      "text": "公益手冊",
+      "href": "ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1254536553624761404",
+      "title": "公益手冊"
+    },
+    {
+      "text": "精彩影音",
+      "href": "ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036276261006777130",
+      "title": "精彩影音"
+    },
+    {
+      "text": "智慧生活",
+      "href": "ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036276261006777130",
+      "title": "智慧生活"
+    },
+    {
+      "text": "健康樂活",
+      "href": "ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036276261016573377",
+      "title": "健康樂活"
+    },
+    {
+      "text": "永續環境",
+      "href": "ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036276261030451724",
+      "title": "永續環境"
+    },
+    {
+      "text": "科技哪裡趣",
+      "href": "ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1127554704742226474",
+      "title": "科技哪裡趣"
+    },
+    {
+      "text": "一起撩科技",
+      "href": "ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1164355506526206143",
+      "title": "一起撩科技"
+    },
+    {
+      "text": "淨零永續新生活",
+      "href": "ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1161722673125527636",
+      "title": "淨零永續新生活"
+    },
+    {
+      "text": "其他",
+      "href": "ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036233415135705271",
+      "title": "其他"
+    },
+    {
+      "text": "Podcast",
+      "href": "ListStyle.aspx?DisplayStyle=22&SiteID=1&MmmID=1126445272415215607",
+      "title": "Podcast"
+    },
+    {
+      "text": "淨零排放",
+      "href": "ListStyle.aspx?DisplayStyle=26&SiteID=1&MmmID=1163726127431613005",
+      "title": "淨零排放"
+    },
+    {
+      "text": "淨零新知",
+      "href": "ListStyle.aspx?DisplayStyle=26&SiteID=1&MmmID=1163726127431613005",
+      "title": "淨零新知"
+    },
+    {
+      "text": "政策法規",
+      "href": "ListStyle.aspx?DisplayStyle=26&SiteID=1&MmmID=1163726127431613005",
+      "title": "政策法規"
+    },
+    {
+      "text": "淨零聯盟",
+      "href": "ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1164552551034266046",
+      "title": "淨零聯盟"
+    },
+    {
+      "text": "淨零趨勢",
+      "href": "ListStyle.aspx?DisplayStyle=25&SiteID=1&MmmID=1164121731647300401",
+      "title": "淨零趨勢"
+    },
+    {
+      "text": "淨零案例",
+      "href": "ListStyle.aspx?DisplayStyle=26&SiteID=1&MmmID=1164121731675134073",
+      "title": "淨零案例"
+    },
+    {
+      "text": "論壇簡報",
+      "href": "ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1216705037317600401",
+      "title": "論壇簡報"
+    },
+    {
+      "text": "淨零服務",
+      "href": "ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1164144620406753564",
+      "title": "淨零服務"
+    },
+    {
+      "text": "企業淨零方案服務",
+      "href": "ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1164144620406753564",
+      "title": "企業淨零方案服務"
+    },
+    {
+      "text": "碳盤查與碳足跡",
+      "href": "ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1163726127545477703",
+      "title": "碳盤查與碳足跡"
+    },
+    {
+      "text": "碳查證",
+      "href": "ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1163726127651626676",
+      "title": "碳查證"
+    },
+    {
+      "text": "淨零永續學校",
+      "href": "ListStyle.aspx?DisplayStyle=24&SiteID=1&MmmID=1162130611512704224",
+      "title": "淨零永續學校"
+    },
+    {
+      "text": "智權法務",
+      "href": "ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1164121735362566062",
+      "title": "智權法務"
+    },
+    {
+      "text": "淨零永續對策與商機",
+      "href": "ListStyle.aspx?DisplayStyle=23&SiteID=1&MmmID=1164121735352636141",
+      "title": "淨零永續對策與商機"
+    },
+    {
+      "text": "淨零技術",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1162127241645721235",
+      "title": "淨零技術"
+    },
+    {
+      "text": "需求使用",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1162127241645721235",
+      "title": "需求使用"
+    },
+    {
+      "text": "低碳製造",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1162127241662511173",
+      "title": "低碳製造"
+    },
+    {
+      "text": "能源供給",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1162127241653213770",
+      "title": "能源供給"
+    },
+    {
+      "text": "環境永續",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1162127241711441152",
+      "title": "環境永續"
+    },
+    {
+      "text": "影音專區",
+      "href": "ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1164126144720047012",
+      "title": "影音專區"
+    },
+    {
+      "text": "減碳技術",
+      "href": "ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1164126144720047012",
+      "title": "減碳技術"
+    },
+    {
+      "text": "人才培育",
+      "href": "ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1164126144735260001",
+      "title": "人才培育"
+    },
+    {
+      "text": "減碳新知",
+      "href": "ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1164126144765520321",
+      "title": "減碳新知"
+    },
+    {
+      "text": "業務洽詢",
+      "href": "BusinessNegotiation.aspx?DisplayStyle=99&SiteID=1&MmmID=1217346472410014341",
+      "title": "業務洽詢"
+    },
+    {
+      "text": "淨零會員中心",
+      "href": "maintenance.aspx?DisplayStyle=98&SiteID=1&MmmID=1217370122045450310",
+      "title": "淨零會員中心"
+    },
+    {
+      "text": "組織永續",
+      "href": "javascript:void(0);",
+      "title": "組織永續"
+    },
+    {
+      "text": "組織永續網",
+      "href": "https://itrisdgs.itri.org.tw/chi/index",
+      "title": "組織永續網(開新視窗)"
+    },
+    {
+      "text": "整合管理政策",
+      "href": "ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1254536556250062674",
+      "title": "整合管理政策"
+    },
+    {
+      "text": "社會公益",
+      "href": "https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036234671344040362",
+      "title": "社會公益"
+    },
+    {
+      "text": "關於我們",
+      "href": "ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036233406503070534",
+      "title": "關於我們"
+    },
+    {
+      "text": "工研院簡介",
+      "href": "ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036233406503070534",
+      "title": "工研院簡介"
+    },
+    {
+      "text": "簡介",
+      "href": "ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036233406503070534",
+      "title": "簡介"
+    },
+    {
+      "text": "歷任董事長",
+      "href": "ListStyle.aspx?DisplayStyle=21&SiteID=1&MmmID=1073041761577765124",
+      "title": "歷任董事長"
+    },
+    {
+      "text": "歷任院長",
+      "href": "ListStyle.aspx?DisplayStyle=21&SiteID=1&MmmID=1073007573616144203",
+      "title": "歷任院長"
+    },
+    {
+      "text": "董監事會",
+      "href": "ListStyle.aspx?DisplayStyle=07&SiteID=1&MmmID=1036233406511370353",
+      "title": "董監事會"
+    },
+    {
+      "text": "經營團隊介紹",
+      "href": "ListStyle.aspx?DisplayStyle=08&SiteID=1&MmmID=1036233406517556313",
+      "title": "經營團隊介紹"
+    },
+    {
+      "text": "工研院院士",
+      "href": "ListStyle.aspx?DisplayStyle=09&SiteID=1&MmmID=1036234671167627651",
+      "title": "工研院院士"
+    },
+    {
+      "text": "院士簡介",
+      "href": "ListStyle.aspx?DisplayStyle=09&SiteID=1&MmmID=1036234671167627651",
+      "title": "院士簡介"
+    },
+    {
+      "text": "院士授證",
+      "href": "ListStyle.aspx?DisplayStyle=10&SiteID=1&MmmID=1036234671176306267",
+      "title": "院士授證"
+    },
+    {
+      "text": "院士會議",
+      "href": "ListStyle.aspx?DisplayStyle=10&SiteID=1&MmmID=1036234671232642073",
+      "title": "院士會議"
+    },
+    {
+      "text": "獲獎榮耀",
+      "href": "ListStyle.aspx?DisplayStyle=19&SiteID=1&MmmID=1036261176767170542",
+      "title": "獲獎榮耀"
+    },
+    {
+      "text": "誠信經營",
+      "href": "ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1073506342667552677",
+      "title": "誠信經營"
+    },
+    {
+      "text": "搜尋",
+      "href": "#",
+      "title": "搜尋"
+    },
+    {
+      "text": "關閉視窗",
+      "href": "#",
+      "title": "關閉視窗"
+    },
+    {
+      "text": "即刻報名",
+      "href": "https://www.accupass.com/event/2512041259321898903048",
+      "title": "即刻報名"
+    },
+    {
+      "text": "閃耀國際工研院囊括3大獎",
+      "href": "https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114112411143505010",
+      "title": "閃耀國際"
+    },
+    {
+      "text": "創新界奧斯卡勇奪三金三銀一銅",
+      "href": "https://itriwww.itri.org.tw/ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114060317201455004",
+      "title": "創新界奧斯卡"
+    },
+    {
+      "text": "全球百大創新機構狂賀本院九度獲獎",
+      "href": "https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114031216035173729",
+      "title": "全球百大創新機構"
+    },
+    {
+      "text": "國際合作槓桿國際能量　鏈結創新網絡",
+      "href": "https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036233406747565624",
+      "title": "國際合作"
+    },
+    {
+      "text": ":::",
+      "href": "#C",
+      "title": "主要內容區塊"
+    },
+    {
+      "text": "2025-12-10工研院無人商店「拿了就走」　全影像AI、邊緣運算打造新零售",
+      "href": "ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114121010175753036",
+      "title": "工研院無人商店「拿了就走」　全影像AI、邊緣運算打造新零售"
+    },
+    {
+      "text": "2025-12-10工研院攜手錼創科技、追風科技　打造國內首款Micro LED AI智慧眼鏡",
+      "href": "ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114121012304416371",
+      "title": "工研院攜手錼創科技、追風科技　打造國內首款Micro LED AI智慧眼鏡"
+    },
+    {
+      "text": "2025-12-09暌違五年IEEE GLOBECOM匯聚全球6G頂尖專家來臺　工研院發表我國首套6G基地台天線系統",
+      "href": "ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114120913271396059",
+      "title": "暌違五年IEEE GLOBECOM匯聚全球6G頂尖專家來臺　工研院發表我國首套6G基地台天線系統"
+    },
+    {
+      "text": "2025-12-08工研院獲頒行政院「國家永續發展獎」　以科技研發提升社會福祉　樹立研發法人永續新標竿",
+      "href": "ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114120816300091789",
+      "title": "工研院獲頒行政院「國家永續發展獎」　以科技研發提升社會福祉　樹立研發法人永續新標竿"
+    },
+    {
+      "text": "2025-12-05全球智慧醫療創新高峰會登場　經濟部以AI驅動臺灣　工研院助攻國際醫療　成為科技新樞紐",
+      "href": "ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114120514324159060",
+      "title": "全球智慧醫療創新高峰會登場　經濟部以AI驅動臺灣　工研院助攻國際醫療　成為科技新樞紐"
+    },
+    {
+      "text": "2025-12-04工研院、工商協進會結盟　簽署策略夥伴協議　以生醫為起點　推動跨域創新與健康產業升級",
+      "href": "ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114120415525422714",
+      "title": "工研院、工商協進會結盟　簽署策略夥伴協議　以生醫為起點　推動跨域創新與健康產業升級"
+    },
+    {
+      "text": "人機互動與服務",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220471661407647132",
+      "title": "人機互動與服務"
+    },
+    {
+      "text": "自主移動系統",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376112763651",
+      "title": "自主移動系統"
+    },
+    {
+      "text": "智慧消費與運籌服務",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220471661424412226",
+      "title": "智慧消費與運籌服務"
+    },
+    {
+      "text": "隨身定位及姿態感測模組多重感測隨身定位及姿態模組是整合加速度計、陀螺儀、磁力計及高度計之應用。且透過自有專...更多資訊",
+      "href": "ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036233376112763651&MGID=707306222177164604",
+      "title": "隨身定位及姿態感測模組"
+    },
+    {
+      "text": "智慧醫療",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376130625427",
+      "title": "智慧醫療"
+    },
+    {
+      "text": "健康照護",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376157517435",
+      "title": "健康照護"
+    },
+    {
+      "text": "靜脈定位投影儀本裝置利用近紅外線探測皮下淺表靜脈，使靜脈血液對特定波長的峰值吸收進行運算，透過光電...更多資訊",
+      "href": "ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036233376130625427&MGID=1126710307175225665",
+      "title": "靜脈定位投影儀"
+    },
+    {
+      "text": "循環經濟",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376167172113",
+      "title": "循環經濟"
+    },
+    {
+      "text": "低碳製造",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220671723431671212",
+      "title": "低碳製造"
+    },
+    {
+      "text": "綠能系統與環境科技",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376244004650",
+      "title": "綠能系統與環境科技"
+    },
+    {
+      "text": "高效率水處理系統研發與推廣平台針對工業廢水處理議題，工研院建構「高效率水處理系統研發與推廣平台」，包括水中特定汙染...更多資訊",
+      "href": "ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036233376167172113&MGID=746027337052503370",
+      "title": "高效率水處理系統研發與推廣平台"
+    },
+    {
+      "text": "基礎設施韌性",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220237422150543031",
+      "title": "基礎設施韌性"
+    },
+    {
+      "text": "資源能源韌性",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220237422605107207",
+      "title": "資源能源韌性"
+    },
+    {
+      "text": "生產力韌性",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220237422646432531",
+      "title": "生產力韌性"
+    },
+    {
+      "text": "動態力感測模組壓電式動態力感測模組，具備高動態反應以及高可靠度之特性，透過感測器訊號即時監控設備衝...更多資訊",
+      "href": "ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1220237422646432531&MGID=744026720625136051",
+      "title": "動態力感測模組"
+    },
+    {
+      "text": "人工智慧與資安",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220671723542215626",
+      "title": "人工智慧與資安"
+    },
+    {
+      "text": "半導體晶片",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1071732316365755674",
+      "title": "半導體晶片"
+    },
+    {
+      "text": "通訊",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1071732316442173030",
+      "title": "通訊"
+    },
+    {
+      "text": "智慧感測",
+      "href": "ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1164152504353117356",
+      "title": "智慧感測"
+    },
+    {
+      "text": "機器手臂泛用取物技術提供倉儲物流業及金屬加工業泛用取物應用所需之擬真自動標記資料產生機制與穩定取物點偵測...更多資訊",
+      "href": "ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1220671723542215626&MGID=1036733443303511337",
+      "title": "機器手臂泛用取物技術"
+    },
+    {
+      "text": "技術移轉",
+      "href": "ListStyle.aspx?DisplayStyle=13&SiteID=1&MmmID=1036233405427625204",
+      "title": "技術移轉"
+    },
+    {
+      "text": "檢測服務",
+      "href": "ListStyle.aspx?DisplayStyle=14&SiteID=1&MmmID=1036233405457223112",
+      "title": "檢測服務"
+    },
+    {
+      "text": "業界合作",
+      "href": "ListStyle.aspx?DisplayStyle=02&SiteID=1&MmmID=1036461235026737435",
+      "title": "業界合作"
+    },
+    {
+      "text": "創業育成中心",
+      "href": "ListStyle.aspx?DisplayStyle=03&SiteID=1&MmmID=1036741261042234155",
+      "title": "創業育成中心"
+    },
+    {
+      "text": "更多資訊",
+      "href": "ListStyle.aspx?DisplayStyle=15&SiteID=1&MmmID=1036461234426716651",
+      "title": "更多產業情報焦點"
+    },
+    {
+      "text": "新創引領轉型風潮　工研院論壇發表2026年十大創新趨勢",
+      "href": "https://ieknet.iek.org.tw/iekrpt/rpt_open.aspx?actiontype=rpt&indu_idno=0&domain=0&rpt_idno=762543607",
+      "title": "另開視窗-新創引領轉型風潮　工研院論壇發表2026年十大創新趨勢"
+    },
+    {
+      "text": "Zettabyte財務長龍牧生：算力資本化啟動全球AI新競局",
+      "href": "https://ieknet.iek.org.tw/iekrpt/rpt_open.aspx?actiontype=rpt&indu_idno=0&domain=0&rpt_idno=420582714",
+      "title": "另開視窗-Zettabyte財務長龍牧生：算力資本化啟動全球AI新競局"
+    },
+    {
+      "text": "工研院「眺望2026產業發展趨勢研討會」登場　以AI與量子為核心　四大策略打造臺灣量子產業生態系",
+      "href": "https://ieknet.iek.org.tw/iekrpt/rpt_open.aspx?actiontype=rpt&indu_idno=0&domain=0&rpt_idno=728355332",
+      "title": "另開視窗-工研院「眺望2026產業發展趨勢研討會」登場　以AI與量子為核心　四大策略打造臺灣量子產業生態系"
+    },
+    {
+      "text": "2025 IEKTopics｜鴻海的量子實踐之路：離子阱量子電腦",
+      "href": "https://ieknet.iek.org.tw/iekrpt/rpt_more.aspx?actiontype=rpt&indu_idno=0&domain=0&rpt_idno=108854064",
+      "title": "另開視窗-2025 IEKTopics｜鴻海的量子實踐之路：離子阱量子電腦"
+    },
+    {
+      "text": "2025 IEKTopics｜跨越運算極限，推動生醫轉譯嶄新模式",
+      "href": "https://ieknet.iek.org.tw/iekrpt/rpt_more.aspx?actiontype=rpt&indu_idno=0&domain=0&rpt_idno=109917236",
+      "title": "另開視窗-2025 IEKTopics｜跨越運算極限，推動生醫轉譯嶄新模式"
+    },
+    {
+      "text": "更多資訊",
+      "href": "ListStyle.aspx?DisplayStyle=17&SiteID=1&MmmID=1036233406142165560",
+      "title": "更多產業人才培訓"
+    },
+    {
+      "text": "2024-09-05 電控與工業通訊聯網暨大數據AI應用",
+      "href": "https://college.itri.org.tw/Home/LessonData?PosterGUID=876B7881-9E5C-4959-8FA0-7B55F8F7889B",
+      "title": "另開視窗-2024-09-05 電控與工業通訊聯網暨大數據AI應用"
+    },
+    {
+      "text": "2024-10-17 智慧機器人基礎及進階應用技術學程",
+      "href": "https://college.itri.org.tw/Home/LessonData?PosterGUID=0B5ED16E-6496-4621-A0F6-890C041A9C39",
+      "title": "另開視窗-2024-10-17 智慧機器人基礎及進階應用技術學程"
+    },
+    {
+      "text": "2024-10-21 自駕車與電動車技術整合",
+      "href": "https://college.itri.org.tw/Home/LessonData?PosterGUID=167726B5-93E9-4D83-98CF-4FC20D5DF3D9",
+      "title": "另開視窗-2024-10-21 自駕車與電動車技術整合"
+    },
+    {
+      "text": "2024-11-12 智慧工廠系統整合技術應用學程",
+      "href": "https://college.itri.org.tw/Home/LessonData?PosterGUID=08872870-AB5E-43CF-8C12-FEF4D2C74D33",
+      "title": "另開視窗-2024-11-12 智慧工廠系統整合技術應用學程"
+    },
+    {
+      "text": "2024-12-04 精密控制與無人機技術課程",
+      "href": "https://college.itri.org.tw/Home/LessonData?PosterGUID=34F4DF58-C6B0-4A96-9295-F1F03B3DD93A",
+      "title": "另開視窗-2024-12-04 精密控制與無人機技術課程"
+    },
+    {
+      "text": ":::",
+      "href": "#Z",
+      "title": "下方功能區塊"
+    },
+    {
+      "text": "法律聲明",
+      "href": "/ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036712133204351167",
+      "title": "法律聲明"
+    },
+    {
+      "text": "採購資訊",
+      "href": "https://vendor.itri.org.tw/broadBqry.aspx",
+      "title": "另開視窗-採購資訊"
+    },
+    {
+      "text": "工研院圖書館",
+      "href": "/ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036715042742732171",
+      "title": "工研院圖書館"
+    },
+    {
+      "text": "專業連結",
+      "href": "/ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036712133432576012",
+      "title": "專業連結"
+    },
+    {
+      "text": "常見問答",
+      "href": "/ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036712133442100327",
+      "title": "常見問答"
+    },
+    {
+      "text": "聯絡我們",
+      "href": "ContactUs.aspx",
+      "title": "聯絡我們"
+    },
+    {
+      "text": "地圖",
+      "href": "/ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036712143533651215",
+      "title": "地圖"
+    },
+    {
+      "text": "回頂端",
+      "href": "javascript:void(0)",
+      "title": ""
+    }
+  ],
+  "language": "zh-tw",
+  "metadata": {
+    "source": "official_website",
+    "crawled_at": "2025-12-18T17:05:20.345835",
+    "content_length": 72
+  }
+}

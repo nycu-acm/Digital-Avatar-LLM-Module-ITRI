@@ -1,0 +1,20 @@
+{
+  "crawl_timestamp": "20251218_194358",
+  "spider_name": "itri_showroom",
+  "statistics": {
+    "total_items": 3,
+    "items_by_source": {
+      "itri_showroom": 3
+    },
+    "items_by_type": {
+      "virtual_showroom_exhibit": 3
+    }
+  },
+  "summary": {
+    "total_articles": 3,
+    "sources_crawled": 1,
+    "content_types": [
+      "virtual_showroom_exhibit"
+    ]
+  }
+}

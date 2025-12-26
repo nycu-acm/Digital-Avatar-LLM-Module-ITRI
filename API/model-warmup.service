@@ -1,0 +1,35 @@
+[Unit]
+Description=Model Warmup Server for RAG + LLM API
+Documentation=https://github.com/your-repo/demo-gitspace
+After=network.target
+Wants=network.target
+
+[Service]
+Type=simple
+User=www-data
+Group=www-data
+WorkingDirectory=/mnt/HDD4/thanglq/he110/Demo_GitSpace/API
+ExecStart=/usr/bin/python3 /mnt/HDD4/thanglq/he110/Demo_GitSpace/API/model_warmup_server.py --api-url http://localhost:5002 --interval 10
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=model-warmup
+
+# Resource limits
+MemoryLimit=512M
+CPUQuota=50%
+
+# Security settings
+NoNewPrivileges=yes
+PrivateTmp=yes
+ProtectSystem=strict
+ProtectHome=yes
+ReadWritePaths=/tmp
+
+# Environment
+Environment=PYTHONPATH=/mnt/HDD4/thanglq/he110/Demo_GitSpace
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=multi-user.target

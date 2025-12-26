@@ -18,6 +18,7 @@ import json
 import time
 import logging
 import requests
+import re
 from typing import List, Dict, Any, Optional
 from flask import Flask, request, jsonify, Response, stream_template, stream_with_context
 from flask_cors import CORS
@@ -34,7 +35,7 @@ sys.path.insert(0, os.path.join(parent_dir, 'LLM_Chat'))
 from LLM_Chat.RAG_LLM_realtime import ImprovedRAGPipeline
 
 # Import tone system prompts
-from tone_system_prompts_no_tag import get_tone_system_prompt, build_tone_selector_system_prompt, PERCENTAGE
+from tone_system_prompts_no_tag import get_tone_system_prompt, build_tone_selector_system_prompt, PERCENTAGE, build_fixed_system_prompt, build_query_rewriter_prompt
 # from tone_system_prompts import get_tone_system_prompt, build_tone_selector_system_prompt
 
 # Colors for console output
@@ -42,6 +43,7 @@ YELLOW = "\033[93m"
 GREEN = "\033[92m"
 BLUE = "\033[94m"
 RED = "\033[91m"
+GRAY = "\033[90m"
 RESET = "\033[0m"
 
 class RAGLLMAPIService:
@@ -550,8 +552,8 @@ class RAGLLMAPIService:
                         return True  # Still consider this successful
             
             # Build cached system prompt
-            self.rag_pipeline.cached_system_prompt = self.rag_pipeline._build_fixed_system_prompt(
-                "NOTICE: You must answer in 1 sentence only.(請用一句話回答!只能有一句!不可以超過) The response language should depend on what the user requires. If the user does not specify a language, use the same language as the user input. If Mandarin or Chinese is requested, respond in Traditional Chinese (zh-tw)."
+            self.rag_pipeline.cached_system_prompt = build_fixed_system_prompt(
+                "NOTICE: The response language should depend on what the user requires. If the user does not specify a language, use the same language as the user input. If Mandarin or Chinese is requested, respond in Traditional Chinese (zh-tw). Most importantly, ensure all information comes from rag_reference and is accurate and truthful."
             )
             
             self.rag_initialized = True
@@ -562,6 +564,82 @@ class RAGLLMAPIService:
             print(f"{RED}❌ RAG initialization failed: {e}{RESET}")
             self.rag_initialized = False
             return False
+    
+    def _rewrite_query(self, user_question: str, chat_history: List[Dict]) -> str:
+        """
+        Rewrite user question using chat history context to create a better search query.
+        
+        Args:
+            user_question: The current user question
+            chat_history: Previous conversation history
+        
+        Returns:
+            str: Rewritten query optimized for embedding search, or original question if rewriting fails
+        """
+        try:
+            # Detect input language
+            has_chinese = any('\u4e00' <= char <= '\u9fff' for char in user_question)
+            target_lang = "Traditional Chinese (繁體中文)" if has_chinese else "English"
+            
+            # Build system prompt
+            system_prompt = build_query_rewriter_prompt(target_lang)
+            
+            # Format chat history for context
+            history_context = ""
+            if chat_history:
+                history_context = "\nChat History:\n"
+                for msg in chat_history[-4:]:  # Use last 4 messages for context
+                    role = msg.get("role", "")
+                    content = msg.get("content", "")
+                    if role == "user":
+                        history_context += f"User: {content}\n"
+                    elif role == "assistant":
+                        history_context += f"Assistant: {content}\n"
+            
+            # Build user instruction
+            user_instruction = f"""Rewrite this user question into a searchable query optimized for embedding-based retrieval.
+
+{history_context}
+Current User Question: {user_question}
+
+Output ONLY the rewritten query without any explanations or prefixes."""
+
+            payload = {
+                "model": f"{LLM_MODEL_NAME}",
+                "messages": [
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_instruction},
+                ],
+                "stream": False,
+                "options": {"temperature": 0.3}  # Lower temperature for more consistent rewriting
+            }
+            
+            resp = requests.post("http://localhost:11435/api/chat", json=payload, timeout=10)
+            resp.raise_for_status()
+            data = resp.json()
+            
+            if isinstance(data, dict) and "message" in data and isinstance(data["message"], dict):
+                rewritten_query = data["message"].get("content", "").strip()
+            elif isinstance(data, dict) and "response" in data:
+                rewritten_query = str(data.get("response", "")).strip()
+            else:
+                rewritten_query = ""
+            
+            # Clean up the response (remove any prefixes that might have been added)
+            rewritten_query = rewritten_query.replace("Rewritten query:", "").replace("Query:", "").strip()
+            rewritten_query = rewritten_query.split("\n")[0].strip()  # Take first line only
+            
+            if rewritten_query and len(rewritten_query) > 3:
+                print(f"{BLUE}🔄 Query rewritten: '{user_question}' → '{rewritten_query}'{RESET}")
+                return rewritten_query
+            else:
+                print(f"{YELLOW}⚠️ Query rewriting failed or returned empty, using original query{RESET}")
+                return user_question
+                
+        except Exception as e:
+            self.logger.error(f"Query rewriting failed: {e}")
+            print(f"{YELLOW}⚠️ Query rewriting error: {e}, using original query{RESET}")
+            return user_question  # Fallback to original question
     
     def _determine_tone_from_user_description(self, user_description: str) -> str:
         """
@@ -711,7 +789,15 @@ class RAGLLMAPIService:
             
             user_instruction = (
                 f"Rewrite this text to speak to {target_audience} in {target_lang}:{context_info}\n"
-                f"---\n{text}\n---"
+                f"---\n{text}\n---\n\n"
+                f"CRITICAL OUTPUT REQUIREMENTS:\n"
+                f"- Strickly follow the convert mechanism about how to convert the answer to the right way\n"
+                f"- Output ONLY the rewritten text - NO explanations, notes, prefixes, or meta-commentary\n"
+                f"- Do NOT add any text after the rewritten message ends\n"
+                f"- Do NOT include any notes like '(Note: ...)', '(I referenced...)', or similar explanations\n"
+                f"- Do NOT add any follow-up text, comments, or clarifications\n"
+                f"- The output must END immediately after the rewritten message - NO additional text whatsoever\n"
+                f"- Start directly with the converted message and stop immediately when it ends"
             )
 
             payload = {
@@ -773,29 +859,45 @@ class RAGLLMAPIService:
             # Enhanced instruction with user context and first message guidance
             context_info = ""
             if user_description:
-                context_info += f"\nUser Appearance: {user_description}"
+                context_info += f"\n[使用者外貌描述]: {user_description}"
             if user_msg:
-                context_info += f"\nUser Question: {user_msg}"
+                context_info += f"\n[使用者的原始問題]: {user_msg}"
             
-            # Add first message guidance
+            # 第一輪對話的特別引導
+            first_msg_guide = ""
             if is_first_message and user_description:
-                context_info += f"\nFirst Message: YES (MUST reference user appearance to grab attention)"
+                first_msg_guide = "\n這是我與客人的初次見面，請務必在開場時親切地提到對方的外貌特徵（如：紅帽子、慈祥的笑容）來拉近距離。"
             elif user_description:
-                context_info += f"\nFirst Message: NO ({PERCENTAGE}% chance to reference appearance for variety)"
-            
+                # 這裡的 PERCENTAGE 變數請在您的程式碼上下文中定義
+                first_msg_guide = f"\n這不是初次見面，請自然地對話。有 {PERCENTAGE}% 的機率可以再次提到對方的外貌，增加親切感。"
+
+            # 組合最終的 user_instruction
             user_instruction = (
-                f"Rewrite this text to speak to {target_audience} in {target_lang}:{context_info}\n"
-                f"---\n{text}\n---"
+                f"### 導覽任務資訊 ###\n"
+                f"目標語言：{target_lang}\n"
+                f"導覽對象：{target_audience}\n"
+                f"{context_info}\n"
+                f"{first_msg_guide}\n"
+                f"\n"
+                f"### 待轉換的事實內容（Part 1 產出） ###\n"
+                f"---\n{text}\n---\n\n"
+                f"### 輸出規範 ###\n"
+                f"1. 請依照「資深導覽員」的身份，將上述【事實內容】編織成一段溫暖的故事。\n"
+                f"2. 嚴禁使用任何表情符號 (Emoji)。\n"
+                f"3. 僅輸出轉換後的對話文字，不可包含任何備註、解釋、標籤（如「導覽員：」）或提示詞。\n"
+                f"4. 確保文字通順、有長輩緣，並自然地帶出事實內容中的關鍵數據。\n"
+                f"5. 訊息結束後請立即停止，不要有任何多餘的結語。"
             )
 
+            # 這是您原本的 payload 結構
             payload = {
                 "model": f"{LLM_MODEL_NAME}",
                 "messages": [
-                    {"role": "system", "content": system_prompt},
+                    {"role": "system", "content": system_prompt}, # 這裡傳入 build_elder_friendly_system_prompt
                     {"role": "user", "content": user_instruction},
                 ],
                 "stream": True,
-                "options": {"temperature": 0.3}
+                "options": {"temperature": 0.5}
             }
 
             response = requests.post("http://localhost:11435/api/chat", json=payload, stream=True)
@@ -851,9 +953,12 @@ class RAGLLMAPIService:
                 print(f"{BLUE}📝 Input: text_user_msg='{text_user_msg[:50]}...', session_id='{session_id}', chat_history_size={len(chat_history)}{RESET}")
                 
                 # Generate QA response directly (no parallel processing needed)
+                # Pass user_description to LLM so it can consider visual context during response generation
                 try:
-                    print(f"{BLUE}🔄 Calling _generate_streaming_response...{RESET}")
-                    original_response_generator = self._generate_streaming_response(text_user_msg, session_id, chat_history)
+                    print(f"{BLUE}🔄 Calling _generate_streaming_response with vision description...{RESET}")
+                    original_response_generator = self._generate_streaming_response(
+                        text_user_msg, session_id, chat_history, user_description=fetched_user_description
+                    )
                     print(f"{GREEN}✅ Generator created, starting iteration...{RESET}")
                     chunk_count = 0
                     for chunk in original_response_generator:
@@ -873,7 +978,7 @@ class RAGLLMAPIService:
                     
                     print(f"{GREEN}✅ QA response collected! Total chunks: {chunk_count}, Total length: {len(response_content)} chars{RESET}")
                     print(f"{BLUE}📝 Using client-provided user description: '{fetched_user_description}'{RESET}")
-                    print(f"{BLUE}💬 QA response preview: '{response_content[:100]}...' (full length: {len(response_content)}){RESET}")
+                    print(f"{RED}💬 QA response preview: '{response_content}' (full length: {len(response_content)}){RESET}")
                     
                     if not response_content.strip():
                         print(f"{YELLOW}⚠️ WARNING: QA response is empty!{RESET}")
@@ -891,20 +996,43 @@ class RAGLLMAPIService:
             else:
                 # No client-provided description - query Vision server in parallel with QA
                 with ThreadPoolExecutor(max_workers=2) as executor:
-                    # Task 1: Fetch visual context from Vision API
-                    print(f"{BLUE}📸 Fetching visual context from Vision server for session ID: '{session_id[20:] if len(session_id) > 20 else session_id}'{RESET}")
-                    future_description = executor.submit(self._fetch_user_description_from_server, session_id[20:] if len(session_id) > 20 else session_id)
+                    # Task 1: Fetch visual context from Vision API (with 2-second delay)
+                    def _delayed_fetch_user_description():
+                        """Wait 2 seconds before fetching visual context from Vision server."""
+                        print(f"{YELLOW}⏳ Delaying Vision server fetch by 2 seconds...{RESET}")
+                        time.sleep(2)
+                        print(f"{BLUE}📸 Fetching visual context from Vision server for session ID: '{session_id[20:] if len(session_id) > 20 else session_id}'{RESET}")
+                        return self._fetch_user_description_from_server(
+                            session_id[20:] if len(session_id) > 20 else session_id
+                        )
+
+                    future_description = executor.submit(_delayed_fetch_user_description)
                     
                     # Task 2: Generate QA response
+                    # Try to wait for vision description before starting QA (with timeout)
                     def collect_qa_response():
-                        """Helper function to collect full QA response"""
+                        """Helper function to collect full QA response, waiting for vision description if available"""
                         try:
                             print(f"{BLUE}[Thread] Starting QA response collection...{RESET}")
                             print(f"[Thread] Input: text_user_msg='{text_user_msg[:50]}...', session_id='{session_id}', chat_history_size={len(chat_history)}{RESET}")
                             
+                            # Try to get vision description first (wait up to 3 seconds)
+                            # This allows LLM to see vision context during response generation
+                            vision_desc = ""
+                            try:
+                                print(f"{BLUE}[Thread] Waiting for vision description (max 3 seconds)...{RESET}")
+                                vision_desc = future_description.result(timeout=3)
+                                print(f"{GREEN}[Thread] ✅ Got vision description: '{vision_desc}'{RESET}")
+                            except Exception as e:
+                                print(f"{YELLOW}[Thread] ⚠️ Vision description not available yet or timeout: {e}{RESET}")
+                                print(f"{YELLOW}[Thread] Proceeding without vision description in LLM context{RESET}")
+                                vision_desc = ""
+                            
                             content = ""
-                            print(f"{BLUE}[Thread] Calling _generate_streaming_response...{RESET}")
-                            original_response_generator = self._generate_streaming_response(text_user_msg, session_id, chat_history)
+                            print(f"{BLUE}[Thread] Calling _generate_streaming_response with vision description...{RESET}")
+                            original_response_generator = self._generate_streaming_response(
+                                text_user_msg, session_id, chat_history, user_description=vision_desc
+                            )
                             print(f"{GREEN}[Thread] Generator created, starting iteration...{RESET}")
                             
                             chunk_count = 0
@@ -915,7 +1043,7 @@ class RAGLLMAPIService:
                                     break
                                 elif chunk.startswith("ERROR:"):
                                     print(f"{RED}[Thread] ❌ Error in QA response: {chunk}{RESET}")
-                                    return None, chunk  # Return error
+                                    return None, chunk, vision_desc  # Return error and vision_desc
                                 else:
                                     content += chunk
                                     if chunk_count <= 5 or chunk_count % 50 == 0:
@@ -924,31 +1052,24 @@ class RAGLLMAPIService:
                             print(f"{GREEN}[Thread] ✅ QA response collected! Total chunks: {chunk_count}, Total length: {len(content)} chars{RESET}")
                             if not content.strip():
                                 print(f"{YELLOW}[Thread] ⚠️ WARNING: QA response is empty!{RESET}")
-                            return content, None
+                            return content, None, vision_desc  # Return vision_desc so main thread can use it
                         except Exception as e:
                             error_msg = f"[Thread] Error in collect_qa_response: {str(e)}"
                             print(f"{RED}❌ {error_msg}{RESET}")
                             import traceback
                             print(f"{RED}[Thread] Traceback: {traceback.format_exc()}{RESET}")
-                            return None, f"ERROR: {error_msg}"
+                            return None, f"ERROR: {error_msg}", ""
                     
                     future_qa = executor.submit(collect_qa_response)
                     
                     # Wait for both tasks to complete
                     print(f"{YELLOW}⏳ Waiting for parallel tasks to complete...{RESET}")
                     
-                    # Get user description result from Vision server (with timeout)
-                    try:
-                        fetched_user_description = future_description.result(timeout=10)
-                        print(f"{BLUE}📸 Vision server returned: '{fetched_user_description}'{RESET}")
-                    except Exception as e:
-                        print(f"{RED}❌ Error getting Vision server result: {e}{RESET}")
-                        fetched_user_description = ""
-                    
-                    # Get QA response result (with timeout)
+                    # Get QA response result (with timeout) - this also returns the vision description
                     try:
                         print(f"{YELLOW}⏳ Waiting for QA response (this may take a while)...{RESET}")
-                        response_content, error = future_qa.result(timeout=120)  # 2 minute timeout for LLM
+                        result = future_qa.result(timeout=120)  # 2 minute timeout for LLM
+                        response_content, error, fetched_user_description = result
                         
                         if error:
                             print(f"{RED}❌ QA response collection failed: {error}{RESET}")
@@ -956,6 +1077,16 @@ class RAGLLMAPIService:
                             yield error
                             yield "END_FLAG"
                             return
+                        
+                        # If vision description was not retrieved in collect_qa_response, try to get it now
+                        if not fetched_user_description:
+                            try:
+                                print(f"{YELLOW}⏳ Vision description not retrieved in QA thread, trying to get it now...{RESET}")
+                                fetched_user_description = future_description.result(timeout=5)
+                                print(f"{BLUE}📸 Vision server returned: '{fetched_user_description}'{RESET}")
+                            except Exception as e:
+                                print(f"{YELLOW}⚠️ Could not get vision description: {e}{RESET}")
+                                fetched_user_description = ""
                         
                         print(f"{GREEN}✅ Parallel tasks completed!{RESET}")
                         print(f"{BLUE}📸 User description from Vision server: '{fetched_user_description}'{RESET}")
@@ -1014,14 +1145,17 @@ class RAGLLMAPIService:
                 ):
                     tone_chunk_count += 1
                     if tone_chunk == "END_FLAG":
-                        # Store the CONVERTED response to chat history (not original)
+                        # # Store the CONVERTED response to chat history (not original)
+                        # Store the ORIGINAL (pre-tone-convert) response in chat history
                         if session_id not in self.chat_sessions:
                             self.chat_sessions[session_id] = []
                         
                         self.chat_sessions[session_id].append({"role": "user", "content": text_user_msg})
-                        self.chat_sessions[session_id].append({"role": "assistant", "content": converted_response})
+                        # self.chat_sessions[session_id].append({"role": "assistant", "content": converted_response})
+                        self.chat_sessions[session_id].append({"role": "assistant", "content": response_content})
                         print(f"{GREEN}🎨 Tone conversion completed! Total chunks: {tone_chunk_count}, Converted length: {len(converted_response)} chars{RESET}")
-                        print(f"{GREEN}🎨 Chat history updated with tone-converted response for session {session_id}{RESET}")
+                        # print(f"{GREEN}🎨 Chat history updated with tone-converted response for session {session_id}{RESET}")
+                        print(f"{GREEN}🎨 Chat history updated with ORIGINAL (pre-tone) response for session {session_id}{RESET}")
                         
                         yield "END_FLAG"
                         break
@@ -1047,16 +1181,26 @@ class RAGLLMAPIService:
             yield f"ERROR: {str(e)}"
             yield "END_FLAG"
 
-    def _generate_streaming_response(self, text_user_msg: str, session_id: str, chat_history: List[Dict]) -> str:
-        """Generate streaming RAG + LLM response"""
+    def _generate_streaming_response(self, text_user_msg: str, session_id: str, chat_history: List[Dict], user_description: str = None) -> str:
+        """Generate streaming RAG + LLM response with optional vision description context"""
         try:
             context = ""
             
-            # Get RAG context if available
+            # Step 1: Rewrite query for better retrieval (especially for follow-up questions)
+            rewritten_query = text_user_msg
+            if self.rag_initialized and self.rag_pipeline and self.chroma_collection:
+                if chat_history:  # Only rewrite if there's conversation history (follow-up questions)
+                    print(f"{BLUE}🔄 Step 1: Rewriting query for better retrieval...{RESET}")
+                    rewritten_query = self._rewrite_query(text_user_msg, chat_history)
+                else:
+                    print(f"{BLUE}📝 Using original query (no history to rewrite){RESET}")
+            
+            # Step 2: Get RAG context using rewritten query
             if self.rag_initialized and self.rag_pipeline and self.chroma_collection:
                 try:
+                    print(f"{BLUE}🔍 Step 2: Searching with rewritten query: '{rewritten_query}'{RESET}")
                     search_results = self.rag_pipeline.hybrid_search(
-                        text_user_msg, self.chroma_collection, top_k=10
+                        rewritten_query, self.chroma_collection, top_k=6
                     )
                     
                     # Extract museum context
@@ -1066,8 +1210,11 @@ class RAGLLMAPIService:
                         if content and not (content.startswith('[Q') or content.startswith('[A')):
                             museum_context.append(content)
                     
+                    # Step 3: Process context and use original question for final response generation
                     context = self.rag_pipeline._process_context(museum_context, text_user_msg)
+                    print(f"{BLUE}📝 Step 3: Using original question '{text_user_msg}' for response generation{RESET}")
                     print(f"{YELLOW}📚 RAG CONTEXT: {len(context)} chars{RESET}")
+                    print(f"{GRAY}RAG DATA: {context}{RESET}")
                     
                 except Exception as e:
                     print(f"{YELLOW}⚠️ RAG search failed: {e}{RESET}")
@@ -1081,9 +1228,12 @@ class RAGLLMAPIService:
                 # Use RAG pipeline's message building
                 system_prompt = self.rag_pipeline.cached_system_prompt
                 # print(f"{YELLOW}🤖 SYSTEM PROMPT: {system_prompt}{RESET}")
+                # Pass rewritten_query to help QA agent understand user intent better
                 messages = self.rag_pipeline._build_messages(
-                    system_prompt, text_user_msg, chat_history, context
+                    system_prompt, text_user_msg, chat_history, context, user_description, rewritten_query
                 )
+                if user_description and user_description.strip():
+                    print(f"{BLUE}👁️ Vision description included in LLM context: '{user_description[:50]}...'{RESET}")
                 print(f"{YELLOW}🤖 chat_history size: {int(len(chat_history) / 2)}{RESET}")
             else:
                 # Fallback to simple messages
@@ -1130,7 +1280,7 @@ class RAGLLMAPIService:
                     #     self.chat_sessions[session_id] = self.chat_sessions[session_id][-10:]
                     
                     print(f"{GREEN}🤖 Streaming response completed for session {session_id}: {len(response_content)} chars{RESET}")
-                    print(f"{YELLOW}🤖 Response content (before tone conversion): {response_content}{RESET}")
+                    # print(f"{YELLOW}🤖 Response content (before tone conversion): {response_content}{RESET}")
                     
                     # Send END_FLAG when done
                     yield "END_FLAG"
@@ -1157,19 +1307,26 @@ class RAGLLMAPIService:
             # Perform a small query to warm up the embedding model
             warmup_query = "ITRI warmup test"
             
-            # Generate embedding using Ollama API (same approach as LLM_Chat)
-            q_response = requests.post("http://localhost:11435/api/embeddings", json={
-                "model": "nomic-embed-text",
-                "prompt": warmup_query
-            })
-            q_response.raise_for_status()
-            q_emb = [q_response.json()['embedding']]
-            
-            # Use ChromaDB's query method with pre-generated embeddings
-            result = self.chroma_collection.query(
-                query_embeddings=q_emb,
-                n_results=1
-            )
+            # Prefer using collection's own embedding function to avoid dimension mismatches
+            try:
+                result = self.chroma_collection.query(
+                    query_texts=[warmup_query],
+                    n_results=1
+                )
+            except Exception as e:
+                # Fallback to manual embedding if collection has no embedding function configured
+                print(f"{YELLOW}⚠️ query_texts warmup failed, falling back to manual embedding: {e}{RESET}")
+                q_response = requests.post("http://localhost:11435/api/embeddings", json={
+                    "model": "bge-m3:latest",
+                    "prompt": warmup_query
+                })
+                q_response.raise_for_status()
+                q_emb = [q_response.json()['embedding']]
+                
+                result = self.chroma_collection.query(
+                    query_embeddings=q_emb,
+                    n_results=1
+                )
             
             elapsed_ms = (time.time() - start_time) * 1000
             
