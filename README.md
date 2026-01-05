@@ -216,7 +216,7 @@ If `convert_tone=true`:
 
 ## System Architecture
 
-![LLM Pipeline Architecture](LLM_pipeline_figure.png)
+![LLM Pipeline Architecture](LLM_pipeline_figure_202601.png)
 
 *The diagram above illustrates the main components and data flow in the ITRI Museum RAG LLM system.*
 
