@@ -1,0 +1,26 @@
+# ITRI Wikipedia Crawler Summary
+
+Organization: Industrial Technology Research Institute
+Crawled at: 2025-07-28T14:16:50.635500
+Source URL: https://zh.wikipedia.org/zh-tw/Industrial Technology Research Institute
+
+Total sections: 10
+Total content length: 18067 characters
+Infobox items: 14
+Tables: 6
+Lists: 18
+References: 0
+External links: 0
+Categories: 13
+
+## Section Names:
+- introduce
+- History
+- Controversy
+- Previous heads
+- organize
+- Honor List
+- Outstanding Hospitalist
+- Academician of the Institute of Technology Research
+- References
+- External links

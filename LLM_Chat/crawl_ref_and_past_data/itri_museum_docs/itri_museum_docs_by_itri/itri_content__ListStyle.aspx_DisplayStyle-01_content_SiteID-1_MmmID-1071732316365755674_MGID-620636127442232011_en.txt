@@ -1,0 +1,20 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Semiconductor chips
+Heterogeneous integrated circuit through-hole technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+3DIC technology uses through hole technology to conduct upper and lower wafers through vertical paths on glass or silicon wafers. Through this technology, it is possible to integrate heterogeneous wafers, increase wafer stacking density, reduce packaging volume, increase bandwidth, reduce power consumption and enhance product performance.
+Features and innovation
+At present, different solutions have been integrated on different wafers. For example, the crystal back via last silicon through hole process integration technology (through hole size 5μm and depth 50μm) is used to the stacking architecture of SRAM and logic chips, improving system performance by more than 60% and reducing power consumption by more than 70%. The via middle silicon through hole technology has successfully completed four layers of 8Gb DDR 3 memory stacking chips with memory manufacturers.In terms of image sensor applications, the BSI CIS+ADC+ISP three-layer wafer stack is integrated to greatly reduce the package size and improve efficiency.
+Application and benefits
+Through the application of 3DIC technology, the wafer area can be further reduced, system efficiency can be improved, and power consumption can be reduced. At present, the development of silicon through-hole process integration technology with 3μm and 30μm depth has been successfully completed, and it is used in the fields of image sensors, memory stacking, μLED, etc.
+Heterogeneous integrated circuit through-hole technology.
+Related links:
+More technology-related information.
+Further reading
+Industrial Research Institute published next-generation FRAM and MRAM technology at IEDM, and innovative memory solutions have been recognized internationally

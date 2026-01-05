@@ -961,6 +961,7 @@ Output ONLY the rewritten query without any explanations or prefixes."""
                     )
                     print(f"{GREEN}✅ Generator created, starting iteration...{RESET}")
                     chunk_count = 0
+                    MAX_LENGTH = 150  # Maximum allowed response length
                     for chunk in original_response_generator:
                         chunk_count += 1
                         if chunk == "END_FLAG":
@@ -973,6 +974,12 @@ Output ONLY the rewritten query without any explanations or prefixes."""
                             return
                         else:
                             response_content += chunk
+                            # Check if content exceeds max length
+                            if len(response_content) > MAX_LENGTH:
+                                original_length = len(response_content)
+                                response_content = response_content[:MAX_LENGTH]
+                                print(f"{YELLOW}⚠️ Response truncated to {MAX_LENGTH} chars (was {original_length} chars){RESET}")
+                                break  # Force stop and proceed to next step
                             if chunk_count <= 5 or chunk_count % 50 == 0:  # Log first 5 chunks and every 50th
                                 print(f"{BLUE}📦 Chunk #{chunk_count}: {len(chunk)} chars (total: {len(response_content)} chars){RESET}")
                     
@@ -1036,6 +1043,7 @@ Output ONLY the rewritten query without any explanations or prefixes."""
                             print(f"{GREEN}[Thread] Generator created, starting iteration...{RESET}")
                             
                             chunk_count = 0
+                            MAX_LENGTH = 150  # Maximum allowed response length
                             for chunk in original_response_generator:
                                 chunk_count += 1
                                 if chunk == "END_FLAG":
@@ -1046,6 +1054,12 @@ Output ONLY the rewritten query without any explanations or prefixes."""
                                     return None, chunk, vision_desc  # Return error and vision_desc
                                 else:
                                     content += chunk
+                                    # Check if content exceeds max length
+                                    if len(content) > MAX_LENGTH:
+                                        original_length = len(content)
+                                        content = content[:MAX_LENGTH]
+                                        print(f"{YELLOW}[Thread] ⚠️ Response truncated to {MAX_LENGTH} chars (was {original_length} chars){RESET}")
+                                        break  # Force stop and proceed to next step
                                     if chunk_count <= 5 or chunk_count % 50 == 0:
                                         print(f"{BLUE}[Thread] 📦 Chunk #{chunk_count}: {len(chunk)} chars (total: {len(content)} chars){RESET}")
                             
@@ -1189,11 +1203,13 @@ Output ONLY the rewritten query without any explanations or prefixes."""
             # Step 1: Rewrite query for better retrieval (especially for follow-up questions)
             rewritten_query = text_user_msg
             if self.rag_initialized and self.rag_pipeline and self.chroma_collection:
-                if chat_history:  # Only rewrite if there's conversation history (follow-up questions)
-                    print(f"{BLUE}🔄 Step 1: Rewriting query for better retrieval...{RESET}")
-                    rewritten_query = self._rewrite_query(text_user_msg, chat_history)
-                else:
-                    print(f"{BLUE}📝 Using original query (no history to rewrite){RESET}")
+                # if chat_history:  # Only rewrite if there's conversation history (follow-up questions)
+                #     print(f"{BLUE}🔄 Step 1: Rewriting query for better retrieval...{RESET}")
+                #     rewritten_query = self._rewrite_query(text_user_msg, chat_history)
+                # else:
+                #     print(f"{BLUE}📝 Using original query (no history to rewrite){RESET}")
+                print(f"{BLUE}🔄 Step 1: Rewriting query for better retrieval...{RESET}")
+                rewritten_query = self._rewrite_query(text_user_msg, chat_history)
             
             # Step 2: Get RAG context using rewritten query
             if self.rag_initialized and self.rag_pipeline and self.chroma_collection:

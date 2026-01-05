@@ -1,0 +1,44 @@
+front page
+Net Zero Emissions
+Audio and video zone
+Carbon reduction technology
+Audio and video zone
+Carbon reduction technology
+Talent cultivation
+New knowledge on carbon reduction
+Wireless ultrasonic flow meter technology
+Date: 2022/12/01
+The Institute of Technology (ITRI) has developed wireless ultrasonic flow instrument technology, which has the advantage of measuring without destroying the pipeline, and solves the problems of erosion blocking and flow rate limiting of traditional fixed contact measurements. It has built-in gain control to expand the application environment and has multi-stage trigger sampling technology.
+Wireless Zigbee power monitoring technology
+Date: 2022/12/01
+The Institute of Technology (ITRI) develops wireless power monitoring technology to transmit power information using Zigbee wireless communication interface, eliminating the time and accuracy problems of traditional human power copying electricity meters. It has high stability, short sampling time and fast maintenance benefits, and can obtain every one through the network.
+iBEMS smart building energy management system
+Date: 2022/12/01
+The iBEMS intelligent building energy management system developed by ITRI is based on low-energy Zigbee wireless transmission as the architecture, and is equipped with self-developed wireless sensors such as environment, energy, and personnel, which greatly reduces the cost of old buildings and the difficulty of construction, and gathers energy.
+Smart energy-saving control system in conference room
+Date: 2022/12/01
+Intelligent energy-saving control of the conference room of the Industrial Research Institute (ITRI) develops the conference room, uses infrared sensors to automatically detect the status of people in the space, automatically turn off air conditioners, lighting, projectors and other equipment, reduce energy consumption, and can be used to deal with large (stand up), medium (shrugging), and small (finger-moving) movements.
+Magnetic flux rotation synchronous induction motor
+Date: 2022/12/01
+Based on the traditional induction motor, by changing the structure of the rotating shaft steel sheet in the motor, the rotation speed of the motor shaft can be synchronized with the current frequency of the input motor, which can greatly improve the motor operation efficiency.It helps to upgrade various industries using traditional induction motors.
+Artificial Intelligent Building Energy Saving System Platform-2017 Top 100 Global Science and Technology R&D Awards Winner
+Date: 2022/11/07
+This system platform has currently built a complete database of building materials and equipment in Taiwan. From the exterior of the building to the interior furnishings, energy consumption is calculated for the building. Just click five steps to calculate the energy consumption situation of a building and give the best energy saving suggestions.
+Waste LCD panel reuse processing system-2017 Top 100 Science and Technology Research and Development Awards Winner
+Date: 2022/11/07
+The liquid crystal, indium metal and glass can be successfully separated and reused, minimizing the harm to the environment.The liquid crystal taken out of the panel can also be reused in the LCD panel manufacturing process, helping manufacturers save US$15 million in expenditures each year.
+Regeneration of waste in agricultural and fishery industry—high value-added calcium circulation technology
+Date: 2022/11/07
+Traditional waste from Shanghai, animal husbandry or industrial sources is buried or incinerated, causing air, soil and water pollution, and the treatment cost is also a huge burden.Calcium circular economy can be effectively processed and remade into high-value calcium derivatives.Through transportation collection management, pre-treatment, reaction, purification
+Agriculture moves towards 4.0, environmental control gets rid of seasonal restrictions
+Date: 2022/11/07
+Through the environmental control technology of the Institute of Technology, scientific and technological thinking is introduced to minimize manpower and easy to get started, which will be of great help to the future development of agriculture.
+Agriculture moves towards 4.0 and improves and extracts in both directions
+Date: 2022/11/07
+The Institute of Technology helps to adjust the soil through biochar and other microbial technologies, which can turn decay into magic, and increase yield. In addition, extraction technology can "use products and waste that cannot be used well" well, and at the same time create an agricultural cycle.
+1
+2
+3
+4
+5
+6

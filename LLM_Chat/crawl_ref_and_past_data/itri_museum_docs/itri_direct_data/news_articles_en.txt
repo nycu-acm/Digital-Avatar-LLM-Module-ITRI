@@ -1,0 +1,27 @@
+ITRI ​​News Articles (Direct Crawl)
+====================================================================
+
+
+## Announcement
+---------------------
+Content: Announcement
+
+## News Center
+---------------------
+Content: News Center
+
+## News Center
+---------------------
+Content: News Center
+
+## News Room
+---------------------
+Content: News Room
+
+## Latest News
+---------------------
+Content: Latest News
+
+## Event message
+---------------------
+Content: Event message

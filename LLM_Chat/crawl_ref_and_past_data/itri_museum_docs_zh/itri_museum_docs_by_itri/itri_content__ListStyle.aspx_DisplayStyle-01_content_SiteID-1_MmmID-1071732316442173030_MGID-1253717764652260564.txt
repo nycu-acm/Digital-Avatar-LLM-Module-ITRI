@@ -1,0 +1,20 @@
+首頁
+尖端科技
+智慧化致能技術
+通訊
+CBRS通訊協定解決方案
+Share to Facebook
+Share to Twitter
+分享到我的Line
+聯絡我們
+技術簡介
+CBRS通訊協定解決方案。
+CBRS為北美FCC第96部分（FCC Part 96）規範在發射頻段為3550MHz～3700MHz之間的RF設備（CBSD）發射RF時的頻譜共享機制，ITRI提供符合國際標準且完整的解決方案包括CBRS通訊協定軟體模組與域代理產品（Domain Proxy），客戶可將CBRS通訊協定軟體模組整合進自身RF設備上或與ITRI的CBRS domain proxy進行資料交換，即可與標準中規範分配頻譜的元件SAS（Spectrum Access System；頻譜接取系統）互通取得適用頻段與功率大小，本解決方案可快速升級客戶現有RF設備成為CBSD並通過FCC認證許可，在北美販售CBRS相關產品。
+特色與創新
+ITRI提供的CBRS通訊協定解決方案 :
+提供軟體模組整合進CBSD與SAS通訊。
+提供Domain Proxy取得CBSD資訊後與SAS通訊。
+應用與效益
+符合WINNF（WInnForum Standards）國際標準組織負責制訂CBRS協定。
+通過國內兩家FCC認證測試實驗室國際標準通訊協定測試。
+通過北美三家商用SAS（Federated Wireless／Google／CommScope）互通性驗證測試。

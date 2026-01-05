@@ -1,0 +1,26 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+communication
+3GPP NTN non-ground network base station communication technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+3GPP NTN non-ground network base station communication technology.
+The existing operation network is mainly built in urban areas with complete fixed network facilities.There is no signal coverage for wilderness and ocean areas. Consider emergency rescue difficulties, such as: when ground basic equipment is destroyed by natural disasters or wars, it will face service interruption of the operation network.Through the combination with existing 5G networks and satellites, the 5G NTN satellite network can form a seamless communication network and global coverage, thus attracting public attention.
+As an important member of the domestic leading communication technology promoter, the Industrial Research Institute is optimistic about the seamless connection services brought by 3GPP NTN communication through wide coverage and highly integrated ground networks. In order to assist the development of the NTN industry, it took the lead in investing in the development of NTN base station technology, completed the first phase of laboratory verification of 5G NTN mobile phone direct connection satellites, and worked with domestic semiconductor companies to complete the world's first 5G NTN laboratory interoperability of 5G NTN mobile phone direct connection satellites.
+Features and innovation
+Provide open, transparent and standardized non-ground network base stations.
+Use low-orbit satellites to forward 5G mobile network signals.
+1. Solve the insufficient coverage of 5G mobile network
+Satellites only need to fly over and illuminate the signal, and there is no need to build/maintain the basic network equipment on a site-by-site basis.
+The basic equipment cannot be built in the ocean and the sky, and 5G signal services can also be available.
+2. Diminish the issue of digital equality
+There is no need to deploy network infrastructure in rural areas, and satellites can enjoy 5G signal services if they fly by.
+Adopting the open standard communication agreement, everyone can join the Open RAN for production, production and layout.
+3. Provide emergency backup communication system
+When local infrastructure equipment is destroyed, satellites can be used to forward 5G signals from remote areas as an emergency backup communication system.
+Application and benefits
+Satellite NTN industry, B5G communication base station, 3GPP communication.

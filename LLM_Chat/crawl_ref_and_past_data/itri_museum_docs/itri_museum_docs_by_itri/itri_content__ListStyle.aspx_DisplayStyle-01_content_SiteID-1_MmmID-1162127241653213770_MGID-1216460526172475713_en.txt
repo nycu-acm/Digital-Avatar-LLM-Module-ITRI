@@ -1,0 +1,25 @@
+front page
+Net Zero Emissions
+Net Zero Technology
+Energy supply
+[Energy Management Carbon Reduction Solution] Aggregated Multi-Resource VPP Technology Verification Platform
+Share to Facebook
+Share to Twitter
+Share to my Line
+Business consultation
+Technology introduction
+Aggregation of multi-resource VPP technology verification platform.
+Establish the first virtual power plant technology verification platform in China, with the ZTE campus of the Institute of Technology as the VPP decision-making center, and use the information and communication network technology to aggregate and dispatch diversified energy to improve the elasticity and stability of the power system.
+Application scope
+With the development trend of domestic power industry liberalization, Taiwan Electric Power Company has opened a power trading platform to purchase private auxiliary services through market mechanisms to maintain the safe and stable operation of the power system.
+Based on the concept of Plug-and-play, the Industrial Research Institute develops modular U-Box equipment. The resource venue only needs to install U-Box to join the virtual power plant to operate.The developed virtual power plant platform has intelligent decision-making auxiliary functions, and uses intelligent algorithms to predict, schedule and control resources, and can be connected to the Taiwan Power Trading Platform system to accept scheduling instructions and information uploads.
+The Institute of Technology has independently developed technology, U-Box is designed in modularly and has edge computing capabilities, and can provide simple field energy management value-added services.At the same time, the algorithm technology is independently developed, which can provide intelligent decision-making auxiliary functions for operators and more diverse information to make market bid decisions. This system has the ability to correct and control instantly, and can dynamically control backup power supplies to respond to emergency response mechanisms such as bidding errors or resource scheduling abnormalities.
+Carbon reduction benefits
+The main application areas of virtual power plant technology are mainly energy fields. Short-term applications will explore application potential through technical evidence, develop key technologies and conduct benefits assessments.In this way, we will help explore opportunities for private diversified resources to participate in the application of Taiwan Power Auxiliary Services market and improve the flexibility of power grid operation.
+Aggregation of multi-resource VPP technology verification platform.
+Further reading
+Energy-saving and carbon-reducing laser heat treatment technology
+Taiwan's net zero new industry map
+Net Zero Patent Technology Application Service
+【Carbon Reduction Manufacturing Solution】The best sea voyager-Carbon Reduction Smart Scheduling System
+Net Zero

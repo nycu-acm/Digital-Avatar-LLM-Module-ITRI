@@ -1,0 +1,67 @@
+front page
+Industrial Services
+Industry Trends and Intelligence
+Industrial Intelligence Focus
+Industry Trends and Intelligence
+Industrial Intelligence Focus
+Industry trend data
+AI applications become the main axis of Computex 2025
+Trend 1 Artificial intelligence (AI) is fundamentally redefining the core concepts of user interfaces and operating systems
+Artificial intelligence has surpassed its original functional scope and is fundamentally reshaping people's understanding of the operating mode of the device.Qualcomm CEO Cristiano Amon pointed out that given that computers now have the ability to understand human language, artificial intelligence will replace traditional user interfaces as a new human-computer interaction...
+IEKView: AI and new applications drive the prospects of components industry
+With the rapid development of applications such as AI, electric vehicles, the Internet of Things and smart medical care, the global electronics industry is accelerating its transformation, which also brings a new wave of opportunities and challenges to the component supply chain.Taiwan has a deep foundation in key areas such as MEMS sensors, passive components and PCBs. Even in 2025, even if it faces international political and economic variables and market prosperity fluctuations, it still shows steady growth momentum and strategic resilience as a whole.
+In the first half of 2025, due to the off-season effect and demand...
+"2025 Global Science and Technology Industry Competition Trends and Challenges Series" Focusing on the Three Strategic Directions of Semiconductor, Components and Quantum Technology
+At the critical moment of rapid global technological transformation and supply chain restructuring, the Institute of Industrial Research recently held the "2025 Global Science and Technology Industry Competition Trends and Challenges Series Seminar", attracting nearly 500 academic and research experts and operators to participate.The seminar focused on three major themes: semiconductor strategic positioning, electronic components business opportunities and quantum technology supply chain layout, and analyzed the opportunities and challenges of Taiwan under global industrial changes.The Institute of Technology pointed out that in the face of changes in tariff policies, the heating of geopolitics and science and technology...
+When AI becomes your colleague: The transformation from office workers to AI collaborators
+In the past, when talking about AI's application in work, it mostly reminds people of large enterprises importing automation equipment or advanced algorithms.For example, Li Mouwei, president of Li Changrong Group, once said that the company introduced AI as early as 7 or 8 years ago. The company used big data to predict raw material prices and market trends as the basis for procurement and inventory.At present, the forecast accuracy rate has reached 86%, contributing 2% of procurement profits per year, which is more accurate than that of international consulting companies.
+There are also medical applications, Taichung...
+Faced with an uncertain future, how to respond
+US reciprocal tariff policy significantly affects export-oriented industries
+On April 2, 2025, the Trump administration of the United States announced that it would impose high reciprocal tariffs on foreign imported goods, which will also bring high tariffs of 32% to Taiwan.This move undoubtedly brings major challenges to Taiwan, which is highly dependent on the export market to the United States.
+Taiwan's industry has long been export-oriented, and the United States is the most important market in our country, which has also caused Taiwan's various industries to fluctuate extremely...
+IEKView: Mobile Communications Industry Trend Forecast
+In recent years, the telecommunications and mobile communications industry has invested heavily in 5G spectrum and infrastructure construction and actively promoted commercialization, but the overall results have not been recycled as expected.Under the dual pressure of difficulty in increasing sales prices and uninterrupted construction investment, the revenue growth of global telecommunications industry is weak.Total revenue in 2024 fell by 1% compared with 2023, and average revenue per user (ARPU) also continued to decline.
+To boost industry momentum, GSMA Chairman Mat...
+IEKView: Technology giants compete for MWC to show their strength
+In recent years, the problems of population aging, low birth rate and labor shortage have continued to attract attention in countries around the world. As artificial intelligence (AI), robots and unmanned technologies gradually enter the commercial stage, these technologies are rapidly integrating into various scenarios of daily life. In this year's MWC exhibition, telecom operators focused on improving consumer experience, combined with 5G high-speed network, smart devices, robots and unmanned vehicles, proposed solutions to deal with manpower shortages, and actively launched...
+If the United States imposes a 32% equivalent tariff on Taiwan responsibilities, an analysis of the overall impact of my country's industries
+1. Focus on Trump’s implementation of reciprocal tariffs
+The concept of "Reciprocal Tariffs" proposed by US President Trump is an important part of his "America First" economic policy. He advocates that if other countries impose high tariffs on American goods, the United States should also impose the same or similar tariffs on equal tariffs to ensure trade fairness.
+On January 20, 2025, Trump signed the "US...
+IEKView: Industrial transformation in South Taiwan, semiconductor AI empowerment
+South Taiwan is at a critical moment of industrial transformation. Faced with global supply chain restructuring, net zero emission targets and rapid development of digital technology, regional industries must adopt forward-looking strategies to strengthen competitiveness and ensure sustainable development. Through the southward layout of semiconductors, AI technology empowerment, blue economy development and capital market introduction, South Taiwan is expected to become an important hub for new energy technology and smart manufacturing.
+■Deepening and expansion of semiconductor industry chain: the key to building a global supply chain...
+NVIDIA GTC 2025 Instant Observation-AI Chip
+Trend 1 NVIDIA redefines GPU naming principles and reveals the blueprint for GPU development in the next 3 years
+At GTC 2025, the conference revealed major changes in NVIDIA in GPU naming and future development. CEO Hwang Junxun announced that with the advancement of packaging technology, the traditional concept of "one GPU" is no longer applicable. Blackwell architecture begins to adopt multi-GPU die packaging...
+NVIDIA GTC 2025 Real-time Observation-Quantum Operations
+Trend 1 Accelerate computing integration of quantum systems to drive the development of quantum supercomputers
+Holding the first Quantum Day seminar: NVIDIA held the first Quantum Day seminar during GTC's 2025 Annual Conference (3/20). It was hosted by CEO Huang Renxun himself. A total of three leaders' seminars (as shown in Figure 1), inviting many industry pioneers to participate (including: Alice & B...
+NVIDIA GTC 2025 Instant Observation-Automatic Driving
+Trend 1 Comprehensive self-driving safety system Halos is on the market
+Nvidia Halos is a full-stack security system that integrates Nvidia's hardware, software, AI models and tools, providing security guarantees at three levels: technology, development and computing; the technical level covers platform, algorithm and ecosystem security; the development level provides protection measures for the design, deployment and verification stages; the computing level...
+NVIDIA GTC 2025 Instant Observation-Silicon Valley Live View
+Trend 1 Nvidia’s AI empire: A look at its top startup investments
+1. The number of investments has grown rapidly: 2023: Nvidia has participated in 38 AI investments. In 2024: The number of investment transactions increased to 49, with a significant increase. 2025 (as of now): 7 transactions have been participated in...
+NVIDIA GTC 2025 Real-time Observation-Edge AI and Industrial Robot Development Trends
+Trend 1 Ecosystem-NVIDIA creates a new foundation for edge AI and industrial robots
+"No one suspects that the era of robots has arrived." Huang Renxun said so firmly in his GTC 2025 keynote speech.But the question is: Who can provide the "brain" of these robots?NVIDIA is obviously ready. NVIDIA is not just about building robots, but about building a complete robot ecosystem. The world invests about 1 year...
+NVIDIA GTC 2025 Instant Observation - Omniverse
+Trend 1 Omniverse integration with Blackwell GPU
+NVIDIA's latest Blackwell GPU has fully optimized the Omniverse platform, doubled the speed of AI computing, ray tracing and physical simulation;Omniverse can establish more accurate digital twin simulation through real-time high-precision physical simulation;accelerated AI computing capabilities, allowing real-time data analysis...
+NVIDIA GTC 2025 Instant Observation - Overall Trends
+Trend 1: Marketing focus shifts to Share-of-Wallet, and product focus shifts to cabinet systems
+Founder Huang Renxun explained to investors at the Huida financial report meeting at the end of February that the rise of DeepSeek's open source inference model will allow various industries to have lower AI implementation costs, and also require a large amount of post-training, which will trigger more demand for computing chips in the market. He also said that Blackwell is for...
+NVIDIA GTC 2025 Instant Observation-Taiwan Factory Supply Chain Layout
+Trend 1 factory gradually expands from server and other hardware technologies to innovative applications
+GTC 2025 Taiwan AI server OEM, including Hon Hai (Foxconn), Insider, Quanta (Wander), Wistron, Weiying, Pegasus, Gigabyte, Renbao, Asus, Shenda, and Optoelectronics, are all actively participating; in addition, related supply chains such as Delta Electric, Trade Union, Yingwei, Xinhan, etc. are also participating in the event. Taiwanese manufacturers have already built motherboards, cases, and heat dissipation modules in the AI ​​global supply chain...
+NVIDIA GTC 2025 Instant Observation-Trend of General-purpose AI Robots
+Trend 1: Strengthen the Ecology-NVIDIA creates a new era of universal AI humanoid robots
+NVIDIA plans physical AI (Physical AI) to become the ultimate goal of AI development, and believes that ChatGPT in the field of AI robots has arrived, actively promoting humanoid robots to become one of the largest universal robot deployments in the world.It is predicted that the shortage of work will reach 5,000 in 2030...
+MWC 2025 Exhibition of Industrial Research Institute MWC: A seminar on AI-driven future communication and smart application. The global telecommunications industry ushers in a new chapter. From AI transformation, open architecture to 6G communication layout
+As the trend of the mobile communications industry, the Global Action Communications Conference (MWC) has attracted more than 109,000 people to participate this year. In order to help Taiwanese businesses grasp international trends and expand business opportunities, the Institute of Technology held the "MWC 2025 Exhibition Direct Touch: AI Drives the Future Communication and Smart Application Seminar" today (14th), focusing on the key issues of MWC 2025 - "Open" and "AI Artificial Intelligence" to the future of the telecommunications industry...
+IEKView: Vehicle Technology enters the era of collaborative development
+CES 2025 once again demonstrated the vigorous development of vehicle technology, with the number of exhibitors exceeding 900, an increase of more than 30% per year.This phenomenon highlights the trend of vehicle technology innovation and development, and also shows that the industry is ushering in a critical period of transformation. At present, the technological development of the global vehicle industry revolves around three core axes - self-driving, networking and electrification.These three technical fields not only influence each other, but also move towards deep integration, promoting the overall vehicle technology industry into a new alliance...
+More information
+IEK Industry Intelligence Network

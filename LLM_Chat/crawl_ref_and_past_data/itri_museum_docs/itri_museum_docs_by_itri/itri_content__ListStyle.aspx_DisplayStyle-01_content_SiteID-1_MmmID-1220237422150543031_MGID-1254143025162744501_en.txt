@@ -1,0 +1,16 @@
+front page
+Cutting-edge technology
+Resilient society
+Infrastructure resilience
+Automatic programming robot
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Automatic programming robot.
+The demand for sensor and robot communication has increased significantly with the widespread application of industrial robots.However, most of Taiwan's robot system integrators belong to small and medium-sized enterprises and lack the research and development of core software technology (PC-based).
+Features and innovation
+The Institute of Technology has developed the "Automatic Programming Robot (HolonOS)" to help users easily establish customized production processes through visual automatic robot motion editing processes. Without shutting down, they can quickly adjust process parameters, including robot speed, processing speed, processing depth, angle, strength, etc.
+Application and benefits
+This technology provides a simple and intuitive operating interface, lowering the technical threshold.It has been successfully introduced into the metal tool industry, kitchenware industry, bead grinding, bicycle and medical materials industry. Through the online process parameters adjustment interface visual feed identification, it achieves the production of multiple products without shutting down, effectively saving labor costs.

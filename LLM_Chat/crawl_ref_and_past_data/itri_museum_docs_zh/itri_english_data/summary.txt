@@ -1,0 +1,14 @@
+ITRI English Wikipedia Crawl Summary
+==================================================
+
+Source URL: https://en.wikipedia.org/wiki/Industrial_Technology_Research_Institute
+Language: english
+Crawl Timestamp: 2025-07-28T14:41:44.361058
+Total Sections: 7
+Total Content Length: 11328 characters
+Infobox Items: 7
+Tables: 9
+Lists: 30
+References: 42
+External Links: 59
+Categories: 30

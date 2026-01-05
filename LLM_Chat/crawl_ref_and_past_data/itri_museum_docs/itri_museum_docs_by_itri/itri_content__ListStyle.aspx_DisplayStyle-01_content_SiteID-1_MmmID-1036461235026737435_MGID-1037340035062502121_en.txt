@@ -1,0 +1,44 @@
+front page
+Industrial Services
+Industry cooperation
+Commissioned research and product development
+Weathering environment test-reliability equipment
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Service Description
+Simulate the product to detect whether the adaptability and characteristics of the product itself change under the temperature and humidity combination conditions of climate environment (high and low temperature operation & storage, temperature circulation, high temperature and high humidity, low temperature and low humidity..., etc.).
+Constant temperature and humidity machine (GTH-800-40-CP-AR)
+Services
+Cold Test
+Dry heat Test
+Temperature Cycling Test
+Temperature and humidity cycle test Damp heat cycling Test
+High temperature and high humidity (steady state) test Damp heat Test
+Specification description
+Chamber Size (Internal): 50*60*50cm (W*H*D)
+Temperature (Option): -50~25℃ (±0.3℃)
+Low temperature constant humidity machine (GLTS-150-50-SP-AR)
+Services
+Cold Test
+Specification description
+Chamber Size (Internal): 50*50*50cm (W*H*D)
+Temperature (Option): 35～200 ℃ (±0.3 ℃)
+High temperature test machine (GPO-125)
+Services
+Acceleration Life Test
+Dry heat Test
+Specification description
+Chamber Size (Internal): 50*50*50cm (W*H*D)
+Temperature (Option): 35～200 ℃ (±3℃)
+Electric tensile tester (MX2-1000N-L)
+Product tension and peel force tests are carried out under fixed speed and angle
+Services
+Tensile test
+Specification description
+Capacity: 2～200 N (±2%)
+Speed: 10 ~ 20 (0.5mm/min)
+20 ～100 (5mm/min)
+100～300(10mm/min)
+Sampling rate(max.): 2000 data/sec

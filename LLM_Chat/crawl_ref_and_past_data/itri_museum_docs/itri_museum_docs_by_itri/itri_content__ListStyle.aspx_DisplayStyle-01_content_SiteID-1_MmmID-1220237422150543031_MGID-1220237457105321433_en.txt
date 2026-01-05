@@ -1,0 +1,20 @@
+front page
+Cutting-edge technology
+Resilient society
+Infrastructure resilience
+Soil power generation independent slope monitoring system
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Soil power generation independent slope monitoring system.
+In recent years, due to extreme climate change and other problems around the world, many countries have suffered from severe disasters from heavy rains and soil and rock flows.To solve this problem, the Institute of Technology developed the "Soil Power Generation Independent Slope Monitoring System", breaking through the limitations of energy supply and system energy consumption, and designing a soil ions that utilize self-generating soil moisture sensor as a trigger for the warning event.When the water content exceeds a certain value, the system will self-activate the warning device to warn of the occurrence of soil and rock flow.
+Features and innovation
+"Soil Power Generation Autonomous Slope Monitoring System" uses self-generated soil moisture perceptron as a warning event trigger. In the absence of warning, all sensors and data processing and transmission systems will be in deep sleep, which can greatly reduce the energy consumption of the system. When the self-generated soil moisture perceptron is converted into electrical energy by the environmental warning and wake up, the system will start the auxiliary sensor, such as accelerator and displacement sensor, and conduct accurate environmental data monitoring; and when there is a real emergency, the wireless module will be turned on to issue a warning.The "soil slope monitoring system" with independent power generation function can carry out large-scale multi-point fabrics, and its service life is extended by decades compared with existing battery-powered systems.
+Application and benefits
+The characteristic of the "Soil Power Generation Independent Slope Monitoring System" is that it can effectively recover energy from nature and ultra-low power consumption sensing technology. In addition to being applicable to natural disaster monitoring, it can also be further applied in the fields of land monitoring and smart agriculture in the future, and can also be extended to industrial applications of various perceived needs."Soil Power Generation Autonomous Slope Monitoring System" can serve as the basic platform for wireless sensing network technology and effectively obtain land and environmental information with the support of long-term energy solutions.
+SoPoWake WSN architecture diagram.
+SoPoWake WSN application scope.
+Related links:
+More technology-related information.

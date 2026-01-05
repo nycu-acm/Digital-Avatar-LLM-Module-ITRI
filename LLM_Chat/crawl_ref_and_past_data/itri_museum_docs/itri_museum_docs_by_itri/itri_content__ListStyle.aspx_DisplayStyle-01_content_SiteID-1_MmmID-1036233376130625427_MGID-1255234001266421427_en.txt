@@ -1,0 +1,43 @@
+front page
+Cutting-edge technology
+Healthy and happy
+Smart medical
+Tumor exosome enrichment detection technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+The tumor exosome enrichment technology of the Institute of Technology combines machine learning and magnetic bead separation to increase the sensitivity of biomarker detection by more than two times, which helps accurately monitor cancer, accelerate the commercialization of diagnostic technologies, and expand the scope of application of precision medicine.
+• Exosomes can convey molecular messages and are considered potential biomarkers for liquid slices.
+• The Institute of Technology uses machine learning technology to detect exosome surface proteins with low blood interference and high tumor specificity, thereby improving the enrichment efficiency of tumor exosomes.
+• By analyzing nucleic acids and proteins in exosomes, a combination of biomarkers for cancer diagnosis and monitoring is established.
+Features and innovation
+Technical Features
+Machine learning technology is used to screen exosome surface proteins with low blood interference and high tumor specificity to improve the enrichment ability of tumor exosomes.
+Establish specific exosome enrichment techniques to enhance disease signals and reduce background interference.
+The enriched exosome magnetic beads can be directly applied to protein immunoassays or nucleic acid extraction and can be easily integrated into subsequent analysis procedures.
+Supports diversified sample volumes and is compatible with size exclusion chromatography technology.
+Technical Advantages
+Through antibody-modifying magnetic bead enrichment technology, the proportion of tumor exosomes can be increased by more than 50%.
+A monitoring test kit for triple-negative breast cancer recurrence detection has AUROC of 88.
+Benefits and Applications
+Technical application
+Biomarking is carried out by analyzing nucleic acids and proteins in exosomes.
+Affinity separation technology is used to enrich tumor exosomes.
+Liquid section detection applied to cancer diagnosis and recurrence monitoring.
+Technical benefits
+The magnetic bead enrichment technology can increase the detection sensitivity and specificity of biomarkers by more than twice.
+Accelerate the commercialization of exosome detection technology.
+Attract testing technology developers, reagent manufacturers and clinical service providers to participate.
+Expand diversified application markets such as cancer precision medicine.
+One-stop service in the field of biomedical medicine in the Institute of Technology and Research
+Regulatory guidance: FDA/TFDA/CE application, medical product verification/export, inspection and registration, IRB document compilation and clinical trial application, etc.
+Technology transfer: biomedical and electrical technology, precision medical guidance and diagnostic technology, regenerative medicine technology, natural medicine and health care technology, target drugs and transmission technology.
+Translation of prototype: Introduce domestic supply chain, medical material design control, market analysis, product listing regulations and strategy analysis, etc.
+Preclinical verification/clinical trials: functional safety assessment, testing organization links, clinical evaluation and analysis, clinical trial planning, trial results analysis and reporting.
+Other services: quality system construction counseling, commercialized counseling, smart medical solutions, software effectiveness, medical material risk management, financial security risk assessment, technical document preparation, linking industrial ecosystem, etc.
+Further reading
+Ministry of Economic Affairs assists in the construction of key combat power of vaccine adjuvants.Industrial Research Institute joins hands with Jilongmix to build a nucleic acid synthesis factory
+Industrial Research Institute and Jilong Mix to build a GMP factory for vaccine nucleic acid adjuvant
+Preparation technology of bionic polyprotrusion magnetic beads

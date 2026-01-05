@@ -1,0 +1,78 @@
+ITRI Website Test Results
+==================================================
+
+Connection Tests:
+--------------------
+basic_get:
+  Status: 200
+  Content Length: 69319
+
+session_get:
+  Status: 200
+  Content Length: 69319
+
+user_agent_0:
+  Status: 200
+  Content Length: 69319
+
+user_agent_1:
+  Status: 200
+  Content Length: 69319
+
+user_agent_2:
+  Status: 200
+  Content Length: 69319
+
+user_agent_3:
+  Status: 200
+  Content Length: 69319
+
+page__index_aspx:
+  Status: 200
+  Content Length: 69319
+
+page__about_aspx:
+  Status: 200
+  Content Length: 771
+
+page__technology_aspx:
+  Status: 200
+  Content Length: 771
+
+page__news_aspx:
+  Status: 200
+  Content Length: 771
+
+page__contact_aspx:
+  Status: 200
+  Content Length: 771
+
+page__:
+  Status: 200
+  Content Length: 69319
+
+page__index_html:
+  Status: 404
+  Content Length: 1245
+
+page__index_htm:
+  Status: 404
+  Content Length: 1245
+
+Content Analysis:
+--------------------
+Title: 工業技術研究院-首頁
+Meta Tags: 5
+Links: 188
+Images: 23
+Forms: 0
+Scripts: 22
+Text Content Length: 2286
+
+Structure:
+  headings: 3
+  paragraphs: 60
+  lists: 42
+  tables: 0
+  divs: 138
+  spans: 15

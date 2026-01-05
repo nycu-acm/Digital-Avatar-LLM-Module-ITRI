@@ -1,0 +1,29 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Semiconductor chips
+GaN high power and high frequency technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+GaN high power and high frequency technology.
+Technology introduction
+The core technology of developing high carrier mobility transistor (HEMT) structure epitaxial and field-effect transistor (FET) components with gallium nitride-based (GaN-based) provides
+Epictal verification of RF Power Amplifiers and Power Switches in new substrate materials
+Process verification of ampere-grade FET components and voltage resistance characteristics of enhanced and empty epitaxial chips
+Features and innovation
+GaN-based HEMT structure epitaxial technology, including
+Development of new substrates and buffer layers
+Stress and warpage management of epitaxial layer
+Normally-Off ultra-thin gate epitaxial design
+GaN-based HEMT FET components process technology, including
+GaN/AlGaN High Selective Etching
+Metal structure design with low contact resistance
+Epilox voltage test
+Ampere-grade component verification
+Application and benefits
+In the industry, gallium nitride components are suitable for high-frequency, high-power, radiation-resistant and high-temperature environments, such as 5G base amplifiers, military radars, rechargeable batteries and automotive energy management systems.
+We can provide integrated services from substrate, epitaxial to module design, and tailor-made one-stop solutions for customers, which not only meets market demand, but also strengthens Taiwan's innovation capabilities and technological autonomy in the energy-transforming system and 5G industry.
+Related links:
+More technology-related information.

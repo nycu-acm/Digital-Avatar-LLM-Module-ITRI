@@ -1,0 +1,21 @@
+front page
+Cutting-edge technology
+Smart life
+Autonomous mobile system
+Challenges and trends in indoor and outdoor AMR technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Indoor and outdoor AMR technology challenges and trends.
+Under the global trend of low birth rate of elderly people, the outbreak of the epidemic has accelerated the heavy or dangerous tasks that replace manpower with unmanned vehicles, and has also been connected with last mile's logistics and transportation, and has begun to be widely used in scenarios such as unmanned goods delivery, campus/shopping/park safety inspection, and large-scale handling within/in-factory.According to market research agency Market Research, the global output value of AMR will reach US$722.2 million in 2027, with an annual compound growth rate of 17.3%.In response to this trend, the Institute of Technology Research Institute has developed seamless AMR technology with seamless indoor/exterior shapes, in order to assist manufacturers in establishing technical energy and creating a better living environment.
+Features and innovation
+Indoor and outdoor AMR have advantages:
+Low cost of construction.
+High route elasticity.
+Highly efficient operation (stop vs. traversal).
+Compared with indoor environments, the outdoor field pursues the positioning accuracy of centimeters.
+The challenges and related strategies of outdoor autonomous mobile robots have been upgraded to three-dimensional light in hardware, and related map technology has been developed to build common three-dimensional maps for indoor and outdoor use. At the same time, the map switching technology is imported to enable AMR to run on different floors, and the secondary positioning method is used to optimize positioning performance in terms of higher precision positioning requirements.
+Application and benefits
+Shopping malls, campuses, medical institutions, factory areas/parks, etc.

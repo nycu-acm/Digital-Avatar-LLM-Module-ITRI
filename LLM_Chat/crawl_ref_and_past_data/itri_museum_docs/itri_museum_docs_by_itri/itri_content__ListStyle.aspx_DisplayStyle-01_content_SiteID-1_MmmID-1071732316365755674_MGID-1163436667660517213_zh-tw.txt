@@ -1,0 +1,14 @@
+首頁
+尖端科技
+智慧化致能技術
+半導體晶片
+半導體2奈米GAA製程前段X光量測技術
+Share to Facebook
+Share to Twitter
+分享到我的Line
+聯絡我們
+技術簡介
+半導體2奈米GAA製程前段X光量測技術。
+針對國內半導體 2 奈米前段製程品質，目前國際無可用之商業量測設備進行製程監控、提升良率。傳統量測技術已面臨瓶頸，如掃描電子顯微鏡（Scanning Electron Microscope；SEM）電子易被深層結構吸收，無法獲得深層結構之 CD 尺寸；光學關鍵尺寸量測技術（Optical Critical Dimension；OCD）則面臨解析度極限與靈敏度不足的挑戰。工研院發展新一代「X 光量測技術」，以滿足環繞式閘極（Gate All-Around；GAA）先進製程之 CD 量測。
+應用與效益
+由於 X 光可解析 2 奈米製程多層 GAA 結構尺寸，並可穿透 GAA 三維複雜結構，故適合應用於 GAA 製程之 CD 量測，團隊開發關鍵尺寸反射式 X 光量測技術與設備，將 X 光量測技術線上產業化，可解析 0.1 nm之線寬變化，解決如 Fin formation、Etch back、Inner spacer 及 Nanowire release 四個國內半導體 2 奈米製程站點需求。

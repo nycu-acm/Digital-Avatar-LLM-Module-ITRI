@@ -1,0 +1,22 @@
+front page
+Industrial Services
+Industry cooperation
+R&D laboratory
+Integral Circuit Testing Laboratory
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Service Description
+Integral Circuit Testing Laboratory.
+This laboratory mainly provides the following services for the construction of a domestic independent high-resolution PXIe test integrated system platform:
+Measuring instrument system integration service
+Clean room space Class 1K/10K
+CP/FT testing service, testing program development and verification
+wafer/module infrared temperature sensing and imaging services
+Aerospace vacuum high and low temperature cycle ring simulation environment detection system
+In addition, it also aims at the industry trend demand, and has made advance arrangements to build a temperature control/vacuum/signal three-machine integrated high-integrated ring mode detection system to support:
+B5G/6G RF chip ring mode detection
+Space gauge chip CP/FT mass production testing
+Related links:
+More technology-related information.

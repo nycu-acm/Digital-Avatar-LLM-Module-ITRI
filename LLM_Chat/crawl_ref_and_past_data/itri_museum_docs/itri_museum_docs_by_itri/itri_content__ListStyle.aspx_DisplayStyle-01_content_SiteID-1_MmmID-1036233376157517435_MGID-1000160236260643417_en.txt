@@ -1,0 +1,31 @@
+front page
+Cutting-edge technology
+Healthy and happy
+Health care
+Micro gas sensing technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Micro gas sensing technology.
+Develop a MEMS microheater that resists thermal stress and is high uniform temperature, loads thin-film metal oxide sensing materials, and integrates programmable temperature control and sensing circuit chips in the same package, with a concentration detection limit of ppb, and has the advantages of miniaturization, digitization, ultra-low power consumption and high stability.
+Features and innovation
+The MEMS mini heater loads film sensors, combined with innovative wide-domain high-precision sensing circuits, reaches the micro-concentration detection limit.
+Technical Features
+Resistant thermal stress/high temperature uniform microheater structure.
+Patented programmable temperature control circuit.
+Patented wide-domain high-precision sensing circuit.
+Thin film sensing materials and loading technology.
+Technical Specifications
+TVOC Range: 0~3000 ppb.
+Ethanol Range: 0.5~500 ppm.
+CO Range: 0.1~400ppm.
+DC Power Consumption: < 50mW.
+Application and benefits
+It can be applied in fields such as home care, industrial and commercial industries, public environmental security, health management, medical security, and Internet of Things environmental sensing.
+Micro gas sensing technology.
+Micro gas sensing technology.
+Further reading
+The Ministry of Economics’ “Inter-domain Integration Experimental Field of Biomedical Industry” has made another good news.The Industrial Research Institute joined hands with Hon Hai and Taiwan Medical Optoelectronics to seize the opportunity of precision health and long-distance medical care
+Thermal imaging care technology

@@ -1,0 +1,35 @@
+front page
+Cutting-edge technology
+Healthy and happy
+Smart medical
+Immune cell production system platform
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Immune cell production system platform
+Immune cell therapy is to eliminate cancer cells by activate the patient's immune system, which can improve the anti-cancer effect. It is a highly anticipated therapy in recent years.Since immune cell therapy is a personal therapy, if a large number of stable immune cells are to be made in vitro, it is necessary to strictly control the growth environment. Most domestic biotechnology factories currently use manual operations or use foreign automation equipment. The key raw materials still rely on imports, and the centralized production model has limited energy, resulting in high costs.
+The "Immune Cell Production System Platform" integrates several key process modules in the closed cavity with an automated system, which can adjust and monitor the stability of temperature, humidity and gas concentration, create the best growth environment for cells and reduce the risk of contamination.In addition, the key modules can be combined and matched according to the production process, combined with the independently developed "immune cell serum-free culture medium" and "QMS-grade bionic polyproliferative magnetic beads (iKNOBeads)". Compared with commercial products, the process is shortened by half and the output is increased to 1.5 times, which helps to increase production capacity.
+Features and innovation
+Technical Features
+A closed culture chamber that can control temperature, humidity and gas concentration.
+The rotating blades of the cell activation/transduction module can improve the mixing efficiency of the liquid.
+The line casing in the demagnetization bead module provides a tight arrangement to reduce the residue of the beads.
+The cell culture reactor can hold 40 mL and 500 mL of cell culture medium and perform cell culture for 7 days.
+An automated immune cell culture system can perform cell culture for 7 to 10 days.
+Technical Advantages
+The immune cell production system platform combines its own cell process key raw materials and key process modules to provide users with more elastic cell manufacturing processes. In addition to a closed culture cavity with controllable temperature, humidity and gas concentration, the modular design provides more elasticity in manufacturing.In addition, the cell activation/transduction module has a multi-directional leaf blade that can improve mixing efficiency and effectively separate magnetic beads and cells.In addition to being convenient for disassembly and assembled, the tightly wound pipeline and magnetic rod can effectively remove magnetic beads in the solution.The bottom layer of the cell culture reactor has a breathable film that provides the environment required for cell culture.
+Application and benefits
+Immunotherapy
+CAR-T therapy
+Cell production system design and development
+One-stop service in the field of biomedical medicine in the Institute of Technology and Research
+Regulatory guidance: FDA/TFDA/CE application, medical product verification/export, inspection and registration, IRB document compilation and clinical trial application, etc.
+Technology transfer: biomedical and electrical technology, precision medical guidance and diagnostic technology, regenerative medicine technology, natural medicine and health care technology, target drugs and transmission technology.
+Translation of prototype: Introduce domestic supply chain, medical material design control, market analysis, product listing regulations and strategy analysis, etc.
+Preclinical verification/clinical trials: functional safety assessment, testing organization links, clinical evaluation and analysis, clinical trial planning, trial results analysis and reporting.
+Other services: quality system construction counseling, commercialized counseling, smart medical solutions, software effectiveness, medical material risk management, financial security risk assessment, technical document preparation, linking industrial ecosystem, etc.
+Further reading
+Preparation technology of bionic polyprotrusion magnetic beads
+Application of iKNOBEADS Bionic Magnetic Beads as auxiliary materials for next-generation cell immunotherapy

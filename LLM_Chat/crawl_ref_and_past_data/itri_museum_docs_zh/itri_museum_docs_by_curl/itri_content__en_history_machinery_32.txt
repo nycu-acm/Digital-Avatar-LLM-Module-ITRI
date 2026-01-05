@@ -1,0 +1,63 @@
+Unmanned Aerial Vehicles Crossing Seas and Flying Over Mountains, Benefiting Humans - 50 Years of Empowering Industry Through Innovations
+Industrial Technology Research Institute
+Major Milestones
+Half a Century Young
+Navigating the Future
+中
+Major Milestones
+Home
+Major Milestones
+Machinery
+Unmanned Aerial Vehicles Crossing Seas and Flying Over Mountains, Benefiting Humans
+Unmanned Aerial Vehicles
+Unmanned Aerial Vehicles Crossing Seas and Flying Over Mountains, Benefiting Humans
+Unmanned Aerial Vehicles
+Machine Tools
+Automation
+Service robots
+Unmanned Aerial Vehicles
+Unmanned aerial vehicles (UAVs) can be used in various applications and help industries save time and labor. Additionally, UAVs are important vehicles used by  disaster-relief and logistics industries. Realizing the business potential of the commercial UAV market, ITRI devoted itself to improving UAV endurance and load capacity. For instance, in 2016, ITRI completed the world’s first-ever cross-continent UAV team management system. Through 4G LTE, users could control Taiwan’s UAV teams remotely from the United States. In 2018, ITRI and National Police Agency (Ministry of the Interior) researched and developed an automatic police UAV patrol system, turning UAVs into aerial police vehicles to improve security. Additionally, ITRI collaborated with the Taiwan High Speed Rail to design a UAV bridge inspection system, which accurately identified bridge structure and damage status-related information, protecting the transportation safety of the public. ITRI developed the "High Load, Long Endurance Unmanned Aerial Vehicle" in 2019, which adopts an intelligent spraying system, has been applied in the pesticide spraying of Florist’s Daisy in Tongluo, Miaoli County and tea gardens in New Taipei. It has also been introduced to smart agriculture applications, assisting the Pingtung Fangliao Farmers’ Association in evaluating mango transportation and enabling direct transportation from the orchard to the packaging plant to enhance operational efficiency. This innovation has received multiple international awards, including the CES 2019 Innovation Award and the 2020 Dubai Drone X Challenge 2020 championship in the multi-rotor category.
+UAVs can be combined with 5G communication to be used in virtual-real competitions. For example, in 2020, ITRI, Compal Electronics, and Taiwan UAV Alliance cohosted the 5G MR UAV Competition, the first-ever UAV competition in the world that combined digital wireless image transmission and used virtual and real obstacle courses. The competition promoted a complete industrial chain including operations, supply, equipment manufacturing, and services, enabling Taiwan’s UAV technology to be introduced to the international market.
+Additionally, ITRI created a high endurance, fuel cell-powered UAV. The UAV successfully passed a series of cross-sea and high-mountain rescue mission tests, becoming Taiwan’s first-ever UAV to pass the special test of crossing seas, flying over high mountains, and flying for more than 80 kilometers. In 2022, ITRI and 10 production and research institutions such as the Coretronic Intelligent Robotics Corporation, Chung-Hsin Electric & Machinery Mfg. Corp., and Simplo Technology co-established the Fuel Cell and UAV Integration Alliance, strengthening the technical capabilities of domestic fuel cells and long-endurance UAVs as well as elevating UAV industry competitiveness.
+2016
+ITRI completed the world’s first-ever cross-continental UAV team management system, overcoming the limitations of commercially available models with a line-of-sight of less than 7 kilometers. The system could be employed in aerial photography, security inspections, and landslide monitoring.
+2018
+ITRI researched and developed a UAV bridge inspection system. The system could do 4G/5G-controlled live broadcasts, schedule and waypoint inspections, and smart image analyses, rapidly completing bridge inspection operations and greatly reducing operation time.
+2018
+ITRI presented an automatic police UAV patrol system, solving the problem of short UAV flight distances and poor UAV endurance and winning it the 2018 R&D 100 Awards.
+2019
+ITRI introduced high-payload drones into its smart agriculture applications and assisted farmers in Pingtung County’s Fangliao Township in evaluating mango transportation.
+2019
+ITRI developed a high endurance, high load capacity UAV, combining lightweight gasoline-electric hybrid power systems to create 8-axis, multifunctional UAVs.
+2020
+ITRI developed the world’s first-ever 5G UAV e-sports system, hosting the world’s first-ever 5G MR UAV Competition that combined digital wireless image transmission and used virtual and real obstacle courses.
+2021
+ITRI researched and developed fuel cell-powered UAVs, passing the special test held by the Civil Aeronautics Administration, and becoming Taiwan’s first-ever UAC crossing seas, flying over high mountains, and flying for more than 80 kilometers.
+2021
+ITRI worked jointly with companies, using mixed reality (MR) technology to hold the world’s first-ever 5G MR Night Light LED UAV Racing Challenge in the Asia New Bay Area, Kaohsiung.
+2022
+ITRI integrated smart pickup station drones with cold chain logistics and warehousing systems. Through a platform with an approximate area of 1 square meter and a height of about 2 meters, the drones are able to achieve noncontact pickup during delivery and retrieval.
+2022
+ITRI co-established the Fuel Cell and UAV Integration Alliance, facilitating collaboration on fuel cell materials, system integrations, data communications, and UAV applications in order to accelerate the development of the long-endurance UAV industry chain.
+2022
+Long flight time poses a significant challenge to UAV technology. Fuel cell UAV technology is expected to triple the energy density of lithium batteries, meeting the future commercial application demands for extended flight time.
+MORE
+Origin
+Semiconductors
+ICT
+Materials, Chemicals, and Nanotechnology
+Vehicles
+Metrology
+Textiles
+Optoelectronics
+PCB
+Biomedicine
+Green Energy
+AI and Big Data
+Others
+next
+prev
+© Industrial Technology Research Institute
++886-3-582-0100
+310401
+195, Sec. 4, Chung Hsing Rd., Chutung, Hsinchu, Taiwan 310401, R.O.C.

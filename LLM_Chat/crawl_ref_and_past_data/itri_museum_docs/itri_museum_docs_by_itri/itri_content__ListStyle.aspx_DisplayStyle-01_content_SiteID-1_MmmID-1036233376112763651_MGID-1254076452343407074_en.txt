@@ -1,0 +1,30 @@
+front page
+Cutting-edge technology
+Smart life
+Autonomous mobile system
+Integrated application of Internet of Vehicles in Smart Transportation
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+The integrated application of the Internet of Vehicles in smart transportation.
+According to the World Health Organization WHO statistics, traffic accidents around the world cause about 1.25 million deaths each year, bringing huge costs and inestimable economic losses to society, and posing huge risks to the safety of the public.
+Therefore, introducing smart transportation systems and strengthening driving safety has become an urgent trend, and it is also an important construction promoted by governments in various countries.The technology, which takes safety as the primary task, is born in line with the trend.
+The focus of this technology is to help driving with communication technology to know the road conditions earlier and respond early. Important applications of V2X include road traffic safety protection, collaborative intelligent transportation systems, self-driving assistance and remote driving, smart intersection construction, and other smart city applications.
+Features and innovation
+This technology connects V2X communication with Multi-access Edge Computing (MEC) as the core, thereby establishing a smart transportation network to improve road safety and make the overall transportation system more efficient and convenient.
+V2N Communication (vehicle-to-network communication)
+The roadside construction, vehicles, slow-mobile vehicles, pedestrians and other network terminals are used as road sensing units to send various road information back to Edge Cloud (MEC architecture).This technology mainly comes from the 3GPP standard, considering improving transmission efficiency, amplifying bandwidth, and reducing network latency, Cellular Broadcast technology (MBMS) is used as the downlink transmission method of V2N.
+Applications such as dynamic high-precision map release, instant traffic information, road safety applications, V2X provisioning release, etc.
+V2V / V2I Communication
+The other is to use Direct Communication to provide ultra-low-latency communication.It provides self-driving vehicle sensing assistance (NLOS), hybrid vehicle induction and exchange applications, etc. through low-latency characteristics.
+In the 3GPP standard, LTE V2X (release 14) is also called PC5 (sidelink), and release 16 sets the 5G NR V2X standard for self-driving applications.
+iRoadSafe
+The iRoadSafe smart road safety warning system of the Institute of Technology is the first V2X system solution in the world.It not only conforms to the application trend of international vehicle networking, but also innovatively combines roadside communication, roadside sensing and roadside profiling to overcome the problem of V2V installation penetration rate and provides complete safety warning capabilities for all passers-by vehicles.
+This system is to arrange detection equipment (radar/lightda) at the intersection, install vehicle-mounted equipment (OBU) with vehicles, collect dynamic information of road vehicles and pedestrians, integrate vehicle and road information (including traffic information of intersections) through roadside equipment (RSU), and issue early warning messages using electronic information boards (CMS) and vehicle-mounted aircraft (OBU).To improve the reliability of road information mastery by passers-by.
+Application of smart transportation integration in the Internet of Vehicles
+Integrates V2X vehicle networking, roadside detection, number control and other technologies to provide innovative applications of smart transportation. The main applications are as follows:
+1. Smart road safety warning system: Combined with roadside detection, V2X communication, and roadside electronic boards, it provides all traffic safety warnings for passers-by
+2. Emergency vehicle priority number: In combination with vehicle-road communication, we detect emergency vehicles about to pass through intersections, and provide special service number to allow emergency vehicles to pass first.
+3. V2X networked self-driving: Combined with the V2X smart roadside system, the self-driving car can grasp the status of the road sermons and assist the self-driving car to detect invisible dangerous people and vehicles at intersections.

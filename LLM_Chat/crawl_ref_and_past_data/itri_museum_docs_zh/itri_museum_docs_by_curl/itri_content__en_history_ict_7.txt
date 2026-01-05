@@ -1,0 +1,62 @@
+Supporting the Mobile Communication Industry’s Evolution From 2G to 5G - 50 Years of Empowering Industry Through Innovations
+Industrial Technology Research Institute
+Major Milestones
+Half a Century Young
+Navigating the Future
+中
+Major Milestones
+Home
+Major Milestones
+ICT
+Supporting the Mobile Communication Industry’s Evolution From 2G to 5G
+Mobile Communication
+Supporting the Mobile Communication Industry’s Evolution From 2G to 5G
+Mobile Communication
+Desktop Computer
+Laptop Computer
+Network Communication
+Mobile Communication
+Cloud and Information Security
+Since the MOTC Directorate General of Telecommunications allowed the private sector to operate mobile communication businesses in 1997, cell phones have gradually become a part of our daily lives. Yet ITRI has had already working on mobile communication technologies in 1992. From the CDMA spread spectrum wireless phone technology to 2G to 5G, ITRI has played an active role in the development process.
+In 2001, ITRI unveiled the radio frequency IC for GSM dual-band transceivers, securing key technology for the 2G mobile communication industry. Taiwanese manufacturers began to produce cell phones, with the communication industry maintaining nearly 20% of output value growth for five consecutive years. In 2004, ITRI developed WCDMA Common IP core technologies and the 3G chip, boosting Taiwan’s cell phone chip and system industries from 2G/2.5G to the more challenging 3G sector. In 2008, ITRI began to work on 4G WiMAX mobile communication chips and successfully developed the first IEEE 802.16e MIMO (multiple input multiple output) baseband SoC as well as the world’s first Watt-level linear CMOS power amplifier (PA). This breakthrough gave the industries a comprehensive 4G WiMAX mobile communication solution. In 2019, ITRI launched the first wave of 5G small cell products simultaneously with the rest of the world. The move established Taiwan’s 5G base station network and helped manufacturers seize early business opportunities in the white-box network equipment market. In 2020, ITRI presented the first Taiwan-made 5G O-RAN standalone small cell and transferred the technology to numerous server and netcom businesses. The businesses have successfully established connections with three major private network equipment suppliers in Japan.
+ITRI started to work on mobile number portability (MNP) services in 2005 to reduce restrictions in the telecom business and users’ needs of changing their phone numbers when they switch providers. It is also an eco-friendly move since the employees do not have to print out the process documents again, saving the company printing and energy costs. Businesses from Singapore and Malaysia have traveled to Taiwan, the first country in Asia to offer MNP services, to learn from our experiences.
+1992
+ITRI developed the CDMA spread spectrum wireless telephone equipment technology which helped expand the 2G mobile communication market.
+1999
+ITRI completed the VoIP network telephone and gateway that helped businesses save telephone charges on international and toll calls.
+2001
+ITRI presented the radio frequency IC for GSM dual-band transceivers and secured key technology for the 2G mobile communication industry.
+2002
+ITRI completed the system integration of the General Packet Radio Service (GPRS) base station and core network to provide better data communication services.
+2004
+ITRI completed the WCDMA RFIC, which was a key component in 3G radio frequency technology. It also developed the WCDMA Common IP core technology that sped up the development of WCDMA products at VIA Technologies and BenQ. This boosted Taiwan’s cell phone industry from 2G to 3G and significantly increased the added value of chips and system products.
+2005
+ITRI assisted the Directorate General of Telecommunications in launching mobile number portability (MNP) services, making Taiwan the first country in Asia to offer such services.
+2008
+ITRI completed the first domestically-developed WiMAX IEEE 802.16e MIMO baseband chip.
+2009
+ITRI successfully developed the world’s first Watt-level linear CMOS power amplifier. The product was designed to meet WiMAX 802.16e/16m specs and was compatible with the LTE/LTE-A system. It had been applied to communication chips in cell phones, network interface cards, PMDs, and small laptops.
+2019
+ITRI launched the first wave of 5G small cell products simultaneously with the rest of the world. It developed hard/software integration solutions and 5G base station technologies that comply with the 3rd Generation Partnership Project (3GPP) and are compatible with O-RAN architecture. This helps Taiwan seize early opportunities in the white box network equipment and device market.
+2020
+ITRI developed Taiwan’s first domestically-manufactured 5G standalone small cell, transferring the technology to many server and netcom businesses to help them develop their own 5G telecom equipment development. The businesses have successfully established connections with three major private network equipment suppliers in Japan.
+MORE
+Origin
+Semiconductors
+Materials, Chemicals, and Nanotechnology
+Vehicles
+Metrology
+Textiles
+Optoelectronics
+PCB
+Machinery
+Biomedicine
+Green Energy
+AI and Big Data
+Others
+next
+prev
+© Industrial Technology Research Institute
++886-3-582-0100
+310401
+195, Sec. 4, Chung Hsing Rd., Chutung, Hsinchu, Taiwan 310401, R.O.C.

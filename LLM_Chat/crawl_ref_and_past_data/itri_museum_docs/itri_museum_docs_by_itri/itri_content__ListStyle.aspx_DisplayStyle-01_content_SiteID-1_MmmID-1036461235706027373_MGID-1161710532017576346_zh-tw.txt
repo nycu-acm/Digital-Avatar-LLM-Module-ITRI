@@ -1,0 +1,25 @@
+首頁
+產業服務
+業界合作
+產業聯盟
+異質整合系統級封裝開發聯盟（Hi-CHIP）
+Share to Facebook
+Share to Twitter
+分享到我的Line
+聯絡我們
+簡介說明
+2023年8月30日Hi-CHIP聯盟成立大會。
+本聯盟前身為先進堆疊系統與應用研發聯盟（Ad-STAC），為了協助産業掌握半導體高階製程與高度晶片整合能力的關鍵，工研院攜手產業在2023年8月30日成立「異質整合系統級封裝開發聯盟」（Heterogeneous Integration and Chiplet System Package Alliance；Hi-CHIP），為臺灣首創整合國內外半導體業者從封裝設計、測試驗證到小量產服務的完整平台，以供應鏈在地化、接軌國際的服務模式，讓異質整合技術帶領半導體產業邁入下一個成長高峰，搶攻國際供應鏈商機。
+工研院多年前就投入相關製程技術研發與材料設備升級，強化異質整合技術開發，在扇出型晶圓級封裝（Fan-Out Wafer Level Packaging；FOWLP）、2.5與3D晶片、異質整合載板架構（Embedded interposer connection；EIC）與可程式封裝架構（Programmable Package）的開發都已有亮眼成果。如今更與國內外半導體廠攜手成立Hi-CHIP聯盟，組建先進封裝製程產線，運用封裝Shuttle Service提供AIoT系統應用平台與一站式服務。
+目前聯盟成員囊括環電、瑞峰半導體、欣興電子、Kulicke & Soffa、EVG、DuPont、Brewer Science、辛耘企業等國內外重量級半導體業者，未來希望達到40家會員，串接上下游打造客製化承接模式與核心製程能力，掌握半導體前進未來新動力。
+聯盟任務
+建立共通平台技術，加速產品設計與共同開發。
+參與國外相關組織，以掌握世界發展趨勢。
+落實供應鏈在地化，推動產業新營運模式。
+協助國產設備與材料廠商跨境合作與技術升級。
+聯盟未來5年的技術Roadmap
+資料時間：2023年8月30日。
+聯盟網址：
+https://adstac.hichip.org.tw
+相關連結：
+更多技術相關資訊。

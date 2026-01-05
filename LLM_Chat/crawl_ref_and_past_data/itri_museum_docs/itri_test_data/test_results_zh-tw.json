@@ -1,0 +1,96 @@
+{
+“ basic_get”：{
+“ status_code”：200，
+“ content_length”：69319，
+“標頭”：{
+“ cache-control”：“ public，max-age = 572961”，
+“ content-type”：“ text/html; charset = utf-8”，
+“內容編碼”：“ Gzip”，
+“到期”：“ 2025年8月3日，星期日23:02:21 GMT”，
+“最後修飾”：“ 2025年7月27日太陽23:02:21 GMT”，
+“ vary”：“接受編碼”，
+“ content-security-policy”：“ frame-src'https://wwwagent.itri.org.tw https://wwwww.youtube.com/https://iektrends.iek.org.org.org.org.org.org.org.tw/https:/ https:/https:/ https:/ https：//
+“ X-Frame-Options”：“ Sameorigin”，
+“日期”：“ 2025年7月28日星期一07:52:59 GMT”，
+“內容長度”：“ 17388”
+}，，
+“編碼”：“ UTF-8”
+}，，
+“ session_get”：{
+“ status_code”：200，
+“ content_length”：69319，
+“標頭”：{
+“ cache-control”：“ public，max-age = 572961”，
+“ content-type”：“ text/html; charset = utf-8”，
+“內容編碼”：“ Gzip”，
+“到期”：“ 2025年8月3日，星期日23:02:21 GMT”，
+“最後修飾”：“ 2025年7月27日太陽23:02:21 GMT”，
+“ vary”：“接受編碼”，
+“ content-security-policy”：“ frame-src'https://wwwagent.itri.org.tw https://wwwww.youtube.com/https://iektrends.iek.org.org.org.org.org.org.org.tw/https:/ https:/https:/ https:/ https：//
+“ X-Frame-Options”：“ Sameorigin”，
+“日期”：“ 2025年7月28日星期一07:52:59 GMT”，
+“內容長度”：“ 17388”
+}，，
+“編碼”：“ UTF-8”
+}，，
+“ user_agent_0”：{
+“ status_code”：200，
+“ content_length”：69319，
+“ user_agent”：“ Mozilla/5.0（Windows NT 10.0; Win64; X64）AppleWebkit/537.36（Khtml，像Gecko一樣）Chrome/91.0.4472.124 Safari/537.36”
+}，，
+“ user_agent_1”：{
+“ status_code”：200，
+“ content_length”：69319，
+“ user_agent”：“ Mozilla/5.0（Macintosh; Intel Mac OS X 10_15_7）AppleWebkit/537.36（Khtml，像Gecko一樣）Chrome/91.0.4472.124 SafeRi/537.36”
+}，，
+“ user_agent_2”：{
+“ status_code”：200，
+“ content_length”：69319，
+“ user_agent”：“ mozilla/5.0（x11; linux x86_64）AppleWebkit/537.36（Khtml，像Gecko一樣）Chrome/91.0.4472.124 Safari/safari/537.36”
+}，，
+“ user_agent_3”：{
+“ status_code”：200，
+“ content_length”：69319，
+“ user_agent”：“ Mozilla/5.0（Windows NT 10.0； Win64; X64; RV：89.0）Gecko/20100101 Firefox/89.0
+}，，
+“ page__index_aspx”：{
+“ status_code”：200，
+“ content_length”：69319，
+“ url”：“ https：//www.itri.org.tw/index.aspx”
+}，，
+“ page__about_aspx”：{
+“ status_code”：200，
+“ content_length”：771，
+“ url”：“ https：//www.itri.org.tw/about.aspx”
+}，，
+“ page__technology_aspx”：{
+“ status_code”：200，
+“ content_length”：771，
+“ url”：“ https：//www.itri.org.tw/technology.aspx”
+}，，
+“ page__news_aspx”：{
+“ status_code”：200，
+“ content_length”：771，
+“ url”：“ https：//www.itri.org.tw/news.aspx”
+}，，
+“ page__contact_aspx”：{
+“ status_code”：200，
+“ content_length”：771，
+“ url”：“ https：//www.itri.org.tw/contact.aspx”
+}，，
+“頁__”： {
+“ status_code”：200，
+“ content_length”：69319，
+“ url”：“ https：//www.itri.org.tw/”
+}，，
+“ page__index_html”：{
+“ status_code”：404，
+“ content_length”：1245，
+“ url”：“ https：//www.itri.org.tw/index.html”
+}，，
+“ page__index_htm”：{
+“ status_code”：404，
+“ content_length”：1245，
+“ url”：“ https：//www.itri.org.tw/index.htm”
+}
+}

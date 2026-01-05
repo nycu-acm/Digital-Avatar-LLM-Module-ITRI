@@ -1,0 +1,125 @@
+首頁
+產業服務
+業界合作
+委託研究及產品開發
+探針顯微設備
+Share to Facebook
+Share to Twitter
+分享到我的Line
+聯絡我們
+服務說明
+掃瞄探針顯微鏡-SPM
+掃瞄探針顯微鏡--SPM（AFM、STM、MFM）
+可針對8吋晶圓以下的試片進行探針掃瞄顯微量測，依不同的探針使用可進行多種物理特性的量測。
+服務項目
+topography
+dielectric properties
+contact potential，electric dipole moment
+magnetic domain
+Dopant
+conductivity
+probe lithography
+規格
+scanning range：90μm × 90μm × 6μm
+resolution：X axis and Y axis are 2 nm；Z axis is 0.05 nm；nonlearity < 1%
+specimen size：200 mm (diameter) x 12 mm (thicjness)
+應用
+AFM Contact Mode， Tapping Mode， Non-contact Mode
+Lateral Force Microscopy (LFM)
+Visco-elastic AFM
+Magnetic Force Microscopy (MFM)
+Kelvin Force Microscopy(KFM or Scanning Surface Potential Microscopy，SSPM)
+Conductive AFM
+Scanning Capacitance Microscopy (SCM)
+Nanolithography
+真空控溫型掃描探針顯微鏡
+真空控溫型掃描探針顯微鏡--SPM（AFM、STM、MFM）
+可改變試片的環境條件，真空至10^-6 torr，溫度範圍-120℃至400℃(加熱最高可至800℃)。僅限於2.5cm x 1 cm試片。依不同的探針使用可進行多種物理特性的量測。
+服務項目
+topography
+dielectric properties
+contact potential，electric dipole moment
+magnetic domain
+Dopant
+conductivity
+probe lithography
+規格
+scanning range：150μm × 150μm × 6μm
+resolution：both of the X axis and Y axis are 1 nm；Z axis is 5 nm
+specimen size：2.5 cm (diameter) x 1.0 cm (thickness)
+應用
+AFM Contact Mode， Tapping Mode， Non-contact Mode
+Lateral Force Microscopy (LFM)
+Visco-elastic AFM
+Magnetic Force Microscopy (MFM)
+Kelvin Force Microscopy (KFM or Scanning Surface Potential Microscopy，SSPM)
+Conductive AFM
+Scanning Capacitance Microscopy (SCM)
+Nanolithography
+定量力學及快速掃描探針顯微鏡-Q-SPM
+本儀器是New generation AFM作用力<50 pN，接觸面積遠小於傳統AFM，不會刮傷樣品（適用於軟物質）、液態中可以穩定掃描、可整合光學系統（Raman，螢光…）、電極表面電位量測、奈米定量力學及電學特性量測、高速掃描功能。
+服務項目
+Topography
+Nanomechanics
+Imaging in liquid
+Force mapping
+Raman mapping
+規格
+scanning range：150 μm × 150 μm × 20 μm
+image resolution： X and Y axis are 2 nm ; height noise ：< 0.1 nm RMS (air)， < 0.2 nm RMS (fluid)
+force resolution：10 pN RMS for cantilever with k = 20 pN/nm
+specimen size：1 × 3 inch slides， 25 mm coverslips， 35 and 60 mm plastic petri dishes
+應用
+AFM Contact Mode， Tapping Mode， Non-contact Mode， Peak Force Mode
+Phase Imaging
+PeakForce Quantitative Nanomechanical Property Mapping （QNM）
+Force Volume
+Nano-Indentation
+Integrated AFM-Raman Imaging System（IRIS）
+Microscope Image Registration and Overlay（MIRO）
+定量力學及快速掃描探針顯微鏡-FS-SPM
+本儀器是New generation AFM作用力<50 pN，接觸面積遠小於傳統AFM，不會刮傷樣品（適用於軟物質）、液態中可以穩定掃描、可整合光學系統（Raman，螢光…）、電極表面電位量測、奈米定量力學及電學特性量測、高速掃描功能。
+服務項目
+Topography
+Nano-mechanics
+Fastscan
+Force mapping
+surface potential
+surface magnetic property
+Nano-conductivity
+規格
+scanning range：90 μm × 90 μm × 10 μm
+resolution： X axis and Y axis are 2 nm ; vertical noise: <40 pm RMS
+speed： X-Y tip-velocity max.: > 2 mm/Sec.; Z tip-velocity max.: 12 mm/Sec
+specimen size：210 mm（diameter） x 15 mm（thickness）
+應用
+AFM Contact Mode， Tapping Mode， Non-contact Mode， Peak Force Mode
+Phase Imaging
+PeakForce Quantitative Nanomechanical Property Mapping（QNM）
+Force Volume
+Nano-Indentation
+Integrated AFM-Raman Imaging System（IRIS）
+Microscope Image Registration and Overlay（MIRO）
+SNOM
+掃描式近場光學顯微鏡（SNOM）
+本儀器是具有近場光學、共焦及原子力等三種功能合一的顯微鏡，可針對3.5英吋以下之試片進行近場光學影像檢測以及表面形貌量測。
+服務項目
+topography
+dielectric properties
+contact potential，electric dipole moment
+magnetic domain
+Dopant
+conductivity
+probe lithography
+規格
+0.2 cps to 2x1012 cps:
+Complete analysis from 0.1 fg.g-1 to 0.1% (LR， solution)
+Minimum integration time:
+Counting: 0.1 ms
+Analog: 1 ms
+Faraday: 1 ms
+No decay time with Faraday detection system:
+Specially designed integration circuit
+Automatic switching between detection modes:
+no preset
+< 1 ms to Faraday detection

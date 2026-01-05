@@ -1,0 +1,64 @@
+Developing Semiconductors From Scratch: Taiwan’s Semiconductor Industry Hall of Fame - 50 Years of Empowering Industry Through Innovations
+Industrial Technology Research Institute
+Major Milestones
+Half a Century Young
+Navigating the Future
+中
+Major Milestones
+Home
+Major Milestones
+Semiconductors
+Developing Semiconductors From Scratch: Taiwan’s Semiconductor Industry Hall of Fame
+Taiwan’s Semiconductor Industry Hall of Fame
+Developing Semiconductors From Scratch: Taiwan’s Semiconductor Industry Hall of Fame
+Taiwan’s Semiconductor Industry Hall of Fame
+The Birth of Taiwan’s Semiconductor Industry
+Taiwan’s Semiconductor Industry Hall of Fame
+Memory
+With the success of the RCA project, ITRI set up United Microelectronics Corporation (UMC) in 1980 and transferred the 4-inch wafer technology along with its R&D team to this spin-off company. UMC was Taiwan’s first IC company and one of the first businesses to settle in Hsinchu Science Park. In 1985, UMC became the first listed semiconductor company in Taiwan. However, the global technology protectionism trend made it difficult to introduce overseas technology into Taiwan; thus in 1984, ITRI launched the very large-scale integration (VLSI) project and started its own research and development. Dr. Morris Chang was invited by Premier Yun-Suan Sun to return to Taiwan in 1985 and serve as the President of ITRI to govern the development of the 6-inch wafer technology.
+In collaboration with Philips, the VLSI demonstration factory officially began operations in 1986 to boost the production of the 6-inch IC. Taiwan Semiconductor Manufacturing Company (TSMC) was established the next year. ITRI transferred fabs, equipment, technology, and 98 professionals to TSMC, making it the world’s first company to operate an IC OEM model. IC design companies can simply commission TSMC to produce their designs without setting up a costly fab themselves. This also encouraged the establishment of many new IC design companies in Taiwan. In 1989, ITRI span off Taiwan Mask Corporation that provides domestic IC design companies with mask production services. Such services lower the manufacturing cost of IC products and shorten the procedures to increase market competitiveness.
+With these spin-off companies established in the 1990s, Taiwan gradually developed a complete semiconductor industry chain. To date, Taiwan’s semiconductor industry is world-renowned and ITRI continues to work on next generation semiconductors. In 2010, ITRI established Asia’s first 3D IC R&D laboratory which has full 12-inch 3D IC core process with through-silicon via (TSV) packaging technology. In 2021, ITRI teamed up with a world leader in semiconductor IP design Arm to set up the innovative IC design platform. The objective was to expand the global market share of Taiwan’s IC design industry. ITRI also announced the launch of the Southern Rainforest Project in the same year. Both public and private sectors will work on the development of compound semiconductors and automotive power electronics to build a semiconductor industry chain in southern Taiwan.
+1980
+ITRI set up Taiwan’s first professional 4-inch wafer manufacturer UMC. This is the first technology transfer from a research institution to a private business.
+1981
+ITRI successfully developed CIC181 and CIC481 melody generator and transferred the technology to UMC. This technical breakthrough overcame the limitation of one single melody line, enabling the product to create harmonies with a combination of various instruments.
+1982
+ITRI produced the most advanced IC music card in Taiwan—a card that can play different melodies. This card was introduced to the industry and became a popular product of the newly established UMC.
+1983
+ITRI launched the very large-scale integration (VLSI) project.
+1984
+The very large-scale integration (VLSI) factory was launched for operation.
+1986
+The VLSI demonstration plant was inaugurated.
+1986
+ITRI signed a collaboration contract with the Dutch company Philips to boost the production of the 6-inch IC demo fab.
+1987
+ITRI set up the spin-off company Taiwan Semiconductor Manufacturing Company (TSMC) which introduced the world’s first IC OEM operation model.
+1989
+ITRI established the spin-off company Taiwan Mask Corporation to offer mask production services.
+2010
+ITRI set up the 3D IC R&D laboratory. This is the first laboratory in Asia to have a complete 12-inch 3D IC core process capacity with TSV technology.
+2021
+ITRI set up the innovative IC design platform with leading semiconductor IP design company Arm to expand the global market share of Taiwan’s IC design industries.
+2021
+ITRI launched the Southern Rainforest Project and joined hands with industries, government, academia, and research institutions to work on the development of compound semiconductors and automotive power electronics and build a semiconductor industry chain in southern Taiwan.
+MORE
+Origin
+ICT
+Materials, Chemicals, and Nanotechnology
+Vehicles
+Metrology
+Textiles
+Optoelectronics
+PCB
+Machinery
+Biomedicine
+Green Energy
+AI and Big Data
+Others
+next
+prev
+© Industrial Technology Research Institute
++886-3-582-0100
+310401
+195, Sec. 4, Chung Hsing Rd., Chutung, Hsinchu, Taiwan 310401, R.O.C.

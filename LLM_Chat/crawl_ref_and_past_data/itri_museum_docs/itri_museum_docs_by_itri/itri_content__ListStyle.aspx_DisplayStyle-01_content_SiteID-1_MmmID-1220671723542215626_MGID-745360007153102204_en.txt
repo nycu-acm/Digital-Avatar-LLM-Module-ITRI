@@ -1,0 +1,18 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Artificial intelligence and security
+Chessboard format AGV car delivery system
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Chessboard format AGV car delivery system.
+Multi-carrier robot operating systems have been widely used in automated material processing systems. However, for systems that operate at the same time, how to build a back-end pipe system to resolve conflicts (dead knots) between vehicles is the primary problem.On the other hand, domestic light-load trucks with two-way operation functions have also been developed, and key module technologies including single-chip controllers, magnetic sensing modules and magnetic tracking drive control have been implemented in actual cases.
+Features and innovation
+Back-end instant management system: Through wireless transmission, the location of each truck is instantly returned to the back-end management system, and the management system will immediately coordinate the planning of different tasks such as travel path, speed, and docking time according to the conditions at the time.
+Light load AGV: The whole machine system and key components are domestically made, with two-way movement and in-place rotation functions, suitable for operation in small spaces.
+Application and benefits
+Automotive, medical materials and other businesses – automated material handling.
+Automation equipment operators – Integration of electric drag panel magnetic guide, low-bed AGV, and drive magnetic guide modules.

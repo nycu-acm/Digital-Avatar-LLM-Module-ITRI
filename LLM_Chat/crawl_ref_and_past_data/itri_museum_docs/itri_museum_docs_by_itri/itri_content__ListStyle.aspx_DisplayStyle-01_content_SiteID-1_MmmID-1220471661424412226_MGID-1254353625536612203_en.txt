@@ -1,0 +1,20 @@
+front page
+Cutting-edge technology
+Smart life
+Smart consumption and operation services
+FAST AI one-stop system
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+FAST AI one-stop system
+The first integrated AI modeling system in China, covering data exploration and cleaning tools, labeling management tools, and AI automatic modeling tools, assisting small and medium-sized enterprises to quickly establish AI models and deploy AI applications to go online, shorten the gap between industry investment in AI development, avoid high labor costs, and improve AI import efficiency.
+Features and innovation
+Simple and easy-to-use interface
+: It is easy to use AI data for analysis and prediction.At the same time, FAST AI's data annotation, data cleaning and timing prediction can be used in multiple scenarios, such as crowd prediction, meteorological prediction and the use of data refining functions to process medical images, and use data annotation function to train image analysis models.
+Decentralized learning platform
+: You can establish your own alliance through the system to lead the joint learning, and you can also join other people's alliances for training.Supports multiple privacy protection mechanisms and ensures that users' original information does not leave the local end.At the same time, it supports a variety of joint learning algorithms to effectively deal with different degrees and types of Non-IID.
+Application and benefits
+Enterprises can use the FAST AI platform to quickly establish and deploy AI models, solve business problems, improve efficiency, and ensure enterprise competitiveness.
+Through the FAST AI joint learning system, enterprises or institutions can quickly establish joint learning alliances, jointly train and improve performance without leaking privacy, breaking the dilemma of data silos

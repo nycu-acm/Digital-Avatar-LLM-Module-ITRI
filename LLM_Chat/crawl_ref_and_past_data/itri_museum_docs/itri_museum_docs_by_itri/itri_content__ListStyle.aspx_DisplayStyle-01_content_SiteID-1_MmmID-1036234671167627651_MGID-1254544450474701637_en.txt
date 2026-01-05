@@ -1,0 +1,24 @@
+front page
+about Us
+Academician of the Institute of Technology Research
+Academician profile
+Academician Huang Renxun
+Academician Huang Renxun is the founder and CEO of NVIDIA and is a world-renowned Taiwanese entrepreneur.He founded NVIDIA, created a revolutionary drawing processor (GPU), and reshaping the development of the drawing computing industry. With his incomparable determination and perseverance, he led NVIDIA out of the lows and reached a new peak.It also has a vision to apply GPU parallel computing architecture to scientific research, from the computer game market to the field of AI artificial intelligence, driving a new wave of development of AI, and opening a new chapter for the future of human technology.
+Academician Huang is a master's degree in electrical engineering from Stanford University in the United States. He has received an honorary doctorate from Taiwan University and Jiaotong University. At the age of 30, he co-founded NVIDIA with a friend and entered the computer game and multimedia market with 3D drawing chips.In 1999, NVIDIA launched the world's first drawing processing chip - GeForce256, which has established its leading position in the 3D drawing chip market.In 2006, NVIDIA revealed the unified computing architecture (CUDA), allowing customers to use the parallel computing functions of GPUs to engage in general computing other than image processing, such as deep learning, machine vision, scientific research, etc. This decision has laid NVIDIA's current position in the field of AI artificial intelligence and created a solid competitive advantage.
+With his foresight and belief, Academician Huang has deeply cultivated the CUDA ecosystem, making NVIDIA GPU and CUDA platform an indispensable tool for promoting AI artificial intelligence. More and more companies and research institutions use GPUs to build supercomputers, autonomous driving systems, and robotics to promote the vigorous development of generative AI. Therefore, NVIDIA is in a leading position in the AI ​​chip market.At the end of May 2023, riding on the generative AI boom, NVIDIA's market value exceeded US$1 trillion for the first time, becoming the world's first chip company to have a market value of US$1 trillion; as AI's demand for GPUs increased significantly, NVIDIA's stock price continued to grow, and in June 2024, the stock price surpassed Microsoft and became the world's largest company with market value.
+Academician Huang has a deep relationship with Taiwan's information industry. NVIDIA's latest Blackwell chip will be manufactured by TSMC. In response to the growing demand for advanced AI chips in the world, NVIDIA also set up Asia-Pacific finished product warehousing and Asia's first AI R&D center in Taiwan, and created Taiwan's AI supercomputer "Taipei-1". He said that Taiwan is at the "central point of the AI ​​revolution" and also regards Taiwan as an important part of NVIDIA's development strategy. In the future, it will continue to expand investment in Taiwan, including setting up a second supercomputer, from technology, talents to supply chain to promote the more complete Taiwan's AI chip industry ecosystem and promote Taiwan's development in the era of AI artificial intelligence.
+NVIDIA Founder and CEO
+Chip Design Engineer of American Business Juji Company
+Ultramicro Semiconductor Company chip design engineer
+Master of Electrical Engineering, Stanford University, USA
+Bachelor of Electrical Engineering, Oregon State University, USA
+honor
+2024 Academician of the Institute of Technology
+2024 Fellow of the National Academy of Engineering
+2020 Honorary Doctor of National Taiwan University
+2019 Harvard Business Review CEO of the Year
+2017 Honorary Doctor of National Jiaotong University
+2017 American Fortune Outstanding Business Person of the Year
+Information statistics until the year of certification (2024)
+Further reading
+Academician Huang Renxun: Run with all his strength and lead the way toward a new realm of AI

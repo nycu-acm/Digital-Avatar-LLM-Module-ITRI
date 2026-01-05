@@ -1,0 +1,32 @@
+front page
+News Center
+News room
+Latest News
+Industrial Research Institute's "Innovative Health Care Service for Fundoscopy" shines internationally, smart medical care attracts attention
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Date: 2019/10/24
+The Institute of Technology won the "Innovative eHealth Solutions" for its "Innovative medical application award" for its "Innovative health care service for fundoscopy", which has once again attracted international attention in Taiwan's smart medical research and development energy.(First from left) Chen Guan'an, an engineer at the Service System Science and Technology Center of the Institute of Technology Research Institute, received the award on behalf of the award, (First from right) Chairman of the World Information Communications and Services Alliance (WISTA), and is also Chairman of the Software Association of the Republic of China Qiu Yuexiang.
+The Institute of Technology has won international awards again! The 23rd World Congress on Information Technology (WCIT) recently awarded the Global ICT Excellence Award, known as the "Oscar in the Information Communications Industry", to commend enterprises or organizations that have outstanding performance in the information communications industry. This year, with the support of the Ministry of Economics Technology Department and the recommendation of the China Soft Association, Taiwan won six awards.Among them, the Institute of Technology won the "Innovative eHealth Solutions" for "Innovative Health Care Services", which has once again attracted international attention from Taiwan's smart medical research and development energy.
+Zheng Renjie, CEO of the Services Center of the Institute of Technology Research Institute, said that Taiwan’s population aging is getting faster and faster, and combining long-term care and medical care is an urgent issue.Diabetes ranks one of the top ten causes of death in Taiwan, and the blindness rate of diabetes is 25 times that of ordinary people. Diabetic retinopathy is the main cause of adult diabetes and blindness. According to the latest data statistics of the Ministry of Health Service, by 2018, about 60% of diabetic patients had not undergone fundus imaging examinations.Through the integrated technology of software and hardware systems of information and communication, the Industrial Research Institute early detects and screens eye lesions in diabetic patients, greatly reducing the work burden of hospital nursing staff, allowing chronic patients and elderly people in the village to undergo fundus photography examinations when visiting nearby medical departments to improve the fundus screening rate of diabetic patients.
+With the support of the technological research and development of the Ministry of Economic Affairs Department, the Institute of Technology Research and Research provides a full-process automated self-service fundus photography service. The "diabetic fundus image AI decision-making support system" can effectively identify the severity of retinopathy in the early stage. It assists medical staff to automatically detect and track the user's pupil position in the self-service fundus photography process through computer vision processing technology, and wisely adjust the height of the chin frame according to the patient's height. This can not only reduce the complexity of the fundus lens, but also grading the severity of the lesions for the retinopathy images of diabetic patients. In addition, a friendly simple analysis report allows patients to grasp their own condition. The operation process is time-saving and convenient, which helps to achieve the goal of early detection of symptoms and early treatment.
+Faced with the rapid aging of Taiwan's population structure, the National Development Commission predicts that the proportion of elderly people in Taiwan will exceed 20% in 2026, and will be promoted to a super-old country.The long-term care insurance system planning report shows that the number of disabled people in Taiwan will reach 1 million by 2025. In order to serve more people in need, "Innovative Health Care Service for Fundoscopy" has cooperated with fundoscopy operators in Taiwan and conducted field verification in clinics. It will also cooperate with hospitals in the near future.At that time, diabetic patients can take photos through fundoscopy photography instruments when they go back to the metabolic department and medical department for regular visits, and even combine AI interpretation to find out the diseased eyes.The Institute of Technology hopes that through this service, it can also use the assistance of scientific and technological technology to provide medical resources to patients in need of care, thereby improving the overall medical and disease relationship.
+The Institute of Technology Research Institute's "Innovative Health Care Service for Fundoscopy" provides a full-process automated self-service fundus photography service.The "diabetic fundus imaging AI decision-making support system" can effectively identify the severity of retinopathy in the early stage and assist medical staff in computer vision processing technology.
+Your browser does not support Javascript, please set the browser to allow Javascript execution. When SCRIPT is closed, please click the link below.
+https://www.youtube.com/watch?v=v5VhojuNasY
+.
+Explain the reasons for the development of the "diagnostic assisted analysis system for diabetes retinopathy", which problems, system operations and information presented after AI are introduced.
+【News Contact Person】
+Bai Huizhen, Marketing and Communication Department of the Institute of Industrial Research
+Tel: +886-3-5912888
+Email:
+stacy.bai@itri.org.tw
+Learn more about technology
+Further reading
+Smart medical precision health, Industrial Research Institute protects the health of the people in all aspects
+Smart transformation of medical care sites
+Industrial Research Institute joins hands with the medical system to create a green channel for clinical trials
+The Institute of Technology and Research Works with four major medical systems to build a green channel for clinical trials to help the implementation of new clinical innovations accelerate verification and market introduction
+AI Smart Medical Innovation

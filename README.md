@@ -1,63 +1,399 @@
-# 🤖 ITRI Museum RAG LLM System
+# ITRI Museum RAG + LLM System with Dynamic Tone Adaptation
 
-A comprehensive Retrieval-Augmented Generation (RAG) system designed to provide intelligent question-answering capabilities about the Industrial Technology Research Institute (ITRI). This system combines advanced document retrieval with large language models to deliver accurate, contextual responses in both English and Traditional Chinese (繁體中文).
+A comprehensive Retrieval-Augmented Generation (RAG) system that provides intelligent, context-aware question-answering with **automatic tone adaptation** based on visual user analysis. The system combines advanced document retrieval, large language models, and vision language models to deliver personalized responses in both English and Traditional Chinese (繁體中文).
 
-🆕 **NEW**: Now features **VLM-based Dynamic Tone Selection** - automatically adapts response tone based on visual user analysis from Vision Language Models!
+## Table of Contents
 
-## 🖼️ System Workflow Overview
-
-Below is a visual overview of the LLM module workflow:
-
-![LLM Module Workflow](LLM_pipeline_figure.png)
-
-*The diagram above illustrates the main components and data flow in the ITRI Museum RAG LLM system.*
+1. [What This System Does](#what-this-system-does)
+2. [How The System Works](#how-the-system-works)
+3. [System Architecture](#system-architecture)
+4. [Step-by-Step Setup Guide](#step-by-step-setup-guide)
+5. [API Reference](#api-reference)
+6. [Configuration](#configuration)
+7. [Troubleshooting](#troubleshooting)
 
 ---
 
+## What This System Does
 
-## 🚀 Quick Start Guide
+### Core Functionality
+
+The ITRI Museum RAG + LLM System is an **intelligent question-answering service** that:
+
+1. **Answers Questions About ITRI**: Uses a knowledge base of ITRI documents to provide accurate, factual responses about the Industrial Technology Research Institute
+2. **Adapts Communication Style**: Automatically adjusts response tone based on user demographics (child-friendly, elder-friendly, professional, or casual)
+3. **Maintains Conversation Context**: Remembers previous interactions within a session for follow-up questions
+4. **Streams Responses in Real-Time**: Provides immediate feedback as responses are generated
+5. **Supports Multiple Languages**: Handles both English and Traditional Chinese queries and responses
+
+### Key Features
+
+- **Hybrid RAG Search**: Combines semantic vector search (ChromaDB) with keyword search (TF-IDF) for optimal retrieval
+- **Dynamic Tone Selection**: VLM-powered automatic tone adaptation (child_friendly, elder_friendly, professional_friendly, casual_friendly)
+- **Parallel Processing**: Simultaneously fetches user descriptions and generates QA responses to minimize latency
+- **Query Rewriting**: Intelligently rewrites user queries for better document retrieval, especially for follow-up questions
+- **Session Management**: Maintains conversation history per session with graceful cleanup
+- **Streaming API**: Real-time text streaming with END_FLAG termination
+- **Model Warmup**: Preloads models to reduce first-request latency
+
+### Use Cases
+
+- **Museum Interactive Guides**: Personalized explanations about exhibits based on visitor demographics
+- **Educational Platforms**: Age-appropriate content delivery for different learner groups
+- **Customer Service**: Context-aware chatbots with appropriate communication styles
+- **Knowledge Management**: Intelligent document retrieval and explanation systems
+
+---
+
+## How The System Works
+
+### High-Level Workflow
+
+```
+                 ┌─────────────┐
+                 │ User Query  │
+                 └──────┬──────┘
+                        │
+                        ▼
+┌─────────────────────────────────────────────────┐
+│         Flask API Server (Port 5002)            │
+│  ┌──────────────────────────────────────────┐   │
+│  │  Parallel Processing (ThreadPoolExecutor)│   │
+│  │  ┌──────────────┐  ┌──────────────────┐  │   │
+│  │  │ Task 1:      │  │ Task 2:          │  │   │
+│  │  │ Fetch User   │  │ Generate QA      │  │   │
+│  │  │ Description  │  │ Response (RAG)   │  │   │
+│  │  │ (Vision API) │  │                  │  │   │
+│  │  └──────────────┘  └──────────────────┘  │   │
+│  └──────────────────────────────────────────┘   │
+│           │                    │                │
+│           └──────────┬─────────┘                │
+│                      ▼                          │
+│  ┌──────────────────────────────────────┐       │
+│  │ Determine Tone from User Description │       │
+│  └──────────────────────────────────────┘       │
+│                      ▼                          │
+│  ┌──────────────────────────────────────┐       │
+│  │  Convert Response to Selected Tone   │       │
+│  └──────────────────────────────────────┘       │
+└─────────────────────────────────────────────────┘
+                       │
+                       ▼
+                ┌─────────────┐
+                │   Client    │
+                │ (Streaming) │
+                └─────────────┘
+```
+
+### Detailed Processing Flow
+
+#### Step 1: Query Reception & Preprocessing
+
+When a user sends a query to `/api/rag-llm/query`:
+
+1. **Request Parsing**: Extracts `text_user_msg`, `session_id`, `user_description`, and `convert_tone` flag
+2. **Session Retrieval**: Loads conversation history for the session (if `include_history=true`)
+3. **Language Detection**: Automatically detects if query contains Chinese characters
+
+#### Step 2: Parallel Processing (Key Innovation)
+
+The system uses **ThreadPoolExecutor** to run two tasks simultaneously:
+
+**Task 1: Fetch User Description** (if not provided by client)
+- Calls Vision Context API (`http://localhost:5004/visual-context/{session_id}`)
+- Waits 2 seconds before fetching (allows VLM to process recent frames)
+- Returns visual description like: "a young boy wearing glasses, and is smiling"
+
+**Task 2: Generate QA Response**
+- **Query Rewriting**: Rewrites user query using chat history context for better retrieval
+  - Example: "他什麼時候上任的？" → "工研院院長張培仁博士的上任日期與就職時間"
+- **RAG Retrieval**: 
+  - Generates query embedding using `bge-m3:latest` model
+  - Performs hybrid search in ChromaDB (dense) + TF-IDF (sparse)
+  - Retrieves top 6 relevant document chunks
+- **Context Processing**: Filters and ranks retrieved documents (excludes Q&A patterns)
+- **LLM Generation**: 
+  - Builds structured JSON prompt with `user_question`, `chat_history`, `rag_reference`, `rewritten_query`
+  - Sends to Ollama LLM (`linly-llama3.1:70b-instruct-q4_0`)
+  - Streams response tokens back
+- **Response Collection**: Accumulates full response (max 150 chars for tone conversion)
+
+#### Step 3: Tone Determination
+
+After both parallel tasks complete:
+
+1. **Visual Analysis**: If user description available, sends to tone selector agent
+   - Analyzes age indicators, clothing, context
+   - Returns one of: `child_friendly`, `elder_friendly`, `professional_friendly`, `casual_friendly`
+2. **Default Fallback**: Uses `casual_friendly` if no description available
+
+#### Step 4: Tone Conversion
+
+If `convert_tone=true`:
+
+1. **System Prompt Selection**: Retrieves specialized prompt for selected tone from `tone_system_prompts_no_tag.py`
+2. **Context Integration**: 
+   - Includes user appearance description
+   - Includes original user message
+   - Indicates if this is first message (mandatory appearance reference) or subsequent (20% probability)
+3. **Streaming Conversion**: 
+   - Sends to Ollama LLM with tone-specific system prompt
+   - Streams converted response chunks
+   - Maintains factual accuracy while adapting emotional tone
+
+#### Step 5: Response Delivery & Session Update
+
+1. **Streaming**: Yields tone-converted chunks (or original if no conversion)
+2. **END_FLAG**: Sends `END_FLAG` when complete
+3. **History Update**: Stores original (pre-tone) response in session history for future context
+
+### Key Components Deep Dive
+
+#### 1. RAG Pipeline (`RAG_LLM_realtime.py`)
+
+**Document Processing**:
+- Loads JSON files (raw_data, qa_pairs, structured_data, golden entries) and TXT files
+- Semantic chunking (300 chars, 50 overlap) respecting sentence boundaries
+- Jieba tokenization for Chinese text with domain-specific vocabulary
+
+**Vector Store**:
+- ChromaDB persistent storage with `bge-m3:latest` embeddings
+- TF-IDF sparse index for keyword matching
+- Hybrid search: 70% dense + 30% sparse with intelligent reranking
+
+**Query Processing**:
+- Query rewriting for better retrieval (especially follow-up questions)
+- Language detection (Chinese/English)
+- Context extraction and ranking
+
+#### 2. Tone Conversion System (`tone_system_prompts_no_tag.py`)
+
+**Four Tone Types**:
+
+1. **child_friendly**: 
+   - Role: "科學探險隊隊長" (Science Adventure Team Leader)
+   - Style: Energetic, curious, uses vivid metaphors and interactive phrases
+   - Example: "哇！被你發現這個超酷的秘密了！這棵大樹的頭頂上藏著六個超強的「隱形小風扇」喔！"
+
+2. **elder_friendly**:
+   - Role: "資深導覽員" (Senior Guide)
+   - Style: Warm, storytelling-based, respectful with gentle expressions
+   - Example: "您說的對，其實這棵大樹背後有很深的情感與科學。說起這棵樹的運作方式啊..."
+
+3. **professional_friendly**:
+   - Role: "官方專家導覽員" (Official Expert Guide)
+   - Style: Professional, authoritative, uses formal vocabulary ("您" instead of "你")
+   - Example: "關於生態樹的溫控機制，其核心在於透過高效能的空氣循環系統來達成。"
+
+4. **casual_friendly**:
+   - Role: "科技嚮導" (Tech Guide)
+   - Style: Chill, conversational, like talking to a friend
+   - Example: "其實這棵樹的設計蠻聰明的。簡單來說，它的頂端藏了六台風扇..."
+
+**Tone Selection Logic**:
+- Age 0-17: `child_friendly`
+- Age 55+: `elder_friendly`
+- Business/formal context: `professional_friendly`
+- General adults/unclear: `casual_friendly` (default)
+
+#### 3. API Service (`rag_llm_api.py`)
+
+**Endpoints**:
+- `/api/rag-llm/query`: Main query endpoint with optional tone conversion
+- `/api/rag-llm/query-with-tone`: Query with automatic dynamic tone conversion
+- `/api/rag-llm/convert-tone`: Standalone tone conversion service
+- `/api/rag-llm/init`: Initialize RAG system
+- `/api/rag-llm/warmup`: Preload models
+- `/api/rag-llm/close`: Graceful session cleanup
+- `/api/rag-llm/sessions/{id}/history`: Session history management
+
+**Session Management**:
+- In-memory storage: `chat_sessions[session_id] = [messages]`
+- Stores original (pre-tone) responses for context
+- Graceful cleanup on connection close
+
+---
+
+## System Architecture
+
+![LLM Pipeline Architecture](LLM_pipeline_figure.png)
+
+*The diagram above illustrates the main components and data flow in the ITRI Museum RAG LLM system.*
+
+### Component Overview
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                      Client Applications                    │
+│              (Web, Mobile, Desktop, CLI Tools)              │
+└───────────────────────────┬─────────────────────────────────┘
+                            │ HTTP/REST API
+                            ▼
+┌─────────────────────────────────────────────────────────────┐
+│              Flask API Server (Port 5002)                   │
+│  ┌──────────────────────────────────────────────────────┐   │
+│  │         RAGLLMAPIService Class                       │   │
+│  │      • Session Management                            │   │
+│  │      • Parallel Processing Orchestration             │   │
+│  │      • Tone Conversion Coordination                  │   │
+│  │      • Streaming Response Handling                   │   │
+│  └──────────────────────────────────────────────────────┘   │
+└───────┬───────────────────┬───────────────────┬─────────────┘
+        │                   │                   │
+        ▼                   ▼                   ▼
+┌──────────────┐   ┌────────────────┐   ┌──────────────┐
+│  RAG Pipeline│   │ Vision Context │   │  Ollama LLM  │
+│  (ChromaDB)  │   │  API (VLM)     │   │ (Port 11435) │
+│              │   │  (Port 5004)   │   │              │
+│  • Document  │   │                │   │  • QA Agent  │
+│    Loading   │   │  • Visual      │   │  • Tone      │
+│  • Chunking  │   │    Analysis    │   │    Converter │
+│  • Embedding │   │  • User Desc   │   │  • Query     │
+│  • Hybrid    │   │    Generation  │   │    Rewriter  │
+│    Search    │   │                │   │              │
+└──────────────┘   └────────────────┘   └──────────────┘
+```
+
+### External Dependencies
+
+1. **Ollama LLM Service** (localhost:11435)
+   - Model: `linly-llama3.1:70b-instruct-q4_0` (QA generation)
+   - Embedding Model: `bge-m3:latest` (vector embeddings)
+   - APIs: `/api/chat`, `/api/embeddings`
+
+2. **ChromaDB** (Persistent Vector Database)
+   - Path: Configurable via `CHROMA_DB_PATH` in `config.py`
+   - Collection: `{museum_name}_collection` (e.g., `itri_museum_collection`)
+   - Embedding Function: Uses Ollama embedding API
+
+3. **Vision Context API** (localhost:5004, optional)
+   - Endpoint: `/visual-context/{session_id}`
+   - Returns: `{"available": bool, "visual_context": str}`
+   - Purpose: Real-time VLM-based user appearance analysis
+
+---
+
+## Step-by-Step Setup Guide
+
+### Quick Start Summary
+
+For experienced users, here's the complete setup sequence:
+
+```bash
+# 1. Clone repository
+git clone git@github.com:HelloHe110/Demo_llm_agent.git
+cd Demo_llm_agent
+
+# 2. Create and activate virtual environment
+python3 -m venv venv
+source venv/bin/activate
+pip install --upgrade pip
+pip install flask flask-cors requests chromadb numpy scikit-learn jieba gradio
+
+# 3. Configure config.py
+# Edit config.py: Set LLM_MODEL_NAME and CHROMA_DB_PATH
+
+# 4. Start Ollama server (Terminal 1)
+CUDA_VISIBLE_DEVICES=0,1,2,3 OLLAMA_HOST=127.0.0.1:11435 ollama serve
+
+# 5. Download models (Terminal 2)
+ollama pull linly-llama3.1:70b-instruct-q4_0
+ollama pull bge-m3:latest
+
+# 6. Build ChromaDB (Terminal 2)
+cd LLM_Chat
+python create_showroom_db.py --golden --reload --embedding-model bge-m3:latest
+
+# 7. Start API server (Terminal 3)
+cd ../API
+python rag_llm_api.py --auto-init
+
+# 8. Start warmup server (Terminal 4, optional)
+cd API
+python model_warmup_server.py --api-url http://localhost:5002 --interval 60
+
+# 9. Test client (Terminal 5)
+cd API
+python test_rag_llm_api.py --usr_msg "工研院是什麼？" --session_id "test"
+```
+
+### Prerequisites
+
+- **Operating System**: Linux (Ubuntu/Debian recommended)
+- **Python**: 3.8 or higher
+- **CUDA**: Compatible GPU with CUDA support (optional but recommended for LLM)
+- **Memory**: Minimum 16GB RAM (32GB+ recommended for 70B model)
+- **Storage**: At least 50GB free space for models and data
 
 ### Step 1: Clone the Repository
-
-First, clone the repository from GitHub:
 
 ```bash
 git clone git@github.com:HelloHe110/Demo_llm_agent.git
 cd Demo_llm_agent
 ```
 
-**Note**: Make sure you have SSH access configured for GitHub. If you prefer HTTPS, use:
+Or using HTTPS:
 ```bash
 git clone https://github.com/HelloHe110/Demo_llm_agent.git
 cd Demo_llm_agent
 ```
 
-### Step 2: Set Up Git Configuration (Optional)
+### Step 2: Set Up Python Environment
 
-Configure your local Git settings:
-
-```bash
-git config --local user.name "YourUsername"
-git config --local user.email "your.email@example.com"
-```
-
-### Step 3: Install Python Dependencies
-
-Install the required Python packages:
+#### Option A: Using Virtual Environment (venv) - Recommended
 
 ```bash
+# Create virtual environment
+python3 -m venv venv
+
+# Activate virtual environment
+# On Linux/macOS:
+source venv/bin/activate
+# On Windows:
+# venv\Scripts\activate
+
+# Upgrade pip
+pip install --upgrade pip
+
+# Install required packages
 pip install flask flask-cors requests chromadb numpy scikit-learn jieba gradio
 ```
 
-### Step 4: Set Up Ollama Server
-
-Install and configure the Ollama server:
+#### Option B: Using Conda
 
 ```bash
-# Install Ollama (if not already installed)
-curl -fsSL https://ollama.ai/install.sh | sh
+# Create conda environment
+conda create -n rag_llm python=3.8 -y
 
-# Start Ollama server with GPU support
+# Activate conda environment
+conda activate rag_llm
+
+# Install required packages
+pip install flask flask-cors requests chromadb numpy scikit-learn jieba gradio
+```
+
+**Required Python Packages**:
+- `flask`: Web framework for API server
+- `flask-cors`: Cross-origin resource sharing support
+- `requests`: HTTP library for API calls
+- `chromadb`: Vector database for document storage
+- `numpy`: Numerical computing
+- `scikit-learn`: Machine learning utilities (TF-IDF)
+- `jieba`: Chinese text segmentation
+- `gradio`: Optional web UI for RAG pipeline
+
+### Step 3: Set Up Ollama Server
+
+#### 3.1 Install Ollama
+
+```bash
+curl -fsSL https://ollama.ai/install.sh | sh
+```
+
+#### 3.2 Start Ollama Server
+
+```bash
+# With GPU support (recommended)
 CUDA_VISIBLE_DEVICES=0,1,2,3 \
 OLLAMA_HOST=127.0.0.1:11435 \
 OLLAMA_MODELS=/usr/share/ollama/.ollama/models \
@@ -67,262 +403,418 @@ OLLAMA_KEEP_ALIVE=60m \
 ollama serve
 ```
 
-### Step 5: Download Required Models
+#### 3.3 Download Required Models
 
-Pull the necessary LLM models:
+Open a new terminal (keep Ollama running):
 
 ```bash
-# Download the main language model
+# Main language model for QA generation
 ollama pull linly-llama3.1:70b-instruct-q4_0
 
-# Download the embedding model
-ollama pull nomic-embed-text
+# Embedding model for vector search
+ollama pull bge-m3:latest
 ```
 
-### Step 6: Start the Supporting Services
-
-#### 6.1 Random User Description Server (Port 5003)
-Start the random user description server:
-
-```bash
-cd API/
-python random_user_description_server.py
+**Note**: The 70B model requires significant GPU memory. If you have limited resources, you can use a smaller model by updating `config.py`:
+```python
+LLM_MODEL_NAME = "linly-llama3.1:8b-instruct-q4_0"  # Smaller alternative
 ```
 
-This server will provide random user descriptions for testing and development purposes on port 5003.
+### Step 4: Prepare Document Data
 
-#### 6.2 Vision User Description Server (Port 5004) 
-Start the true vision user description server for real-time visual analysis:
+#### 4.1 Organize Your Documents
 
-```bash
-python vision_api_multi_session.py
+The system uses **two different approaches** for document processing:
+
+**Approach 1: Structured Data (Recommended for QA/Glossary/News)**
+
+Place your structured JSON files in:
+```
+LLM_Chat/
+└── database_wiki_gemini整理_一定對的.../
+    ├── qa_pairs.json
+    ├── glossary.json
+    ├── news.json
+    └── ...
 ```
 
-This server provides VLM-based visual context analysis on port 5004. See the [Visual Context API Documentation](LLM_API_SPECIFICATION.md) for detailed specifications.
+**Approach 2: General Documents**
 
-#### 6.3 RAG LLM API Server with User Description Integration
-Launch the main RAG LLM API server with user description server integration:
-
-```bash
-cd API/
-python3 rag_llm_api.py --auto-init --user-description-server http://localhost:5003
+Place your general documents in:
+```
+Demo_GitSpace/
+├── LLM_Chat/
+│   └── itri_museum_docs/          # General document directory
+│       ├── raw_data.json
+│       ├── qa_pairs.json
+│       ├── structured_data.json
+│       └── text_files/
+│           └── *.txt
 ```
 
-For production with vision analysis, use:
-```bash
-python3 rag_llm_api.py --auto-init --user-description-server http://localhost:5004
+#### 4.2 Document Format for `create_showroom_db.py`
+
+The `create_showroom_db.py` script supports multiple structured formats:
+
+<details>
+<summary><strong>QA Pairs Format</strong></summary>
+
+```json
+[
+  {
+    "question": "工研院是什麼？",
+    "answer": "工研院是台灣最大的產業技術研發機構..."
+  },
+  {
+    "question": "工研院成立於何時？",
+    "answer": "工研院成立於1973年..."
+  }
+]
 ```
 
-The server will start on `http://localhost:5002` and automatically initialize the RAG system with dynamic tone selection based on user descriptions.
+</details>
 
-### Step 7: Complete System Startup
+<details>
+<summary><strong>Glossary Format</strong></summary>
 
-For a complete system deployment, you need to run all servers in parallel. Here's the recommended startup sequence:
-
-#### Terminal 1: Ollama Server
-```bash
-# Start Ollama with GPU support
-CUDA_VISIBLE_DEVICES=0,1,2,3 \
-OLLAMA_HOST=127.0.0.1:11435 \
-OLLAMA_MODELS=/usr/share/ollama/.ollama/models \
-OLLAMA_SCHED_SPREAD=1 \
-OLLAMA_FLASH_ATTENTION=1 \
-OLLAMA_KEEP_ALIVE=60m \
-ollama serve
+```json
+[
+  {
+    "term": "ITRI",
+    "full_name": "Industrial Technology Research Institute",
+    "content": "工研院成立於1973年，是台灣最大的產業技術研發機構..."
+  }
+]
 ```
 
-#### Terminal 2: Random User Description Server (Development)
-```bash
-cd API/
-python random_user_description_server.py
-# Server starts on port 5003
+</details>
+
+<details>
+<summary><strong>News Format</strong></summary>
+
+```json
+[
+  {
+    "date": "2025-01-01",
+    "title": "工研院新技術突破",
+    "content": "工研院今日宣布..."
+  }
+]
 ```
 
-#### Terminal 3: Vision Context API Server (Production)
+</details>
+
+<details>
+<summary><strong>General Format</strong></summary>
+
+```json
+[
+  {
+    "title": "工研院簡介",
+    "content": "工研院成立於1973年，是台灣最大的產業技術研發機構..."
+  }
+]
+```
+
+</details>
+
+**Important**: Each JSON file should contain a **list of objects**. The script processes each item as a single chunk (One Item = One Chunk strategy).
+
+### Step 5: Build the Vector Database
+
+#### 5.1 Prepare Your Data
+
+Organize your ITRI documents in JSON format. The script supports multiple data formats:
+
+<details>
+<summary><strong>QA Pairs Format</strong></summary>
+
+```json
+[
+  {
+    "question": "工研院是什麼？",
+    "answer": "工研院是台灣最大的產業技術研發機構..."
+  }
+]
+```
+
+</details>
+
+<details>
+<summary><strong>Glossary Format</strong></summary>
+
+```json
+[
+  {
+    "term": "ITRI",
+    "full_name": "Industrial Technology Research Institute",
+    "content": "工研院成立於1973年..."
+  }
+]
+```
+
+</details>
+
+<details>
+<summary><strong>News Format</strong></summary>
+
+```json
+[
+  {
+    "date": "2025-01-01",
+    "title": "工研院新技術突破",
+    "content": "工研院今日宣布..."
+  }
+]
+```
+
+</details>
+
+<details>
+<summary><strong>General Format</strong></summary>
+
+```json
+[
+  {
+    "title": "工研院簡介",
+    "content": "工研院成立於1973年..."
+  }
+]
+```
+
+</details>
+
+Place your JSON files in:
+```
+LLM_Chat/
+└── database_wiki_gemini整理_一定對的.../
+    ├── qa_pairs.json
+    ├── glossary.json
+    ├── news.json
+    └── ...
+```
+
+#### 5.2 Create ChromaDB Database
+
+Use the dedicated script to build the vector database:
+
 ```bash
+cd LLM_Chat
+python create_showroom_db.py --golden --reload --embedding-model bge-m3:latest
+```
+
+**With Custom Options**:
+```bash
+python create_showroom_db.py \
+  --data-folder "database_wiki_gemini整理_一定對的..." \
+  --collection-name "chroma_db_golden" \
+  --embedding-model "bge-m3:latest" \
+  --golden \
+  --reload
+```
+
+**What This Script Does**:
+- Loads JSON files from `database_wiki_gemini整理_一定對的.../` folder
+- Processes each JSON item as a single chunk (One Item = One Chunk strategy)
+- Generates embeddings using `bge-m3:latest` via Ollama API
+- Stores in ChromaDB collection named `chroma_db_golden`
+- Creates ChromaDB at path: `{CHROMA_DB_PATH}/chroma_db_golden`
+
+**Expected Output**:
+```
+================================================================================
+Creating ChromaDB database: chroma_db_golden
+================================================================================
+ChromaDB path: /path/to/chroma_db_golden
+Data folder: database_wiki_gemini整理_一定對的...
+Found 5 JSON files in database_wiki_gemini整理_一定對的...
+   - Processing qa_pairs.json (100 items)...
+   - Processing glossary.json (50 items)...
+Reloading vector store...
+   - Deleted existing collection.
+   - Created new collection.
+Generating embeddings using [bge-m3:latest]...
+   Processing batch 1/15 (10 items)
+   Processing batch 2/15 (10 items)
+   ...
+Database creation completed! Stored 150 items.
+```
+
+#### 5.3 Verify Database
+
+Check that ChromaDB was created:
+```bash
+# Check ChromaDB directory
+ls -la chroma_db_golden/
+
+# Or verify collection exists (using Python)
+python -c "import chromadb; client = chromadb.PersistentClient(path='chroma_db_golden'); print(client.list_collections())"
+```
+
+**Note**: The `create_showroom_db.py` script uses a **different chunking strategy** than `RAG_LLM_realtime.py`:
+- `create_showroom_db.py`: One JSON item = One chunk (preserves document structure)
+- `RAG_LLM_realtime.py`: Semantic chunking with 300 chars, 50 overlap (for general documents)
+
+**Important**: After building the database, verify that the path in `config.py` (`CHROMA_DB_PATH`) matches the location where the database was created. The database will be at `{CHROMA_DB_PATH}/chroma_db_golden`.
+
+### Step 6: Configure the System
+
+#### 6.1 Update `config.py`
+
+The `config.py` file is located in the root directory and contains essential system configuration. Update it according to your setup:
+
+```python
+# LLM Model Configuration
+# This model is used for QA generation, tone conversion, and query rewriting
+LLM_MODEL_NAME = "linly-llama3.1:70b-instruct-q4_0"
+
+# ChromaDB Path Configuration
+# This path should point to the directory containing your ChromaDB database
+# The actual collection will be created at: {CHROMA_DB_PATH}/chroma_db_golden
+CHROMA_DB_PATH = "/mnt/HDD4/thanglq/he110/Demo_GitSpace/chroma_db_golden"
+
+# Or use relative path (relative to project root):
+# CHROMA_DB_PATH = "./chroma_db_golden"
+```
+
+**Configuration Details**:
+
+- **`LLM_MODEL_NAME`**: Specifies the Ollama model to use for text generation. The default `linly-llama3.1:70b-instruct-q4_0` is a 70B parameter model. For systems with limited GPU memory, you can use a smaller model:
+  ```python
+  LLM_MODEL_NAME = "linly-llama3.1:8b-instruct-q4_0"  # Smaller alternative
+  ```
+
+- **`CHROMA_DB_PATH`**: The base directory path where ChromaDB stores its data. The `create_showroom_db.py` script creates the database at `{CHROMA_DB_PATH}/chroma_db_golden`. Make sure:
+  1. This path matches where you ran `create_showroom_db.py`
+  2. The directory exists and is writable
+  3. You use absolute paths for production deployments
+
+**Important**: 
+- Ensure `CHROMA_DB_PATH` matches the location where `create_showroom_db.py` created the database
+- The path can be absolute (recommended) or relative to the project root
+- Both `API/rag_llm_api.py` and `LLM_Chat/RAG_LLM_realtime.py` import from this config file
+
+#### 6.2 (Optional) Set Up Vision Context API
+
+If you want to use real VLM-based user analysis:
+
+```bash
+# Install vision API dependencies
+pip install fastapi uvicorn
+
+# Start Vision Context API (in separate terminal)
 python vision_api_multi_session.py
 # Server starts on port 5004
 ```
 
-#### Terminal 4: Main RAG API Server
+For development/testing, you can use the random description server instead:
 ```bash
-cd API/
-# For development with random descriptions
+cd API
+python random_user_description_server.py
+# Server starts on port 5003
+```
+
+### Step 7: Start the RAG LLM API Server
+
+**Important**: Make sure Ollama server is running (from Step 3) before starting the API server.
+
+#### 7.1 Basic Startup
+
+```bash
+cd API
+python3 rag_llm_api.py --auto-init
+```
+
+This will:
+- Auto-initialize the RAG system (load ChromaDB)
+- Start the Flask server on `http://0.0.0.0:5002`
+- Enable CORS for cross-origin requests
+
+#### 7.2 With Vision Integration
+
+**Development (Random Descriptions)**:
+```bash
+# First, start the random description server (in a separate terminal)
+python3 random_user_description_server.py --port 5003
+
+# Then start the API server with vision integration
 python3 rag_llm_api.py --auto-init --user-description-server http://localhost:5003
+```
 
-# For production with vision analysis
+**Production (Real VLM)**:
+```bash
+# Start Vision Context API first (in a separate terminal)
+# python vision_api_multi_session.py  # Port 5004
+
+# Then start the API server
 python3 rag_llm_api.py --auto-init --user-description-server http://localhost:5004
-# Main server starts on port 5002
 ```
 
-#### Using the Startup Script (Optional)
-You can also use the provided startup script:
+#### 7.3 Custom Host/Port
+
 ```bash
-./start_servers.sh
+python3 rag_llm_api.py --host 0.0.0.0 --port 5002 --auto-init --debug
 ```
 
-### Step 8: Test the System
+**Command Line Options**:
+- `--host`: Host to bind to (default: `0.0.0.0`)
+- `--port`: Port to bind to (default: `5002`)
+- `--auto-init`: Automatically initialize RAG system on startup
+- `--debug`: Enable Flask debug mode
+- `--user-description-server`: URL of Vision Context API (optional)
 
-#### Health Check
+**Expected Output**:
+```
+RAG + LLM API Service Starting
+======================================================================
+Service URL: http://0.0.0.0:5002
+Health Check: GET http://0.0.0.0:5002/health
+Query Endpoint: POST http://0.0.0.0:5002/api/rag-llm/query
+Tone Convert: POST http://0.0.0.0:5002/api/rag-llm/convert-tone
+Query + Dynamic Tone: POST http://0.0.0.0:5002/api/rag-llm/query-with-tone
+Init Endpoint: POST http://0.0.0.0:5002/api/rag-llm/init
+Warmup Endpoint: POST http://0.0.0.0:5002/api/rag-llm/warmup
+Close Endpoint: POST http://0.0.0.0:5002/api/rag-llm/close
+======================================================================
+Auto-initializing RAG system...
+RAG system initialized
+ * Running on http://0.0.0.0:5002
+```
+
+### Step 8: Start Model Warmup Server (Optional but Recommended)
+
+The model warmup server keeps models preloaded to reduce latency. Start it in a separate terminal:
+
 ```bash
-# Check main RAG API server
+cd API
+python3 model_warmup_server.py --api-url http://localhost:5002 --interval 60
+```
+
+**What This Does**:
+- Periodically warms up both embedding model and LLM every 60 minutes (configurable)
+- Monitors API service health
+- Tracks warmup statistics
+- Reduces first-request latency significantly
+
+**Options**:
+- `--api-url`: URL of the RAG LLM API service (default: `http://localhost:5002`)
+- `--interval`: Warmup interval in minutes (default: `60`)
+- `--test`: Run a single warmup test and exit
+
+**Note**: You can also manually warmup models once using:
+```bash
+curl -X POST http://localhost:5002/api/rag-llm/warmup
+```
+
+### Step 9: Verify Installation
+
+#### 9.1 Health Check
+
+```bash
 curl http://localhost:5002/health
-
-# Check Ollama server
-curl http://localhost:11435/api/tags
-
-# Check random user description server (development)
-curl http://localhost:5003/health
-
-# Check vision context API server (production) 
-curl http://localhost:5004/sessions
 ```
 
-#### Run Example Client
-```bash
-cd API/
-python api_client_example.py
-```
-
-#### Try Sample Queries
-```bash
-# English query
-curl -X POST http://localhost:5002/api/rag-llm/query \
-  -H "Content-Type: application/json" \
-  -d '{"text_user_msg": "What is ITRI?", "session_id": "demo"}' \
-  --no-buffer
-
-# Traditional Chinese query
-curl -X POST http://localhost:5002/api/rag-llm/query \
-  -H "Content-Type: application/json" \
-  -d '{"text_user_msg": "工研院是什麼？", "session_id": "demo"}' \
-  --no-buffer
-```
-
-## 🏗️ System Architecture
-
-```
-┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
-│   Client Apps   │────│   Flask API      │────│   RAG Pipeline  │
-│                 │    │   (Port 5002)    │    │   + ChromaDB    │
-└─────────────────┘    └──────────────────┘    └─────────────────┘
-                                │                       │
-                                │                       │
-                       ┌──────────────────┐    ┌──────────────────┐
-                       │   Ollama LLM     │    │ User Description │
-                       │  (Port 11435)    │    │    Services      │
-                       └──────────────────┘    └──────────────────┘
-                                                         │
-                                           ┌─────────────┼─────────────┐
-                                           │             │             │
-                                      ┌─────────────────┐ ┌─────────────────┐
-                                      │ Random Desc.    │ │ Vision Context  │
-                                      │ Server          │ │ API (VLM)       │
-                                      │ (Port 5003)     │ │ (Port 5004)     │
-                                      └─────────────────┘ └─────────────────┘
-```
-
-### Service Components
-
-- **Main RAG API (Port 5002)**: Core Flask API with streaming responses and session management
-- **Ollama LLM (Port 11435)**: Local language model inference server  
-- **Random Description Server (Port 5003)**: Provides mock user descriptions for testing
-- **Vision Context API (Port 5004)**: Real-time VLM-based visual analysis for dynamic tone selection
-- **ChromaDB**: Persistent vector database for document embeddings
-
-## 📁 Project Structure
-
-```
-├── API/                                    # API Server Components
-│   ├── rag_llm_api.py                     # Main Flask API service
-│   ├── random_user_description_server.py  # Random user description service (Port 5003)
-│   ├── client_utils.py                    # Client utility functions
-│   ├── api_client_example.py              # Example client implementation
-│   ├── api_client_tone_example.py         # Tone conversion example
-│   ├── tone_system_prompts.py             # System prompts for tone conversion
-│   ├── test_dynamic_tone_selection.py     # Dynamic tone testing
-│   ├── test_parallel_dynamic_tone.py      # Parallel tone processing tests
-│   └── README*.md                         # Detailed API documentation
-├── LLM_Chat/                              # RAG Pipeline Components  
-│   ├── RAG_LLM_realtime.py                # Core RAG implementation
-│   └── README.md                          # RAG pipeline documentation
-├── vision_api_multi_session.py            # Vision Context API server (Port 5004)
-├── chroma_db/                             # Vector database storage (auto-created)
-├── config.py                              # Configuration settings
-├── start_servers.sh                       # Server startup script
-├── LLM_API_SPECIFICATION.md               # Vision Context API documentation
-├── CHANGES_SUMMARY.md                     # System changes documentation
-├── .gitignore                             # Git ignore patterns
-└── README.md                              # This file
-```
-
-## ✨ Key Features
-
-- **🌍 Multilingual Support**: Native support for English and Traditional Chinese (繁體中文) queries
-- **🔍 Advanced RAG Pipeline**: Hybrid search combining dense vector embeddings with sparse TF-IDF retrieval
-- **⚡ Streaming API**: Real-time streaming responses for better user experience
-- **🎯 Intelligent Chunking**: Semantic document chunking that respects sentence boundaries
-- **💬 Session Management**: Maintains conversation history across interactions
-- **🔄 Dynamic Tone Selection**: VLM-powered automatic tone adaptation based on visual user analysis
-- **🎨 Tone Conversion**: 4-tone system (child_friendly, elder_friendly, professional_friendly, casual_friendly) for personalized experiences
-- **🏥 Health Monitoring**: Built-in health checks and system monitoring
-- **🌐 CORS Support**: Cross-origin resource sharing enabled for web applications
-- **📊 Performance Optimization**: Model warm-up and caching for reduced latency
-
-## 🔧 System Requirements
-
-### Hardware Requirements
-- **Operating System**: Linux (Ubuntu/Debian recommended)
-- **Python**: 3.8 or higher
-- **CUDA**: Compatible GPU with CUDA support (optional but recommended)
-- **Memory**: Minimum 16GB RAM (32GB+ recommended for large models)
-- **Storage**: At least 50GB free space for models and data
-
-### Required Services
-- **Ollama**: Local LLM inference server (automatically configured)
-- **NVIDIA Drivers**: For GPU acceleration (if using CUDA)
-
-## 🛠️ Technical Deep Dive
-
-### RAG Pipeline Architecture
-
-The system implements a sophisticated hybrid Retrieval-Augmented Generation pipeline:
-
-#### 1. Document Processing
-- **Multi-format Support**: JSON files (raw_data.json, qa_pairs.json, structured_data.json) and text files
-- **Semantic Chunking**: Intelligent text splitting with configurable chunk size (300 chars) and overlap (50 chars)
-- **Language Detection**: Automatic Chinese/English detection for optimal processing
-
-#### 2. Vector Storage
-- **ChromaDB Integration**: Persistent vector database for efficient similarity search
-- **Hybrid Search**: Combines dense embeddings (ChromaDB) with sparse retrieval (TF-IDF)
-- **Weighted Fusion**: 70% dense + 30% sparse search results for optimal relevance
-
-#### 3. LLM Integration
-- **Ollama Backend**: Local inference server for privacy and control
-- **Model Support**: Optimized for `linly-llama3.1:70b-instruct-q4_0`
-- **Structured Prompting**: JSON-based message format for consistent responses
-
-#### 4. Chinese Language Optimization
-- **Jieba Tokenization**: Advanced Chinese text segmentation
-- **Traditional Chinese Support**: Native handling of 繁體中文 queries and responses
-- **Cross-language Retrieval**: Seamless English-Chinese knowledge retrieval
-
-#### 5. User Description & VLM Integration
-- **Vision Context API**: Real-time visual analysis using Apple's FastVLM
-- **Dynamic Tone Selection**: Automatic adaptation based on user demographics and context
-- **Multi-Session Support**: Concurrent processing with isolated per-user contexts
-- **Dual-Mode Operation**: Random descriptions for development, real vision for production
-
-## 📡 API Reference
-
-### Core Endpoints
-
-#### Health Check
-```http
-GET /health
-```
-**Response:**
+Expected response:
 ```json
 {
   "status": "healthy",
@@ -331,26 +823,159 @@ GET /health
 }
 ```
 
-#### RAG Query (Streaming)
-```http
-POST /api/rag-llm/query
-Content-Type: application/json
+#### 9.2 Warm Up Models (If Not Using Warmup Server)
+
+```bash
+curl -X POST http://localhost:5002/api/rag-llm/warmup
 ```
-**Request Body:**
+
+This preloads models to reduce first-request latency.
+
+#### 9.3 Test Query
+
+**English Query**:
+```bash
+curl -X POST http://localhost:5002/api/rag-llm/query \
+  -H "Content-Type: application/json" \
+  -d '{
+    "text_user_msg": "What is ITRI?",
+    "session_id": "test_session",
+    "convert_tone": false
+  }' \
+  --no-buffer
+```
+
+**Traditional Chinese Query**:
+```bash
+curl -X POST http://localhost:5002/api/rag-llm/query \
+  -H "Content-Type: application/json" \
+  -d '{
+    "text_user_msg": "工研院是什麼？",
+    "session_id": "test_session",
+    "convert_tone": false
+  }' \
+  --no-buffer
+```
+
+**With Tone Conversion**:
+```bash
+curl -X POST http://localhost:5002/api/rag-llm/query-with-tone \
+  -H "Content-Type: application/json" \
+  -d '{
+    "text_user_msg": "工研院是什麼？",
+    "session_id": "test_session",
+    "user_description": "a young boy wearing glasses",
+    "convert_tone": true
+  }' \
+  --no-buffer
+```
+
+### Step 10: Test with Client Script
+
+The project includes a comprehensive test client script. Run it to verify the complete system:
+
+```bash
+cd API
+python3 test_rag_llm_api.py --usr_msg "工研院是什麼？" --session_id "test_session"
+```
+
+**Test Client Options**:
+```bash
+python3 test_rag_llm_api.py \
+  --usr_msg "Your question here" \
+  --session_id "your_session_id" \
+  --user_description "a young boy wearing glasses" \
+  --convert_tone \
+  --base_url http://localhost:5002
+```
+
+**What the Test Client Does**:
+- Checks service health
+- Initializes RAG system if needed
+- Sends query with streaming response
+- Displays response in real-time
+- Shows session history
+- Demonstrates proper session cleanup
+
+**Other Example Clients**:
+
+Basic API client example:
+```bash
+python3 api_client_example.py
+```
+
+Tone conversion example:
+```bash
+python3 api_client_tone_example.py
+```
+
+---
+
+## API Reference
+
+### Core Endpoints
+
+#### `POST /api/rag-llm/query`
+
+Main query endpoint with optional tone conversion.
+
+**Request Body**:
 ```json
 {
-  "text_user_msg": "What is ITRI?",
+  "text_user_msg": "Your question here",
   "session_id": "optional_session_id",
-  "include_history": true
+  "include_history": true,
+  "user_description": "visual description (optional)",
+  "convert_tone": false
 }
 ```
-**Response:** Streaming text chunks followed by `END_FLAG`
 
-#### Initialize RAG System
-```http
-POST /api/rag-llm/init
+**Response**: Streaming text chunks followed by `END_FLAG`
+
+**Example**:
+```bash
+curl -X POST http://localhost:5002/api/rag-llm/query \
+  -H "Content-Type: application/json" \
+  -d '{"text_user_msg": "What is ITRI?", "session_id": "demo"}' \
+  --no-buffer
 ```
-**Response:**
+
+#### `POST /api/rag-llm/query-with-tone`
+
+Query with automatic dynamic tone conversion.
+
+**Request Body**:
+```json
+{
+  "text_user_msg": "Your question",
+  "session_id": "session_id",
+  "user_description": "a young boy wearing glasses",
+  "convert_tone": true
+}
+```
+
+**Response**: Streaming tone-adapted response with `END_FLAG`
+
+#### `POST /api/rag-llm/convert-tone`
+
+Standalone tone conversion service.
+
+**Request Body**:
+```json
+{
+  "text": "Text to convert",
+  "tone": "child_friendly",
+  "stream": true,
+  "user_description": "visual description",
+  "user_msg": "original user message"
+}
+```
+
+#### `POST /api/rag-llm/init`
+
+Initialize the RAG system (loads ChromaDB, builds indices).
+
+**Response**:
 ```json
 {
   "success": true,
@@ -359,463 +984,217 @@ POST /api/rag-llm/init
 }
 ```
 
-#### Model Warmup
-```http
-POST /api/rag-llm/warmup
-```
-Preloads models to reduce first-request latency.
+#### `POST /api/rag-llm/warmup`
 
-#### Session Management
-```http
-# Get session history
-GET /api/rag-llm/sessions/{session_id}/history
+Preload embedding model and LLM to reduce latency.
 
-# Clear session history  
-DELETE /api/rag-llm/sessions/{session_id}/history
-
-# Close connection gracefully
-POST /api/rag-llm/close
-```
-
-### Vision Context API (Port 5004)
-
-#### Get Visual Context for Session
-```http
-GET /visual-context/{sessionid}
-```
-**Response:**
+**Response**:
 ```json
 {
-  "sessionid": "abc123def456",
-  "visual_context": "Young male, early 20s, wearing blue casual shirt, appears focused and attentive, sitting in modern office environment with good lighting",
-  "available": true
+  "embedding_model": {
+    "status": "success",
+    "time_ms": 123.45
+  },
+  "llm_model": {
+    "status": "success",
+    "time_ms": 567.89
+  },
+  "overall_success": true
 }
 ```
 
-#### Get Active Sessions
-```http
-GET /sessions
-```
-**Response:**
+#### `POST /api/rag-llm/close`
+
+Gracefully close session and clean up history.
+
+**Request Body**:
 ```json
 {
-  "active_sessions": [
-    {
-      "sessionid": "abc123def456",
-      "vision_enabled": true,
-      "has_visual_context": true
-    }
-  ],
-  "total_sessions": 1
+  "session_id": "session_to_close"
 }
 ```
 
-### Random User Description API (Port 5003)
+#### `GET /api/rag-llm/sessions/{session_id}/history`
 
-#### Get Health Status
-```http
-GET /health
-```
+Get conversation history for a session.
 
-#### Get Random User Description
-```http
-GET /random-user-description
-```
-**Response:**
-```json
-{
-  "description": "A young professional in their early 30s wearing business attire in an office setting"
-}
-```
+#### `DELETE /api/rag-llm/sessions/{session_id}/history`
 
-### Example Queries
-
-#### English Queries
-- "What is ITRI and what does it do?"
-- "Tell me about ITRI's research areas and focus"
-- "When was ITRI established and who founded it?"
-- "What are ITRI's main technological achievements?"
-- "How does ITRI contribute to Taiwan's industrial development?"
-- "What is ITRI's organizational structure?"
-- "How does ITRI support talent development and innovation?"
-
-#### Traditional Chinese Queries (繁體中文)
-- "工研院是什麼機構？主要功能為何？"
-- "工研院有哪些重要的研究領域？"
-- "工研院成立於什麼時候？創辦背景如何？"
-- "工研院有哪些重要的技術成就？"
-- "工研院如何推動台灣產業升級？"
-- "工研院的組織架構是怎樣的？"
-- "工研院的人才培育計畫有哪些特色？"
-
-#### Mixed Language Queries
-- "What is 工研院's role in Taiwan's technology ecosystem?"
-- "告訴我 ITRI 的 AI research programs"
-- "How does 工研院 promote 產業創新?"
-- "Explain ITRI's semiconductor 研究計畫"
-
-## 💻 Programming Examples
-
-### Python Client Example
-
-```python
-import requests
-
-def query_rag_llm(text_msg, session_id="demo_session"):
-    """Send a query to the RAG LLM API and get streaming response"""
-    url = "http://localhost:5002/api/rag-llm/query"
-    payload = {
-        "text_user_msg": text_msg,
-        "session_id": session_id,
-        "include_history": True
-    }
-    
-    with requests.post(url, json=payload, stream=True) as response:
-        accumulated = ""
-        for chunk in response.iter_content(chunk_size=1, decode_unicode=True):
-            if chunk:
-                if "END_FLAG" in chunk:
-                    break
-                accumulated += chunk
-                print(chunk, end="", flush=True)
-        
-        return accumulated
-
-# Example usage
-def main():
-    # Warm up models first (recommended)
-    warmup_response = requests.post("http://localhost:5002/api/rag-llm/warmup")
-    print(f"Warmup status: {warmup_response.status_code}")
-    
-    # Query in English
-    print("🔍 English Query:")
-    response = query_rag_llm("What is ITRI's main mission?")
-    
-    # Query in Traditional Chinese
-    print("\n🔍 中文查詢:")
-    response = query_rag_llm("工研院的主要任務是什麼？")
-    
-    # Close session before termination
-    close_response = requests.post(
-        "http://localhost:5002/api/rag-llm/close",
-        json={"session_id": "demo_session"}
-    )
-    print(f"\n✅ Session closed: {close_response.json()}")
-
-if __name__ == "__main__":
-    main()
-```
-
-## 🔧 Configuration
-
-### Environment Variables
-
-- `CUDA_VISIBLE_DEVICES`: GPU devices to use (e.g., "0,1,2,3")
-- `OLLAMA_HOST`: Ollama server address (default: 127.0.0.1:11435)
-- `OLLAMA_MODELS`: Path to Ollama models directory
-- `OLLAMA_KEEP_ALIVE`: Model keep-alive duration (default: 60m)
-- `OLLAMA_SCHED_SPREAD`: Enable GPU scheduling spread
-- `OLLAMA_FLASH_ATTENTION`: Enable flash attention optimization
-
-### API Server Configuration
-
-Default configuration:
-- **Main RAG API Server (Port 5002)**:
-  - Host: 0.0.0.0 (accessible from all interfaces)
-  - Auto-initialization: Enabled with `--auto-init` flag
-  - Max Chat History: 10 messages per session
-  - RAG Context Limit: 2000 characters
-  - Temperature: 0.3 (for consistent responses)
-  - User Description Server Integration: Configurable via `--user-description-server` flag
-
-- **Random User Description Server (Port 5003)**:
-  - Host: localhost
-  - Provides mock user descriptions for development and testing
-  - Health check endpoint available
-
-- **Vision Context API Server (Port 5004)**:
-  - Host: localhost  
-  - Real-time VLM-based visual analysis
-  - Multi-session concurrent support
-  - FastVLM model integration
-  - Processing interval: 5 seconds per analysis
-
-- **Ollama LLM Server (Port 11435)**:
-  - Host: 127.0.0.1
-  - GPU support with CUDA configuration
-  - Model keep-alive: 60 minutes
-  - Flash attention optimization enabled
-
-## 🧪 Development & Customization
-
-### Git Configuration
-
-```bash
-git config --local user.name "YourUsername"
-git config --local user.email "your.email@example.com"
-export GIT_SSH_COMMAND='ssh -i .ssh/id_rsa'  # If using SSH keys
-```
-
-### Client Development
-
-Use the `client_utils.py` module for building custom clients:
-
-```python
-from client_utils import stream_rag_llm_query, check_service_health
-
-# Check if service is running
-if check_service_health("http://localhost:5002"):
-    # Send query and get streaming response
-    response = stream_rag_llm_query(
-        "http://localhost:5002", 
-        "Your question here", 
-        "session_id"
-    )
-```
-
-### Running the Core Components
-
-#### Standalone RAG Pipeline
-```bash
-cd LLM_Chat/
-python RAG_LLM_realtime.py --RAG_RELOAD  # Force rebuild vector store
-python RAG_LLM_realtime.py --gradio      # Launch with web UI
-```
-
-#### API Server with Debug Mode
-```bash
-cd API/
-python rag_llm_api.py --debug --auto-init --port 5002
-```
-
-### Adding Custom Documents
-
-1. Place your documents in a directory structure:
-```
-your_docs/
-├── raw_data.json
-├── qa_pairs.json
-├── structured_data.json
-└── text_files/
-    ├── document1.txt
-    └── document2.txt
-```
-
-2. Update the document path in the RAG pipeline:
-```python
-chunks = rag_pipeline.load_and_chunk_docs('your_docs')
-```
-
-## ⚡ Performance Features
-
-### Intelligent Document Processing
-- **Multi-format Support**: Handles JSON, TXT files with specialized processors
-- **Semantic Chunking**: Respects sentence boundaries for optimal context preservation
-- **Bilingual Tokenization**: Advanced Chinese text segmentation with Jieba
-- **Metadata Preservation**: Maintains document structure and source information
-
-### Advanced Retrieval System
-- **Hybrid Search**: 70% dense vector + 30% sparse TF-IDF for optimal relevance
-- **Context Ranking**: Intelligent reranking based on combined similarity scores
-- **Query Understanding**: Automatic language detection and query processing
-- **Session Memory**: Maintains conversation context across multiple interactions
-
-### Real-time Streaming
-- **Chunked Delivery**: Low-latency streaming with END_FLAG termination
-- **Model Warmup**: Preloading for reduced first-request latency
-- **Connection Management**: Graceful session handling and cleanup
-- **Error Recovery**: Robust error handling with fallback mechanisms
-
-### Educational Features
-- **Tone Conversion**: Child-friendly response adaptation for educational use
-
-### 👁️ VLM Integration (NEW!)
-- **Visual User Analysis**: Integration with Vision Language Models for automatic user detection
-- **4-Tone Dynamic Selection**: Automatically selects from child_friendly, elder_friendly, professional_friendly, casual_friendly
-- **Context-Aware Responses**: Adapts communication style based on age, setting, and attire
-- **Real-time Adaptation**: Processes VLM descriptions like "a young boy wearing glasses" or "business person in office"
-- **Smart Defaults**: Uses casual_friendly as default for general adults and unclear cases
-- **Multilingual VLM Support**: Works with both English and Chinese visual descriptions
-
-## 🚨 Troubleshooting
-
-### Common Issues & Solutions
-
-#### 🔧 Service Won't Start
-```bash
-# Check if ports are available
-netstat -tlnp | grep -E ":(5002|5003|5004|11435)"
-
-# Verify all services are running
-curl http://localhost:11435/api/tags          # Ollama server
-curl http://localhost:5002/health             # Main RAG API
-curl http://localhost:5003/health             # Random description server
-curl http://localhost:5004/sessions           # Vision context API
-
-# Check Python dependencies
-pip list | grep -E "(flask|chromadb|requests|transformers|torch)"
-```
-
-#### 🔧 RAG Initialization Fails
-```bash
-# Check ChromaDB permissions
-ls -la chroma_db/
-chmod 755 chroma_db/
-
-# Manually initialize RAG system
-curl -X POST http://localhost:5002/api/rag-llm/init
-
-# Check disk space
-df -h .
-```
-
-#### 🔧 Model Loading Issues
-```bash
-# Verify Ollama models
-ollama list
-
-# Re-download models if corrupted
-ollama pull linly-llama3.1:70b-instruct-q4_0
-ollama pull nomic-embed-text
-
-# Check GPU memory
-nvidia-smi  # If using CUDA
-```
-
-#### 🔧 Chinese Text Processing Issues
-```bash
-# Reinstall Jieba tokenizer
-pip uninstall jieba
-pip install jieba
-
-# Clear Jieba cache
-rm -rf ~/.jieba_cache/
-```
-
-### Debug Mode
-
-Enable verbose logging for detailed troubleshooting:
-
-```bash
-# API Server debug mode
-python rag_llm_api.py --debug --auto-init
-
-# RAG Pipeline debug mode
-python RAG_LLM_realtime.py --verbose
-```
-
-### Health Monitoring
-
-Monitor system health with built-in endpoints:
-
-```bash
-# Check overall health
-curl http://localhost:5002/health
-
-# Check model warmup status
-curl -X POST http://localhost:5002/api/rag-llm/warmup
-
-# Monitor session status
-curl http://localhost:5002/api/rag-llm/sessions/demo/history
-```
-
-## 🎯 What You Can Build
-
-This RAG LLM system provides a solid foundation for building:
-
-- **🏛️ Digital Museum Assistants**: Interactive guides for cultural institutions
-- **📚 Educational Q&A Systems**: Domain-specific knowledge assistants
-- **🔬 Research Support Tools**: Literature review and knowledge extraction systems
-- **🏢 Corporate Knowledge Bases**: Internal documentation assistants
-- **🌐 Multilingual Information Systems**: Cross-language knowledge retrieval
-- **🎓 Learning Platforms**: Interactive educational content systems
-
-## 📚 Additional Resources
-
-### Documentation Links
-- [API Server Documentation](API/README.md) - Detailed API reference
-- [RAG Pipeline Documentation](LLM_Chat/README.md) - Core pipeline details
-- [Client Utils Documentation](API/README_client_utils.md) - Client development guide
-- [Tone Conversion Guide](API/README_tone_conversion.md) - Educational features
-- [Vision Context API Documentation](LLM_API_SPECIFICATION.md) - VLM-based visual analysis specification
-- [System Changes Summary](CHANGES_SUMMARY.md) - Recent updates and changes
-
-### Useful Commands Reference
-
-```bash
-# Quick health check for all services
-curl -s http://localhost:5002/health | python -m json.tool
-curl -s http://localhost:5003/health | python -m json.tool  
-curl -s http://localhost:5004/sessions | python -m json.tool
-curl -s http://localhost:11435/api/tags | python -m json.tool
-
-# Test query with timing
-time curl -X POST http://localhost:5002/api/rag-llm/query \
-  -H "Content-Type: application/json" \
-  -d '{"text_user_msg": "工研院是什麼？", "session_id": "test"}' \
-  --no-buffer
-
-# Check vision context for a session
-curl -s http://localhost:5004/visual-context/your_session_id | python -m json.tool
-
-# Get random user description (development)
-curl -s http://localhost:5003/random-user-description | python -m json.tool
-
-# Monitor all system processes
-watch "ps aux | grep -E '(ollama|python.*rag|python.*vision|python.*random)' | grep -v grep"
-
-# Check ChromaDB status
-ls -la chroma_db/ && du -sh chroma_db/
-
-# Check server ports
-netstat -tlnp | grep -E ':(5002|5003|5004|11435)'
-```
-
-## 🤝 Contributing
-
-We welcome contributions to improve this RAG LLM system:
-
-1. **Fork the repository** from GitHub
-2. **Create a feature branch**: `git checkout -b feature/amazing-feature`
-3. **Make your changes** with proper documentation
-4. **Add tests** for new functionality
-5. **Ensure compatibility** with both English and Traditional Chinese
-6. **Test thoroughly** on different systems
-7. **Submit a pull request** with detailed description
-
-### Development Guidelines
-- Follow existing code style and patterns
-- Add documentation for new features
-- Test multilingual functionality
-- Ensure backward compatibility
-- Update README if needed
-
-## 📞 Support & Community
-
-### Getting Help
-- **🐛 Issues**: Report bugs via GitHub Issues
-- **💡 Feature Requests**: Submit enhancement proposals
-- **📖 Documentation**: Check the troubleshooting section first
-- **🔧 Configuration**: Review environment variables and settings
-
-### System Requirements Reminder
-- **Minimum RAM**: 16GB (32GB+ recommended)
-- **Storage**: 50GB+ free space for models
-- **Network**: Stable internet for model downloads
-- **OS**: Linux (Ubuntu/Debian recommended)
-
-## 📄 License
-
-This project is developed for educational and research purposes at the Industrial Technology Research Institute (ITRI). Please respect the educational nature of this work and use it responsibly.
+Clear conversation history for a session.
 
 ---
 
-**🚀 Ready to explore ITRI with AI? Start your journey now!**
+## Configuration
+
+### Environment Variables
 
 ```bash
-git clone git@github.com:HelloHe110/Demo_llm_agent.git
-cd Demo_llm_agent
-# Follow the Quick Start Guide above
+# GPU Configuration
+export CUDA_VISIBLE_DEVICES=0,1,2,3
+
+# Ollama Configuration
+export OLLAMA_HOST=127.0.0.1:11435
+export OLLAMA_MODELS=/usr/share/ollama/.ollama/models
+export OLLAMA_SCHED_SPREAD=1
+export OLLAMA_FLASH_ATTENTION=1
+export OLLAMA_KEEP_ALIVE=60m
 ```
 
-*Happy learning! 📚🤖*
+### Configuration File (`config.py`)
+
+The `config.py` file in the project root is the central configuration file used by both the API server and RAG pipeline.
+
+**Location**: `./config.py` (root directory)
+
+**Configuration Variables**:
+
+```python
+# LLM Model Configuration
+# Used for QA generation, tone conversion, query rewriting, and tone selection
+LLM_MODEL_NAME = "linly-llama3.1:70b-instruct-q4_0"
+
+# ChromaDB Path Configuration
+# Base directory where ChromaDB stores its data
+# The actual collection is created at: {CHROMA_DB_PATH}/chroma_db_golden
+CHROMA_DB_PATH = "/path/to/chroma_db_golden"
+```
+
+**Usage**:
+- Both `API/rag_llm_api.py` and `LLM_Chat/RAG_LLM_realtime.py` import from `config.py`
+- Changes to `config.py` require restarting the API server
+- Use absolute paths for production deployments
+- Ensure `CHROMA_DB_PATH` matches where `create_showroom_db.py` created the database
+
+**Model Options**:
+- Default: `linly-llama3.1:70b-instruct-q4_0` (70B parameters, requires significant GPU memory)
+- Alternative: `linly-llama3.1:8b-instruct-q4_0` (8B parameters, suitable for limited resources)
+
+### API Server Options
+
+```bash
+python3 rag_llm_api.py \
+  --host 0.0.0.0 \              # Host to bind to
+  --port 5002 \                 # Port to bind to
+  --debug \                     # Enable debug mode
+  --auto-init \                 # Auto-initialize RAG on startup
+  --user-description-server http://localhost:5004  # Vision API URL
+```
+
+---
+
+## Troubleshooting
+
+### Issue: Ollama Server Not Responding
+
+**Symptoms**: Connection errors when calling LLM API
+
+**Solutions**:
+```bash
+# Check if Ollama is running
+curl http://localhost:11435/api/tags
+
+# Restart Ollama
+pkill ollama
+ollama serve
+
+# Verify models are downloaded
+ollama list
+```
+
+### Issue: ChromaDB Not Found
+
+**Symptoms**: "No ChromaDB found" or collection errors
+
+**Solutions**:
+```bash
+# Check ChromaDB path in config.py
+cat config.py | grep CHROMA_DB_PATH
+
+# Verify directory exists
+ls -la $(python -c "from config import CHROMA_DB_PATH; print(CHROMA_DB_PATH)")
+
+# Rebuild database using create_showroom_db.py
+cd LLM_Chat
+python create_showroom_db.py --reload
+
+# Verify collection exists
+python -c "import chromadb; client = chromadb.PersistentClient(path='chroma_db_golden'); print([c.name for c in client.list_collections()])"
+```
+
+### Issue: Embedding Dimension Mismatch
+
+**Symptoms**: "expecting embedding with dimension X" errors
+
+**Solutions**:
+- Rebuild ChromaDB with current embedding model
+- Ensure using same embedding model (`bge-m3:latest`) for both building and querying
+
+### Issue: Chinese Text Processing Errors
+
+**Symptoms**: Jieba tokenization failures
+
+**Solutions**:
+```bash
+# Reinstall Jieba
+pip uninstall jieba
+pip install jieba
+
+# Clear cache
+rm -rf ~/.jieba_cache/
+```
+
+### Issue: Vision API Connection Failed
+
+**Symptoms**: "Could not connect to Vision Context API"
+
+**Solutions**:
+- Check if Vision API server is running: `curl http://localhost:5004/sessions`
+- Use random description server for testing: `--user-description-server http://localhost:5003`
+- System will fallback to `casual_friendly` tone if Vision API unavailable
+
+### Issue: Slow First Request
+
+**Solutions**:
+```bash
+# Warm up models before first real request
+curl -X POST http://localhost:5002/api/rag-llm/warmup
+```
+
+### Issue: Port Already in Use
+
+**Solutions**:
+```bash
+# Find process using port
+lsof -i :5002
+
+# Kill process or use different port
+python3 rag_llm_api.py --port 5003
+```
+
+---
+
+## Additional Resources
+
+- [RAG Pipeline Documentation](LLM_Chat/README.md)
+- [LLM Server Methodology](RAG_LLM_Server_Methodology.md)
+- [API Documentation](API/README.md)
+
+---
+
+## Contributing
+
+Contributions are welcome! Please:
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes with proper documentation
+4. Test thoroughly
+5. Submit a pull request
+
+---
+
+## License
+
+This project is developed for educational and research purposes at the Industrial Technology Research Institute (ITRI).
+
+---
+

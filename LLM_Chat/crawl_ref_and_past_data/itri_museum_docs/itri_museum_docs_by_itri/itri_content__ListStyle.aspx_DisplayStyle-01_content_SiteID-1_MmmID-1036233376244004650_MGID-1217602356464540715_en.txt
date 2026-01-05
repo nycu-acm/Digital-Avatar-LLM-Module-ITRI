@@ -1,0 +1,27 @@
+front page
+Cutting-edge technology
+Sustainable environment
+Green Energy Systems and Environmental Technology
+Integrated 3300V/400A silicon carbide power module with 400kW DC transformer
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Integrates 400kW DC transformer with 3300V/400A silicon carbide power module.
+Technology introduction
+This 400kW DC transformer adopts a standard full-bridge topology and solid-state transformer design, and can be directly converted to 11kV, eliminating the need for traditional boost transformers.
+The main side of the system is equipped with a 3.3kV/400A silicon carbide power module, which reduces the overall switching loss by about 30%, and ensures stable operation during the process without obvious overvoltage or ringing.The system achieves conversion efficiency up to 98.3%.
+The 3.3V/400A SiC power module of the Institute of Technology uses stacked substrates, symmetrical circuit design and patented housing to achieve low parasitic inductance, low thermal resistance and reduce switching losses.
+This module has been optimized for applications such as renewable energy, rail transit and power systems, and is suitable for various high-voltage or high-power power conversion systems.
+Application and benefits
+1. Integrate 3.3kV/400A silicon carbide power module
+- Design of substrate stacking, patented housing and line symmetry
+- Thermal resistance ≤ 0.06 K/W
+- Parasitic inductance ≤ 10 nH
+2. DC conversion voltage: 1800V~1500V
+3. Rated current: 400A
+4. Rated power: 400kW
+5. System efficiency > 98%
+Integrates 400kW DC transformer with 3300V/400A silicon carbide power module.
+Related links:
+More technology-related information.

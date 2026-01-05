@@ -1,0 +1,17 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Artificial intelligence and security
+Generative AI intelligent application
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Generative AI intelligent application.
+2023 is regarded as the first year of generative AI.In addition to the generation of text, pictures, and videos, manufacturing and R&D can also import generative AI applications.The difficulties encountered by the industry in manufacturing research and development are mainly due to the lack of digital IC engineers and the difficulty in developing industrial programmers. In particular, the writing of RTL Code requires the accumulation of long-term experience.
+The Institute of Technology has developed "general AI intelligent application", which specializes in the design and development of RTL Code GAI for IC design and assists engineers to interact with generative AI with prompt words (Prompt) to complete the design and writing of RTL modules.
+Features and innovation
+Easy to debug errors, and can be built-in local service mode in the enterprise to avoid cloud security concerns with sensitive information.
+Application and benefits
+In the future, we will cooperate with the IC design team to conduct field verification and cooperate with long-term cooperation IC design companies to establish exemplary cases to promote the generative AI of IC design services.

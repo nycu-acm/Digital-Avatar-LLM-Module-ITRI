@@ -1,0 +1,26 @@
+front page
+Net Zero Emissions
+Net Zero Technology
+Need to use
+【Energy Efficiency Carbon Reduction Solution】5G O-RAN Private Network Energy Saving Management Technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Business consultation
+Technology introduction
+5G energy-saving O-RAN.
+5G O-RAN private network energy-saving management technology This system provides a comprehensive energy-saving solution for 5G O-RAN private network in network planning and operation stages.
+Application scope
+This system achieves energy saving and efficiency through network planning and intelligent control.
+Provide intelligent deployment suggestions for field base platforms to reduce manual deployment and improve network efficiency, and can reduce the number of base platforms to save network energy consumption while meeting application needs.
+Using network tidal energy-saving control, smart energy-saving algorithms are used to cooperate with network traffic prediction and redirection, without reducing service quality, maximize the dormant base station entry and reduce power consumption, and combine the regulation of green energy power generation to save the operating costs of 5G private network.
+Carbon reduction benefits
+The verification results of the dedicated network planning in the fields of Pegatron Factory, Xiuchuan Hospital, Nanchuang, and Shalun Application Private Network can save more than 30%.
+During the operation stage, dynamic tidal energy saving control and green energy power generation regulation are used to verify the Nanchuang field of Far Transmission cooperation and the Shalun field of China Telecom cooperation, which can save more than 30% of energy.
+5G energy-saving O-RAN.
+Further reading
+TIP of the Institute of Industrial Research and Research Lab helps Taiwan factories enter the global 5G supply chain, Taiwan team MWC conference shows strength
+Importing O-RAN network system Industrial Research Institute develops a 5G small base station
+Six gold medal technology debuts at the Institute of Industrial Research and Research, innovative research and development to open up Taiwan's new semiconductor, 5G and biomedical markets
+The International O-RAN Alliance comes to Taiwan for the first time to support the Open Base Station Summit Forum. The experts in the United States, Europe and Asia industry, academia and research focus on standard technology, 5G dedicated network, and telecommunications AI applications
+Industrial Research Institute joins hands with Mingtai, Guangbao and MediaTek manufacturers O-RAN base stations move to the European, American and Japanese Netcom market

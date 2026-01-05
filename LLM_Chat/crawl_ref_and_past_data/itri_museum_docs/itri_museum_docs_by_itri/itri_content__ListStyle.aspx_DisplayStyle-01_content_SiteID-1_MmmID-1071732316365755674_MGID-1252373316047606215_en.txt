@@ -1,0 +1,18 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Semiconductor chips
+High-efficiency computing chip heat dissipation technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+High-efficiency computing chip heat dissipation technology.
+The Institute of Technology has invested in "high-efficiency computing chip heat dissipation technology" to start with the Vapor Chamber Lid (VCLid). VC Lid is an extremely efficient heat diffusion element that is attached to an AI chip and evaporates and condenses the amount of water in the VC Lid to achieve the effect of rapid and large-scale heat removal.
+Features and innovation
+Compared with the traditional air-cooling heat dissipation limit of about 750W, VC Lid has exceeded 1,000W due to the evaporation and condensation heat transfer cycle of liquids in the vacuum chamber.The results have been transferred to domestic operators, and the industry technology spreads through development with manufacturers, and jointly accelerate the implementation of AI server industry applications.
+Application and benefits
+Due to the rapid progress of generative AI, the operation speed of AI computing chips and the heat generated have increased significantly, and the heat dissipation capabilities of traditional components are no longer sufficient. The industry actively solves the heat dissipation bottlenecks brought about by high-efficiency computing and creates more energy-saving AI cooling technology.It is expected that the heat output will exceed 1,000 watts in the next year, exceeding the load capacity of existing cooling solutions.
+Related links:
+More technology-related information.

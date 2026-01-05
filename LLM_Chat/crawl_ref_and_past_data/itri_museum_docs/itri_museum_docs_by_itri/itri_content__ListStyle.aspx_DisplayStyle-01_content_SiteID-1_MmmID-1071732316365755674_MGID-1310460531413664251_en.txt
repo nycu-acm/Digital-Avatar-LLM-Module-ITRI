@@ -1,0 +1,22 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Semiconductor chips
+Copper filling technology for high-deep and aspect ratio TGV glass substrate
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Copper filling technology for high-deep and aspect ratio TGV glass substrate
+In response to the demand for higher bandwidth and low loss materials in the high-frequency communication, high-performance computing (HPC) and optoelectronic application markets, glass substrates have become a popular option for emerging IC carrier boards.However, the glass itself lacks electrical conductivity and needs to form vertical interconnections on the glass substrate through glass through glass technology (Through Glass Via; TGV) to ensure the stability and efficiency of signal transmission.With the increasing demand for high-performance and high-yield glass substrates in advanced semiconductor packaging, the development of IC carrier board technology is promoted to meet the needs of data centers and high-computing applications.At present, TGV glass substrate copper filling technology still faces the challenges of hole filling uniformity, yield and electroplating efficiency, which affects packaging efficiency and cost control.
+Features and innovation
+The Institute of Technology has developed an 8-inch "High Depth and Width Ratio TGV Glass Substrate Copper Filling Technology", with a pore diameter of 30μm, a thickness of 300μm, and an AR10. The electroplating parameters are optimized through the AI-CSR algorithm. The electroplating bridge build time is shortened from one hour to 40 minutes, and the copper filling yield is increased to 97.9%, greatly improving process efficiency and product stability, meeting the demand of the high-end packaging market.
+Application and benefits
+The Institute of Technology further integrates the resources of large domestic factories, promotes independent research and development of all-wet processes, materials and equipment, reduces costs by more than 50%, and provides complete TGV packaging solutions; at the same time, it works with domestic technology alliances to actively negotiate cooperation with international companies to enhance technology and international competitiveness.
+Further reading
+Industrial Research Institute and Tianxing Energy jointly create the first mobile solar photoelectric test vehicle in Taiwan
+5G/B5G communication market development trend
+Development and application of high-frequency communication materials technology of smart cockpit
+Current development of glass pore-forming technology
+Metalization process of TGV on glass substrate

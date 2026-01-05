@@ -1,0 +1,39 @@
+front page
+Industrial Services
+Industry cooperation
+Commissioned research and product development
+Chip layout design services
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Service Description
+The chip layout design service team of the Institute of Technology Research has accumulated rich experience in IC design process, and uses professional knowledge and EDA tools to provide service projects such as Automatic Placement and Routing, Static Timing Analysis, Formal Verification, Physical Verification and other services.
+Design In & Out Data
+IN (From Designer)
+RTL and constraints
+Synthesized Netlist (w | w/o dft design)
+Custom IP data (GDS / LEF / LIB / DB are required) can be frame only
+Scan DEF
+Power Format (UPF)
+Misc requirement (don’t touch / keepout / Floorplan guide …)
+OUT
+GDS/DEF/SPI
+Post-APR netlist / SPEF / UPF for STA / Formal / Post-sim
+STA / Formal / DRC / ANT / LVS… report
+【Contact Window】
+Contact: Yu Junde Assistant Manager
+Tel: +886-3-591-7378
+Email:
+jaz@itri.org.tw
+Contact: Chen Junji Management
+Tel: +886-3-591-4465
+Email:
+sidchen@itri.org.tw
+Address: Room 247, Room 14, No. 195, Section 4, Zhongxing Road, Zhudong Town, Hsinchu County
+Further reading
+Industrial Research Institute and Synopsys Technology The Artificial Intelligent Chip Design Laboratory is unveiled
+Grasp the business opportunities in the new era and strengthen the cross-domain integration of AI chip research and development and system applications
+Artificial Intelligent Chip Design Laboratory
+Power management chip design automation
+AI products lead new direction of chip design

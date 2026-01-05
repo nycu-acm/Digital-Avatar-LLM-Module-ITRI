@@ -1,0 +1,57 @@
+Taiwan-Made Memory Entering the Niche Market of Semiconductor Industry - 50 Years of Empowering Industry Through Innovations
+Industrial Technology Research Institute
+Major Milestones
+Half a Century Young
+Navigating the Future
+中
+Major Milestones
+Home
+Major Milestones
+Semiconductors
+Taiwan-Made Memory Entering the Niche Market of Semiconductor Industry
+Memory
+Taiwan-Made Memory Entering the Niche Market of Semiconductor Industry
+Memory
+The Birth of Taiwan’s Semiconductor Industry
+Taiwan’s Semiconductor Industry Hall of Fame
+Memory
+In the 1980s, Taiwan did not possess memory manufacturing technology and DRAMs had to be imported. In around 1986, the global shortage of DRAMs caused computer manufacturers in Taiwan to temporarily halt their shipments and pay the steep prices. At that time, memory accounts for as much as 25% of computer manufacturing costs. To ensure a steady source of DRAM for Taiwan’s industries, ITRI launched the submicron process technology development project in 1990 and recruited Dr. Chih-Yuan Lu, who was then working at Bell Labs, to set up a 8-inch wafer submicron laboratory. The goal was to enhance Taiwan’s IC manufacturing capacity from 1 µm to 0.5 µm.
+In 1993, the first batch of 8-inch wafer 0.5mm 16Mb DRAM passed verification. This is the first DRAM product manufactured with Taiwan’s own technologies. In 1994, ITRI set up the Vanguard International Semiconductor Corporation, the first Taiwanese company that had DRAM development and mass production capabilities. The submicron project led Taiwan’s semiconductor industry to new heights by nurturing its independent R&D of DRAM technology, spurring investment in 8-inch wafer fabs, and cultivating over 300 outstanding engineers. With the rapid development of AI, 5G, and AIoT technologies nowadays, ITRI continues to work on next-generation memory, paving the way for Taiwanese manufacturers to advance to the new-generation memory.
+1990
+ITRI jointly developed the 4 Mb DRAM with Etron Technology. The manufacturing process of the first batch of wafers took only 30 days, setting a record for the shortest trial production cycle.
+1990
+ITRI launched the submicron process technology development project to develop DRAM manufacturing technology.
+1992
+ITRI successfully completed the trial production for Taiwan’s first batch of ultrafast and low energy-consuming 256K SRAM product. This was the first batch of SRAM product developed with Taiwan’s own technology.
+1993
+Taiwan’s first 8-inch wafer fab submicron laboratory was completed.
+1993
+The first batch of 8-inch wafer 0.5 mm 16 Mb DRAM passed verification, and it was the first DRAM product made with Taiwan‘s own technologies.
+1994
+ITRI established a spin-off company VIS, the first company in Taiwan that had DRAM development and mass production capabilities.
+2004
+ITRI collaborated with TSMC to develop the magnetic random-access memory (MRAM).
+2012
+ITRI co-developed the next generation memory and processor stacking 3D IC technology with Intel and Etron Technology. This was the first DRAM advanced modeling technology in Taiwan.
+2022
+ITRI worked with TSMC to develop the Spin Orbit Torque MRAM (SOT-MRAM) array chips. It also collaborated with the National Yang Ming Chiao Tung University to develop novel magnetic memory technology that made major breakthroughs.
+MORE
+Origin
+ICT
+Materials, Chemicals, and Nanotechnology
+Vehicles
+Metrology
+Textiles
+Optoelectronics
+PCB
+Machinery
+Biomedicine
+Green Energy
+AI and Big Data
+Others
+next
+prev
+© Industrial Technology Research Institute
++886-3-582-0100
+310401
+195, Sec. 4, Chung Hsing Rd., Chutung, Hsinchu, Taiwan 310401, R.O.C.

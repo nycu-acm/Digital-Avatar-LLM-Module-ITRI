@@ -1,0 +1,22 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Artificial intelligence and security
+Theoretical guided neural network technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Theoretical guidance neural network technology.
+Through the modeling technology of integrating theoretical equations and actual factory data, high-accuracy and theoretical basis are built to provide application of process simulation, process parameter optimization, and design optimization, improve process quality and accelerate product development time.
+Features and innovation
+Highly accurate small data modeling technology
+Guided AI model training through the theoretical basis can effectively reduce the amount of data, reduce the time and cost of data collection, and accelerate the training schedule of model development and implementation of subordinates.
+Model prediction follows the theoretical basis and can be applied to external prediction of parameter space without real-life data training data, which can help explore the application of parameter space in unknown fields.
+High-efficiency theoretical equation solution technology
+Through the advantages of high-efficiency parallel operations of neural network-like networks, highly complex theoretical equations can be solved, theoretical simulation calculations can be accelerated, and arbitrary parameter space can be quickly inferred.
+The model can import design variables to assist in the rapid evaluation of simulations of multiple candidate design solutions.
+Application and benefits
+It can be applied to optimization of chemical process parameters with multiple safety restrictions.
+Can be applied to highly complex thermal simulation calculations.

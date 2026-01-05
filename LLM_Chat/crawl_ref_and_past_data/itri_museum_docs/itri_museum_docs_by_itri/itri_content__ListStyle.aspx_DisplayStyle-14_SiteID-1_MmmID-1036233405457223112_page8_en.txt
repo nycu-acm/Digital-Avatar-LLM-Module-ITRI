@@ -1,0 +1,80 @@
+front page
+Industrial Services
+Testing services
+Testing services
+search
+Note: You can enter the detection name/function specification/sample attribute/properties/possible components, certification agency number, contact window name, telephone number
+I want to test
+​
+Keywords:
+NO.
+Testing services
+Condition description
+Certification Agency Number
+contact person
+Telephone
+71
+Toilet transport distance test
+Test the performance of carrying resin balls under test pipeline conditions
+TAF0726
+Cai Wanglin
+03-5914321
+72
+Toilet cleaning test
+Check whether the toilet has reached the cleaning level under test conditions
+TAF 0726
+Cai Wanglin
+03-5914321
+73
+Toilet leak test
+During the toilet production process, no cracks occurred in the waterway structure.
+TAF 0726
+Cai Wanglin
+03-5914321
+74
+Toilet air leakage test
+Check whether the toilet water seal can withstand the set water column pressure
+TAF 0726
+Cai Wanglin
+03-5914321
+75
+Motor performance test
+Motor ≦3kW 110/220/380 Vac/Vdc/ requires a drive
+Yang Yaobin
+03-5914302
+76
+Qualitative analysis of plastic particles in soap products
+Only plastic particles larger than 25um can be measured
+4031
+Wang Yongli
+06-3636796
+77
+Flying needle test correction board
+Resistance, voltage
+TAF0016
+Ye Yuxuan
+03-5911036
+78
+Flying needle test correction board
+resistance
+Ye Yuxuan
+03-5911036
+79
+Wind pressure/ pressure difference
+Pressure difference: 100hpa
+Chen Xuanping
+03-5917516
+80
+Air volume test
+Cai Peishan
+03-5741201
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10

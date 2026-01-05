@@ -1,0 +1,20 @@
+首頁
+尖端科技
+智慧化致能技術
+通訊
+5G O-RAN 人工智能驅動非即時智慧控制器
+Share to Facebook
+Share to Twitter
+分享到我的Line
+聯絡我們
+技術簡介
+5G O-RAN 人工智能驅動非即時智慧控制器。
+5G不僅適用於公眾行動網路，更可依據特定應用搭建專用的網路，也就是通稱的5G專網，5G專網應用情境豐富多元，每種情境都有不同等級的網路效能需求，因此需要一套開放、智能的網路架構才可因地制宜，近年來主打開放介面的5G開放式網路（Open Radio Access Network；O-RAN）應運而生，其中的Non Real Time RAN Intelligent Controller（Non-RT RIC）平台更是整個O-RAN架構的決策核心，除了滿足O-RAN標準介面如A1/R1之外，更可透過O-RAN Service Management & Orchestration Framework（SMO）的O1介面取得基站資料分析後對Near Real Time RAN Intelligent Controller（Near-RT RIC）下達策略以控制基站行為。ITRI Non-RT RIC平台支援AI／ML工作流程，可由資料自主驅動AI/ML的訓練與預測分析結果進而滿足應用軟體需求，本平台提供使用者GUI或API方式來做訓練、預測或模型的管理監控，且應用軟體可透過介面操作取得各式模型進行調整預測數據。舉例來說，異常檢測（Abnormal Detection）應用軟體（rApp）透過R1介面向Non-RT RIC的框架（Framework）取得基站端的數據，包含終端量測數據、基站效能指標與網路效能指標，整理成可訓練的資料，並呼叫機器學習工作流程的工具進行模型調教與訓練，將此模型儲存，往後即可預測並監控準確度，當準確度每況愈下時啟用重新訓練機制，由新一組數據訓練得到更優化的模型。
+特色與創新
+符合O-RAN WG2 技術文件包括：
+O-RAN.WG2.Non-RT-RIC-ARCH-TS-v02.01
+O-RAN.WG2.Non-RT-RIC-ARCH-TR-v01.01
+O-RAN.WG2.A1AP-v03.00
+O-RAN.WG2.AIML-v01.03
+應用與效益
+5G專網產業、5G開放式架構智慧網管。

@@ -1,0 +1,33 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+communication
+5G mobile communication transceiver chips and Beamforming ICs
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+5G mobile communication.
+The main feature of the fifth generation of mobile communication is the use of new technologies such as heterogeneous networks, millimeter-wave communication and Massive MIMO. The new technologies provide a new life vision and also bring new challenges to RF equipment manufacturers. In this regard, the team of the Industrial Research Institute continues to invest in the development of 5G NR technology, independently developing 5G sub-6G RF transceiver (5G sub-6GHz Wideband RF Transceiver), 39GHz dual-polarization lifting and lowering RF transceiver (39GHz Dual Polarization Transceiver), dual-polarized beamforming chipset (Dual-polarized Beamforming IC) and other technologies. It can be used in the design and communication system development of front-end modules of 5G base stations and small base station equipment, and assist domestic manufacturers in technology independence.
+Features and innovation
+5G sub-6GHz Wideband RF Transceiver
+Supports 2x2 MIMO high-integration single-chip system.
+It provides ultra-large frequency band coverage from 0.7 GHz to 5.2 GHz, with high modulation elasticity, and can meet the application situation of sub-6GHz.
+This system integrates low-phase noise PLLs, and can achieve good sideband suppression and image rejection performance after combining external digital correction.
+39GHz Dual Polarization Transceiver
+It is a high-integration 5G NR transceiver system that supports operating frequency bands from 37 GHz to 40 GHz and can support dual-polarization transmission.
+This system integrates low-phase noise PLLs, and can achieve good sideband suppression and image rejection performance after combining external digital correction.
+It has the advantages of gain temperature compensation function and low power consumption, and is suitable for application areas such as miniaturized base stations and miniaturized base stations.
+The single chip system is packaged in a flip chip package and can support SPI interface. Engineers can easily deploy this chip system to the wireless communication module to be verified.
+Dual-polarized Beamforming IC
+It is a high-integration 5G NR dual-polarized beamforming chip system with a support frequency band of 39 GHz.
+Supports dual-polar modulation (2 x 2 MIMO or Dual SISOs).
+Supports phase-modulation, programmable beam, adjustable beam-width functionality.
+It has the advantages of gain temperature compensation function and low power consumption, and is suitable for use in micro base stations and short-distance/miniature indoor wireless equipment.
+It can also be used with phase array antennas and 5G SDR testing platforms independently developed by the Institute of Technology.
+Application and benefits
+For those interested in investing in 5G NR, the Industrial Research Institute can provide independently developed 5G sub-6G RF transceiver, 39GHz dual-polarized lifting and lowering RF transceiver, dual-polarized beamforming chipset and other technologies. The technical services provided include (but are not limited to):
+Provide chipset standards
+Provide chipset design technology
+Provide customized technology development according to the actual specifications and needs of the manufacturer.

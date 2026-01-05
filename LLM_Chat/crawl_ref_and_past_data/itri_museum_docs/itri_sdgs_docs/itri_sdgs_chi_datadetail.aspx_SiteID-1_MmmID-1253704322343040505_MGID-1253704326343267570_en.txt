@@ -1,0 +1,356 @@
+URL: https://itrisdgs.itri.org.tw/chi/datadetail.aspx?SiteID=1&MmmID=1253704322343040505&MGID=1253704326343267570
+Depth: 3
+Crawled: 2025-07-28 16:18:15
+====================================================================
+front page
+Perpetual Database
+Perpetual reveal of the architecture
+SASB Perpetual Accounting Principles Comparison Table
+Release date: 2024-06-20
+Among the 11 sectors and 77 industries in the SASB Materiality Map, the applicable indicators are selected for disclosure: Industry category (sector): Services
+Industry: Professional & Commercial Services
+Table 1
+Indicator code
+Indicator description
+Metrics
+Comparison chapters / responses
+page number
+Reveal the topic: Information security
+SV-PS-230a.1
+Quality
+Explain the risk identification and management methods of information security
+1-3-5 Information security and digital transformation
+54
+SV-PS-230a.2
+Quality
+Policy and practices for collecting, using and preserving customer information
+1-3-5 Information security and digital transformation
+54
+SV-PS-230a.3
+Quantification (number, percentage)
+(1) Number of data leaks,
+(2) Among them: (a) the proportion involving confidential business information of clients,
+(b) The proportion of personal data leaks,
+(3) Affected target person
+number, including: (a) number of affected customers,
+(b) Number of affected individuals
+In 2024, there were no information leakage in this court, nor any related security or personal information complaints occurred.
+-
+Revealing the topic: employee diversity and participation
+SV-PS-330a.1
+Quantification (percentage)
+Among all ranks, belong to (
+1
+) Different genders and (
+2
+) The proportion of representatives of multiethnic groups, including:
+(
+a
+) Senior management class,
+(
+b
+) Non-level management class,
+(
+c
+) All other employees
+Appendix 1. Perpetual data｜
+surface
+8.
+Employee distribution｜By gender, management level
+181
+Appendix 1. Perpetual data｜
+surface
+9.
+Employee distribution |By multiple indicators
+182
+Appendix 1. Perpetual data｜Table 1
+0
+.Employee distribution｜By nationality
+182
+SV-PS-330a.2
+Quantification (ratio)
+Voluntary and involuntary employee turnover rate
+Appendix 1. Perpetual data | Table
+12.
+Regular employee resignation statistics
+185
+SV-PS-330a.3
+Quantification (percentage)
+Percent employee participation
+3
+-1-1
+Diversity and Integration
+88
+Revealing the theme: Professional integrity
+SV-PS-510a.1
+Quality
+Ways to ensure professional integrity
+1-3-1 Integrity management
+50
+SV-PS-510a.2
+Quantification (TND)
+Total money loss caused by legal litigation related to professional integrity
+No legal proceedings related to professional integrity occurred in 2024
+-
+Table 2
+Indicator code
+Indicator says
+bright
+Activity indicators
+Compare chapters/responses
+page number
+SV-PS-000.A
+Quantitative (member)
+Number of employees (
+1
+) Full-time and part-time (
+2
+) Regular employees (
+3
+) Contracted employees
+Appendix 1. Perpetual data | Table
+4. Employee Types
+179
+SV-PS-000.B
+Quantification (hours, percentages)
+Employee working hours, billing percentage
+This court is a non-profit legal entity organization. The core tasks are mainly to implement research, industrial support plans and policy suggestions of the government committee, so this indicator does not apply.
+-
+--- Section ---
+Among the 11 sectors and 77 industries in the SASB Materiality Map, the applicable indicators are selected for disclosure: Industry category (sector): Services
+Industry: Professional & Commercial Services
+--- Section ---
+Table 1
+Indicator code
+Indicator description
+Metrics
+Comparison chapters / responses
+page number
+Reveal the topic: Information security
+SV-PS-230a.1
+Quality
+Explain the risk identification and management methods of information security
+1-3-5 Information security and digital transformation
+54
+SV-PS-230a.2
+Quality
+Policy and practices for collecting, using and preserving customer information
+1-3-5 Information security and digital transformation
+54
+SV-PS-230a.3
+Quantification (number, percentage)
+(1) Number of data leaks,
+(2) Among them: (a) the proportion involving confidential business information of clients,
+(b) The proportion of personal data leaks,
+(3) Affected target person
+number, including: (a) number of affected customers,
+(b) Number of affected individuals
+In 2024, there were no information leakage in this court, nor any related security or personal information complaints occurred.
+-
+Revealing the topic: employee diversity and participation
+SV-PS-330a.1
+Quantification (percentage)
+Among all ranks, belong to (
+1
+) Different genders and (
+2
+) The proportion of representatives of multiethnic groups, including:
+(
+a
+) Senior management class,
+(
+b
+) Non-level management class,
+(
+c
+) All other employees
+Appendix 1. Perpetual data｜
+surface
+8.
+Employee distribution｜By gender, management level
+181
+Appendix 1. Perpetual data｜
+surface
+9.
+Employee distribution | By multiple indicators
+182
+Appendix 1. Perpetual data｜Table 1
+0
+.Employee distribution｜By nationality
+182
+SV-PS-330a.2
+Quantification (ratio)
+Voluntary and involuntary employee turnover rate
+Appendix 1. Perpetual data |Table
+12.
+Regular employee resignation statistics
+185
+SV-PS-330a.3
+Quantification (percentage)
+Percent employee participation
+3
+-1-1
+Diversity and Integration
+88
+Revealing the theme: Professional integrity
+SV-PS-510a.1
+Quality
+Ways to ensure professional integrity
+1-3-1 Integrity management
+50
+SV-PS-510a.2
+Quantification (TND)
+Total money loss caused by legal litigation related to professional integrity
+No legal proceedings related to professional integrity occurred in 2024
+-
+Table 2
+Indicator code
+Indicator says
+bright
+Activity indicators
+Compare chapters/responses
+page number
+SV-PS-000.A
+Quantitative (member)
+Number of employees (
+1
+) Full-time and part-time (
+2
+) Regular employees (
+3
+) Contracted employees
+Appendix 1. Perpetual data | Table
+4. Employee Types
+179
+SV-PS-000.B
+Quantification (hours, percentages)
+Employee working hours, billing percentage
+This court is a non-profit legal entity organization. The core tasks are mainly to implement research, industrial support plans and policy suggestions of the government committee, so this indicator does not apply.
+-
+--- Navigation ---
+Sustainable navigation
+The operator's words
+Sustainable words
+Sustainable management organization
+Sustainable Development Goals
+Interested persons
+Major Topics
+Integrity governance
+Organizational culture
+Governance structure
+Integrity management
+Perpetual value chain
+Technology research and development
+Scientific research and innovation promotion
+2035 Technical Strategy and Blueprint
+Smart life
+Healthy and happy
+Sustainable environment
+Resilient society
+Intelligent intelligent technology
+Happy workplace
+Diversity and Integration
+Talent cultivation and development
+Retain talents
+Occupational Safety and Hygiene
+Employee health promotion
+Green courtyard area
+Climate and nature management
+Low-carbon operation
+Energy Management
+Water Resources Management
+Waste treatment
+Social welfare
+Industrial development
+Highlights of industrial applications
+Social benefits
+Industrial talent cultivation
+Social welfare
+Menu
+--- Navigation ---
+Sustainable navigation
+The operator's words
+Sustainable words
+Sustainable management organization
+Sustainable Development Goals
+Interested persons
+Major Topics
+Integrity governance
+Organizational culture
+Governance structure
+Integrity management
+Perpetual value chain
+Technology research and development
+Scientific research and innovation promotion
+2035 Technical Strategy and Blueprint
+Smart life
+Healthy and happy
+Sustainable environment
+Resilient society
+Intelligent intelligent technology
+Happy workplace
+Diversity and Integration
+Talent cultivation and development
+Retain talents
+Occupational Safety and Hygiene
+Employee health promotion
+Green courtyard area
+Climate and nature management
+Low-carbon operation
+Energy Management
+Water Resources Management
+Waste treatment
+Social welfare
+Industrial development
+Highlights of industrial applications
+Social benefits
+Industrial talent cultivation
+Social welfare
+--- Navigation ---
+The operator's words
+Sustainable words
+Sustainable management organization
+Sustainable Development Goals
+Interested persons
+Major Topics
+--- Navigation ---
+Scientific research and innovation promotion
+2035 Technical Strategy and Blueprint
+Smart life
+Healthy and happy
+Sustainable environment
+Resilient society
+Intelligent intelligent technology
+--- Navigation ---
+Diversity and Integration
+Talent cultivation and development
+Retain talents
+Occupational Safety and Hygiene
+Employee health promotion
+--- Navigation ---
+Climate and nature management
+Low-carbon operation
+Energy Management
+Water Resources Management
+Waste treatment
+--- Navigation ---
+Industrial development
+Highlights of industrial applications
+Social benefits
+Industrial talent cultivation
+Social welfare
+--- Navigation ---
+front page
+Latest news
+Research and development will continue to work together
+Glory and affirmation
+Perpetual Database
+Site Map
+--- Navigation ---
+Copyright © 2024 Industrial Technology Research Institute
+Social Welfare Zone of the Institute of Technology
+Integrity governance
+--- Navigation ---
+Customer service line:
+0800-45-8899
+Contact Window

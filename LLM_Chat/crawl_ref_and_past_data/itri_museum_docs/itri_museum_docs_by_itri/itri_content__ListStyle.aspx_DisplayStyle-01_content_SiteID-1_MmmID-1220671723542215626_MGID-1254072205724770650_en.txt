@@ -1,0 +1,21 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Artificial intelligence and security
+Enterprise security rating SaaS service
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Enterprise security rating SaaS service
+The enterprise security rating platform provides a verification method to ensure that when an enterprise moves towards smart manufacturing, it can enable the network defense capabilities to reach an appropriate level of security. According to international security standards, the security maturity is divided into five levels, from A to E, to measure the security maturity of smart manufacturing production lines.For example, when your company uses this platform to conduct self-evaluation and reaches level C, it means that your company's smart manufacturing production line maturity is in line with the conventional law, has acceptable systems, processes and protective measures, and can withstand general threats and vulnerability attacks. Therefore, the probability of interruption of production lines is relatively low, and economic losses can be controlled within a certain range.
+Features and innovation
+Convert the international security framework into an security rating tool to assist enterprises in simplifying the security compliance process.
+Assist major manufacturers in mastering the security energy of the supply chain.
+In addition to doing a good job in financial security for large enterprises, financial security ratings will also become the supply chain financial security verification indicator in the future.
+Provide comprehensive security ratings from IT to OT.
+Application and benefits
+The industries that can be applied to this technology are enterprises and their supply chains
+Leading the domestic semiconductor leader, completing the global semiconductor security standard SEMI E187
+After the enterprise conducts a self-insurance maturity assessment, it can obtain professional consulting services for an independent third-party security company that cooperates with the SecPaaS platform.The SecPaaS platform will provide appropriate certification level coaching based on your company's specific business needs, preparing for any compliance, evaluation and review certificates required for the company's operations, quickly, accurately and simply helping the company make customers safer.

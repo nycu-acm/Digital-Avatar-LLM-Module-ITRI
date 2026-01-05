@@ -1,0 +1,32 @@
+front page
+Industrial Services
+Technology transfer
+Technical name:
+【Advanced Technology】AI language and image-assisted nostalgia therapy promotes emotional and cognitive activation in older people
+Technology introduction
+Through multi-sensory stimulation and AI analysis, this project evokes memories of older people and constructs life stories to improve cognitive function and care quality.The system integrates elements such as words, sounds, images, and even smells in the past life experience of the cared person, dynamically adapts to case needs, promotes deep memory extraction and emotional resonance, and structures archives to form a personalized digital memory bank.
+Abstract
+The service uses multisensory stimulation and AI analysis to evoke memories and construct life stories, enhancing cognitive function and care quality. The system integrates sound, visuals, and scents, dynamically adapting to individual needs, facilitating deep memory retrieval and emotional resonance, while structuring data into a personalized digital memory archive.
+Technical Specifications
+1) Flexible use of interactive software for AI generation technology
+2) Image and text record editor
+Technical Specification
+1. Interactive software utilizing AI generative technologies flexible
+2. Image and text record editor
+Technical Features
+"This project uses multiple sensory stimulation and AI analysis to arouse memories of older people and build life stories to improve cognitive function and care quality. The system integrates elements such as words, sounds, images, and even smells in the past life experience of carers, dynamically adapts to case needs, promotes deep memory extraction and emotional resonance, and structures archives to form a personalized digital memory library.
+The service uses multisensory stimulation and AI analysis to evoke memories and construct life stories, enhancing cognitive function and care quality. The system integrates sound, visuals, and scents, dynamically adapting to individual needs, facilitating deep memory retrieval and emotional resonance, while structuring data into a personalized digital memory archive."
+Application scope
+Senior care
+Accept basic suggestions (equipment) for technicians
+Test related fields and physical virtual experimental stimuli
+Accept basic advice from technicians (professional)
+AI-related, program development,
+Service process and interactive design
+Technical classification
+Design Driver
+Contact Information
+Contact: He Guanting Design Innovation Group
+Phone: +886-49-2345245 or Email: timoh@itri.org.tw
+Customer service line: +886-800-45-8899
+Fax: +886-49-2345245

@@ -1,0 +1,48 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+communication
+5G system hierarchical emulator-WiSE
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+5G system hierarchical emulator - WiSE.
+In the stage of 4G/5G mobile communication technology development and standard formulation, in order to quickly evaluate the performance gains of various technologies, companies participating in standard formulation will use system-level simulation platforms (SLS) to conduct relevant performance analysis of technologies on different topics.Compared with the hardware prototype platform, the SLS software simulation platform has the advantages of low construction cost, high modification flexibility and fast verification, so it is widely used by 3GPP RAN standard organizations and various system developers.
+The WiSE system hierarchical simulator simulates the overall network behavior between a large number of base stations and user equipment, which operate at the same time, interfere with each other, and influence various communication technologies, and observes the effectiveness of the overall mobile communication network including the base stations and users.
+Features and innovation
+System layer network layout settings that support NR R15 functions
+3GPP standard honeycomb base platform.
+Standard small base platform.
+Standard indoor base platform.
+Supports 3GPP 3D SCM channel model
+InH: 12 gNB.
+UMa: 19 gNB, ISD: 200m or 500m.
+RMa: 19 gNB, ISD: 1732m or 6000m.
+Support scheduling method
+Round-Robin.
+Proportional Fair.
+Subband Proportional Fair.
+Simulation Downlink and Uplink functions
+Simulation Traffic model, MAC layer, PHY layer and base station operation together
+MIMO transmission function cross-polarized antenna model that supports 5G-NR
+Tx./Rx. Beam Sweeping feature.
+Hybrid Beamforming feature.
+Supports Multi-Panel Antenna Array architecture.
+Supports back-to-back antenna array architecture.
+Support the latest 5G NR high-frequency channel model
+Applicable frequency 0.5 – 100 GHz
+Supports high frequency blockage effect
+Supports UE-side Rotation effect
+Supports the channel effect of spatial consistency
+Supports MU-MIMO transmission function of 5G-NR
+Supports 5G-NR CLI (Cross Link Interference) analysis function
+Support IMT-2020 Evaluation
+3 Usage Scenario: eMBB, mMTC, and uRLLC.
+5 Test Environments: Indoor Hotspot, Dense Urban, Rural, mMTC, and uRLLC.
+Application and benefits
+Standard study: 3GPP standard simulation tool.
+Academic teaching: 5G/4G communication system simulation.
+Network research: MAC/PHY cross-layer analysis.
+New product development: product and technology effectiveness evaluation.

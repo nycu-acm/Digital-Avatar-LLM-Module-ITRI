@@ -1,0 +1,65 @@
+Engaging in Diversified Robot Development, Saving Manpower and Meeting Production Line Automation Needs - 50 Years of Empowering Industry Through Innovations
+Industrial Technology Research Institute
+Major Milestones
+Half a Century Young
+Navigating the Future
+中
+Major Milestones
+Home
+Major Milestones
+Machinery
+Engaging in Diversified Robot Development, Saving Manpower and Meeting Production Line Automation Needs
+Automation
+Engaging in Diversified Robot Development, Saving Manpower and Meeting Production Line Automation Needs
+Automation
+Machine Tools
+Automation
+Service robots
+Unmanned Aerial Vehicles
+Robotic arms triggered the industrial automation revolution in the 1960s. To follow the industrial robot trend, in 1983, ITRI developed Taiwan’s first-ever industrial robot ITRI-E, and later researched and developed robots such as ITRI–L, ITRI-U, and ITRI–A for production lines. In 1989, automation company MIRLE, Taiwan’s first and largest company researching, developing, producing, and selling integrated industrial automation equipment components, was founded. To date, the company has helped companies such as Quanta Computer, Innolux, and AUO build automation factories and systems, driving Taiwan’s industrial automation.
+To help traditional industries develop automation, in 2011, ITRI collaborated with HIWIN, introducing smart automated machining loading and unloading materials and carrying systems for robots. In 2016, ITRI cooperated with bathroom giant HCG, utilizing cyber physical system (CPS) grinding and polishing robot technology to increase faucet grinding coverage. In 2019, the two parties expanded the scope of their cooperation, building the second CPS production line and adopting virtual-real integration and machine vision to increase machine adjustment efficiency; machine adjustment time was reduced from 1 day to 1 hour, validating how robots’ all-angle grinding increased production capacity, helping Taiwan fully advance its plumbing industry, and elevating Taiwan’s international competitiveness. The report on the grinding and polishing robot as well as the faucet manufacturing process, which were featured on Discovery Channel’s "How it’s Made", has been viewed in 220 countries worldwide. The program has garnered 5.5 million views to date.
+As human-machine collaboration becomes the new smart production trend, ITRI researched and developed robot vision and tactile sensing technology. In 2017, ITRI contributed to the founding of startup company Touché Solutions, developing tactile sensing skin to strengthen human-machine collaboration safety. In 2019, ITRI teamed up with Everest Textile Co., Ltd., completing the world’s first-ever round T unmanned automated garment assembly line. In 2021, ITRI built a software-defined enhanced robot joint module, using the block stacking method to swiftly build customized multi-joint robots that meet production line needs. In 2022, ITRI researched and developed an RGB-D AI robot, the world’s first-ever MIT collaborative robot with built-in 3D visual sensing and smart object retrieval functions, satisfying manufacturing, logistics, and retail automation demands and creating new industry business opportunities.
+1983
+ITRI developed Taiwan’s first-ever industrial robot (robotic arm) ITRI-E and later transferred such technology to domestic companies to manufacture the robot.
+1984
+ITRI developed Taiwan’s first-ever ITRI-L type vertical joint loading and unloading robot. The robot, which had two servo axes and featured point-to-point path control technology, was primarily used to pick and place items. Later, ITRI transferred such technology to TECO.
+1986
+Dingwei Industrial Co. hired ITRI to teach it how to set up production systems with automated welding. Two universal robots (i.e., ITRI-U robots) were used in the company’s production line.
+1987
+ITRI developed an ITRI-A assembly robot. The robot, which contained five servo axes and continuous path control technology, was Taiwan’s first-ever general-purpose robot used primarily for small-scale assembly.
+1989
+ITRI facilitated the founding of automation company MIRLE, Taiwan’s first and largest company researching, developing, producing, and selling integrated industrial automation equipment components.
+2011
+ITRI collaborated with HIWIN, introducing smart automated machining loading and unloading materials and carrying systems for robots.
+2016
+ITRI cooperated with bathroom giant HCG, utilizing CPS grinding and polishing robot technology to increase faucet grinding coverage.
+2017
+ITRI researched and developed tactile sensing technology in robots and contributed to the founding of Touché Solutions.
+2017
+ITRI researched and developed a lightweight carbon fiber vibration damping composite material coated with multilayer carbon nanotubes inside, allowing robotic arms to be stable, light, and energy-saving.
+2019
+ITRI teamed up with Everest Textile Co., Ltd., completing the world’s first-ever round T unmanned automated garment assembly line.
+2021
+ITRI researched and developed its exclusive, patented software-defined enhanced robot joint module, which boasted the highest torque-to-volume ratio and 40% less weight among robots of the same level.
+2022
+ITRI’s RGB-D AI robot incorporated the world’s first-ever AI with built-in 3D vision and RGB images. Even for new items, the robot could quickly determine how to pick them up without being taught how to do so.
+MORE
+Origin
+Semiconductors
+ICT
+Materials, Chemicals, and Nanotechnology
+Vehicles
+Metrology
+Textiles
+Optoelectronics
+PCB
+Biomedicine
+Green Energy
+AI and Big Data
+Others
+next
+prev
+© Industrial Technology Research Institute
++886-3-582-0100
+310401
+195, Sec. 4, Chung Hsing Rd., Chutung, Hsinchu, Taiwan 310401, R.O.C.

@@ -1,0 +1,33 @@
+首頁
+產業服務
+技術移轉
+技術名稱：
+永續刺竹葉萃取物應用於綠色化妝品保存技術
+技術簡介
+本研究建立最佳萃取模式，並依照 ISO 11930:2019 標準測試抗菌活性。此萃取物可有效抑制大腸桿菌、綠膿桿菌和金黃色葡萄球菌，滿足長期微生物控制的防腐效果標準 A 和 B。竹子是一種永續資源，對環境的影響較小，其產品表現出良好的生物降解性和環境足跡的減少。這項研究表明，莿竹葉萃取物為化學防腐劑提供了一種可持續的替代品，既促進了環境可持續性，又促進了公共健康，並有可能擴大在天然個人護理配方中的應用。
+Abstract
+This study established the optimal extraction mode, antimicrobial activity was tested in accordance with ISO 11930:2019 standards. The extract effectively inhibited Escherichia coli, Pseudomonas aeruginosa, and Staphylococcus aureus pathogens, meeting preservative efficacy Standards A and B for long-term microbial control. Bamboo is a sustainable resource with lower environmental impacts, and its products show promising biodegradability and reduced environmental footprints. This research indicates that the B. stenostachya leaf extract offers a sustainable alternative to chemical preservatives, promoting both environmental sustainability and public health, with the potential for expanded use in natural personal care formulations.
+技術規格
+1. 複合式超音波萃取技術建立
+2. 安全性評估(對NIH/3T3細胞無毒性)
+3. 抗菌功效試驗
+Technical Specification
+1. Establishment of composite ultrasonic extraction technology
+2. Safety assessment (non-toxic to NIH/3T3 cells)
+3. Antibacterial efficacy test
+技術特色
+"本研究建立最佳萃取模式，並依照 ISO 11930:2019 標準測試抗菌活性。此萃取物可有效抑制大腸桿菌、綠膿桿菌和金黃色葡萄球菌，滿足長期微生物控制的防腐效果標準 A 和 B。竹子是一種永續資源，對環境的影響較小，其產品表現出良好的生物降解性和環境足跡的減少。這項研究表明，莿竹葉萃取物為化學防腐劑提供了一種可持續的替代品，既促進了環境可持續性，又促進了公共健康，並有可能擴大在天然個人護理配方中的應用。
+This study established the optimal extraction mode, antimicrobial activity was tested in accordance with ISO 11930:2019 standards. The extract effectively inhibited Escherichia coli, Pseudomonas aeruginosa, and Staphylococcus aureus pathogens, meeting preservative efficacy Standards A and B for long-term microbial control. Bamboo is a sustainable resource with lower environmental impacts, and its products show promising biodegradability and reduced environmental footprints. This research indicates that the B. stenostachya leaf extract offers a sustainable alternative to chemical preservatives, promoting both environmental sustainability and public health, with the potential for expanded use in natural personal care formulations."
+應用範圍
+開發天然萃取物於保養品應用
+接受技術者具備基礎建議（設備）
+無
+接受技術者具備基礎建議（專業）
+化工、生物、材料
+技術分類
+農工淨零
+聯絡資訊
+聯絡人：劉選頡 科技農工系統技術組
+電話：+886-49-2345260 或 Email：Sjliu＠itri.org.tw
+客服專線：+886-800-45-8899
+傳真：無

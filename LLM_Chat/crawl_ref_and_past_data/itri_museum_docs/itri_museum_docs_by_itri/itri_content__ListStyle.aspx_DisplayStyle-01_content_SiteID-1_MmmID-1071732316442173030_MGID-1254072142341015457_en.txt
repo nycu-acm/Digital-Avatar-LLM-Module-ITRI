@@ -1,0 +1,43 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+communication
+5G collaborative network edge computing technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+5G collaborative network edge computing technology.
+5G Synergic Edge Computing (SynerEdge) provides cloud computing capabilities and application services management at the edge of the 5G mobile network and at the locations adjacent to the base station.With 3GPP R16 UPF/AF and ETSI MEC architecture specifications, it can transfer application services running on Cloud on the traditional network architecture to the user's nearest 5G SynerEdge collaborative network edge computing platform to run on the following advantages:
+1. Since the application service is close to users, the service delay time can be effectively reduced.
+2. At the same time, data is calculated at the edge of the mobile network, which can effectively reduce the data load transmitted through the core network.
+3. The OAM network management platform deploys the edge computing platform required for each field with one click.
+4. Supports heterogeneous network access dedicated network technology, which can support 5G RAN and Wi-Fi access technology.
+The system architecture of 5G SynerEdge supports running on Commodity Hardware; the ETSI MEC APP Platform Services developed by ITRI can provide APP management including: listing, removing, life cycle and Traffic Rules... etc. The APP can be built and run on a hybrid NFV platform that includes Hypervisor-base (VM) and Container-base.
+Features and innovation
+5G SA architecture support, with 3GPP R16 standard interface
+N3: Supports 5G base station connection.
+N4: 5GC SMF connection.
+N6: Local DN introduction.
+N9: 5GC UPF connection.
+Network & Service Virtualization
+The system runs as Container-Based.
+Application services that support Container-Based/VM-Based are launched.
+Smart routing
+Seamless service redirects.
+Supports FQDN-ready service launch.
+Uninstall the data packet.
+Heterogeneous network technology
+N3IWF module function (N2/NWu).
+Supports edge computing service for UE access through N3IWF.
+Instant service start (Just-in-Time)
+Quickly start the service when the application service is accessed and save edge cloud resources.
+OAM management functions
+Automatic deployment of edge platform systems and edge APPs with one click.
+System module and APP status detection.
+APP launch/deleting/status view/version management and FQDN update.
+System flow and performance monitoring.
+System alarm notification design.
+Application and benefits
+Internet service providers and telecommunications operators provide computing services required for 5G vertical application dedicated network systems.

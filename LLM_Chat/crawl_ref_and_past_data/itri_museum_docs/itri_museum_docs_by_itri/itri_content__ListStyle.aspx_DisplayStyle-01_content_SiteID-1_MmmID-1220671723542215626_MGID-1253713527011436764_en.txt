@@ -1,0 +1,20 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Artificial intelligence and security
+Deep Learning FAST-AOI Flaw Detection Application
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Deep Learning FAST-AOI defect detection application.
+Based on deep learning appearance defect image detection technology, active learning is used to select representative training materials and AI automated machine learning (AutoML) to select model hyperparameter combinations to construct customized and standardized field AI model training overall solution, and FAST-AOI accelerates industrial AIization in vertical fields.
+Features and innovation
+Actively learn to select training materials to remove the drought and preserve the essence
+In order to solve the problem that deep learning relies on a large number of high-quality annotated data, it is possible to automatically select representative data to be marked with active learning technology, significantly reduce the number of overall training data marks, and maintain the accuracy of its deep learning model.
+Taking the plastic injection product as an example, the original 46K sheets of training data + fast inference model are used as the benchmark for model performance (recognition error rate 4.37%). Under the conditions of two deep learning network architectures (fast/hyperprecision inference model) and two training data (random selection/actively learning 9K sheets), the best AI identification model is obtained after repeated adjustments by AI engineers, of which the identification error rates are 5.60%, 4.87%, 5.16%, and 4.37%, respectively. The experimental combination of active learning 9K+hyperprecision inference model can achieve similar experimental results of the original 46K sheets + fast inference model.Secondly, in order to evaluate the model construction time of deep learning, the training data 46K and 9K marking times are first 15.3 days and 3 days respectively, which means that active learning reduces the marking time by 5 times. The model training time is 0.7 days (4 NVidia Titan-Xp GPU-4x12RAM) and 0.8 days (1 NVidia RTX-8000 GPU-48RAM) respectively. The overall construction of the AI ​​model is reduced by 4.2 times, and the AI ​​model is accelerated to spread the vertical industry.
+AutoML model is carefully crafted, and a single plastic injection machine has added 1.9% of the product production capacity
+Without studying complex algorithms, through innovative AutoML technology, we can automatically select model hyperparameters to improve its model performance, simplify the complexity and become an easy-to-use data analysis tool, and establish a standardized intelligent AI model training system, thereby effectively expanding the factory AI import model to meet the customized needs of enterprises and develop AI applications by themselves.Taking plastic injection products as an example, using ultra-precision network architecture and active learning technology to select 9K training materials, and comparing the three hyperparameter methods for adjusting the model (common parameters used in general fields, manual parameter adjustment by AI engineers, and automatic parameter adjustment by AutoML), respectively, and the identification error rate of defect inference model can be obtained by 4.79%, 4.37%, and 4.11% (Figure 3 Crimson curve hyperparameter combination), and the improvement rate of common parameters in general fields is 8.77% and 14.20%, respectively, representing that the product production capacity (7,200 pieces/week) can be increased by 1.2% and 1.9%, respectively, reducing the cost of wasted plastic raw materials, man-labor hours, and injection equipment.
+Application and benefits
+All related industries of the core technology of automatic optical detection object classification can be used to enhance the industrial value.For example: defect classification such as injection molding industry, wafer testing, PCB circuit boards, etc.

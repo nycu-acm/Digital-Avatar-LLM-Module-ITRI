@@ -1,0 +1,17 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Artificial intelligence and security
+Endpoint Application Whitelist - Artemis
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Whitelist of endpoint applications.
+The whitelist technology of application developed by the Institute of Technology uses the operating system mechanism and hypervisor function to intercept application execution and check program integrity during application execution. It can protect Netcom products, Internet of Things devices, ATMs, self-driving systems or high-security hierarchy systems, limit applications that can be executable on the system, block unknown malicious programs, and provide more complete and safer protection.
+Features and innovation
+Traditional security attack methods can be summarized into three steps. Hackers use software vulnerabilities to invade devices, and employees unconsciously bring the invaded BYOD device to the enterprise environment for use, resulting in malicious program attacks spreading horizontally within the enterprise.In other words, as long as the steps in this process are aborted, the damage caused by the attack can be reduced.Most of the security attacks are that hackers use vulnerabilities to implant shellcode into the system, and then let the system download and install malicious programs, which may cause any damage, such as destroying the normal operation of the system or stealing information.
+In 2016, Mirai botnet attacks ravaged IoT devices and caused major disasters. With the fall of network cameras and smart devices, drones or drones with huge future markets and high computing resources will inevitably be the next target of the attacker. The attacker may hack into the drone through security vulnerabilities, and then control and use victim vehicles to affect the flight safety of other drones.This technology provides a security defense system that can be run on various platforms. It will implement the execution of unknown blocking programs based on application whitelisting technology. In the technical part, it can strictly control the program through memory or archive-based whitelisting technology. Only programs pre-stored by vehicle manufacturers are allowed to be executed, and each memory page (Memory Page) is checked to verify whether the memory page exists in the whitelist, and avoid suspicious programs outside the list that fake normal programs to evade verification.
+Application and benefits
+Through this technology, various embedded systems and closed environment systems can be protected, and malicious attacks can be prevented in-depth.It can block the intrusion of malicious programs written by network download programs, mail attachment programs, other network download programs and other system vulnerabilities. The industries that can be applied are supply chain manufacturers, medical institutions, national defense, etc.

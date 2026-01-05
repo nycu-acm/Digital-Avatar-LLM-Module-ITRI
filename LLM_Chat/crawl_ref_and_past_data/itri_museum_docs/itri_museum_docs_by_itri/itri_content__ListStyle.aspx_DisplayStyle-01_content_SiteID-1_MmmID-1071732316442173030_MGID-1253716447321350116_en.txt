@@ -1,0 +1,25 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+communication
+LEO satellite ground communication chip and module
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+LEO satellite ground communication chip and module
+The global low-orbit satellite ground communication equipment market is booming, and Taiwan has advantages in communications, IC design and semiconductor manufacturing technology.However, the antenna array of ground equipment requires more than hundreds of RF chips and basic frequency control chips to integrate array antenna modules, and it still relies on foreign imports. The domestic industry urgently needs to supplement the independent system technology energy of RF and control chips and array antenna module modules to enhance the product price competitiveness of chips and system module factories.To this end, ITRI focuses on developing key core chip technologies for ground equipment (such as RF chips, beam tracking control chips, etc.), and carries out new antenna module integration technology to optimize industrial layout and assist in the layout of independent technology energy for the core RF front-end core technology of low-orbit satellite ground communication equipment in my country.Core technology output includes
+Features and innovation
+The key to reducing costs is beamforming RF chips:
+Can be applied to the beamforming chip containing power amplifier, low noise amplifier, phase and gain control CMOS circuit at the transmitting and receiving end of Ka band
+Design of multi-block expansion array antenna module for improving process yield
+: RF front-end modules designed with brick-type design can be spliced ​​with high transmission large array systems or IoT miniaturized modules
+The key GaN power amplifier of miniaturized modules:
+Making Ka band power amplifiers with gallium nitride process to increase output power to reduce array antenna number and RF module volume
+Fast antenna correction algorithm development:
+Integrate beam antenna pre-factory correction of beam forming chips and array antenna modules to speed up test and development time.Provides correctable beamforming antenna field type to reduce antenna array direction error and maintain maximum output power
+Key circuits for beam tracking control chips:
+General satellite antenna array beam tracking control chip architecture, high-integration front-end RF and fundamental frequency interface architecture design, match international satellite dedicated chipset, and develop digital compensation technology and digital beam synthesis technology to reduce the complexity of broadband antenna design
+Application and benefits
+CMOS power amplifier and low noise amplifier IC design for Ka band beam synthesis RF chips, evaluation of UT RF system Link budget and architecture design, production of LEO RF front-end modules, beamforming antenna field type for low-cost and far-field rapid correction, low-orbit satellite antenna array system, electronic packaging/module end thermal performance design and optimization.

@@ -1,0 +1,16 @@
+front page
+Cutting-edge technology
+Smart life
+Human-computer interaction and service
+Integrating panel-level RDL intermediary technology for active and passive components
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+The panel-level RDL interposer integrates active and passive components.
+The existing panel-level RDL interposer technology lacks integrated film component technology, so it is used in advanced system-level packaging (SiP) products, making it difficult to further improve efficiency and lightweight.This technology can make good use of the existing film component process of panel factories, supplemented by integrating high-deep and aspect ratio conductor technology (depth and aspect ratio ≥2＠line width: 5μm), creating a functional RDL interposer, which can not only improve product efficiency and lightness, but also produce production benefits.
+Application and benefits
+Technical value-added domestic display manufacturers have enabled them to break away from the competition for production capacity, deploy smart display systems, activate production lines to develop high-value, small number of diverse niche applications, integrate key components through elastic production, extend the display product value chain, and expand new markets with high added value.IC carrier board RDL technology integration products that can be applied across fields to the PCB industry.
+Related links:
+More technology-related information

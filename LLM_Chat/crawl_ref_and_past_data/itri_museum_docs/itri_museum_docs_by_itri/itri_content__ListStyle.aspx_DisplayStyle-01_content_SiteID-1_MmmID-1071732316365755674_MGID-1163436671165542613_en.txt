@@ -1,0 +1,14 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Semiconductor chips
+Ultraviolet band optical radiation measurement and correction technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Extreme ultraviolet band optical radiation measurement and correction technology.
+In response to the development of advanced microfilm technology in domestic semiconductors, the Industrial Research Institute has developed the "Extreme Ultraviolet (EUV) band optical radiation measurement and correction technology". It has cooperated with the National Synchronous Radiation Research Center to build a spectroscopic response correction system for the extreme ultraviolet light detector.
+Features and innovation
+The optical radiation characteristic evaluation and measurement technology of the light detector can provide the optical radiation measurement standards of the EUV light detector, which includes the EUV light detector response correction system and spectroscopic radiation standard traceability. The laboratory has extended the optical radiation standard from UV to EUV. The wavelength range of the newly developed optical radiation standard is 10 nm to 20 nm. The radiation response standards can be transmitted to the EUV light detector to meet the current measurement standards requirements of the EUV microfilm process detection equipment ecosystem.This technology can be applied to the development of key components of advanced semiconductor EUV microfilm processes, EUV photoresist analysis and the development of advanced semiconductor materials.

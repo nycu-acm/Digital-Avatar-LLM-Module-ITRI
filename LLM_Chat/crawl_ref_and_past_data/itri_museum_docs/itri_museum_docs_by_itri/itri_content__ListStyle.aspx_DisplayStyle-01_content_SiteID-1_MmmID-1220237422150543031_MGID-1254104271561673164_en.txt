@@ -1,0 +1,16 @@
+front page
+Cutting-edge technology
+Resilient society
+Infrastructure resilience
+AI bridge inspection drone system
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+AI bridge inspection drone system
+The Institute of Technology Research Institute has developed an AI bridge inspection drone system, providing functions such as smart waypoint generation, one-click takeoff, cloud record management and AI abnormality detection. The system controls safety as its primary goal.A prohibited navigation zone can be set up along the periphery of the bridge to avoid accidentally touching bridge facilities when performing missions, and to avoid public security concerns.Drones can fly on the bridge side according to the waypoint for patrol operations, cooperate with cloud platforms to manage drones to take images, and use AI image recognition technology to propose abnormal detection and alarms, which can greatly improve the efficiency of bridge inspection and maintenance and traffic facilities safety.
+Features and innovation
+Features of AI Bridge Inspection
+Application and benefits
+Various types of bridge inspection engineering facilities image shooting, AI image recognition and abnormal state analysis alarm.

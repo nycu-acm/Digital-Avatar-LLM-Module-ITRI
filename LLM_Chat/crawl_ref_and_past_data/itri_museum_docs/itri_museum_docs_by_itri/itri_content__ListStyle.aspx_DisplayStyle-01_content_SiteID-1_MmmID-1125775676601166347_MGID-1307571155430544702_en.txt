@@ -1,0 +1,18 @@
+front page
+News Center
+News room
+Clarification Note
+This hospital implements the open source application description of the Ministry of Health and Welfare Medical Information Platform of the Ministry of Health and Welfare Medical Information Platform
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Date: 2025/04/20
+I apologize for the recent implementation of the Ministry of Health and Welfare Project of this hospital, when using open source software, I am deeply sorry, and hereby explain it:
+1. When writing software programs, our colleagues who did not mark the source of the software "Readme" and its original authorization statement in accordance with the Open Source Software Authorization Specification (Apache 2.0) are not rigorous and respectful, and are contrary to our intellectual power policy.
+2. The planning team has initiated corrections and will follow the standards of open source software.It is expected to complete the inspection of technical structure and document guidelines within one week, publish teaching documents and provide original website links to assist Chinese people in using it.This institute will strengthen cooperation with open source software communities and implement the spirit of knowledge sharing.
+【News Contact Person】
+Marketing Communication Department of the Institute of Industrial Research Institute Wang Youxin
+Tel: +886-3-5914903
+Email:
+Sean.Wang@itri.org.tw

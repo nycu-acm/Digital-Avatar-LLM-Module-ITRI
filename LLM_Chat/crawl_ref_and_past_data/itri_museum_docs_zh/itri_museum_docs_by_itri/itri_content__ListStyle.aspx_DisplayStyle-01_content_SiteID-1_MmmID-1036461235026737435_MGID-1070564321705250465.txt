@@ -1,0 +1,95 @@
+首頁
+產業服務
+業界合作
+委託研究及產品開發
+掃描式電子顯微鏡檢測分析設備
+Share to Facebook
+Share to Twitter
+分享到我的Line
+聯絡我們
+服務說明
+JEOL JSM-6500F
+場發射掃描式電子顯微鏡（FE-SEM）JEOL JSM-6500F
+設備功能
+多功能場發射掃描式電子顯微鏡附加：
+能量分散X光譜儀（ SDD EDS , Oxford X-Max 80 mm ）。
+陰極發光分析儀（ CL, Gatan monoCL3）。
+電子背向散射繞射儀（EBSD, Oxford INCA Crystal 300）。
+Wet cell樣品載台。
+設備應用
+EDS用於成份分析，包括定性、半定量、特定區 域化學元素之mapping及line scan等。
+CL用於發光光譜量測、影像分析、微量雜質、缺陷分析。
+EBSD用於多晶材料之晶體結構、取向、微區織構、晶粒、晶界性質分析等。
+For 濕式樣品觀察。
+LEO 1530
+場發射掃描式電子顯微鏡（FE-SEM）LEO 1530
+設備服務
+Topography analysis：The surface features of an object or "how it looks", its texture; detectable features limited to a few manometers。
+Morphology analysis：The shape, size and arrangement of the particles making up the object that are lying on the surface of the sample or have been exposed by grinding or chemical etching; detectable features limited to a few manometers 。
+Composition analysis：The elements and compounds the sample is composed of and their relative ratios, in areas ~ 1 micrometer in diameter 。
+設備功能
+能量分散X光譜儀（ SDD EDS , Bruker Quantax™ 10mm）。
+設備規格
+Field emission （schottky type）電子槍。
+解析度5.0nm（1kV），1.5nm（15~20kV）。
+操作電壓0.5~30kV、Probe current：Max. >5 nA。
+Detectors: QBSD, SE2, InLens。
+Measurement function：X, Y 方向距離、任兩點距離、夾角，均可同時多組量測。
+輸出裝置: USB。
+設備應用
+EDS system （Bruker Quantax 400）。
+FEI Nova 200
+雙粒子束聚焦式離子束顯微鏡 （DB-FIB）FEI Nova200
+設備功能
+定點切割、選擇性的材料蒸鍍、強化性蝕刻或選擇性蝕刻、蝕刻終點偵測、奈米尺度操控奈米尺度之高解析影像觀測、低溫觀測能力。
+設備應用
+Field emission （schottky type）電子槍、解析度5.0nm（1kV），1.0nm（15~20kV）、操作電壓0.5~30kV、Probe current: Max. >5 nA 、Measurement   function: X, Y 方向距離、任兩點距離、夾角，均可同時多組量測。
+JEOL JEM-2100F
+場發射穿透式電子顯微鏡（FE-TEM）型號：JEOL JEM-2100F
+場發射穿透式電子顯微鏡，對同時分析材 料影像、微結構、成份、鍵結等訊息，主要功能有高解析影像 （High Resolution Lattice Image）、掃瞄穿透式影像 （STEM image）與高角度環狀暗場像（HAADF）、EDS成份分析與Mapping、EELS電子能量損失光譜與Mapping等。
+設備功能
+主要功能有高解析影像、掃瞄穿透式影像與高角度環狀暗場像（HAADF）、EDS成份分析與Mapping、EELS電子能量損失光譜與Mapping、三維結構分析。
+設備規格
+electron gun：ZrO／W （100）, Schottky type （field emission）。
+accelerating voltage：max.200 KV。
+magnification ：50 X～1,500,000 X。
+title angle：±25 degree。
+Probe Size：
+TEM Mode: 2 ～ 5 nm （diameter）。
+EDS Mode: 0.5 ～ 2.4 nm （diameter）。
+NBD Mode: 0.5 ～ 2.4 nm （diameter）。
+CBD Mode: 0.5 ～ 2.4 nm （diameter）。
+設備應用
+檢測應用包含一般半導體、金屬、陶瓷、高分子材料均可，可分析影像、微結構、成份、鍵結等訊息。
+JEOL JEM-2100
+低溫三維立體穿透式電子顯微鏡（3D Cryo-TEM ）型號：JEOL JEM-2100
+場發射穿透式電子顯微鏡，對同時分析材料影像、微結構、成份、鍵結等訊息，主要功能有高解析影像 （High Resolution Lattice Image）、掃瞄穿透式影像 （STEM image）與高角度環狀暗場像（HAADF）、EDS成份分析與Mapping、低溫電鏡三維結構分析。
+設備功能
+奈米尺度之微結構分析。
+奈米區域之微結構晶體方向之特性分析。
+定量元素分析。
+材料元素一維（line-scan）與二維分佈（2D mapping）分析。
+低溫微結構觀察。
+三維微結構觀察。
+設備規格
+electron gun：熱游離式（LaB6單晶）。
+accelerating voltage：max.200 KV。
+magnification：50 X～1,200,000 X。
+title angle：X≧±40°,Y≧±30°（特殊載台：X,Y>±80°）。
+Probe Size：
+TEM Mode: 20~200nm （diameter）。
+EDS Mode: 1.5~35nm （diameter）。
+NBD Mode: 1.5~35nm （diameter）。
+CBD Mode: 1.5~35nm （diameter）。
+設備應用
+各類型材料微結構與組成分析、全程液氮低溫微結構觀測、Cryo-TEM三維微結構觀測。
+JEOL ARM-200F
+球差校正低場高校穿透式電子顯微鏡（Cs corrector FE-TEM）型號：JEOL ARM-200F
+設備功能
+建立in-Situ、低電壓球差校正、超高空間解析顯像技術，提供前瞻材料研發所需之動態診斷檢測、複雜材料系統原子/奈米界面結構鑑定與快速元素之解析能力。
+設備應用
+檢測應用包含一般半導體、金屬、陶瓷、高分子材料均可，可分析影像、微結構、成份、鍵結等訊息。
+臨場（變溫、變電壓）微結構觀測。
+三維微結構觀測。
+次原子尺度原子結構影像解析。
+高能量解析分子鍵結分析。

@@ -1,0 +1,26 @@
+front page
+Cutting-edge technology
+Healthy and happy
+Health care
+Multi-degree-of-freedom human hand mechanical palm
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Mechanical palm.
+Bionic manuals can make up for the lack of hand in the hands of people with broken palms, and provide more freedom to provide the movements required for daily life.It can also be used as a robot arm end calibrator to improve the compatibility of robots and human hand tools.
+Features and innovation
+The finger is designed as an under-drive mechanism, which couples the movement of the base knuckles of the finger with the movement of the proximal knuckles, making its movement relationship similar to the movement relationship of the corresponding joints of the human hand.
+The system-wide compatible robot operating system (Robot Operating System (ROS) can quickly integrate various robotic arm and sensor software functions from around the world and can be continuously expanded.
+Small size, lightweight and low-cost bionic man-made; simple structure, easy to use and maintain.
+Application and benefits
+A multi-function terminal effector used by robots, with no clamping fixture assistance; intelligent prosthesis, remote control and sensitive operation.
+Example of auxiliary fixture without clips.
+Example of a smart prosthetic limb.
+Further reading
+The Ministry of Economic Affairs uses technological power to build a smart manufacturing platform, and the Institute of Technology Research and Research has made great breakthrough in multi-computer controller technology, and derivative innovation challenges to raise funds by 100 million yuan.
+Multi-dimensional navigation service robot (iAGV)
+Cross-label robot communication is interoperable!　　"Independent Mobile Robot Alliance" of Industrial Research Institute　Commercialization promotes new milestone
+Ministry of Economics shows breakthroughs in Taiwan’s robotics technology, key technologies of the Institute of Industrial Research help industrial upgrading, entering the supply chain of European and American markets
+The stunning CES exhibition hall of robots, electric vehicles, and fitness technology applications in the Institute of Technology Research Institute.My AI fish tanks are the best spots in CES 2023

@@ -1,0 +1,80 @@
+Protecting Public Health Through Technology-aided Health Care - 50 Years of Empowering Industry Through Innovations
+Industrial Technology Research Institute
+Major Milestones
+Half a Century Young
+Navigating the Future
+中
+Major Milestones
+Home
+Major Milestones
+Biomedicine
+Protecting Public Health Through Technology-aided Health Care
+Health Care
+Protecting Public Health Through Technology-aided Health Care
+Health Care
+Disease Control
+Biochips
+Regenerative Medicine
+Medical Devices
+Drug Production
+Health Care
+TIBIC
+In response to economic growth and technological advances, the Taiwanese government committed to promoting the development of the biomedical and healthcare industries since the 1980s. In 1993, ITRI integrated information and communication technologies with healthcare, establishing a healthcare information assessment network that became the foundation for the national healthcare information networks.
+Due to urbanization, delayed marriages, and declining birthrates, Taiwan became an aging society in 1993. To address the growing demand for elderly care, ITRI established Telecare Industry Alliance Taiwan in 2004, leveraging its communication expertise to develop various home care systems and sensing devices. In 2006, ITRI collaborated with Mackay Memorial Hospital and Farglory Land to launch Taiwan’s first large-scale, community-based Telehealthcare Demonstration Project, which accelerated the development of long-term care systems in communities. ITRI also established several alliances by using technology to bring together companies, hospitals, and care domains. In 2020, ITRI developed a smart care verification center for the elderly using cross-domain technology, and founded the Quality Health and Smart Medical Healthcare Alliance, offering integrated solutions for the prevention of premature aging, disabilities, and dementia. ITRI also collaborated with the Veterans Homes and Veterans Hospitals of the Veterans Affairs Council, Taiwan’s largest care organization, to invest in smart long-term care services. In 2022, ITRI partnered with the National Health Research Institutes to drive the development of the precision health industry, focusing on areas such as pharmaceutical vaccine manufacturing, biopharmaceuticals, nucleic acid drugs, regenerative medicine, and health data models.
+ITRI has been dedicated to developing innovative, advanced care technologies over the past 30 years, including the development of the Smart Sensing Patch in 2016; the Personal Companion Robot for Older People Living Alone (PECOLA) and the world’s first handheld fundus camera with AI analysis functions (co-developed with Medimaging Integrated Solution) in 2019; the Smart Care for Chronic Wounds and Full-Body Strideway Analysis System in 2020; and the WiFi Radar Vital Signs Detection technology in 2021. These technologies showcase ITRI’s commitment to using cutting-edge technologies to safeguard public health.
+1993
+ITRI completed the National Health Information Network assessment project of the Department of Health, and conducted a detailed evaluation of the National Health Information Network Pilot Project for the Hsinchu area, laying the foundation for Taiwan’s national healthcare information networks.
+2004
+ITRI founded the Taiwan Telehomecare Industry Alliance which became the Telecare Industry Association of Taiwan in 2007, comprised of 100 members from the industries, the academic sector, and hospitals.
+2006
+ITRI worked with Mackay Memorial Hospital and Farglory Land to launch Taiwan’s first-ever large-scale, community-based Telehealthcare Demonstration Project, combining biomedical testing, network communications, and healthcare services to build long-term, community-based healthcare systems.
+2007
+ITRI applied network service security and service-oriented technologies to home healthcare services, transferring the technologies to assist SECOM, Cablesoft, and Maya International Company.
+2007
+ITRI facilitated the founding of the Older Adult Companion Robot R&D Alliance, developing the first-ever robot service system for the elderly.
+2008
+ITRI and Philips worked together to build next-gen interactive assistive devices. The cooperation included projects that assessed the needs of people with disabilities, addressed the problem of urban-rural disparity, and explored the potential of future home care.
+2009
+ITRI assisted Compal Communications, Inc., Taiwan Shin Kong Security, and Smart Web to establish the Companion Robot R&D Alliance for Middle-aged and Older Adults, accelerating early entry to the global smart robot market and related technologies by Taiwanese companies.
+2010
+ITRI assisted Medimaging Integrated Solution Inc. to complete the development of a handheld digital fundus camera prototype, which was the first ophthalmic imaging diagnostic instrument developed and manufactured in Taiwan. The instrument was approved for commercial sales in July 2012.
+2014
+ITRI cooperated with two iconic domestic sports centers to develop a home-use somatosensory exercise guidance and health management service system, and spun in the Coretronic Group’s Healthcare Network to build its emerging business department.
+2016
+ITRI transferred its clinical healthcare service process decision-making technology to help invest and establish Manifold Health Tech Inc.
+2016
+ITRI released the Smart Sensing Pad, which is a sensor platform featuring a flexible substrate; and presented Taiwan’s first Smart Pressure Sensing Insole.
+2018
+ITRI established the sole Health Risk Assessment technology based on Taiwanese databases, prompting the Cathay Group Life Insurance Company to launch Taiwan’s first spillover group insurance policy.
+2019
+ITRI introduced the Personal Companion Robot for Older People Living Alone (PECOLA), winning a 2020 CES Innovation Award in the Smart Home category.
+2019
+ITRI and Medimaging Integrated Solution co-developed the world’s first handheld fundus camera with AI analysis functions. In 2022, ITRI’s Point-of-Care AI-DR won the Edison Awards and R&D 100 Awards.
+2020
+ITRI built a smart-care testing and verification site, providing older adults with integrated solutions for preventing premature aging, disabilities, and dementia. Technologies developed include the Full-Body Strideway Analysis System that trackd the gait and posture changes of older adults, facilitating early screening of health issues.
+2020
+ITRI built a smart-care testing and verification site, providing older adults with integrated solutions for preventing premature aging, disabilities, and dementia. Technologies developed include the Full-Body Strideway Analysis System that trackd the gait and posture changes of older adults, facilitating early screening of health issues.
+2021
+ITRI Introduced Taiwan’s first LBS solution that combines indoor positioning services and physiological activity detection.
+2022
+ITRI worked with the National Health Research Institutes on 10 major research and development areas, such as pharmaceutical vaccines and biotech drug manufacturing, nucleic acid drugs, regenerative medicine, and health data models.
+MORE
+Origin
+Semiconductors
+ICT
+Materials, Chemicals, and Nanotechnology
+Vehicles
+Metrology
+Textiles
+Optoelectronics
+PCB
+Machinery
+Green Energy
+AI and Big Data
+Others
+next
+prev
+© Industrial Technology Research Institute
++886-3-582-0100
+310401
+195, Sec. 4, Chung Hsing Rd., Chutung, Hsinchu, Taiwan 310401, R.O.C.

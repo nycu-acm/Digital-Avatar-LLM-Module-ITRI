@@ -1,0 +1,19 @@
+front page
+Cutting-edge technology
+Sustainable environment
+Green Energy Systems and Environmental Technology
+Multi-resource virtual power plant application platform
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Virtual power plant technology verification platform operation and display interface.
+In view of the trend of integrating renewable energy grid-connected and distributed resource applications, the Industrial Research Institute has developed virtual power plant (VPP) technology to integrate and manage diversified distributed resources (including renewable energy, small generators, energy storage systems, load regulation, etc.), and construct a dispatchable resource combination, so that independent operating units scattered everywhere can be integrated into elastic resources to assist the stable operation of the power grid.The large number of renewable energy connections to the grid increase the uncertainty of power supply, and virtual power plants can support the realization of net zero grids.
+Features and innovation
+The platform consists of a decision software platform and resource interface U-Box.U-Box has the computing capabilities of information analysis, prediction and field decision-making, and supports commonly used information interfaces. It can be deployed quickly on site to integrate power generation resources and controllable loads in the field. The decision software platform can support more than 1,000 resource integration and control, and has functions such as resource scheduling prediction, scheduling, operation supervision, and effectiveness statistics. The scheduling is re-evaluated every 5 minutes during the event execution to ensure the completion of scheduling instructions.
+Application and benefits
+Using this platform, resource aggregators can assist resource owners in optimizing their resources, including adjusting contract capacity, participating in Taiwan’s electricity demand response plans, participating in the power auxiliary service market, etc., to obtain maximum value.If the amount of resources is not enough to independently participate in the program or market, this platform can assist multiple resource owners in cooperation and participate, and through the practice of cutting through the long and shortcoming, all participants can obtain the maximum operational flexibility and resource value.
+Further reading
+Application opportunity of energy storage in the power market
+A preliminary study on the current application status, future situation and development opportunities of Taiwan's lithium-ion battery energy storage system in the power market

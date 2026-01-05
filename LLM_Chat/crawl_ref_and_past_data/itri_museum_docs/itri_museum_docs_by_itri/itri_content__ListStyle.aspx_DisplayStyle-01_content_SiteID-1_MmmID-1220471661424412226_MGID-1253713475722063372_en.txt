@@ -1,0 +1,24 @@
+front page
+Cutting-edge technology
+Smart life
+Smart consumption and operation services
+Smart monitoring and auxiliary care system
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Smart monitoring assisted care system.
+Collecting high-resolution camera images, using AI technology to detect and predict the movements and behaviors of people in the field, and using smart notifications to inform the attendant in advance can effectively reduce the pressure of the attendant and improve the quality of life of the attendant.
+Features and innovation
+Action recognition model
+It can identify 123 physical movements including falling, falling to the ground, getting up, standing, punching, walking, and staggering.
+In addition to falling to the ground, sitting, and standing static movements, you can also identify dynamic movements, falling, sitting, standing, etc.
+Action prediction model
+Using the action identification results for timing analysis can estimate the actions that will occur within the next 10 seconds.
+Smart notification
+Notify the attendant of the instant alarm information through the mobile phone LINE notification or electronic notice board.
+The attendant can check the time, place and status of the incident through his mobile phone and provide assistance.
+Integration of smart care monitoring assistance system: capture real-time images of front-end high-resolution cameras, and instantly transmit alarm messages to camera attendants’ mobile phones or tablets through action identification and behavior prediction models.
+Application and benefits
+It can be used in places such as long-term care institutions, day care institutions, health villages, and confinement centers that need to care about the physical condition of people.It can effectively detect and predict physical movements. It can send a message to the monitoring center and on-site care personnel immediately to care and assist the patients in advance.

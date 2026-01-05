@@ -1,0 +1,71 @@
+Diversified development of robots, reducing manpower to meet production line automation needs - 50th anniversary of the Industrial Research Institute, deepening the industry and innovating the future
+Industrial Technology Research Institute 50th Anniversary Story
+See history
+Deeply cultivated 50
+Critical moments
+Continue the past and start the future
+Welcoming the future
+Innovation 50
+EN
+See history
+Deeply cultivated 50
+front page
+See history and cultivate 50
+Machinery Industry
+Diversified development of robots, reducing manpower to meet production line automation needs
+automation
+Diversified development of robots, reducing manpower to meet production line automation needs
+automation
+Tool machine
+automation
+Service robot
+Drone
+In the 1960s, robotic arms drove the industrial automation revolution. In order to welcome the trend of industrial robots, the Industrial Research Institute developed the country's first industrial robot ITRI-E in 1983, and subsequently developed robots such as ITRI-L, ITRI-U, and ITRI-A for the production line.In 1989, Mengli Automation Company was established, which is the first and most large-scale integrated industrial automation equipment component research and development, production and sales company in China. So far, it has assisted companies such as Quanta, Qunchuang, and AUO to build automation factories and systems, and is an important driving force for Taiwan's industrial automation.
+In order to assist the development of automation in traditional industries, the Industrial Research Institute cooperated with Shanghai Yin Company in 2011 to introduce the loading and unloading and handling system of robot intelligent automated processing parts; in 2016, it cooperated with the large sanitary ware factory Hecheng to introduce CPS (Cyber​ Physical System) grinding and polishing robot technology to improve the grinding coverage rate of faucets. In 2019, the two sides expanded their cooperation to build a second CPS production line, so that the production line can improve machine adjustment efficiency through virtual and real integration and machine vision, shortening from 1 day to 1 hour. The zero dead corners of robot grinding will help improve production capacity, assisting Taiwan's water hardware industry to comprehensively upgrade and enhance international competitiveness.Internationally, the award-winning report of Discovery How it’s made is a grinding and polishing robot and faucet process. This program has been watched in 220 countries around the world, and this video has been watched 5.5 million times.
+As human-machine collaboration becomes a new trend in smart production, the Industrial Research Institute has developed robot vision and tactile perception technology, and in 2017, it derived a new startup company, Harami Seiki, to develop tactile sensing skin and improve the safety of human-machine collaboration; in 2019, it formed an alliance with Hongyuan Industrial and completed the world's first ready-to-wear round T unmanned automation assembly line.In 2021, the "Software Defined Enhanced Robot Joint Module" quickly constructs a customized multi-joint robot that meets the needs of the production line through building block stacking. The "RGB-D AI Robot" developed in 2022 is the world's first MIT collaborative robot that uses 3D visual sensing and smart objects as standard configurations. It can meet the needs of manufacturing, logistics, and retail automation and create new opportunities in the industry.
+1983
+The country's first industrial robot (hand) ITRI-E was developed, and the subsequent technology was transferred to domestic manufacturers for production.
+1984
+The first ITRI-L-type vertical joint loading and unloading robot in China is developed. The main purpose is to pick and place, the number of servo axis is 2 axes, point-to-point path control technology, and the technology is transferred to Dongyuan Motor Company.
+1986
+Commissioned by Dingwei Industrial Company, we have been guided to set up a welding automated production system and use two general robots ITRI-U-type robots on the production line.
+1987
+The ITRI-A type assembly robot has been developed and is the first small assembly universal robot in the country. Its main purpose is small assembly, with 5-axis servo axis and continuous path control technology.
+1989
+The establishment of Mengli Automation Company is the first and most large-scale integrated industrial automation equipment component research and development, production and sales company in China.
+2011
+Cooperate with Shangyin Company to introduce robot intelligent automated parts loading and unloading and handling systems.
+2015
+As human-computer collaboration becomes a new trend in smart production, the Industrial Research Institute has developed robot vision and tactile perception technology.
+2016
+Cooperating with the major bathroom manufacturer Hecheng, we introduced CPS (Cyber​ Physical System) grinding and polishing robot technology to improve the faucet grinding coverage.
+2017
+Developed robot tactile perception technology and derived the establishment of Harami Seiji Company.
+2017
+We have developed a lightweight carbon fiber vibration-making composite material, which is coated with multi-layer nano carbon tubes, making the robot arm stable, light and energy-saving.
+2019
+The Industrial Research Institute has formed an alliance with Hongyuan Industrial and completed the world's first ready-to-wear round T unmanned automation assembly line.
+2021
+The exclusive patented "Software-defined Enhanced Robot Joint Module" has the industry's highest torque-volume ratio compared to the same level of robots, and its own weight is 40% lower than that of similar robots in the industry.
+2022
+"RGB-D AI Robot" introduces the world's first AI robot with standard 3D vision and RGB image. When faced with new styles of items, you can quickly decide on the stable picking point without re-teaching.
+More industries
+The birth of the Institute of Technology
+Semiconductor Industry
+Communications Industry
+Materials and chemical industry and nanometers
+Vehicle industry
+Measuring industry
+Textile Industry
+Optoelectronics Industry
+Printed circuit board industry
+Biomedical industry
+Green Energy Industry
+Artificial intelligence and huge amount of information
+other
+next
+prev
+© ITRI. Works by the Institute of Industrial Technology
++886-3-582-0100
+310401
+No. 195, Section 4, Zhongxing Road, Zhudong Town, Hsinchu County

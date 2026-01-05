@@ -1,0 +1,34 @@
+front page
+Cutting-edge technology
+Resilient society
+Infrastructure resilience
+PCB equipment M2M communication technology (PCBECI)
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Printed Circuit Board (PCB).
+Taiwan is the world's largest supplier of printed circuit boards (PCBs) and has a complete upstream, midstream and downstream industrial supply chain.Due to the complex process of the printed circuit board industry, the lack of communication interface between new and old machines and equipment can follow international standards, and the system integration is complex.In order to solve the current situation of this industry, the Industrial Research Institute took the lead in launching the formulation of the PCB Communication Interfaces (Printed Circuit Board Equipment Communication Interfaces; PCBECI), and officially became the official communication agreement standard standard for the International Semiconductor Industry Association (SEMI) in September 2019.
+The communication standards specified in the PCBECI Agreement include machine time setting, event returns, abnormal alarm returns, machine constant data, remote control commands, terminal message transmission, formula transmission management, status data transmission, etc. At present, the PCBECI agreement and its related technologies have spread to more than 20 soft version manufacturers in China, and more than 100 devices have been connected to the network.
+Features and innovation
+This technology is a communication technology and functional module necessary for remote monitoring, data collection, abnormal returns, process formula management and other production automation.QuickSECS/QuickGEM drivers can effectively establish communication between equipment and provide reliable and SEMI E4/E5/E37/E30-compliant communication.SECS Transformer is an interlayer software that quickly achieves communication tasks between Host and PCB devices, and does not require writing programs.
+Comply with SECS communication specifications of SEMI E4, E5, E37 and E30.
+Provides DLL and ActiveX components for programming designers.
+Provides Log files to query historical communication records.
+Supports programming languages ​​such as VC++, VB 6.0, VB.NET, C#, LabWindow, etc., and provides Sample Code for each programming language for program designers to refer to.
+As an interposer software, SECS Transformer does not require programming, shortens the communication import time, and is easy to maintain with high system expansion.
+Application and benefits
+It is mainly used in the process automation industry, including semiconductor, PCB, LCD, LED and PV industries, and is being promoted in other automation industries.It can optimize product quality and improve production capacity, reduce human work, and make zero errors in parameter settings and no shutdown. It can immediately perform remote operations through real-time analysis, and the estimated single-player yield will increase by 5%.
+Application and benefits of PCB equipment communication software.
+Application and benefits of PCB equipment communication software.
+Technical Cases
+Demonstrate the progress of Industry 4.0, taking Xingpu Company as a case, the process mainly responsible for the Industrial Research Institute is "line transfer (exposure machine)" and "electricity detection (electricity measurement machine)". The smart parameter setting and networking technology includes: PCB exposure equipment and PCB electrical performance measurement equipment.
+Smart action monitoring and networked production technology of PCB production equipment.
+PCB production equipment intelligent action monitoring system.
+Further reading
+Structural design and synthesis technology of diamine phenyl ether in high-performance soft plate materials
+Thick film photoresist material for assembly and coating molding technology
+Development and application of novel 5G soft substrate materials
+The Institute of Industrial Research and Research Work with Jialianyi and Zi Ce Association to promote low-carbon energy-saving soft boards, develop low-carbon plasma technology, and help the PCB industry to transform green
+Polycarbonate (PC) chemical recycling

@@ -1,0 +1,77 @@
+front page
+Industrial Services
+Testing services
+Testing services
+search
+Note: You can enter the detection name/function specification/sample attribute/properties/possible components, certification agency number, contact window name, telephone number
+I want to test
+​
+Keywords:
+NO.
+Testing services
+Condition description
+Certification Agency Number
+contact person
+Telephone
+91
+Frequency response test
+Test according to the function of the device
+No specific specifications
+Xu Minhuan
+03-5743738
+92
+Frequency converter
+frequency
+Ye Yuxuan
+03-5911036
+93
+Frequency Counter
+frequency
+Ye Yuxuan
+03-5911036
+94
+Frequency Counter
+frequency
+TAF 0016
+Ye Yuxuan
+03-5911036
+95
+Frequency meter
+frequency
+Ye Yuxuan
+03-5911036
+96
+Spectrum Response
+Long Yanxian
+03-5911026
+97
+Spectrum Analyzer
+Frequency, power
+TAF 0016
+Ye Yuxuan
+03-5911036
+98
+Spectrum Analyzer
+Frequency, bandwidth, frequency response
+Ye Yuxuan
+03-5911036
+99
+Response time test/response time detector
+Wang Yawei
+03-5732244
+100
+Tuning fork frequency test
+Test according to the function of the device
+No specific specifications
+Xu Minhuan
+03-5743738
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10

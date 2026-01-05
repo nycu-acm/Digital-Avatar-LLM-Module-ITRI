@@ -1,0 +1,32 @@
+首頁
+產業服務
+技術移轉
+技術名稱：
+【先期技術】AI 語言與影像輔助懷舊療法，促進高齡者的情感與認知活化
+技術簡介
+本計畫透過多感官刺激與 AI 分析，喚起高齡者記憶並構建生命故事，提升認知功能與照護品質。系統整合受照護者過往生命經驗中文字、聲音、影像、乃至於氣味等元素，動態適應個案需求，促進深層記憶提取與情感共鳴，並結構化存檔，形成個人化數位記憶庫。
+Abstract
+The service utilizes multisensory stimulation and AI analysis to evoke memories and construct life stories, enhancing cognitive function and care quality. The system integrates sound, visuals, and scents, dynamically adapting to individual needs, facilitating deep memory retrieval and emotional resonance, while structuring data into a personalized digital memory archive.
+技術規格
+1) 靈活運用 AI 生成技術之互動軟體
+2) 影像與文字紀錄編輯器
+Technical Specification
+1. Interactive software utilizing AI generative technologies flexibly
+2. Image and text record editor
+技術特色
+"本計畫透過多感官刺激與 AI 分析，喚起高齡者記憶並構建生命故事，提升認知功能與照護品質。系統整合受照護者過往生命經驗中文字、聲音、影像、乃至於氣味等元素，動態適應個案需求，促進深層記憶提取與情感共鳴，並結構化存檔，形成個人化數位記憶庫。
+The service utilizes multisensory stimulation and AI analysis to evoke memories and construct life stories, enhancing cognitive function and care quality. The system integrates sound, visuals, and scents, dynamically adapting to individual needs, facilitating deep memory retrieval and emotional resonance, while structuring data into a personalized digital memory archive."
+應用範圍
+高齡照護
+接受技術者具備基礎建議（設備）
+測試相關場域、實體虛擬實驗刺激物
+接受技術者具備基礎建議（專業）
+AI 相關、程式開發、
+服務流程與互動設計
+技術分類
+設計驅動
+聯絡資訊
+聯絡人：何冠廷 設計創新組
+電話：+886-49-2345245 或 Email：timoh＠itri.org.tw
+客服專線：+886-800-45-8899
+傳真：+886-49-2345245

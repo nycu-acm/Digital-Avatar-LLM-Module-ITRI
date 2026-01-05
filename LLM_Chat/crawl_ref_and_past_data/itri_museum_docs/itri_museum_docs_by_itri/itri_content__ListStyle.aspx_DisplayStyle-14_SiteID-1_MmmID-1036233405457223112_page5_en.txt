@@ -1,0 +1,81 @@
+front page
+Industrial Services
+Testing services
+Testing services
+search
+Note: You can enter the detection name/function specification/sample attribute/properties/possible components, certification agency number, contact window name, telephone number
+I want to test
+​
+Keywords:
+NO.
+Testing services
+Condition description
+Certification Agency Number
+contact person
+Telephone
+41
+High temperature compression test
+Functional specifications: high temperature compression
+Sample properties: Metal material
+Properties: Conductible
+Possible ingredients: steel, aluminum alloy, titanium alloy, stainless steel
+Zeng Fugan
+03-5916835
+42
+High temperature tensile test
+Functional specifications: high temperature stretch
+Sample properties: Metal material
+Properties: Conductible
+Possible ingredients: steel, aluminum alloy, titanium alloy, stainless steel
+Zeng Fugan
+03-5916835
+43
+High temperature furnace
+temperature
+Ye Yuxuan
+03-5911036
+44
+Height gauges
+length
+Ye Yuxuan
+03-5911036
+45
+High and low thermometer
+temperature
+Ye Yuxuan
+03-5911036
+46
+High frequency ammeter
+Current
+Ye Yuxuan
+03-5911036
+47
+High frequency reciprocating tester
+frequency
+Ye Yuxuan
+03-5911036
+48
+High resistance meter
+Xu Minhuan
+03-5743738
+49
+High resistance meter
+resistance
+TAF 0016
+Ye Yuxuan
+03-5911036
+50
+High resistance meter
+resistance
+Ye Yuxuan
+03-5911036
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10

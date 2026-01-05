@@ -1,0 +1,48 @@
+Fruit of Much Toil: LTCC Substrate   - 50 Years of Empowering Industry Through Innovations
+Industrial Technology Research Institute
+Major Milestones
+Half a Century Young
+Navigating the Future
+中
+Major Milestones
+Home
+Major Milestones
+Materials, Chemicals, and Nanotechnology
+Fruit of Much Toil: LTCC Substrate
+Communication industry materials
+Fruit of Much Toil: LTCC Substrate
+Communication industry materials
+Battery
+Carbon fiber
+Nanotechnology
+Communication industry materials
+Low-temperature co-fired ceramics (LTCC) is a type of ceramic material used for embedding electric conduction circuits or passive component circuits. When sintered onto a substrate and paired with active components such as chips, these components jointly form a micro-functional module. LTCC is highly valued for its compact size, efficient heat dissipation, and its ability to facilitate high-frequency and high-speed transmission. Consequently, LTCC finds widespread application in various devices including cell phones, Wi-Fi systems, Bluetooth devices, power amplifiers, and vehicle electronics.
+For over 30 years, ITRI has been at the forefront of LTCC technology development. In 2000, ITRI collaborated with the Japanese company MKE to create the world’s smallest Bluetooth LTCC module at that time. Offering comprehensive wireless system functionalities along with advantages such as micro-miniaturized components and cost-effectiveness, this breakthrough technology was transferred to multiple LTCC manufacturers. Consequently, it significantly increased the local content rate of radio frequency key components, thereby successfully stimulating the growth of the LTCC industry.
+Additionally, in 2009, ITRI utilized its LTCC technology to support Conquer Electronics, a heavyweight in consumer electronics fuse, in developing high-efficiency ceramic chip fuse components. This collaborative effort resulted in improved reliability and safety of electronic products.
+To further harness LTCC’s capability in high-frequency transmission, in 2022, ITRI partnered with DuPont MCM, a leading LTCC manufacturer, and various component material companies. The objective was to introduce 5G high-frequency mmWave communication applications into LTCC-related products. This collaboration effectively lowered the barriers for manufacturers aiming to enter the 5G mmWave communication market and heralded a significant market for independent 5G O-RAN technology.
+2000
+ITRI launched the world’s smallest Non-Shrinking Low-Temperature Co-Fire Ceramic (NS-LTCC) Bluetooth module at the time through an international collaboration project; this module was lightweight, slim, size-compact, highly reliable, and featured a stable radio frequency.
+2009
+ITRI assisted Conquer Electronics in developing an embedded LTCC microcavity structure material and processes. The resulting development of high-efficiency ceramic chip fuse components with high voltage endurance replaced the conventional fuses generally found in consumer electronics and vehicle-use electronics, improving the reliability and safety of the company’s electronic products.
+2022
+ITRI teamed up with DuPont MCM to introduce 5G high-frequency mmWave communication applications into their 9KC GreenTape™ LTCC products. This collaboration successfully expanded Taiwan’s markets for small cell, RU radio frequency units, and customer premise equipment (CPE) for the communication sector. Furthermore, it has significantly accelerated the industrialization of the 5G O-RAN technology. Their joint endeavor, GreenTape™ 9KC LTCC and Ag Metallization for mmWave 5G Wireless Devices, was honored with the 2022 R&D 100 Awards.
+MORE
+Origin
+Semiconductors
+ICT
+Vehicles
+Metrology
+Textiles
+Optoelectronics
+PCB
+Machinery
+Biomedicine
+Green Energy
+AI and Big Data
+Others
+next
+prev
+© Industrial Technology Research Institute
++886-3-582-0100
+310401
+195, Sec. 4, Chung Hsing Rd., Chutung, Hsinchu, Taiwan 310401, R.O.C.

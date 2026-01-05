@@ -1,0 +1,71 @@
+front page
+Industrial Services
+Testing services
+Testing services
+search
+Note: You can enter the detection name/function specification/sample attribute/properties/possible components, certification agency number, contact window name, telephone number
+I want to test
+​
+Keywords:
+NO.
+Testing services
+Condition description
+Certification Agency Number
+contact person
+Telephone
+81
+Air gauge test
+Cai Peishan
+03-5741201
+82
+Loss of air hood insertion
+Test according to the function of the device
+No specific specifications
+Xu Minhuan
+03-5743738
+83
+Wind speed generator
+Cai Peishan
+03-5741201
+84
+Comparison of air volume of anemometer and hood type air volume meter
+Maximum capability 100CMM
+Niewei
+03-5912249
+85
+Anemometer
+Cai Peishan
+03-5741201
+86
+Wind speed
+Only provide clean room (clean-free room, operating room, dry room) environmental testing
+0.1 ~ 15m/s
+Chen Xuanping
+03-5917516
+87
+Wind tunnel testing
+He Zhanxiao
+03-5918739
+88
+Wind tunnel testing
+Wind tunnel testing
+Chen Meiling
+03-5732071
+89
+Measurement of optical characteristics of monitors
+Wang Yawei
+03-5732244
+90
+Color (lubricating oil)
+Yang Shanshan
+03-5732036
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10

@@ -1,0 +1,24 @@
+front page
+News Center
+News room
+Clarification Note
+Description of the sub-project of "Inventory and Maintaining Medical Information Related Standards" of the Ministry of Health and Welfare Project Office
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Date: 2025/05/14
+The sub-project of the "Inventory and Maintenance of Medical Information Related Standards" implemented by the Ministry of Health and Welfare's Next Generation Digital Medical Platform Office is as follows:
+This hospital implements the sub-project "Inventory and Maintaining Medical Information Related Standards" of the Ministry of Health and Welfare's Next Generation Digital Medical Platform Office, which includes providing 50 health insurance payment rules "code examples". The "GitHub Work Platform" is the work platform of the project team, and its content is not delivered to the Ministry of Health and Welfare's output.However, the team improperly links it to the Ministry of Health and Welfare's Taiwan Medical Information Standards website, which has caused misunderstandings from the outside world, and the team has removed the link. Website:
+https://medstandard.mohw.gov.tw/library-resources
+When the sub-project planning team of this institute wrote the software on the GitHub work platform, it did not follow the open source software authorization specification (Apache 2.0) mark.It has recently completed the mark correction in accordance with the relevant standards of open source software, and the commission requested third-party experts to confirm.Website:
+GitHub - ITRI-BDL-D/CQL-Project-template
+The TW CoreIG website under the Ministry of Health and Welfare is a fully public website and has never restricted or prohibited from using it. Website:
+https://twcore.mohw.gov.tw/ig/twcore/
+If the use permissions of this court's sub-project "GitHub Work Platform" are blocked, it will not affect its right to use the Ministry of Health and Welfare website. Moreover, the "GitHub Work Platform" has been unblocked on the same day as soon as possible.There is no blocking of any person or company affairs. If you have any reposts or downloads of old information, please update the link below. Working platform for the sub-project planning team of this hospital:
+MOHW_TWCoreIG/LICENSE at master · ITRI-BDL-D/MOHW_TWCoreIG · GitHub
+【News Contact Person】
+Marketing Communication Department of the Institute of Industrial Research Institute Wang Youxin
+Tel: +886-3-5914903
+Email:
+Sean.Wang@itri.org.tw

@@ -1,0 +1,19 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+communication
+LEO low-orbit satellite ground communication radio frequency system
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+LEO low-orbit satellite ground communication radio frequency system
+ITRI ​​has built the basic energy of ground communication equipment and key components in space industry and has laid out the development of LEO satellite ground station RF front-end modules; it can improve process yield and realize design with a splicable antenna module architecture, integrates transmit and receive RF front-end modules, including Tx/Rx array antenna modules, upscaling modules, downscaling modules, digital circuit control modules and power supply modules, etc. The most critical of these is the phased array antenna Tx/Rx module, which is implemented in the form of Antenna in Package (AiP), combined with industrial energy, using LTCC or Organic substrates; it can reduce the size of the antenna array, shorten the RF signal transmission distance, and reduce losses.
+Features and innovation
+Domestic independent development of satellite communication system ground station advanced phase array antenna and RF front-end module design.
+Innovatively develop elastic millimeter wave RF antenna packaging (AiP) architecture design, and high-integration improved parallel series peripheral interface (SPI) to achieve 128 antenna unit phase array antenna RF circuit integration and beam control.
+Establish an array antenna and RF front-end module technology between the Ka frequency band transmitting end and the Ku/K frequency band receiving end, supporting RF antenna subsystems with inclination angle +30°~+90° and azimuth angle 0°~360°, which can assist domestic manufacturers in improving phased array antenna radio frequency technology.
+The 128 array antenna transceiver UT radio frequency system completes 32APSK and 62.5MHz Symbol Rate transmission verification respectively.
+Application and benefits
+Low-orbit satellite communication ground equipment industry, NTN communication ground equipment industry.

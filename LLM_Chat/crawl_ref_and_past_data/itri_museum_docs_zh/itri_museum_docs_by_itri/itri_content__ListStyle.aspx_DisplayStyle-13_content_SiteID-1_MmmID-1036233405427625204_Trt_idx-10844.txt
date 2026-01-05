@@ -1,0 +1,28 @@
+首頁
+產業服務
+技術移轉
+技術名稱：
+氣冷式冷卻與加熱盤管電腦輔助設計開發技術
+技術簡介
+氣冷式冷卻與加熱盤管電腦輔助設計開發技術包含冷凝器和蒸發器性能計算，配合Windows模式，操作簡單易學。收集綠能所已測試多年的熱交換器測試資料，測試整合數據建立資料庫，做為設計軟體之內建資料。實際運用於熱交換器之設計開發，縮短研發時間，節省試作經費。此技術主要以理論分析建立氣冷式冷卻與加熱盤管的數學方程式，再以數值方法建立電腦輔助設計軟體。熱交換器性能的提升可藉由(1)使用增強鰭片或內螺紋銅管(2)增加總熱傳面積(3)提升空氣側和管內冷媒的有效平均溫差。此技術內容對熱交換器的熱傳分析、空氣側壓降、管內側壓降均有詳細分析，計算結果與實驗結果相近。
+Abstract
+Air-Cooled heating and cooling Coils include Condenser and Evaporator. The Green Energy and Environment Research Laboratories of the Industrial Technology Research Institute (GEL/ITRI) have gained many years of practical experiences and have established a complete and detailed database from the test results of heat exchangers. With the data source from testing, we build the simulation software to be used for the air-cooled heat exchanger under Windows Environment. This software has the potential power to save a great deal of time and costs resulted in trial and error during the processes in heat exchanger design and development for manufactures. This technology presents mathematic models and numerical method to calculate the performance of the air-cooled heat exchangers. To effectively improve the performance of air-cooled heat exchangers, passive enhancement techniques are often employed. The methods are (1) by using enhanced fin/tube surfaces; (2) by increasing total surface area; (3) by increasing the effective mean temperature difference between the air flow and refrigerant flow. The technology provides detailed analysis on heat transfer, air-side pressure drop, and internal tube pressure drop. The calculated results closely match the experimental data.
+技術規格
+氣冷式冷卻與加熱盤管規格為：管徑6.35~15.87mm，列數1~12，鰭片間距在1.2mm~2.5mm，鰭片型式為平板、波浪型和百葉窗，應用於冷凍空調設備，達到熱交換器性能提升改善目的。
+Technical Specification
+The specifications for air-cooled heating and cooling coils are as follows: tube diameters range from 6.35 mm to 15.87 mm, with 1 to 12 rows. Fin spacing ranges from 1.2 mm to 2.5 mm. Fin types include plain, wavy, and louvered fins. These coils are used in refrigeration and air conditioning equipment to enhance heat exchanger performance and improve efficiency
+技術特色
+收集綠能所已測試多年的熱交換器測試資料，整合測試數據，建立性能曲線，做為軟體內建空氣側資料庫。冷媒資料庫可依需求進行擴充，包括低碳冷媒(LGWP)和PG等流體。實際運用於熱交換器之設計開發，縮短研發時間，節省試作經費。已知熱交換器幾何尺寸，及空氣側進口和管側冷媒進口條件情況下，可計算出氣冷式熱交換器之空氣側和管側的出口狀態、熱傳量及壓降分析。
+應用範圍
+氣冷式熱交換器
+接受技術者具備基礎建議（設備）
+冷凍空調、熱交換器和家電製造廠商
+接受技術者具備基礎建議（專業）
+冷凍空調和熱交換器技術
+技術分類
+01 綠能環境
+聯絡資訊
+聯絡人：廖建順 高效率設備與建築節能技術組
+電話：+886-3-5914220 或 Email：JSLiaw＠itri.org.tw
+客服專線：+886-800-45-8899
+傳真：+886-3-5910155

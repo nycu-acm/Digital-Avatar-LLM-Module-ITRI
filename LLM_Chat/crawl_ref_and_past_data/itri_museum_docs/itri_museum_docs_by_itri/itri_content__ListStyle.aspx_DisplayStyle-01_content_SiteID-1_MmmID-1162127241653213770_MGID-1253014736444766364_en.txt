@@ -1,0 +1,21 @@
+front page
+Net Zero Emissions
+Net Zero Technology
+Energy supply
+【Hydrogen Energy Carbon Reduction Solution】Smart Safety Pipe of Hydrogen Energy Equipment-Hydrogen Health and Safety Monitoring Solution
+Share to Facebook
+Share to Twitter
+Share to my Line
+Business consultation
+Technology introduction
+Low concentration hydrogen sensing.
+Use smart sensing technology to conduct comprehensive safety monitoring of hydrogen production, transportation and hydrogen storage equipment.This includes monitoring hydrogen production and key pipelines (such as pipe sections, valves, flanges, etc.) during transportation, as well as hydrogen leakage during hydrogen storage, as well as real-time monitoring of pressurized mechanical pumps in hydrogen storage systems.By identifying equipment abnormalities and pipeline leakage in advance, the safety of hydrogen energy equipment (production, transportation, and storage is further improved.
+Application scope
+Smart sensing elements combine three innovative technologies to realize low-concentration hydrogen leakage detection and predictive maintenance functions.
+Accurately detect hydrogen leakage, adopt innovative acoustic resonance amplification structure design and intelligent algorithms to greatly improve leakage sensitivity and judgment accuracy during hydrogen transportation in hydrogen energy equipment and pipelines.
+Through high-stability temperature control technology and anti-interference algorithm, the sensing of low-concentration hydrogen is effectively realized.
+The predictive maintenance function of hydrogen energy equipment is designed to measure key vibration characteristics through the design of high-sensitivity differential vibration sensor, and then perform calculations in combination with AI models to determine the health status of the pump operation, and achieve early prediction maintenance and immediate fault diagnosis.
+Carbon reduction benefits
+Improve the health and safety of hydrogen production equipment/hydrogen storage equipment and transmission pipelines.
+Predictive maintenance of equipment.
+Hydrogen leakage perception.

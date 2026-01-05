@@ -1,0 +1,94 @@
+ITRI Website Navigation
+==================================================
+
+
+## Technologies
+------------------------------
+- 工業技術研究院: /index.aspx
+- 尖端科技: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220471661407647132
+- 智慧生活: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220471661407647132
+- 智慧消費與運籌服務: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220471661424412226
+- 智慧化致能技術: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220671723542215626
+- 人工智慧與資安: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220671723542215626
+- 智慧感測: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1164152504353117356
+- 智慧醫療: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376130625427
+- 綠能系統與環境科技: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376244004650
+- 技術移轉: ListStyle.aspx?DisplayStyle=13&SiteID=1&MmmID=1036233405427625204
+- 工業技術研究院年報: ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1036461236174225047
+- 工業技術研究院簡介: ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1036461246000713111
+- 工業技術與資訊月刊: ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1036452026061075714
+- 智慧生活: ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036276261006777130
+- 科技哪裡趣: ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1127554704742226474
+- 一起撩科技: ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1164355506526206143
+- 淨零技術: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1162127241645721235
+- 減碳技術: ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1164126144720047012
+- 尖端科技以跨領域研發　帶動產業發展: https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220471661407647132
+- 2025-07-24經濟部技術司Bio Asia大展AI輔助疫苗與抗肺發炎藥物吸睛　保健、預防、治療三箭齊發　打造韌性健康臺灣: ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114072414141446382
+- 2025-07-21工研院攜手四大醫療體系　以AI創新科技助攻健康臺灣　打造MedBobi 2.0智慧決策醫護系統　加速智慧醫療產業升級: ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114072208202292312
+- 2025-07-13科技應援不缺席！工研院創新儲能設備馳援災區、力挺前線英雄: ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114071313571019762
+- 2025-07-03工研院攜手法國Saft合作磷酸錳鐵鋰電池技術　深度整合材料與電池技術: ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114070310002371792
+- 智慧消費與運籌服務: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220471661424412226
+- 智慧醫療: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376130625427
+- 超分子複合技術開發眼後房藥水工研院遂以獨特共協合超分子複合載體技術，克服了眼滴劑無法對眼底組織傳遞藥物的困難，開...更多資訊: ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036233376130625427&MGID=1127334725341773111
+- 綠能系統與環境科技: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376244004650
+- 人工智慧與資安: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220671723542215626
+- 智慧感測: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1164152504353117356
+- 3D視覺導引機器人上料技術3D視覺導引取料機器人可應用於散亂入料的產線上料、工具機上料、冷鍛上料，將原有仰賴人...更多資訊: ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1220671723542215626&MGID=745375025213464462
+- 技術移轉: ListStyle.aspx?DisplayStyle=13&SiteID=1&MmmID=1036233405427625204
+- 工研院「2025全球科技產業競局之趨勢與挑戰系列研討會」　聚焦半導體、零組件與量子科技三大戰略方向: https://ieknet.iek.org.tw/iekrpt/rpt_open.aspx?actiontype=rpt&indu_idno=0&domain=0&rpt_idno=235464107
+- 2024-10-17 智慧機器人基礎及進階應用技術學程: https://college.itri.org.tw/Home/LessonData?PosterGUID=0B5ED16E-6496-4621-A0F6-890C041A9C39
+- 2024-10-21 自駕車與電動車技術整合: https://college.itri.org.tw/Home/LessonData?PosterGUID=167726B5-93E9-4D83-98CF-4FC20D5DF3D9
+- 2024-11-12 智慧工廠系統整合技術應用學程: https://college.itri.org.tw/Home/LessonData?PosterGUID=08872870-AB5E-43CF-8C12-FEF4D2C74D33
+- 2024-12-04 精密控制與無人機技術課程: https://college.itri.org.tw/Home/LessonData?PosterGUID=34F4DF58-C6B0-4A96-9295-F1F03B3DD93A
+
+## News
+------------------------------
+- 公告: ListStyle.aspx?DisplayStyle=12&SiteID=1&MmmID=1036461244216621372
+- 新聞中心: ListStyle.aspx?DisplayStyle=06&SiteID=1&MmmID=1036276263153520257
+- 新聞室: ListStyle.aspx?DisplayStyle=06&SiteID=1&MmmID=1036276263153520257
+- 最新新聞: ListStyle.aspx?DisplayStyle=06&SiteID=1&MmmID=1036276263153520257
+
+## About
+------------------------------
+- 組織永續: javascript:void(0);
+- 組織永續網: https://itrisdgs.itri.org.tw/chi/index
+- 關於我們: ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036233406503070534
+- 歷任院長: ListStyle.aspx?DisplayStyle=21&SiteID=1&MmmID=1073007573616144203
+
+## Services
+------------------------------
+- 人機互動與服務: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220471661407647132
+- 產業服務: ListStyle.aspx?DisplayStyle=13&SiteID=1&MmmID=1036233405427625204
+- 淨零排放服務: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1162132136253006037
+- 淨零排放服務: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1162132136253006037
+- 檢測服務: ListStyle.aspx?DisplayStyle=14&SiteID=1&MmmID=1036233405457223112
+- 產業人才培訓: ListStyle.aspx?DisplayStyle=17&SiteID=1&MmmID=1036233406142165560
+- 產業趨勢與情報: ListStyle.aspx?DisplayStyle=15&SiteID=1&MmmID=1036461234426716651
+- 產業情報焦點: ListStyle.aspx?DisplayStyle=15&SiteID=1&MmmID=1036461234426716651
+- 產業趨勢數據: ListStyle.aspx?DisplayStyle=16&SiteID=1&MmmID=1036461234717610054
+- 產業聯盟: ListStyle.aspx?DisplayStyle=02&SiteID=1&MmmID=1036461235706027373
+- 全球服務據點: ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036461236020411264
+- 國內服務據點: ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036461236020411264
+- 國外服務據點: ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036461236030144272
+- 淨零服務: ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1164144620406753564
+- 企業淨零方案服務: ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1164144620406753564
+- 產業服務全方位多元服務　提升產業競爭力: https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=03&SiteID=1&MmmID=1036741261042234155
+- 人機互動與服務: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220471661407647132
+- 檢測服務: ListStyle.aspx?DisplayStyle=14&SiteID=1&MmmID=1036233405457223112
+- IEKView：AI與新應用帶動 零組件產業前景俏: https://ieknet.iek.org.tw/iekrpt/rpt_open.aspx?actiontype=rpt&indu_idno=0&domain=0&rpt_idno=510784777
+
+## Organization
+------------------------------
+- 創業育成中心: ListStyle.aspx?DisplayStyle=03&SiteID=1&MmmID=1036741261042234155
+- 淨零會員中心: maintenance.aspx?DisplayStyle=98&SiteID=1&MmmID=1217370122045450310
+- 創業育成中心: ListStyle.aspx?DisplayStyle=03&SiteID=1&MmmID=1036741261042234155
+
+## Contact
+------------------------------
+- 聯絡我們: ContactUs.aspx
+
+## Other------------------------------- 跳到主要內容區塊: #mainContent- :::: #U- 網站導覽: ListStyle.aspx?DisplayStyle=SiteMap&SiteID=1- 線上展示館: https://www.itri-showroom.com/- 菁英招募: ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1307112475533454221- English: https://www.itri.org.tw/english/index.aspx- 自主移動系統: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376112763651- 半導體晶片: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1071732316365755674- 通訊: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1071732316442173030- 健康樂活: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376130625427- 健康照護: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376157517435- 永續環境: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376167172113- 循環經濟: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376167172113- 低碳製造: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220671723431671212- 韌性社會: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220237422150543031- 基礎設施韌性: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220237422150543031- 資源能源韌性: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220237422605107207- 生產力韌性: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220237422646432531- 開放實驗室與創業育成: ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036741260767443023- 開放實驗室: ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036741260767443023- 業界合作: ListStyle.aspx?DisplayStyle=02&SiteID=1&MmmID=1036461235026737435- 委託研究及產品開發: ListStyle.aspx?DisplayStyle=02&SiteID=1&MmmID=1036461235026737435- 研發實驗室: ListStyle.aspx?DisplayStyle=02&SiteID=1&MmmID=1036461235100031417- 無形資產評價: ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036677772233472511- 國際合作: ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036233406747565624- 合作案例: ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036233406747565624- 學研機構: ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036233406747565624- 國際企業: ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036233406757430274- 合作夥伴: ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036461264154254513- 亞洲: ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036461264154254513- 美洲: ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036461264166221171- 歐洲: ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036461264273420723- 大洋洲: ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036461264303735476- 澄清說明: ListStyle.aspx?DisplayStyle=06&SiteID=1&MmmID=1125775676601166347- 活動訊息: ListStyle.aspx?DisplayStyle=06&SiteID=1&MmmID=1037361433721776651- 電子報: ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036461236504741606- 出版品: ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1036461236174225047- 機械工業雜誌: ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1036452025756363357- 工業材料雜誌: ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1036452026017131620- 電腦與通訊: ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1036452026006746322- 永續報告書: ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1254536553446732606- 公益手冊: ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1254536553624761404- 精彩影音: ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036276261006777130- 健康樂活: ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036276261016573377- 永續環境: ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036276261030451724- 淨零永續新生活: ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1161722673125527636- 其他: ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036233415135705271- Podcast: ListStyle.aspx?DisplayStyle=22&SiteID=1&MmmID=1126445272415215607- 淨零排放: ListStyle.aspx?DisplayStyle=26&SiteID=1&MmmID=1163726127431613005- 淨零新知: ListStyle.aspx?DisplayStyle=26&SiteID=1&MmmID=1163726127431613005- 政策法規: ListStyle.aspx?DisplayStyle=26&SiteID=1&MmmID=1163726127431613005- 淨零聯盟: ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1164552551034266046- 淨零趨勢: ListStyle.aspx?DisplayStyle=25&SiteID=1&MmmID=1164121731647300401- 淨零案例: ListStyle.aspx?DisplayStyle=26&SiteID=1&MmmID=1164121731675134073- 論壇簡報: ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1216705037317600401- 碳盤查與碳足跡: ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1163726127545477703- 碳查證: ListStyle.
+
+aspx?DisplayStyle=05&SiteID=1&MmmID=1163726127651626676- 淨零永續學校: ListStyle.aspx?DisplayStyle=24&SiteID=1&MmmID=1162130611512704224- 智權法務: ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1164121735362566062- 淨零永續對策與商機: ListStyle.aspx?DisplayStyle=23&SiteID=1&MmmID=1164121735352636141- 需求使用: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1162127241645721235- 低碳製造: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1162127241662511173- 能源供給: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1162127241653213770- 環境永續: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1162127241711441152- 影音專區: ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1164126144720047012- 人才培育: ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1164126144735260001- 減碳新知: ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1164126144765520321- 業務洽詢: BusinessNegotiation.aspx?DisplayStyle=99&SiteID=1&MmmID=1217346472410014341- 整合管理政策: ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1254536556250062674- 社會公益: https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036234671344040362- 工研院簡介: ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036233406503070534- 簡介: ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036233406503070534- 歷任董事長: ListStyle.aspx?DisplayStyle=21&SiteID=1&MmmID=1073041761577765124- 董監事會: ListStyle.aspx?DisplayStyle=07&SiteID=1&MmmID=1036233406511370353- 經營團隊介紹: ListStyle.aspx?DisplayStyle=08&SiteID=1&MmmID=1036233406517556313- 工研院院士: ListStyle.aspx?DisplayStyle=09&SiteID=1&MmmID=1036234671167627651- 院士簡介: ListStyle.aspx?DisplayStyle=09&SiteID=1&MmmID=1036234671167627651- 院士授證: ListStyle.aspx?DisplayStyle=10&SiteID=1&MmmID=1036234671176306267- 院士會議: ListStyle.aspx?DisplayStyle=10&SiteID=1&MmmID=1036234671232642073- 獲獎榮耀: ListStyle.aspx?DisplayStyle=19&SiteID=1&MmmID=1036261176767170542- 誠信經營: ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1073506342667552677- 搜尋: #- 關閉視窗: #- 創新界奧斯卡勇奪三金三銀一銅: https://itriwww.itri.org.tw/ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114060317201455004- 全球百大創新機構狂賀本院九度獲獎: https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114031216035173729- 國際合作槓桿國際能量　鏈結創新網絡: https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036233406747565624- :::: #C- 2025-07-22三井不動產啟動RISE-A平台　工研院成創始國際合作夥伴　共構臺日半導體創新鏈結: ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114072209444906334- 2025-07-09工研院赴歐開啟6G國際合作　積極布局次世代通訊生態系: ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114070912310375344- 自主移動系統: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376112763651- 自動化分揀倉儲決策AI系統工研院自動化分揀倉儲決策AI系統，可縮短結單到出貨時間，進出貨預測準確度提升，節省倉...更多資訊: ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036233376112763651&MGID=1036737742574626416- 健康照護: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376157517435- 循環經濟: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376167172113- 低碳製造: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220671723431671212- 廢液晶面板再利用處理系統工研院開發出「廢液晶面板再利用處理系統」，將兩片封裝液晶的玻璃基板分離後，再用濕式循...更多資訊: ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036233376167172113&MGID=620634543666664701- 基礎設施韌性: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220237422150543031- 資源能源韌性: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220237422605107207- 生產力韌性: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220237422646432531- 動態力感測模組壓電式動態力感測模組，具備高動態反應以及高可靠度之特性，透過感測器訊號即時監控設備衝...更多資訊: ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1220237422646432531&MGID=744026720625136051- 半導體晶片: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1071732316365755674- 通訊: ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1071732316442173030- 業界合作: ListStyle.aspx?DisplayStyle=02&SiteID=1&MmmID=1036461235026737435- 更多資訊: ListStyle.aspx?DisplayStyle=15&SiteID=1&MmmID=1036461234426716651- IEKView：從AI趨勢掌握綠色轉型商機: https://ieknet.iek.org.tw/iekrpt/rpt_open.aspx?actiontype=rpt&indu_idno=0&domain=0&rpt_idno=263593775
+
+- AI應用落地成為 Computex 2025 主軸: https://ieknet.iek.org.tw/iekrpt/rpt_open.aspx?actiontype=rpt&indu_idno=0&domain=0&rpt_idno=151142354- 當AI成為你的同事：從上班族到AI協作者的轉變: https://ieknet.iek.org.tw/iekrpt/rpt_open.aspx?actiontype=rpt&indu_idno=0&domain=0&rpt_idno=917239052- 更多資訊: ListStyle.aspx?DisplayStyle=17&SiteID=1&MmmID=1036233406142165560- 2024-09-05 電控與工業通訊聯網暨大數據AI應用: https://college.itri.org.tw/Home/LessonData?PosterGUID=876B7881-9E5C-4959-8FA0-7B55F8F7889B- :::: #Z- 法律聲明: /ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036712133204351167- 採購資訊: https://vendor.itri.org.tw/broadBqry.aspx- 工研院圖書館: /ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036715042742732171- 專業連結: /ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036712133432576012- 常見問答: /ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036712133442100327- 地圖: /ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036712143533651215- 回頂端: javascript:void(0)

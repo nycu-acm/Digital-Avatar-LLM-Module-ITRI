@@ -1,0 +1,14 @@
+itri英語wikipedia爬網摘要
+===============================================
+
+來源URL：https：//en.wikipedia.org/wiki/industrial_technology_research_institute
+語言：英語
+爬網時間戳：2025-07-28T14：41：44.361058
+總節：7
+總內容長度：11328個字符
+Infobox項目：7
+表：9
+列表：30
+參考：42
+外部鏈接：59
+類別：30

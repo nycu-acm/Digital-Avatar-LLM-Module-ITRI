@@ -1,0 +1,76 @@
+front page
+Industrial Services
+Testing services
+Testing services
+search
+Note: You can enter the detection name/function specification/sample attribute/properties/possible components, certification agency number, contact window name, telephone number
+I want to test
+​
+Keywords:
+NO.
+Testing services
+Condition description
+Certification Agency Number
+contact person
+Telephone
+11
+Salt spray test
+Module size: length X width X height 190X100X4cm
+Li Wengui
+06-3636853
+12
+Alkaline dissolution
+(0.01-0.100)mg KOH/g
+Yang Shanshan
+03-5732036
+13
+Halogen acid content, conductivity, pH
+Yang Shanshan
+03-5732036
+14
+Halogen lamp, tungsten filament lamp (integrated ball test)
+Halogen lamp, tungsten filament lamp (integrated ball test)
+ILAC-MRA Combination Markup Use Contract, TAF 1336
+Chen Meiling
+03-5732071
+15
+Fin tube heat exchanger
+Maximum capability 35 kW
+Nie Weide
+03-5912249
+16
+High voltage insulation tester
+Voltage
+Ye Yuxuan
+03-5911036
+17
+High resistance box
+resistance
+Ye Yuxuan
+03-5911036
+18
+High resistance meter
+Resistance value range ≧ 1 MΩ
+Xu Minhuan
+03-5743738
+19
+High resistor
+Resistance value range ≧ 1 MΩ
+Xu Minhuan
+03-5743738
+20
+High resistance meter
+resistance
+TAF 0016
+Ye Yuxuan
+03-5911036
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10

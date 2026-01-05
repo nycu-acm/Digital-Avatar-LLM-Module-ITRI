@@ -1,0 +1,12 @@
+Direct ITRI Website Crawl Summary
+==================================================
+
+Source URL: https://www.itri.org.tw
+Crawl Timestamp: 2025-07-28T15:59:48.578997
+Organization: 工業技術研究院
+Content Length: 2286 characters
+Navigation Links: 183
+Technologies Found: 49
+News Articles: 6
+Achievements: 2
+Q&A Pairs Created: 14

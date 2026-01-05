@@ -1,0 +1,156 @@
+LEDs reflect Taiwan's green competitiveness and create a new life in smart display technology - 50th anniversary of the Industrial Research Institute, deepening the industry and innovating the future
+Industrial Technology Research Institute 50th Anniversary Story
+See history
+Deeply cultivated 50
+Critical moments
+Continue the past and start the future
+Welcoming the future
+Innovation 50
+EN
+See history
+Deeply cultivated 50
+front page
+See history and cultivate 50
+Optoelectronics Industry
+LEDs reveal Taiwan's green competitiveness and create a new life of smart display technology
+LED+ display
+LEDs reveal Taiwan's green competitiveness and create a new life of smart display technology
+LED+ display
+Computer peripheral technology
+LED+ display
+Read and write head
+Laser
+3D printing
+Taiwan's optoelectronics industry began in 1970, but at that time, no complete industrial chain was formed. The two channels of Industrial Research Institute went hand in hand to develop the display and LED industries; in 1987, the Industrial Research Institute actively invested in development, and within just seven years, it reached an industrial chain of the same scale of more than 20 years of development of the semiconductor industry.In 2002, it became the second largest panel manufacturer and supplier with a market share of more than 30% in the world, and in the same year it became a "mega"-level industry.In response to the ever-changing demand for panels, the Industrial Research Institute developed soft electronics in 2006; developed the world's longest continuous soft LCD electronic paper in 2009; accumulated rich electronic paper technology in 2011, and ranked the world's largest patent number.
+In order to establish independent core technology for LEDs, the Industrial Research Institute purchased Taiwan’s first MOCVD machine in 1986, and in 1996 it was established Jingyuan Optoelectronics to assist in establishing a complete LED upstream, midstream and downstream industrial supply chain.LEDs can be used in display backlights, lighting, car lights, etc. The Institute of Technology starts from technical research and development to help the LED industry develop diversified applications.For example, in 1998, transparent conductive electrode technology (ITO) was developed on important components of flat displays, which can greatly improve the brightness of LEDs by more than 20%.In terms of lighting, the chip alternating current light emitting diode lighting technology (AC LED) was launched in 2008. In 2011, the Taiwan Lighting Committee (CIE-Taiwan), led by the Institute of Technology Research, established two new technical committees to turn Taiwan from a follower of specification formulation into a leader, in line with the international community, and seize the initiative in the solid-state lighting market.In 2018, the portable ultraviolet light source UVC LED water sterilization technology was developed, and it was introduced into the domestic water dispenser industry for the first time, opening up the LED niche market.
+In order to reach the next generation of panel technology, the "Micro LED Alliance" was established at the end of 2016 to promote the cooperation and upgrading of the domestic industrial chain. In 2020, Micro LED was launched to transfer to PCB substrates with huge amounts of technology. The same size panels have created better display effects. In 2020, we worked with 50 supply chain manufacturers such as Chuang and Zozhen to create a high-precision array of micro Micro LED full-color display modules, which can be extended to be used in TVs, indoor displays, automotive flexible panels, soft wearable devices, and smart glasses, creating new plans for the LED and display industries.
+LED age
+1983
+Infrared LEDs with wavelengths of 880 and 940nm are manufactured.
+1986
+I purchased Taiwan’s first MOCVD (organometal chemical vapor deposition accumulation) machine and began to manufacture LED epitaxial.
+1986
+The research and development of "AlGaAs) red light-emitting diode grain process technology" and "GaAsP) orange light-emitting diode epitaxial wafer".
+1987
+Combined with 13 operators including Lightbao, Yiguang, Huaxing, Xinghua, Baihong, and Guanglei Technology, the "Optoelectronics and Semiconductor Industry Technology Development Advisory Committee" was established to reach a consensus on cooperation without price reduction or poaching.
+1987
+GaAs IR LED epitaxial technology transfers Dingyuan Technology to enhance domestic light emitting diode technology.
+1990
+Published Taiwan's first red laser; laser pen is one of its main applications.
+1993
+The technology was transferred to AlGaInP to Guolian Optoelectronics, and the technology was transferred to Guolian Optoelectronics Company and established a factory, and began the foundation for the upstream epitaxial development of my country.
+1996
+Completed the two-inch red LED chip, gave birth to the establishment of crystal optoelectronics, invested in LED component manufacturing, and established a complete LED upstream, midstream and downstream industrial supply chain.
+1997
+Manufactured Taiwan's first high-brightness blue light LED.
+1998
+Promote the "White Light Light Source Development Technology Industry Science and Technology Project" and invite 10 upstream, midstream and downstream LED manufacturers to jointly develop.
+1998
+The research and development of transparent conductive electrode technology (Indium Tin Oxide; ITO) has greatly increased the brightness of LEDs by more than 20%.
+2001
+Development of gallium nitride blue-purple laser diode.
+2008
+Combined with 19 manufacturers including Jingdian, Guangbao, Fuhua, and Dingyuan, we formed the "AC LED Application R&D Alliance" to develop a new blue ocean in the LED lighting market.
+2008
+It has won the world's top 100 scientific and technological research and development awards for "On-Chip AC LED Lighting Technology" and is the world's first AC LED bulb.
+2011
+The CIE Annual Meeting has established two new technical committees, namely the "Photometry of curved and flexible OLED and LED sources" and the "Characterization of AC-driven LED products for SSL applications" committee, which is a new milestone for Taiwan to participate in the formulation of global LED lighting standards.
+2012
+Establish the "Taiwan LED and Lighting Standards Harmonization Conference" and formulate the world's first "LED Smart Lighting System Standard".
+2012
+It has developed a 10W LED bulb that can replace 60W incandescent light bulbs with a luminous angle of up to 330°.It is the only high-wattage LED bulb in China that uses plastic as a heat dissipation lamp.
+2012
+Published the world's first all-plastic large-angle LED bulb light.
+2014
+It has established the "LED Commercial Lighting Alliance" with the Taiwan Optoelectronics Semiconductor Industry Association (TOSIA) and the Lighting Association, and invited 50 manufacturers including China Electric Appliances, Jingdian, Yiguang, and Longda to establish shared channels for LED shared modules and online marketing required for commercial lighting fixture design.
+2015
+The development of "OLED surface plasma coupling gain technology" will break through the bottleneck of too short life of organic blue luminescent materials, which will help promote the industrialization of white OLED lighting.
+2015
+Establish a large-area chip-level LED packaging module and equipment research and development alliance.
+2016
+Develop the world's first portable UVC LED sterilization technology "Chopin".
+2018
+"Portable UVC LED Flowing Water Module" won the world's top 100 Science and Technology R&D Award, with E. coli sterilization rate reaching more than 99.9%, and was successfully introduced into the domestic water dispenser industry for the first time.
+2020
+In cooperation with KIC Display Technology, the application of Micro LED in wearable devices and automotive panels.
+Monitor age
+1987
+Develop the "TFT LCD" technology for thin-film transistor liquid crystal displays.
+1990
+Developed 3-inch to 6-inch TFT LCD technology and peripheral IC components.
+1994
+Completed 3-inch VGA TFT LCD technology and transferred the technology to the original.
+1996
+Completed the development of the first 10.4-inch TFT LCD panel in the country, and converted into companies such as China Image Tube, South Asia, China Steel, and Mingyuan, and started the development of large-scale TFT LCD panels in China.
+1998
+The first silicon single crystal reflective liquid crystal display in China was developed.
+2000
+It has formed the "Taiwan TFT LCD Association (Taiwan TFT LCD Association (TTLA) with TFT LCD manufacturers such as DAC Technology, China Aiming, Hanyu Caijing, Yuantai Technology, Lianyou Optoelectronics, Qimei Electronics, and Guanghui Electronics, etc., which will enable the domestic upstream and downstream LCD industries to develop rapidly and be more complete.
+2002
+The use of thermal bubble inkjet technology to develop "full color polymer self-luminous display panel".
+2003
+We jointly develop DLP optical machines with Texas Instruments to strengthen the overall competitiveness of Taiwan's projection display industry.
+2004
+The development of a soft three-inch color organic thin film transistor-driven LCD display is the second in the world to successfully display soft displays besides Philips.
+2007
+Published the world's first "Single-layer Colorful Cholesterol E-book", breaking through the three-layer limit of cholesterol e-books on the market, and e-books have officially entered the era of light and thin color.
+2007
+Establish a "Soft Power Mass Production Development Laboratory" to develop all-plastic color soft displays to accelerate the development of the domestic soft electronics industry.
+2009
+Develop the world's longest continuous soft liquid crystal electronic paper.
+2010
+"FlexUPDTM Multi-purpose Soft Electronic Baseboard Display Technology" won the world's top 100 Science and Technology R&D Awards, and its bending performance surpasses the international community.
+2010
+Develop the world's smallest embedded LED microarray direct projection technology.
+2010
+Published a multi-purpose soft electronic substrate - a 6-inch color flexible AMOLED display.
+2011
+"Repeatable electronic paper i2R e-Paper", which can be used in digital calligraphy, painting and electronic boards, has won the world's top 100 science and technology research and development awards, as well as the first prize in the Wall Street Journal Science and Technology Innovation Award materials and basic technology categories.There are 217 related patents, ranking first in the world.
+2016
+The Micro LED Alliance was established at the end of the year.
+2018
+Scratch-resistant wear-resistant touch AMOLED solution that provides a new choice of folding display that is both soft and sturdy.
+2019
+Published the world's first fully-printed high-penetration film packaging technology for OLED components integration verification, with the advantages of both cost and yield improvement.
+2019
+The world's first digital patterning process without a mask is produced by making 7.07-inch FHD AMOLED panels, which helps panel manufacturers improve product development speed and significantly reduce development costs.
+2019
+Published the world's first exhibition of the two-person virtual and real interactive smart window.
+2019
+Develop a transparent display interactive module that can reduce the risk of surgery, providing medical teams with precise guidance during surgical treatment.
+2020
+The first Micro LED is directly transferred to PCB substrates with unique technology around the world, and the same size panels create better display effects.
+2022
+Develop the world's leading "low diffraction transparent AM Micro LED" technology to effectively solve the blurred background image of existing transparent displays.
+2022
+It has created a "transparent Micro LED smart window" with AUO Optoelectronics, combining face recognition and vision tracking, and virtual and real fusion interaction technology to provide tourists with a new virtual and real fusion interactive experience.
+2022
+The world's first technology "transparent display vehicle-mounted virtual and real integration interactive system", imported the "smart ship sightseeing cruise ship window screen navigation system" of Kaohsiung Qijin Ferry, as well as the Wenhu line of Taipei MRT and the Danhai Light Rail in New Taipei.
+2022
+The world's first "I Vision AI Fish Tank" was introduced into the National Museum of Marine Science and Technology, using AI artificial intelligence to assist visitors to identify various creatures.
+2022
+Developed the world's leading "Micro LED Full Color Display Module" and won the world's top 100 Science and Technology R&D Awards.
+2022
+Working with Meas All Media and Juji Technology, we will launch the country's first small-pitch micro LED movie-level XR virtual studio.
+2022
+In cooperation with Kaohsiung Weiwuying, Taiwan’s largest small-pitch mini-LED curved display, we have created a “blessing and wishing tree” that combines technology and art.
+More industries
+The birth of the Institute of Technology
+Semiconductor Industry
+Communications Industry
+Materials and chemical industry and nanometers
+Vehicle industry
+Measuring industry
+Textile Industry
+Printed circuit board industry
+Machinery Industry
+Biomedical industry
+Green Energy Industry
+Artificial intelligence and huge amount of information
+other
+next
+prev
+© ITRI. Works by the Institute of Industrial Technology
++886-3-582-0100
+310401
+No. 195, Section 4, Zhongxing Road, Zhudong Town, Hsinchu County

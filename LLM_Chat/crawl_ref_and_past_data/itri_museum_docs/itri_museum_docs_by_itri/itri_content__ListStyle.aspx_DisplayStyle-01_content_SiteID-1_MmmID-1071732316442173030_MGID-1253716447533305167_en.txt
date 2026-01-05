@@ -1,0 +1,24 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+communication
+5G base station multi-transmission multi-receive node access system technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+5G base station multi-transmission multi-receiving node access system technology.
+In response to the long-term development of potential applications - Independent mobile robots (AMR) in factory automation applications, the market will gradually pay attention to the demand for reliable, seamless and uninterrupted connected wireless networks. The institute has developed the 5G NR Sub-6G base station multi-TRP access system technology, which can perform multi-RU configuration of base stations, expand system capacity and support elastic deployment of base stations to meet customer needs.This technology includes:
+DU supports multi-RU functions:
+Through the 1588 synchronization technology, multiple RUs are connected simultaneously to achieve frequency and time requirements, and uplink channel signal processing supports data operations of multiple RUs at the same time.
+Multi-TRP multi-transmitter node functions:
+Supports multi-TRP collaboration and provides Dynamic Point Selection (DPS) function to improve signal coverage and eliminate hand-turn delays.
+Features and innovation
+Technology compatible with international O-RAN architecture and interface, with high interoperability.
+Use existing low-cost RUs to improve signal coverage.
+It can stitch 2~4 RUs, increasing the signal coverage range by 2~4 times.
+Users within the signal coverage range will not be affected by hand-change delays.
+Develop key technologies to meet multi-band and high-capacity multi-base station systems, provide different private network or scenario needs, and advanced support for indoor to outdoor field layout applications.
+Application and benefits
+It is applied to private network systems using 5G open architecture networks, and provides O-CU, O-DU and O-RU network element software and system functions.

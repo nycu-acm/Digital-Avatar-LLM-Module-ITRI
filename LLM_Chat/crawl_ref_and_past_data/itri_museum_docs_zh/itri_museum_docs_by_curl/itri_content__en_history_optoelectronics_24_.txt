@@ -1,0 +1,150 @@
+Illuminating Taiwan’s Competitiveness: Smart Display and LEDs  - 50 Years of Empowering Industry Through Innovations
+Industrial Technology Research Institute
+Major Milestones
+Half a Century Young
+Navigating the Future
+中
+Major Milestones
+Home
+Major Milestones
+Optoelectronics
+Illuminating Taiwan’s Competitiveness: Smart Display and LEDs
+LEDs & displays
+Illuminating Taiwan’s Competitiveness: Smart Display and LEDs
+LEDs & displays
+Computer peripherals
+LEDs & displays
+Read-and-Write Head
+Laser
+3D Printing
+The optoelectronic industry in Taiwan emerged in the 1970s, and since then, efforts have been made to establish complete industrial chains. ITRI played a crucial role in venturing into the display and LED industries, leading to significant advancements in these fields.
+Since 1987, ITRI has actively developed display technologies. Within a span of seven years, ITRI successfully created an industrial chain comparable to that of the semiconductor industry, which took more than 20 years to develop. By 2002, Taiwan had become the world’s second-largest panel production and supplier, with a remarkable market share of over 30%. The display industry had also become a trillion-dollar industry in the same year. To meet the ever-changing demands for panels, ITRI further developed flexible electronics in 2006 and created the world’s longest continuous flexible liquid crystal electronic paper in 2009. By 2011, ITRI had accumulated a wealth of electronic paper technology and boasted the most patents worldwide in this field.
+In 1986, ITRI purchased Taiwan’s first metal-organic chemical vapor deposition (MOCVD) equipment to develop its own core LED technology. In 1996, ITRI played a key role in the establishment of EPISTAR, the largest LED manufacturer in Taiwan. This initiative led to the creation of a comprehensive LED supply chain that integrated the upstream, midstream, and downstream industries. ITRI also delved into LED technologies, developing innovations such as the transparent, electrically conductive indium-tin-oxide (ITO) electrode technology. This technology, which is a vital component in flat displays, significantly increases LED brightness by more than 20%
+With a focus on lighting, ITRI introduced chip-based AC LED lighting technology in 2008. By 2011, CIE-Taiwan, a commission led by ITRI, established two new technology committees which positioned Taiwan as a specification setter in solid-state lighting. This allowed Taiwan to seize solid-state lighting business opportunities worldwide. In 2018, ITRI introduced a portable UVC water sterilization technology to the domestic water dispenser industry, tapping into a niche market for LEDs.
+In 2016, ITRI took a significant step towards the next-generation panel technology by establishing a micro LED alliance. This alliance aimed to promote cooperation and advancement within domestic industry chains. In 2020, ITRI achieved a major breakthrough by developing the mass transfer technology of micro LEDs to printed circuit board (PCB) substrates. This innovative display technology offers superior display results compared to traditional panels of the same size. In 2022, ITRI collaborated with 50 supply chain companies, including PlayNitride and Jorjin, to create a high-precision array of micro-LED full-color display modules. These modules find applications in various fields such as TVs, indoor displays, flexible vehicle panels, flexible wearable devices, and smart glasses. Consequently, this collaboration has opened up new and exciting business opportunities for the LED and display industries.
+LEDs
+1983
+ITRI built infrared LEDs with wavelengths of 880 and 940 nm.
+1986
+ITRI purchased Taiwan’s first MOCVD equipment to manufacture LED epitaxy.
+1986
+ITRI developed the aluminum gallium arsenide (AlGaAs) red LED crystallite manufacturing technology and gallium arsenide phosphide (GaAsP) orange LED epitaxial wafer.
+1987
+ITRI founded an advisory committee for optoelectronic semiconductor industry technology development with companies including LITE-ON, EVERLIGHT, Ledtech, CS Bright, Bright LED Electronics, and OPTOTECH.
+1987
+ITRI transferred the GaAs IR LED epitaxy technology to Tyntek Technology.
+1990
+ITRI launched Taiwan’s first red laser, the main application of which was laser pointers.
+1993
+ITRI’s transfer of the AlGaInP technology facilitated the founding of United Epitaxy Company, setting the foundation for Taiwan’s upstream industry for epitaxy development.
+1996
+ITRI rolled out 2-inch red LED chips, facilitating the establishment of EPISTAR and the company’s manufacturing process for LED components. This initiative established a comprehensive supply chain for the LED industry in Taiwan.
+1997
+ITRI manufactured Taiwan’s first high-brightness blue LED.
+1998
+ITRI invited 10 domestic LED companies to jointly develop white light source technologies.
+1998
+ITRI developed transparent, conductive indium-tin-oxide (ITO) electrode technology, which significantly increased LED brightness by over 20%.
+2001
+ITRI developed gallium nitride blue-violet laser diodes.
+2008
+ITRI established the AC LED Application Research and Development Alliance by bringing together 19 companies such as EPISTAR, LITE-ON, Forward Electronics, and Tyntek Technology to tap into the blue ocean for the LED lighting market.
+2008
+ITRI won an R&D 100 Award for its on-chip AC LED lighting technology, the world’s first AC LED light bulb.
+2011
+CIE’s annual meeting approved the founding of two committees: Photometry of Curved and Flexible OLED; and LED Sources Committee and the Characterization of AC-driven LED Products for SSL Application Committee.
+2012
+ITRI established the Taiwan LED and Lighting Standard Harmonization Conference, formulating the world’s first LED smart lighting system standards.
+2012
+ITRI developed a 10W-LED light bulb that could replace 60W-incandescent light bulbs. The LED light bulb boasted a 330° illumination angle and was the only high-wattage LED light bulb in Taiwan that utilized plastics for heat dissipation.
+2014
+ITRI, Taiwan Optoelectronic Semiconductor Industry Association (TOSIA), and Taiwan Lighting Fixture Export Association established the Taiwan LED Lighting Industry Association, attracting 50 companies including China Electric, EPISTAR, EVERLIGHT, and Lextar to build a common LED module for commercial lighting fixture designs and establish a common channel for online marketing.
+2015
+ITRI established an R&D alliance focused on the development of large-area chip-level LED packaging modules and equipment. Additionally, ITRI developed an innovative OLED surface plasma coupling gain technology that broke through the service life limitation of organic blue light-emitting materials. This advancement played a crucial role in driving the industrialization of white light OLED lighting.
+2016
+ITRI developed the world’s first pocket chopstick sanitizer, a compact UVC LED sterilization module.
+2018
+ITRI’s Portable UVC LED Water Sterilizer System won the prestigious R&D 100 Awards. The module, capable of eliminating up to 99.9% of E. coli, was successfully integrated into the domestic water dispenser systems.
+2020
+ITRI collaborated with PlayNitride to adapt micro LEDs to wearable devices and automotive displays.
+Displays
+1987
+ITRI developed a thin-film transistor (TFT) LCD technology.
+1990
+ITRI developed a TFT LCD technology (3-inch to 6-inch) and peripheral IC components.
+1994
+ITRI completed a 3-inch VGA TFT LCD technology, which was transferred to E Ink.
+1996
+ITRI developed Taiwan’s first 10.4-inch TFT LCD panel, which was transferred to companies such as Chunghwa Picture Tubes, Nan Ya Plastics, China Steel, and BenQ, initiating the large-scale TFT LCD panel development in Taiwan.
+1998
+ITRI developed Taiwan’s first monocrystalline silicon reflective LCD display.
+2000
+ITRI and TFT LCD companies including Acer Display Technology, Chunghwa Picture Tubes, HannStar, E Ink, Unipac Optoelectronics Corporation, Chi Mei Optoelectronics, and Quanta Display jointly formed the Taiwan TFT LCD Association (TTLA), propelling domestic LCD upstream and downstream industries to thrive rapidly and synchronously.
+2002
+ITRI utilized a thermal bubble inkjet technology to develop a full-color polymer self-illuminating display panel.
+2003
+ITRI and Texas Instruments co-developed a DLP optical module.
+2004
+ITRI developed a 3-inch color flexible organic thin-film transistor-driven LCD display, making the Institution the second organization in the world (following Philips) to successfully demonstrate a flexible display.
+2007
+ITRI launched the world’s first single-layer color cholesterol e-book, a breakthrough in the traditional three-layer cholesterol RGB e-book technology. It propelled e-books to enter the age of color, slimness, and lightweight.
+2007
+ITRI built the Flexible Electronics Pilot Lab and successfully developed all-plastic color flexible displays to accelerate the development of the domestic flexible electronics industry.
+2009
+ITRI developed the world’s longest continuous flexible liquid crystal electronic paper.
+2010
+Boasting the world’s best bending performance, ITRI’s flexible Universal Panel for Displays (FlexUPD) won the R&D 100 Awards.
+2010
+ITRI developed the world’s smallest embedded LED microarray direct projection technology.
+2010
+ITRI unveiled a multi-purpose flexible 6-inch color AMOLED display.
+2011
+Applicable to digital calligraphy and painting as well as electronic billboards, ITRI’s rewritable electronic paper named “i2R e-Paper” won the R&D 100 Awards and the first place of WSJ Technology Innovation Awards in the category of materials and other base technologies. The technology was granted a total of 217 related patents, ranking the first in the world at the time.
+2016
+ITRI established a micro LED alliance.
+2018
+ITRI introduced a scratch-proof and wear-resistant interactive AMOLED display.
+2019
+ITRI introduced the world’s first full-inkjet-printing high-penetration thin-film packaging technology, which was suitable for OLED component integration and verification and had the advantages of reduced cost and higher yields.
+2019
+ITRI utilized a photomaskless lithography process to produce 7.07-inch FHD AMOLED panels, which significantly reduced development costs and accelerated product iteration.
+2019
+ITRI launched the world's first virtual-real two-person interactive smart window.
+2019
+ITRI developed an interactive transparent display module that could reduce surgery risks by accurately guiding medical teams during surgeries.
+2020
+ITRI achieved a major breakthrough by developing the mass transfer technology of micro LEDs to printed circuit board (PCB) substrates. This innovative display technology offers superior display results compared to traditional panels of the same size.
+2022
+ITRI developed the world’s first low-diffraction transparent AM micro LED technology, which effectively addressed the issue of background image blurring commonly encountered in transparent displays.
+2022
+ITRI and AUO jointly developed a transparent micro LED smart window that integrated face recognition, vision tracking, and virtual-reality interactive technologies.
+2022
+ITRI launched the world’s first transparent virtual-reality interactive vehicular display system. The innovative system was integrated into the sightseeing window screen of Kaohsiung Cijin ferries, Taipei Metro Wenhu Line, and the Danhai Light Rail.
+2022
+ITRI introduced the AI Aquarium at the National Museum of Marine Science & Technology to assist visitors in identifying various marine life.
+2022
+ITRI developed the High Resolution Full-Color Micro LED Display, which garnered the prestigious R&D 100 Award.
+2022
+ITRI collaborated with Makee Studio and Macroblock to create Taiwan’s first small-pitch micro LED movie-level XR studio.
+2022
+ITRI, in partnership with the National Kaohsiung Center for the Arts, showcased a wishing tree installation featuring Taiwan’s largest small-pitch mini-LED curved display.
+MORE
+Origin
+Semiconductors
+ICT
+Materials, Chemicals, and Nanotechnology
+Vehicles
+Metrology
+Textiles
+PCB
+Machinery
+Biomedicine
+Green Energy
+AI and Big Data
+Others
+next
+prev
+© Industrial Technology Research Institute
++886-3-582-0100
+310401
+195, Sec. 4, Chung Hsing Rd., Chutung, Hsinchu, Taiwan 310401, R.O.C.

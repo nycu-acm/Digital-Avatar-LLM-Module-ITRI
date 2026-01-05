@@ -1,0 +1,22 @@
+front page
+Industrial Services
+Industry cooperation
+R&D laboratory
+Quantum Computer Laboratory
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Quantum Computer Laboratory.
+Quantum Computer System Laboratory can provide testing services, technology transfer, and assist in industrial planning and construction of professional cryogenic measurement laboratories. In addition, this laboratory can also cooperate to develop innovative products for verification.
+Laboratory construction:
+(1) The wafer circuit probe measurement system for 4K low-temperature environment and the closed-loop low-temperature environment microwave controller for 4K circuit module measurement.It can provide product characteristics verification of low-temperature electronic circuits.
+(2) Quantum signal generation and measurement equipment, this system includes software that can write signals and hardware that generates various writing and analyzing various signals to form a complete system.Including control signal generation and analysis of superconducting quantum applications below 7GHz.
+Related links:
+More technology-related information.
+Further reading
+Industrial Research Institute and Synopsys Technology The Artificial Intelligent Chip Design Laboratory is unveiled
+Low temperature control chip and module
+Grasp the business opportunities in the new era and strengthen the cross-domain integration of AI chip research and development and system applications
+Liquid packaging material technology for power modules
+Ministry of Economics TMTS exhibited more than 20 technologies in 2024. The Institute of Industrial Research and Research develops AI high-precision five-axis tool machine to assist the national machine and manufacture

@@ -1,0 +1,29 @@
+front page
+Cutting-edge technology
+Smart life
+Autonomous mobile system
+Automatic sorting and warehousing decision-making AI system
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Automatic sorting and warehousing decision-making AI system.
+Solve industry problems
+E-commerce warehousing items are tens of thousands, urgent shipments are needed, and insufficient manpower and time are insufficient, resulting in hindering the operation of the company.
+Features and innovation
+Demand forecast analysis technology
+The accuracy of incoming and shipment prediction is 75% → 95%.
+Storage (sorting) position configuration technology
+Optimized picking: Save 53% of working hours and 71% of distance.
+Picking path planning technology
+Shorten the order to shipment time.
+Smart Picking Guide AI Picker (Digital Assistant)
+Pickers don’t need to think or use paper.
+Automatic sorting and warehousing decision-making AI system.
+Further reading
+The Trusted AI Seminar of the Institute of Industrial Research and Research will be held in 2022. Gathering heavyweight speakers at home and abroad to discuss AI governance
+The "2022 Trusted AI International Seminar" of the Institute of Industrial Research is on the scene. Experts analyze AI risk management, AI joint learning, and AI ethical characteristics analysis
+Accelerate the AIization of the industry, AIdea edge AI problem-solving platform is launched
+Ministry of Economics TMTS exhibited more than 20 technologies in 2024. The Institute of Industrial Research and Research develops AI high-precision five-axis tool machine to assist the national machine and manufacture
+Industrial Research Institute promotes the international upgrade of AIoT industry chain and works with Arm to create a world-class system verification center

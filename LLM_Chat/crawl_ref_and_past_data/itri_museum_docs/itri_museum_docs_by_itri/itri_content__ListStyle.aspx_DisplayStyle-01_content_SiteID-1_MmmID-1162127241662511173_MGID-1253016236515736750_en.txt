@@ -1,0 +1,19 @@
+front page
+Net Zero Emissions
+Net Zero Technology
+Low carbon manufacturing
+【Carbon Reduction Manufacturing Solution】Server Heat Dissipation Tool-Glass Pulse Heat Tube
+Share to Facebook
+Share to Twitter
+Share to my Line
+Business consultation
+Technology introduction
+Glass pulsed heat pipe.
+The pulsed heat pipe composed of capillaries randomly distributes liquid and vapor working fluids in the pipeline for heat dissipation through capillary force. Under the trend of increasing demand for AI cloud servers, it can effectively assist the server in cooling and maintain stable operation without load reduction.
+Application scope
+Using the physical mechanism of low boiling point and easy to evaporate by heat, the liquid working fluid flows through the high steam pressure of heat evaporation, and then heat transfer is carried out.
+The parameters of two-way and three-way flow are known from the glass. This technology is the fastest flowing in the world and can help large servers dissipate heat.
+Carbon reduction benefits
+It has cooperated with Heshuo Technology to improve the carbon reduction benefits by 30~50% in cloud server cooling applications.
+Further reading
+Ultra-high-speed AI server transmission technology

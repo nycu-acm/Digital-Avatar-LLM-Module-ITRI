@@ -1,0 +1,19 @@
+front page
+Cutting-edge technology
+Sustainable environment
+Green Energy Systems and Environmental Technology
+Power distribution information integration
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Power distribution information integrated application architecture.
+There are many power distribution systems and complex lines.The information system covers all levels such as equipment measurement, real-time control, asset management and geographic mapping.The proportion of renewable energy in power distribution systems has gradually increased, and the impact on distribution trends and power quality is also more significant. Integrating distribution equipment, establishing big data platforms, and introducing advanced calculation methods is an inevitable trend. Through information integration, you can adjust the Fetuopu and power equipment in a timely manner, conduct fault warnings, and speed up the fault handling to assist in maintaining the stability and efficiency of the distribution system.
+Features and innovation
+Using the efficient access characteristics of No-SQL database, a big data database of more than 1.7 million points is established.
+Through big data analysis, abnormal data such as phase, current, correlation and other aspects are automatically checked to improve the correctness of the map.
+Analyze the feeder length, path, distribution space and load status to provide a verification basis for planning and analysis.
+Find key factors for equipment failure, establish a failure risk index, analyze preventive maintenance schedules, and reduce the chance of unanticipated accidents.
+Application and benefits
+Improve the power supply stability of the distribution system and ensure the proper equipment rate, and assist my country's industries in establishing the technical foundation of the distribution management system, gradually develop application tools, and introduce local demand.

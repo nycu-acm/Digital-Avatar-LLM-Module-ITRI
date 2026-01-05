@@ -1,0 +1,228 @@
+URL: https://itrisdgs.itri.org.tw/chi/datadetailTab2.aspx?SiteID=1&MmmID=1310231330244043037
+Depth: 1
+Crawled: 2025-07-28 16:11:09
+====================================================================
+front page
+Technology research and development
+Intelligent intelligent technology
+Technology research and development
+Scientific research and innovation promotion
+2035 Technical Strategy and Blueprint
+Smart life
+Healthy and happy
+Sustainable environment
+Resilient society
+Intelligent intelligent technology
+Continuous water quality monitoring technology
+Panel industry transformation semiconductor FOPLP panel-level packaging
+Release date 2025-06-25
+Continuous water quality monitoring technology
+Continuous water quality monitoring technology, intelligent transformation and upgrading of production water management
+Smart water quality monitoring technology helps the metal processing industry achieve zero-exceeded flow rate and reduce carbon by 10%.
+Environment (E)
+Society (S)
+Economy (E)
+Metal processing process release water exceeds the standard zero to avoid environmental pollution
+Reduce manual meter reading and dangerous environment operation time by 50%, and maintain employee work safety
+Quantitative changes in the quality of discharged water, internal control and management comply with environmental regulations to avoid suspension of work due to excessive discharged water
+Solution
+Develop long-term anti-biofilm water quality sensing technology, introduce intelligent low-carbon water quality monitoring technology, control the flow ratio of high-concentration waste liquid and the aeration volume of biological pools through the water quality sensor, achieve zero exceeding the standard of discharged water, and reduce carbon emission by 10%/plant by water treatment.
+Technology application
++ By developing anti-biofilm technology, the rate of adhesion of water quality sensors by microorganisms and dirty in waste sewage is slowed down, and accurate continuous measurement characteristics are achieved, and the artificial maintenance cycle is extended by more than 4 times.
++ Through the development of composite water quality sensing system technology, 6-in-1 continuous sensing of copper ion/chemical oxygen demand/suspended solid/pH/conductivity/water temperature can be provided, and 7 water quality signal map identification can be developed to assist in the automatic abnormal warning of water quality and eliminate the burden of manual interpretation.
+Results Display
++ Assist metal processing products (such as server guides, automotive fasteners, etc.) indicators to introduce intelligent low-carbon water quality monitoring technology, assist high-concentration waste liquid mixing, aeration regulation of biological oxidation tanks, and continuous monitoring of water quality before discharge, achieving zero exceeding the discharge water and a 10% reduction in water treatment carbon emissions/plant.
++ Assist the Taichung/Kaohsiung Environmental Protection Bureau to continuously monitor the water quality of urban rivers to avoid panic in the public; assist high-density breeders to monitor changes in water quality after feeding, and avoid accidental losses caused by excessive accumulation of organic matter in the pond.
+Panel industry transformation semiconductor FOPLP panel-level packaging
+The transformation of the panel industry into semiconductor packaging_FOPLP panel-level packaging technology
+Activate the existing assets of the panel factory, and create a output value of 100 billion yuan to enhance international competitiveness..
+Environment (E)
+Society (S)
+Economy (E)
+Revitalize the old-generation panel production lines to transform into semiconductor packaging, and 70% of existing panel production lines can be used to reduce the impact on the environment
+Nanke Factory 1, which assisted Qunchuang Optoelectronics, became the world's first production line to transform into panel-level semiconductor packaging, retaining thousands of employees on the production line.
+The investment in related industries has reached billions of dollars and the estimated output value will reach hundreds of billions of dollars.
+Solution
+Using the "large-size copper plating technology" developed by our institute, we assist domestic equipment factories in developing large-size high-even copper plating equipment, and develop "panel warpage suppression technology" to introduce it into Qunchuang Optoelectronics to assist in the construction of high-yield semiconductor packaging copper conductor processes.
+Technology application
++ Because panel factories lack experience in key electroplating process transformation in semiconductors, they cooperate with domestic electroplating equipment factories to help panel factories fill the technical gap.
++ Since panel-level packaging is a thick film process compared to original display manufacturing, how to control warping is more challenging. Therefore, the stress simulation energy of the original soft display is used to assist the panel factory in predicting the value of substrate warping.
++ Use the G2.5 experimental line to actually verify the control of substrate warpage and the maskless RDL technology to correspond to the needs of future high-end panel-level IC packaging.
+Results Display
++ Assist Qunchuang Optoelectronics' panel-level semiconductor packaging production line yields reaching mass production standards.
++ Drive the development of domestic upstream materials and equipment and make the first arrangement.
++ The patent layout is recognized and authorized to indicator manufacturers such as Qunchuang and TSMC to strengthen international competitiveness.
+--- Section ---
+Continuous water quality monitoring technology, intelligent transformation and upgrading of production water management
+Smart water quality monitoring technology helps the metal processing industry achieve zero-exceeded flow rate and reduce carbon by 10%.
+Environment (E)
+Society (S)
+Economy (E)
+Metal processing process release water exceeds the standard zero to avoid environmental pollution
+Reduce manual meter reading and dangerous environment operation time by 50%, and maintain employee work safety
+Quantitative changes in the quality of discharged water, internal control and management comply with environmental regulations to avoid suspension of work due to excessive discharged water
+Solution
+Develop long-term anti-biofilm water quality sensing technology, introduce intelligent low-carbon water quality monitoring technology, control the flow ratio of high-concentration waste liquid and the aeration volume of biological pools through the water quality sensor, achieve zero exceeding the standard of discharged water, and reduce carbon emission by 10%/plant by water treatment.
+Technology application
++ By developing anti-biofilm technology, the rate of adhesion of water quality sensors by microorganisms and dirty in waste sewage is slowed down, and accurate continuous measurement characteristics are achieved, and the artificial maintenance cycle is extended by more than 4 times.
++ Through the development of composite water quality sensing system technology, 6-in-1 continuous sensing of copper ion/chemical oxygen demand/suspended solid/pH/conductivity/water temperature can be provided, and 7 water quality signal map identification can be developed to assist in the automatic abnormal warning of water quality and eliminate the burden of manual interpretation.
+Results Display
++ Assist metal processing products (such as server guides, automotive fasteners, etc.) indicators to introduce intelligent low-carbon water quality monitoring technology, assist high-concentration waste liquid mixing, aeration regulation of biological oxidation tanks, and continuous monitoring of water quality before discharge, achieving zero exceeding the discharge water and a 10% reduction in water treatment carbon emissions/plant.
++ Assist the Taichung/Kaohsiung Environmental Protection Bureau to continuously monitor the water quality of urban rivers to avoid panic in the public;assist high-density breeders to monitor changes in water quality after feeding, and avoid accidental losses caused by excessive accumulation of organic matter in the pond.
+--- Section ---
+The transformation of the panel industry into semiconductor packaging_FOPLP panel-level packaging technology
+Activate the existing assets of the panel factory, and create a output value of 100 billion yuan to enhance international competitiveness. .
+Environment (E)
+Society (S)
+Economy (E)
+Revitalize the old-generation panel production lines to transform into semiconductor packaging, and 70% of existing panel production lines can be used to reduce the impact on the environment
+Nanke Factory 1, which assisted Qunchuang Optoelectronics, became the world's first production line to transform into panel-level semiconductor packaging, retaining thousands of employees on the production line.
+The investment in related industries has reached billions of dollars and the estimated output value will reach hundreds of billions of dollars.
+Solution
+Using the "large-size copper plating technology" developed by our institute, we assist domestic equipment factories in developing large-size high-even copper plating equipment, and develop "panel warpage suppression technology" to introduce it into Qunchuang Optoelectronics to assist in the construction of high-yield semiconductor packaging copper conductor processes.
+Technology application
++ Because panel factories lack experience in key electroplating process transformation in semiconductors, they cooperate with domestic electroplating equipment factories to help panel factories fill the technical gap.
++ Since panel-level packaging is a thick film process compared to original display manufacturing, how to control warping is more challenging.Therefore, the stress simulation energy of the original soft display is used to assist the panel factory in predicting the value of substrate warping.
++ Use the G2.5 experimental line to actually verify the control of substrate warpage and the maskless RDL technology to correspond to the needs of future high-end panel-level IC packaging.
+Results Display
++ Assist Qunchuang Optoelectronics' panel-level semiconductor packaging production line yields reaching mass production standards.
++ Drive the development of domestic upstream materials and equipment and make the first arrangement.
++ The patent layout is recognized and authorized to indicator manufacturers such as Qunchuang and TSMC to strengthen international competitiveness.
+--- Navigation ---
+Sustainable navigation
+The operator's words
+Sustainable words
+Sustainable management organization
+Sustainable Development Goals
+Interested persons
+Major Topics
+Integrity governance
+Organizational culture
+Governance structure
+Integrity management
+Perpetual value chain
+Technology research and development
+Scientific research and innovation promotion
+2035 Technical Strategy and Blueprint
+Smart life
+Healthy and happy
+Sustainable environment
+Resilient society
+Intelligent intelligent technology
+Happy workplace
+Diversity and Integration
+Talent cultivation and development
+Retain talents
+Occupational Safety and Hygiene
+Employee health promotion
+Green courtyard area
+Climate and nature management
+Low-carbon operation
+Energy Management
+Water Resources Management
+Waste treatment
+Social welfare
+Industrial development
+Highlights of industrial applications
+Social benefits
+Industrial talent cultivation
+Social welfare
+Menu
+--- Navigation ---
+Sustainable navigation
+The operator's words
+Sustainable words
+Sustainable management organization
+Sustainable Development Goals
+Interested persons
+Major Topics
+Integrity governance
+Organizational culture
+Governance structure
+Integrity management
+Perpetual value chain
+Technology research and development
+Scientific research and innovation promotion
+2035 Technical Strategy and Blueprint
+Smart life
+Healthy and happy
+Sustainable environment
+Resilient society
+Intelligent intelligent technology
+Happy workplace
+Diversity and Integration
+Talent cultivation and development
+Retain talents
+Occupational Safety and Hygiene
+Employee health promotion
+Green courtyard area
+Climate and nature management
+Low-carbon operation
+Energy Management
+Water Resources Management
+Waste treatment
+Social welfare
+Industrial development
+Highlights of industrial applications
+Social benefits
+Industrial talent cultivation
+Social welfare
+--- Navigation ---
+The operator's words
+Sustainable words
+Sustainable management organization
+Sustainable Development Goals
+Interested persons
+Major Topics
+--- Navigation ---
+Scientific research and innovation promotion
+2035 Technical Strategy and Blueprint
+Smart life
+Healthy and happy
+Sustainable environment
+Resilient society
+Intelligent intelligent technology
+--- Navigation ---
+Diversity and Integration
+Talent cultivation and development
+Retain talents
+Occupational Safety and Hygiene
+Employee health promotion
+--- Navigation ---
+Climate and nature management
+Low-carbon operation
+Energy Management
+Water Resources Management
+Waste treatment
+--- Navigation ---
+Industrial development
+Highlights of industrial applications
+Social benefits
+Industrial talent cultivation
+Social welfare
+--- Navigation ---
+front page
+Latest news
+Research and development will continue to work together
+Glory and affirmation
+Perpetual Database
+Site Map
+--- Navigation ---
+Scientific research and innovation promotion
+2035 Technical Strategy and Blueprint
+Smart life
+Healthy and happy
+Sustainable environment
+Resilient society
+Intelligent intelligent technology
+--- Navigation ---
+Continuous water quality monitoring technology
+Panel industry transformation semiconductor FOPLP panel-level packaging
+--- Navigation ---
+Copyright © 2024 Industrial Technology Research Institute
+Social Welfare Zone of the Institute of Technology
+Integrity governance
+--- Navigation ---
+Customer service line:
+0800-45-8899
+Contact Window

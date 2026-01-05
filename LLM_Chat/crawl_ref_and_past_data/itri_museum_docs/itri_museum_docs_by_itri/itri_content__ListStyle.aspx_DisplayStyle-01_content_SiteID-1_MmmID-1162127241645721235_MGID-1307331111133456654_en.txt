@@ -1,0 +1,21 @@
+front page
+Net Zero Emissions
+Net Zero Technology
+Need to use
+【Energy Efficiency Carbon Reduction Solution】Good Helper for Cold Energy-Demand Response Management System
+Share to Facebook
+Share to Twitter
+Share to my Line
+Business consultation
+Technology introduction
+Cold chain energy-saving magician.
+This system integrates artificial intelligence (AI) and Internet of Things (IoT) technology, dynamically adjusts the operating parameters of store power-consumers (freezers, air conditioners, lighting, etc.) to achieve optimal energy-saving control, and can support automated demand response (ADR) to assist the power grid to reduce load.
+Application scope
+Floating temperature control method, the refrigerator dynamically changes the temperature control point according to the load change, saving energy consumption of the refrigeration system.
+Intelligent defrost uses AI technology to identify frosting features and defrosting only when frosting features are detected. The number of defrosting times per day can be reduced to 1 to 2 times, saving energy consumption of the refrigeration system.
+Coordinated operation control, and based on dynamic environmental changes, the machine learning model can find the best operation combination of the most energy-saving air conditioner and refrigerator to reduce overall energy consumption.
+Automated demand response, using AI algorithms to predict demand response events and automated demand responses can achieve a low-volume suppression of 5% user load baseline.
+Carbon reduction benefits
+The system can save 5-10% of electricity bills per year on average, and the contract capacity has reached a 5% reduction in the contract capacity. More than 3,000 stores have been introduced in Taiwan, making great contributions to energy conservation and carbon reduction.
+Further reading
+Cold energy demand reaction management system

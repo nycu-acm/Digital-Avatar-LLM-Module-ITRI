@@ -1,0 +1,4 @@
+googletrans==4.0.0rc1
+deep-translator==1.11.4
+chardet==5.2.0
+pathlib

@@ -1,0 +1,26 @@
+front page
+Cutting-edge technology
+Smart life
+Human-computer interaction and service
+Smart manufacturing operation guidance and correctness verification technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Smart manufacturing operation guidance and correctness verification technology.
+In recent years, affected by the return of manufacturing industry and global economic growth, the output value of manufacturing industry has continued to grow. However, the reduction of children has led to a shortage of labor in China. Foreign migrant workers have also caused poor mobility of foreign migrant workers due to entry isolation and diversion to work. They cannot replenish or allocate labor immediately.The Institute of Technology has developed smart manufacturing operation guidance and correctness verification technology to solve three problems: short-term education and training enable employees to quickly work, guide employees to operate in accordance with standardized operations and verify whether employees perform in accordance with standard operating procedures, improve the process and quality of manual production, reduce the occurrence of human errors, and reduce the cost losses caused by reproduction and product damage.
+Features and innovation
+Augmented Reality (AR) or Virtual Reality (VR) provides immersive education and training
+- It can be arranged script situation to assess employees' familiarity with standard operating procedures.
+- Have the ability to control abnormal events to assess employees' adaptability.
+Mixed Reality (MR) provides virtual tag guidance and multi-person remote collaborative work
+- It has a multi-function panel to provide instructions on the steps of text, pictures, voice and image formats.
+- With virtual marking guide assembly steps and 3D virtual object simulation guide.
+- Provide instant employee perspective image transmission to the remote.
+- Provides new virtual marking function for remote experts, and simultaneously renders the newly added virtual marking on wearable devices on the field end.
+Artificial intelligence (AI) assembly process accuracy verification technology
+- Provides four operating specifications: assembly part style, assembly position, assembly result and assembly method.
+- Provides immediate warning of employees with warning lights, sounds or screens before human error occurs.
+Application and benefits
+In the fields of assembly and manufacturing, machine maintenance, factory inspection, special vocational training and experience, interactive entertainment, etc., we provide three service projects: "teaching", "guidance" and "testing". Combining three immersive experience interfaces, visual processing technology and artificial intelligence technology, we will build a complete solution from virtual training experience to actual operation verification, reducing the incidence of human errors and improving employees' random response capabilities.

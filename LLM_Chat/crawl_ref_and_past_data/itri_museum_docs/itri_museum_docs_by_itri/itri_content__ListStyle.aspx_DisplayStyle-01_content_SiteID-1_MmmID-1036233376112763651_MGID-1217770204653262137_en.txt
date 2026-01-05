@@ -1,0 +1,16 @@
+front page
+Cutting-edge technology
+Smart life
+Autonomous mobile system
+Vehicle controller and battery management system testing equipment technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Vehicle controller and battery management system testing equipment technology.
+With the increasing number of automotive-specific microcontrollers (ECUs), the corresponding demand for automotive specifications is becoming more and more demanding.However, due to the complex development process and verification methods of related soft firmware, a large amount of capital is required, so my country has long relied on the supply of foreign businesses.
+Features and innovation
+In order to get rid of the constraints of foreign manufacturers, the Industrial Research Institute pioneered the development of "Car Control/Line Transmission Two-in-One Controller" and "AutoSAR Software" that meets automotive safety functions and environmental reliability certification.
+Application and benefits
+Six vehicle manufacturers have been successfully introduced, cooperated to carry commercially available vehicles, officially entering the mass production stage, assisting Taiwan's small and medium-sized enterprises in software development, transformation and upgrading.

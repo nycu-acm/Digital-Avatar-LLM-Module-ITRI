@@ -1,0 +1,31 @@
+front page
+Industrial Services
+Technology transfer
+Technical name:
+Language Model Research and Application Technology
+Technology introduction
+This study focuses on the development and application of low-resource language models, especially for the learning, promotion and cultural heritage of Taiwan’s indigenous languages.Research originates from the multiple challenges faced by indigenous languages, including high language complexity, sparse population use, and insufficient resource development.In response to these challenges, we focus on the application of digital tools and technologies, by constructing small-scale language models and interactive learning fields to support the needs of tribal language learners and teachers.Technical investigations have found that small-scale NLP models show feasibility in specific tasks, such as speech recognition and oral exercise feedback, and it is also possible to consider using transfer learning technology to shorten model training time and improve efficiency;at the same time, the feasible direction also includes the planning of the display space of the tribal language, aiming to promote and arouse interest in tribal language learning, and further support the two-way inheritance of language and culture.
+Abstract
+The study explores the development and application of low-resource language models to promote the learning and preservation of Taiwan’s indigenous languages. Addressing challenges like linguistic complexity, limited speakers, and insufficient resources, the research focuss on small-scale NLP models, interactive learning tools, and AI-assisted material generation to support educators and learners. Findings show that AI tools reducing teaching burdens and gamified platforms like Quizlet and Kahoot enhance learning outcomes. Small-scale models, aided by transfer learning, prove effective for tasks like speech recognition and feedback. Future plans also involve creating exhibition spaces to spark interest in independent languages ​​and support their cultural and linguistic preservation.
+Technical Specifications
+1. Small-scale NLP tribal language learning stimulation tool
+2. AI language textbook generation tool
+Technical Specification
+1. Small-scale NLP-based Indigenous Language Learning Stimulation Tool
+2. AI-generated Indigenous Language Teaching Material Tool
+Technical Features
+"This study focuses on the development and application of low-resource language models, especially for the learning and promotion of indigenous languages ​​in Taiwan. The research originates from the multiple challenges faced by indigenous languages, including high language complexity, sparse population use, and insufficient resource development. In response to these challenges, we focused on the application of digital tools and technologies, and built small-scale language models and interactive learning fields to support the needs of ethnic language learners and teachers. Technical surveys found that small-scale NLP models show feasibility in specific tasks, such as speech recognition and oral practice feedback, and the use of transfer learning technology can also be considered to shorten the model training time and improve efficiency;at the same time, the feasible direction also includes the planning of the display space of ethnic languages, aiming to promote and arouse interest in ethnic language learning, and further support the two-way inheritance of language and culture.
+The study explores the development and application of low-resource language models to promote the learning and preservation of Taiwan’s indigenous languages. Addressing challenges like linguistic complexity, limited speakers, and insufficient resources, the research focuss on small-scale NLP models, interactive learning tools, and AI-assisted material generation to support educators and learners. Findings show that AI tools reducing teaching burdens and gamified platforms like Quizlet and Kahoot enhance learning outcomes. Small-scale models, aided by transfer learning, prove effective for tasks like speech recognition and feedback. Future plans also involve creating exhibition spaces to spark interest in indigenous languages ​​and support their cultural and linguistic preservation."
+Application scope
+Application of digital interactive textbooks for ethnic languages, auxiliary teacher-generated textbook tools, exhibition venue display content generation or interactive application assistance
+Accept basic suggestions (equipment) for technicians
+Related development software
+Accept basic advice from technicians (professional)
+Tribal language teaching and promotion talents, NLP development talents, exhibition site planning and design talents
+Technical classification
+Design Driver
+Contact Information
+Contact: He Guanting Design Innovation Group
+Phone: +886-49-2345245 or Email: timoh@itri.org.tw
+Customer service line: +886-800-45-8899
+Fax: +886-49-2345234

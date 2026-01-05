@@ -1,0 +1,16 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Semiconductor chips
+Next-generation semiconductor detection technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Next-generation semiconductor detection technology.
+The advanced semiconductor process has reached less than 7 nanometers, and the process film thickness and key size are getting smaller and smaller, and the existing detection technology is facing detection limits.
+Features and innovation
+The Institute of Technology has developed X-ray metering technology, and through the X-ray sub-nanometer resolution capability, it has developed long-wavelength X-ray reflection technology to measure the ultra-thin sub-nanometer film thickness of micro-zone (~50 μm x 50 μm), with the minimum film thickness up to 1 nm; at the same time, it has developed penetrating small-angle X-ray scattering technology and signal enhancement modules to measure the key dimensions of the 7-nanometer, 5-nanometer and 3-nanometer processes online.
+Application and benefits
+The size of the key defective particles in the process has reached below 20 nm, and the quantity concentration is less than 103 particles/mL. However, there is a capability fault in the nanoparticle measurement technology in the solution.The Institute of Technology has developed a sample introduction system and signal enhancement module, combined with the measurement and analysis technology of trace metal particles in solution - single-particle inductively coupled plasma mass spectrometry (spICP-MS), which successfully breaks through the measurement technology fault, and pushes the international spICP-MS size detection limit to 4nm and the quantity concentration detection limit to 40 pixels/mL, which can meet the next generation of semiconductor detection needs.

@@ -1,0 +1,24 @@
+front page
+Cutting-edge technology
+Smart life
+Autonomous mobile system
+Autonomous System and Back-End Management Platform (AMR)
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Autonomous system and back-end management platform (AMR).
+The "AMR Vehicle Independent System and Smart Management Platform" independently developed by the Institute of Technology Research Institute can quickly deploy AMR systems to different types of vehicles based on different types of field application requirements, so that they can move independently without laying magnetic tracks like traditional AGVs (Automated Guided Vehicle).At the same time, this system allows the AMR vehicle to make elastic dynamic route adjustments according to needs, and can also use object detection and multiple perception fusion technology to make the AMR vehicle have safety protection functions such as circumvention and collision avoidance.In addition, with 3D SLAM's map construction (model), path planning is carried out through maps and precise positioning technology, and the backend scheduling and electronic traffic management system (management platform) are synchronized to perform more efficient and designated multiple destination transportation, providing all-round automated handling capabilities.
+Features and innovation
+It is an independent back-end management platform (electronic traffic management system) in China. It is suitable for various types of AMR vehicles and has the ability to elastic scheduling and coordinated operation.
+The route is highly elastic (the route can be adjusted elastically and dynamically).
+High operating efficiency (stop vs. circumcision, accurately detect object patterns to improve operation efficiency).
+Low cost of layout (compared to traditional rail type).
+Indoor/Outdoor seamlessly positioned accurately (can freely shuttle between indoors and outdoors).
+AMR perceptual fusion and reasoning decision-making systems are adapted to various vehicle types.
+Application and benefits
+Field owner (a manufacturer with field that wants to introduce AMR systems): We can provide comprehensive software and hardware solutions and assist in the layout.
+AGV hardware equipment manufacturer: We can assist in converting your company's AGV into an AMR that can be independently mobile, and assist in jointly importing the main proposals to the field.
+Manufacturers of developed AMR: They can provide modules to strengthen or enhance your company's AMR capabilities.
+Sensor hardware manufacturer: can assist in importing the software we developed for integration, expansion and improvement of product complete capabilities.

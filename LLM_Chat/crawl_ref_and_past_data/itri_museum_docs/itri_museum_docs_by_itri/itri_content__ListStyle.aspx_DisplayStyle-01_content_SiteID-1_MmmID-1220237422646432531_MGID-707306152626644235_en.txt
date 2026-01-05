@@ -1,0 +1,27 @@
+front page
+Cutting-edge technology
+Resilient society
+Productivity resilience
+Six-axis force/torque sensing module
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Torque sensing module Type B.
+The six-axis force/torque sensing module can instantly monitor the power and torque of the end effector of the robotic arm, and compensate the posture and force of the robotic arm processing through instant signal feedback to achieve the need to improve the operation accuracy and processing quality of the robotic arm.
+Features and innovation
+The sensing module has a patented decoupling sensing structure design, combined with embedded digital compensation multi-axis reading circuit and nonlinear correction calculation technology, to reduce the impact of other axes coupling and improve sensing accuracy.
+Technical Features
+Low-coupling sensing structure design.
+Embedded reading circuit and MCU.
+IP65 waterproof and dustproof grade.
+Customized specifications.
+Technical Specifications
+Force Range Fx/y/z: ±1000/±1000/±5000 N.
+Torque Range Tx/y/z: ±50 Nm.
+Size: Φ 110mm x H33mm.
+Crosstalk < 2%.
+Application and benefits
+This technology can be applied to robotic arms, through precise force/torque signal and instant feedback control, improve the accuracy of production line assembly, and assist the robotic arms in automated precision assembly/plug-in/sample test/dispensing of fine components, etc.
+Torque sensing module Type A.

@@ -1,0 +1,8 @@
+itri英語wikipedia元數據
+===============================================
+
+source_url：https：//en.wikipedia.org/wiki/industrial_technology_research_institute
+語言：英語
+crawl_timestamp：2025-07-28T14：41：44.361058
+total_sections：7
+total_content_length：11328

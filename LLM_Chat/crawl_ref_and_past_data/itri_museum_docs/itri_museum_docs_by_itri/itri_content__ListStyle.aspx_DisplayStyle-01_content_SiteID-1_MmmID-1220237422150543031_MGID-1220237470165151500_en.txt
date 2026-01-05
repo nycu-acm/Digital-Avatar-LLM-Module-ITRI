@@ -1,0 +1,20 @@
+front page
+Cutting-edge technology
+Resilient society
+Infrastructure resilience
+Robot communication standard technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+OPCUA robot communication standard technology.
+Robot communication standard technology provides a standardized information model, which can present all robot-related data in a unified way.Based on the information model of OPCUA communication architecture, it provides the domestic robot industry with robot communication standards that are in line with international standards, and solves the problems of domestic robot system integration.
+Features and innovation
+Platform independence: from embedded microcontrollers to cloud-based infrastructure.
+Scalable: Ability to add new features without affecting existing applications.
+Information model: used to define complex information.
+Application and benefits
+All relevant status data are clearly visible on the dashboard.The application of this demonstration includes asset management, status monitoring, and preventive maintenance.
+Solve the problems in the integration of domestic robot systems.
+The status data related to the robot is clearly visible on the dashboard.

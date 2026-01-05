@@ -1,0 +1,80 @@
+Laser Valley for Optics Manufacturing - 50 Years of Empowering Industry Through Innovations
+Industrial Technology Research Institute
+Major Milestones
+Half a Century Young
+Navigating the Future
+中
+Major Milestones
+Home
+Major Milestones
+Optoelectronics
+Laser Valley for Optics Manufacturing
+Laser
+Laser Valley for Optics Manufacturing
+Laser
+Computer peripherals
+LEDs & displays
+Read-and-Write Head
+Laser
+3D Printing
+The laser industry in Taiwan has faced several challenges, including a lack of independent products, autonomy in key components, system integration skills, and talents. However, ITRI has taken a proactive approach to solving these dilemmas by initiating efforts to cultivate Taiwan’s independence in laser technologies.
+In 2007, ITRI began developing laser source innovations and key component equipment. This effort was aimed at promoting self-sufficiency in the industry, which was highly dependent on foreign imports at the time. As a result of ITRI’s work, the first metal-material laser additive manufacturing equipment was introduced into Taiwan in 2012, which activated the country’s metal 3D printing technology. Furthermore, ITRI has been working on the development of customized medical materials, including artificial teeth, braces, bones, joints, and surgical instruments. These materials are difficult to mass-produce using traditional metal medical materials due to customization needs. However, ITRI’s efforts have enabled the mass production of such materials. In 2013, ITRI expanded its Laser Valley project by establishing a laser technology incubation center in ITRI’s Southern Region campus to assist firms with business incubation, small-scale production, system integration, and talent training. This initiative resulted in the creation of Taiwan’s first laser trial production plant and metal laser additive manufacturing laboratory, which eventually helped to form the Laser Valley in Southern Taiwan.
+Since 2014, ITRI has been at the forefront of developing key laser technologies, including femtosecond, picosecond, and fiber laser sources, blue laser sources, high-power laser cutting/welding/heat treatment heads, the first large-scale metal additive manufacturing equipment in Taiwan, and various laser processing optical modules. ITRI’s dedication to transferring its laser source and key module technologies has helped establish Taiwan’s first domestically produced laser source company, Brimo Technology, and fostered TTGroup to become the first domestic manufacturer of laser metal 3D printing equipment.
+Thanks to the Laser Valley project, the number of laser source component and product manufacturers has grown from four to more than 15 by 2021. Additionally, the project has incubated 15 startups and more than 250 industry players who have adopted these laser applications. Through laser lectures, seminars, and forums, the Laser Valley project has also contributed to the improvement of laser technologies and talent training.
+Despite that Taiwan’s optoelectronic semiconductor industry was deemed pioneering worldwide, Taiwan at the time lacked a verification platform for advanced and precise laser processes. In 2021, in cooperation with the Taiwan Association of Machinery Industry and Germany’s TRUMPF, ITRI established the Taiwan Semicon & Electronic Industries Laser Application Service Center, which was the country’s first semiconductor and electronics industry process rapid service center, and introduced high-end pulsed lasers from TRUMPF, the only such lasers operating in Asia. The center provides equipment manufacturers with rapid process verification services to accelerate the development of domestic semiconductor equipment.
+ITRI’s expertise in high-energy laser applications has helped metal equipment manufacturers, and assisted equipment manufacturers in launching products such as laser flat cutting machines and laser pipe cutting machines. In 2019, ITRI helped heat exchanger manufacturers establish the first laser full-welding production line in Asia.
+In 2022, ITRI promoted the use of high-energy laser sources for direct diode laser (DDL). After successfully developing these laser sources and processing technologies, ITRI assisted manufacturers in cultivating intelligent laser welding processes and equipment capabilities. By establishing domestic laser manufacturing production lines, ITRI also helped leading Li-ion battery module, industrial metal tubing, and screw fastener manufacturers to upgrade their technology and roll out high-end products. As a result of these efforts, the products entered the markets of electric buses, semiconductors, and automobiles, leading to an improvement in the domestic production rate, driving the manufacturing industry into the era of optics manufacturing.
+2007
+ITRI facilitated the founding of Taiwan’s first Laser Micro-Manufacturing Process Equipment and Technology R&D Alliance, comprising members such as Gallant Precision Machining, Marketech International Corp., and Laser Tek.
+2011
+ITRI signed an agreement with the University of Missouri to further the development of biomedical products, such as tooth and bone-related biomedical products, by applying femtosecond laser technology to material processing and manufacturing.
+2012
+ITRI established the Laser Valley Industry Alliance with Tongtai Machine & Tool, AsiaTree, and Contrel Technology to promote the emerging laser industry, by endorsing five industry clusters including high-power processing applications, micro-processing applications, additive manufacturing applications, laser source applications, and micro-detection applications.
+2013
+ITRI launched Taiwan's first domestically produced nanosecond fiber laser technology.
+2013
+ITRI established a laser technology incubation center in Tainan City, which promoted the formation of the Laser Valley in Southern Taiwan.
+2014
+ITRI and TTGroup co-founded Cyber Laser, the first laser source-based Taiwan-Japan joint venture company in Taiwan, to produce highly competitive laser machines. In the same year, ITRI transferred the nanosecond optical fiber laser technology to Brimo Technology that subsequently launched 10W and 20W pulsed optical fiber laser sources. This enabled Taiwan to finally possess its own laser source technology.
+2015
+ITRI unveiled Taiwan’s first 3D optical fiber laser automatic pipe cutting machine that enabled producing the entire machine and key components.
+2016
+ITRI developed Taiwan’s first large-scale metal additive manufacturing equipment.
+2016
+ITRI launched a high-energy short-pulsed nanosecond laser technology that can be domestically produced.
+2018
+ITRI developed the Energy-Saving Laser Descaling Agent Technology, that employed a low-power, high-pulse optical fiber laser source to perform high-efficiency cleaning. Roughly the size of a suitcase, this energy-saving cleaner was suitable for various fields and materials, significantly elevating operation precision.
+2019
+ITRI formed the the Laser Source Industry Alliance with 13 critical Taiwanese laser companies.
+2020
+ITRI signed an agreement with Excelsius Medical, licensing a module that applies OCM technology to optical biopsy of eye tissue, enabling the world’s first simultaneous viewing of corneal cross-sectional images during surgery.
+2021
+ITRI assisted industry players in rolling out key products such as epitaxy, packaging, and optical fiber active and passive components for markets in Japan and the United States.
+2021
+ITRI helped incorporate laser technology into machinery and equipment companies including Tailift, Ying Han Technology, Soco, CHMER+SwiRoc, and Syntec/Leantec.
+2021
+ITRI and Lithuanian Laser Association established the Taiwan-Lithuania Laser Industry Joint Work Group to introduce Lithuania’s ultra-fast laser source for development and create a resilient laser supply chain in Asia.
+2021
+ITRI founded the Taiwan Semicon & Electronic Industries Laser Application Service Center with Taiwan Association of Machinery Industry, and TRUMPF, and introduced the only such lasers operating in Asia.
+2022
+ITRI developed a high-energy laser welding technology that solved the problems persistent in the traditional welding industry and localized equipment manufacturing.
+MORE
+Origin
+Semiconductors
+ICT
+Materials, Chemicals, and Nanotechnology
+Vehicles
+Metrology
+Textiles
+PCB
+Machinery
+Biomedicine
+Green Energy
+AI and Big Data
+Others
+next
+prev
+© Industrial Technology Research Institute
++886-3-582-0100
+310401
+195, Sec. 4, Chung Hsing Rd., Chutung, Hsinchu, Taiwan 310401, R.O.C.

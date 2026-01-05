@@ -1,0 +1,58 @@
+Developing Computer Peripherals to Advance Taiwan’s Information Industry - 50 Years of Empowering Industry Through Innovations
+Industrial Technology Research Institute
+Major Milestones
+Half a Century Young
+Navigating the Future
+中
+Major Milestones
+Home
+Major Milestones
+Optoelectronics
+Developing Computer Peripherals to Advance Taiwan’s Information Industry
+Computer peripherals
+Developing Computer Peripherals to Advance Taiwan’s Information Industry
+Computer peripherals
+Computer peripherals
+LEDs & displays
+Read-and-Write Head
+Laser
+3D Printing
+During the process of developing personal computers, ITRI actively pursued the advancement of computer peripherals, aiming to seamlessly integrate upstream and downstream product lines in the information industry. To achieve this goal, ITRI’s efforts were focused on the development of disk drives and printers, both requiring expertise in fields such as optics, electronics, machinery, materials, and chemicals. Let’s explore the significant milestones achieved by ITRI in the development of disk drives and printers.
+In 1988, ITRI successfully developed a 3.5-inch 100MB hard disk drive, which played a pivotal role in enhancing Taiwan’s manufacturing capabilities for hard disk components. ITRI ensured that its key components, including voice coil motors (VCMs) responsible for driving the head movement, were entirely made in Taiwan. This encompassed the sourcing of materials, manufacturing of parts, and the overall design of those crucial components.
+ITRI’s dedication to innovation extended to printers as well. In 1984, the Institute constructed a prototype of a 24-dot matrix printer. Subsequently, in 1988, ITRI successfully developed a laser printer, followed by the introduction of the second generation the following year. These achievements solidified Taiwan’s expertise in integrating various technologies for printer development. In 1992, ITRI rolled out a four-in-one laser printer, which combined the functions of printing, faxing, scanning, and photocopying. In 1996, ITRI built a color thermal transfer printer, which incorporated key technologies such as paper feeding system design, color registration and positioning technology, thermal printhead control technology, driver and decoder design, halftone technology, and color reproductions. The development of this printer significantly contributed to the widespread adoption of multimedia products and successfully accelerated office automation across Taiwan.
+1984
+ITRI built a prototype of a 24-dot matrix printer.
+1988
+ITRI developed a 3.5-inch hard disk drive.
+1989
+ITRI developed a second-generation laser printer, solidifying Taiwan’s expertise in integrating various technologies for printer development.
+1991
+ITRI, Greenery Technology, and Hongyi Technology co-developed an ultra-thin hard disk drive measuring 2.5/3.5 inches wide and 0.6 inches tall.
+1992
+ITRI developed a 3.5-inch 240 MB hard disk drive and a 2.5-inch 120MB hard disk drive, cultivating domestic manufacturers’ independent innovation capabilities.
+1992
+TRI rolled out a four-in-one laser printer, which combined the functions of printing, faxing, scanning, and photocopying.
+1996
+ITRI built a color thermal transfer printer, which was a domestically developed prototype.
+2003
+ITRI developed a multifunction color business printer.
+MORE
+Origin
+Semiconductors
+ICT
+Materials, Chemicals, and Nanotechnology
+Vehicles
+Metrology
+Textiles
+PCB
+Machinery
+Biomedicine
+Green Energy
+AI and Big Data
+Others
+next
+prev
+© Industrial Technology Research Institute
++886-3-582-0100
+310401
+195, Sec. 4, Chung Hsing Rd., Chutung, Hsinchu, Taiwan 310401, R.O.C.

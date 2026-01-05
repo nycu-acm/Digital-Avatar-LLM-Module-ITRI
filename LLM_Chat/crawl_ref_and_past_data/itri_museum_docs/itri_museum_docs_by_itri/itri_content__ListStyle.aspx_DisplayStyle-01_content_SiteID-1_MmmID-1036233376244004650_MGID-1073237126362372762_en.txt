@@ -1,0 +1,27 @@
+front page
+Cutting-edge technology
+Sustainable environment
+Green Energy Systems and Environmental Technology
+High energy and high safety resin solid state battery
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+The Institute of Technology has developed a "high-energy and high-safe resin solid-state battery" to replace flammable electrolyte with high-ion conductive resin (NAEPE) materials, which has the characteristics of flame retardancy and good high-temperature cycle life.
+Because lithium-ion batteries have advantages such as high voltage, high energy density and long cycle life, they are widely used in fields such as smart mobile devices, electric transportation vehicles, and renewable energy storage systems.In order to enable electronic products to integrate more application functions and increase the mileage of electric transportation vehicles, improving battery energy density and cycle life specifications has become the goal pursued by all parties.However, traditional electrolytes are prone to leakage, flammability and high voltage oxidation, which hinder the increase in energy density and are accompanied by doubts about battery safety.In order to improve the above problems, replacing organic electrolytes with solid electrolytes has become the mainstream direction of efforts in the market.
+The reticular polyamide epoxy resin (NAEPE) developed by the Institute of Technology is between colloidal and solid. The existing electrolyte is modified by adding polyamide epoxy resin additive (AEO) and starting agent. It can be cured at room temperature without heating or using UV light, maintaining the high ionic conductivity of the original electrolyte and improving high voltage stability.The cured electrolyte has an increased flash ignition temperature, which has the characteristics of flame retardancy and good high-temperature cycle life.NAEPE is used as a solid-state lithium battery, which can be connected in series like a building block, breaking through the single structure of lithium batteries and achieving a high volt voltage of 12V for a battery.This technology overcomes the current problems of high-temperature curing of all resin electrolytes and poor ionic conductivity and electrochemical stability, accelerates the development of material technology of solid-state batteries, and at the same time implements technological industrialization to drive the future development of Taiwan's electric vehicle and energy storage system industries.This technology won the 2020 Top 100 Science and Technology Research and Development Awards (R&D 100 Awards).
+Features and innovation
+To solve the safety of high-energy lithium batteries, a solid electrolyte "reticular polyamide epoxy resin" material has been developed, which can replace flammable electrolyte.This resin can also be used as an adhesive and ceramic material in combination.
+NAEPE can cure at room temperature and has high ionic conductivity and high voltage stability.The cured electrolyte increases the flash ignition point temperature, has flame retardancy and good high-temperature cycle life.
+This technology won the 2020 Top 100 Science and Technology Research and Development Awards (R&D 100 Awards).
+Application and benefits
+Solid-state lithium batteries using NAEPE can be connected in series internally (Cell To Module), breaking through the single structure limitation of lithium batteries and reaching a high voltage of 12V for one battery.The series and parallel components can be saved for the rear battery module, making it easy to design the battery module. In addition, the NAEPE process is easy to operate and can quickly import existing battery processes.It has cooperated with several domestic battery operators to drive the future development of Taiwan's electric vehicle and energy storage system industry.Provide the world with solid-state lithium batteries with high energy density and safety, and promote green and sustainable development.
+The "High Energy and High Safety Resin Solid State Battery" developed by the Institute of Technology won the 2020 Top 100 Science and Technology Research and Development Awards.
+Your browser does not support Javascript, please set the browser to allow Javascript execution. When SCRIPT is closed, please click the link below.
+https://www.youtube.com/watch?v=OBEcNo4DgVI
+.
+The flammable electrolyte is mainly replaced by high-ion conductive resin (NAEPE) materials. Without heating or UV light, NAEPE can cure at room temperature, maintaining the original electrolyte's high ionic conductivity and improving high voltage stability.
+Further reading
+High energy and high safety resin solid state battery
+Solid-state lithium-ion battery technology

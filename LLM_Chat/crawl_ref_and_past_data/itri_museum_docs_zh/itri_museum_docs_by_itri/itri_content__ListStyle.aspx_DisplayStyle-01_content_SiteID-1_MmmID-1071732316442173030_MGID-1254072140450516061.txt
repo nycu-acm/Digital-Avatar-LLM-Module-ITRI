@@ -1,0 +1,33 @@
+首頁
+尖端科技
+智慧化致能技術
+通訊
+5G行動通訊用收發晶片與Beamforming IC
+Share to Facebook
+Share to Twitter
+分享到我的Line
+聯絡我們
+技術簡介
+5G行動通訊。
+第五代行動通訊主要特色在於使用異質網路、毫米波通訊與Massive MIMO等新技術，新技術提供了新的生活願景，同時也為RF設備商帶來全新的挑戰，對此，工研院團隊持續投入5G NR技術開發，自主研發5G sub-6G射頻收發晶片（5G sub-6GHz Wideband RF Transceiver）、39GHz雙極化升降頻射頻收發機（39GHz Dual Polarization Transceiver）、雙極化波束成型晶片組（Dual-polarized Beamforming IC）等技術，可以應用在5G基站、小基站設備之前端模組的設計、通訊系統開發，協助國內廠商技術自主。
+特色與創新
+5G sub-6GHz Wideband RF Transceiver
+支援2x2 MIMO的高整合度單晶片系統。
+提供0.7 GHz ~ 5.2 GHz的超大頻段覆蓋，調變彈性高，可以滿足sub-6GHz的應用情境。
+本系統整合了低相位雜訊的PLL，結合外部數位校正之後可達到良好的sideband suppression和image rejection表現。
+39GHz Dual Polarization Transceiver
+為一高整合度5G NR收發系統，支援37 GHz ~ 40 GHz的工作頻段，並可支援雙極化傳輸。
+本系統整合了低相位雜訊的PLL，結合外部數位校正之後可達到良好的sideband suppression和image rejection表現。
+具備增益溫度補償功能與低功耗的優點，適合小型化基站、微型化基地台等應用場域。
+單晶片系統採用flip chip封裝，可支援SPI介面，工程人員可以很輕鬆的將本晶片系統佈署待驗證的無線通訊模組中。
+Dual-polarized Beamforming IC
+為一高整合度5G NR雙極化波束成形晶片系統，支援工作頻段為39 GHz。
+支援雙極化調變（2 x 2 MIMO or Dual SISOs）。
+支援相位調變（phase-modulation）、可程式化波束成形（programmable beam）、可調波束寬度 （adjustable beam-width functionality）。
+具備增益溫度補償功能與低功耗的優點，適合微型基站、短距離／小型化室內無線設備的場域使用。
+另可搭配工研院自主開發的相位陣列天線、5G SDR驗測平台使用。
+應用與效益
+對於有興趣投入5G NR的業者，工研院可以提供自主研發的5G sub-6G射頻收發晶片、39GHz雙極化升降頻射頻收發機、雙極化波束成型晶片組等技術，所提供的技術服務包括（但不限於）：
+提供晶片組標準品
+提供晶片組設計技術
+依廠商實際規格需求，提供客製化技術開發。

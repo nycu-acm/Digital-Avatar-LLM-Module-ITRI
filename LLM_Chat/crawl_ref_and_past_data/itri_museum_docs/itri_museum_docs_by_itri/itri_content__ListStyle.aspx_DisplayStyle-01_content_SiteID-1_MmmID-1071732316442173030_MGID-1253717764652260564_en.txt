@@ -1,0 +1,20 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+communication
+CBRS Communications Agreement Solutions
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+CBRS Communications Agreement Solution.
+CBRS is the North American FCC Part 96 (FCC Part 96) to regulate the spectrum sharing mechanism when transmitting RF in RF by RF in RF part 3550MHz to 3700MHz. ITRI provides a complete solution that complies with international standards, including CBRS Communication Agreement software modules and Domain Proxy. Customers can integrate CBRS Communication Agreement software modules into their own RF devices or exchange data with ITRI's CBRS domain proxy, and can communicate with the SAS (Spectrum Access System) component that specifies the allocation of spectrum in the standard to obtain the applicable frequency band and power size. This solution can quickly upgrade customers' existing RF equipment to become CBSD and pass FCC certification license to sell CBRS related products in North America.
+Features and innovation
+CBRS communication agreement solutions provided by ITRI:
+Provides software module integration into CBSD and SAS communication.
+Provide Domain Proxy to communicate with SAS after obtaining CBSD information.
+Application and benefits
+The International Organization for Complying with WINNF (WInnForum Standards) is responsible for formulating CBRS Agreements.
+Tested through the international standards communication agreement between two domestic FCC certification testing laboratories.
+Passed the interoperability verification test of three commercial SAS (Federated Wireless/Google/CommScope) in North America.

@@ -1,0 +1,45 @@
+front page
+News Center
+Wonderful audio and video
+Smart life
+Wonderful audio and video
+Smart life
+Healthy and happy
+Sustainable environment
+Where is the fun of technology
+Flirt with technology together
+Net Zero Sustainable New Life
+other
+Neural network video identification operation system
+Date: 2022/05/23
+The neural network video recognition operating system of the Institute of Technology Research is a front-end device with AI image recognition capabilities.It can be set on a smart lamp post for real-time event reminders, such as red line parking, illegal right turn, etc. Through AI computing units and unique AI acceleration computing technology, it can be provided
+Virtualization fault tolerance technology for key online services
+Date: 2022/05/23
+"Virtualization Fault-tolerant technology for Critical Online Services" is mainly aimed at avoiding the problem of system interruption in service when an industrial control system suddenly fails (such as hardware damage, network interruption or power interruption, etc.).This technology uses the fault tolerance backup mechanism of the entire machine system to ensure that the system
+Construction and empirical construction of self-driving car system of the Institute of Technology Research
+Date: 2021/03/04
+The self-driving team of the Institute of Technology Research and Technology uses instant synchronous positioning and map construction technology, combined with AI deep learning and high-precision 3D dynamic map database, successfully integrating vehicle dynamics and accurate and stable control decisions, and successfully obtained the first self-driving test license plate in Taiwan.
+Sleep learning technology
+Date: 2021/03/04
+The Institute of Technology Research and Research is aware of the demand for the sleep market and uses Wi-Fi Radar communication to develop sleep learning technology so that users can achieve the effect of deepening learning and memory while sleeping comfortably.
+Two-arm robot
+Date: 2021/03/04
+"Double-arm robot" has two seven-axis arms, a total weight of 15 kg, a load ratio of 0.3, and a reproducibility of 0.02mm. There are 29 joints in the whole body, which improves freedom of movement, integrates various robot software functions, provides human-like operation capabilities, and can engage in more functions.
+UVC LED Flow Water Sterilization Module
+Date: 2021/03/04
+Using LED as the light source is not only smaller than the traditional ultraviolet sterilization system, but also the sterilization rate can reach more than 99.9%. It is suitable for home, commercial office, medical care home and other places. In the future, it can also be used in areas or countries with difficult and poor sanitary conditions, providing water use.
+Dye-sensitized batteries are used in smart home technology - 2020 Top 100 Global Science and Technology R&D Awards Winner
+Date: 2020/10/12
+The dye-sensitized batteries developed by the Institute of Technology have the advantages of low power generation threshold, lightweight, low cost and 100% technical mastery. Unlike traditional solar cells that require strong light power generation, they can generate electricity as long as the brightness of about 3 candles.
+Industrial Research Institute and Hongyuan develop rapid proofing to promote the local textile industry intelligence
+Date: 2020/09/08
+The "Undergarten Round T Single-Station Multi-Process Automation Station" developed by Hongyuan and Industrial Research Institute jointly developed. After judging by 3D visual sensors, the robotic arm can automatically clamp and place the template of the large body and shoulder fabric into the torch machine and hot stamper to sew the hot stamper, integrating the original sub-station process into a one-stop
+Layered 3D circuit technology
+Date: 2020/08/23
+The epidemic has driven the growth momentum of remote office, online teaching, and online shopping, and accelerated the development of 5G layout. Under the action society, smartphones, laptops, and wearable devices are becoming increasingly thin and short. 3C products need to be stuffed with more antennas and electronic components to meet the consumer electronics under the 5G generation.
+Thermal imaging body temperature abnormality detection technology - Online press conference of the Institute of Epidemic Prevention Technology of the Institute of Engineering and Research
+Date: 2020/05/21
+The novel coronavirus pneumonia (COVID-19) epidemic has spread, and measuring personal body temperature has become a very important screening task!In order to prevent epidemics, the Industrial Research Institute's chemical technology has published "Thermal imaging body temperature abnormality detection technology" for the first time, and the epidemic prevention is deployed in advance.
+1
+2
+3

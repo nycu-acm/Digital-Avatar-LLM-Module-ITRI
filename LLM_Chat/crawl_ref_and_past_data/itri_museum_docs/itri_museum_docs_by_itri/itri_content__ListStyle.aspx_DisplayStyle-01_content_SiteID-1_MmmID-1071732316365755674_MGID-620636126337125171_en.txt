@@ -1,0 +1,26 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Semiconductor chips
+Magnetoresistive random access memory
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Magnetoresistive random access memory.
+When the foundry wants to enter advanced and high-performance microprocessors, the combined memory technology must also break through the existing memory capabilities.Magnetic memory (MRAM) is the most efficient new generation of memory technology, and foreign major manufacturers have invested in the development of this technology.The Institute of Technology has completed the second generation of STT MRAM and the most advanced third-generation SOT MRAM technology, creating the only domestic magnetic memory verification and test mass production platform and ecosystem, providing manufacturers with access to this technology core and reducing the clamping of international manufacturers.
+Features and innovation
+The first domestic SOTMRAM and array chip display: The first patented component structure and process of the Institute of Technology and Research is integrated with domestic foundries on the standard semiconductor process line to complete the verification of SOT MRAM single cell and array chip.
+Accumulate SOTMRAM's own IP, technical accumulation in domestic industries: provide a number of patent applications for the low current demand and high process feasibility encountered in mass production of SOT MRAM.
+STT MRAM array chip: Develop memory units with different characteristics for different application needs, which can be applied to non-data storage functions.
+Application and benefits
+The above research results have been recognized internationally.In addition to many technical papers published in international conferences and international journals, they have also received development cases from many domestic semiconductor manufacturers.
+Related links:
+More technology-related information.
+Further reading
+The Ministry of Economics Technology Leads the Research and Development of Memory Technology.The Industrial Research Institute and the industry and academia jointly publish the world's top magnetic memory technology at VLSI.
+The Ministry of Economics Technology Department creates a new milestone in international links. The Institute of Technology and Research and Development work with UCLA to lead innovative memory technology worldwide
+Ministry of Economics publishes leading global innovative memory, pushing the Institute of Industry and Research to seize new business opportunities for future smart Internet of Things, automotive electronics and AI artificial intelligence
+Advantages of microwave annealing in MRAM MTJ structure
+The Ministry of Economics Technology Department sets a milestone in the research and development of global innovative memory. The Institute of Technology and Research jointly published papers in top VLSI and IMS with Yangming Jiaotong University and Tsinghua University.

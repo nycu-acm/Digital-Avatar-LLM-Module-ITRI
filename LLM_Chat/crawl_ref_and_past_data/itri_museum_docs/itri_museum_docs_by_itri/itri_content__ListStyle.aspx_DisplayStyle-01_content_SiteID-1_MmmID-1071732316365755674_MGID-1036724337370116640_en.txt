@@ -1,0 +1,22 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Semiconductor chips
+3D IC design technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Experimental array memory.
+The Institute of Technology and Research has led the domestic investment in 3D IC research and development, including setting the specifications of the three-dimensional chip design platform, R&D testing interface and test integration architecture, electrostatic discharge protection design, thermal analysis and other design processes, and three-dimensional chip offline verification, as an important vehicle for the development of 3D IC design and process technology.The first three-dimensional chip with logic and memory stacking developed by the Industrial Research Institute is also the first 12-inch wafer 90nm 3D IC in the country to be offline.
+Features and innovation
+Since December 2011, the Industrial Research Institute and Intel have jointly launched a research and development project, investing in the next generation of super-fast and highly power-use stackable DRAM architecture technology suitable for 3D ICs, which can be used in mobile handheld devices, million-gigabit and ultra-large cloud data centers.To assist the domestic industry in the perspective of memory and processor stacking, the Industrial Research Institute has developed heterogeneous integrated design technology, including the development of the independent ThermalMeter integrated thermal analysis system, which can strengthen the thermal analysis of 3D ICs and refine their analysis results to make up for the software shortcomings of EDA manufacturers; it also develops DRAM timing and current evaluation tool (DArT) to provide multiple sets of channel arrangement structures to choose from, and explore advanced modeling technology to optimize DRAM Array architecture, and is actually used in cooperation with Intel and Yuchuang Technology's 45nm DRAM.
+Application and benefits
+These R&D work not only drives domestic related operators to research activities in 3D ICs, enhances Taiwan's semiconductor and memory manufacturers' technical independence, and assists in the construction and development of domestic 3D IC technology and industrial ecology.
+The Industrial Research Institute and Intel announced a five-year 3-D IC cooperation plan.
+Related links:
+More technology-related information.
+Further reading
+Research Institute of Technology and Arm jointly build a new IC design platform
+The Ministry of Economics and Economic Research Institute worked with Arm to build a new IC design platform to assist Taiwan's new industry in combination with key IP to build Taiwan as the center of the Asia-Pacific semiconductor ecosystem

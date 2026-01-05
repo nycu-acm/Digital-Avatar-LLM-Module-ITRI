@@ -1,0 +1,131 @@
+front page
+Industrial Services
+Industry cooperation
+Commissioned research and product development
+Test mass production and molding of hole materials (metal organic skeletons)
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+The Industrial Energy Saving Research Institute has a background in chemistry, chemical industry and mechanical technology, and is committed to the development of industrial energy-saving materials and application systems. The existing technology takes the development of high adsorption and low-energy-consuming pore materials (metal organic framework MOF) as the main axis, and develops material trial production and molding technology, so that low-energy-consuming MOF adsorbents can be widely promoted and applied in the form of powders, slurries, particles, films and wheels, and achieves the ultimate goal of reducing drying power consumption.
+Service Services
+Commissioned research/product development
+Clarify the needs
+Clarify the technical application needs, determine the characteristics required by the developed materials, and formulate screening or development strategies
+Material design/synthesis
+Screen or prepare adsorbents that meet economic and application benefits, and verify their applicability and effectiveness
+Product volume/verification
+According to customer needs, custom adsorbent mass production (kg or ton) or transfer the entire production line output
+Forming technology
+According to application requirements, it provides powder, slurry and granules, honeycomb wheels, films and other molding products.
+Services
+Technology Current Technology
+Optimization and volume increase of novel materials have always been an important link for products to enter the market. This research office has established a complete material development process, provided a 100-kilogram trial production platform, product molding and product testing, and shortened the process of entering the market in the industry.
+Pore ​​Materials (MOF) trial production factory
+The factory has a 100 kg productivity, covering a variety of chemical units from ton-grade high-pressure reactors, purification and separation, drying and crushing to powder forming equipment, and can provide a complete set of chemical synthesis to product forming production services.Equipment units in the factory: 3KL high-pressure reactor, 46-inch large centrifuge, plate and frame filter press, spray drying, circulation oven, and crusher.
+Pore ​​Materials (MOF) trial production factory
+Powder granulation and granular quality measurement platform
+The powder granulation platform has small amount (1-2 kg) granulation test and a 100 kg-level mass production capacity.It also provides three powder granulation modes: rolling granulation, wet (several) granulation and rapid mixed granulation according to customer needs, and customized product properties. Product particles can be further analyzed intact properties, such as product particle size distribution, compressive strength (Crush Strength), wear rate (Attrition Rate), and water adsorption test.
+Powder granulation and granular quality measurement platform
+Powder granulation process: The granulation process can choose a suitable granulation path (path A or B) according to the needs. During the process, particles exceeding the size range can be recycled and used (path C) to improve material usage and yield.
+(A) Wet (extruded strips) granulation (oval)
+(B) Rapid mixing granulation (near round)
+(C) Powder Recycling
+MOF particles
+Powder granulation process diagram
+Rapid mixing granulator
+Wet granulator
+Rolling granulator
+Centrifugal sphere machine
+High true roundness micro-granulation platform
+This micro-granulation platform provides micro-granulation particles with high roundness and good fluidity. The process completely retains the original properties of the material, and can customize the particle size (100 ~ 1000 um) and particle density (based on material characteristics);this system is suitable for granulation of small amounts of high-unit price materials.
+High true roundness micro-granulation platform
+MOF Products
+Adsorbents are industrial basic materials and are widely used in industries such as industrial drying, chemical separation, and gas purification.Among them, low-humidity drying equipment is one of the main energy-consuming equipment in the industrial sector, accounting for 12% of the industrial energy consumption (about 6.6 billion kWh).The adsorbent used in existing low-wet drying equipment consumes too much energy due to low water absorption rate (5%) and high regeneration temperature (160℃).Metal Organic Framework (MOF) has the characteristics of high specific surface area and adjustable pore size, and can be regenerated at low temperature (80℃), which is expected to solve the high energy consumption problem of traditional adsorbents.
+MOF Products
+Metal Organic Skeleton F (MOF) Adsorbent
+MOF hole size adjustable
+Product Specifications
+Product Code
+ITRI-MOF
+ITRI-MOF-1
+ITRI-MOF-2
+Density (g/cm
+3
+)
+1.92
+1.68
+1.71
+Pore ​​size (A)
+3.6
+3.76
+5.8
+purity(%)
+99
+99
+99
+Specific surface area (m
+2
+g
+-1
+)
+713
+766-786
+925-1212
+Temperature tolerated (°C)
+380
+380-415
+450
+application
+Industrial adsorbents
+All-round adsorbent
+Household adsorbent
+Complete desorption temperature (°C)
+80
+80
+80
+Hygroscopic range (RH%)
+20~90
+5~90
+40~90
+Water absorption rate
+_30%RH
+(%)
+25
+30
+14
+Water absorption rate
+_80%RH
+(%)
+35
+35
+41
+Testing Testing Service
+Particle strength test
+The resistance of the particles of the product using a texture Analyzer (Texture Analyzer, model: TA.XT Plus C) is to resist external forces. The stronger the particle strength, the harder the particles, and the more they can maintain the original integrity of the particles during industrial applications. The test data provide particle size and particle strength distribution.
+Particle strength test
+Wear rate test
+The particle wear rate test provides the ability of the product particle surface to resist friction.The lower the wear rate, the less dust generated by wear in the process of transportation or industrial applications. The test of particle wear rate is carried out according to the test standard (D4058-96).
+Wear rate test
+Stacking density measurement
+By measuring the bulk density of particles, the maximum weight of filling under the same volume can be converted.In the application field of fixed volume, the bulk density is a key factor, such as industrial water vapor adsorption (drying). The higher the particle bulk density, the more materials can be filled under the same volume, and the amount of water vapor adsorption in a single cycle also increases.
+Stacking density measurement
+Water gas adsorption measurement
+• Isothermal suction (de-)attachment curve
+• Saturated water absorption rate
+• Water gas adsorption rate
+The self-installed water gas adsorption test system can be fixed or programmatically controlled internal temperature and humidity of the constant temperature and humidity chamber, and the internal volume of the 4-digit electronic balance (Shimadzu) is combined with a timely quantity to record the sample weight changes.Specifications of constant temperature and humidity machine: Terchy; humidity 10~98%RH; temperature -20~40℃.
+Water gas adsorption measurement
+Adsorption isotherm of water
+MOF powder 80%RH/25℃
+Introduction to the Industrial Energy Saving Research Office
+【Contact Window】
+Contact: Chen Junzhen Jing
+Tel: +886-982-723-358
+Email:
+JiunJenChen@itri.org.tw
+Contact: Xie Zonglin Researcher
+Tel: +886-939-379-179
+Email:
+itriA70459@itri.org.tw
+Location: Room 402, Room 64, No. 195, Section 4, Zhongxing Road, Zhudong Town, Hsinchu County

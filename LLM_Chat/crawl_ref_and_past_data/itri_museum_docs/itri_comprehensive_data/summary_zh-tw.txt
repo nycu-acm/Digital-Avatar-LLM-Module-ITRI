@@ -1,0 +1,26 @@
+# ITRI Wikipedia Crawler Summary
+
+Organization: 工業技術研究院 (Industrial Technology Research Institute)
+Crawled at: 2025-07-28T14:16:50.635500
+Source URL: https://zh.wikipedia.org/zh-tw/工業技術研究院
+
+Total sections: 10
+Total content length: 18067 characters
+Infobox items: 14
+Tables: 6
+Lists: 18
+References: 0
+External links: 0
+Categories: 13
+
+## Section Names:
+- 介紹
+- 沿革
+- 爭議
+- 歷任首長
+- 組織
+- 榮譽榜
+- 傑出院友
+- 工研院院士
+- 參考資料
+- 外部連結

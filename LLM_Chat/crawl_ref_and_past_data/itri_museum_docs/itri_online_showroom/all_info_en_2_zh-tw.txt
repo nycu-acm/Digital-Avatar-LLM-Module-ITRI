@@ -1,0 +1,208 @@
+# 工研院線上展示館資訊 (英文版)
+
+本文件包含從工研院線上展示館虛擬導覽中提取的所有展品信息 (us)。
+
+
+
+================================================================================
+場景 1 (us)
+================================================================================
+
+=== DeepLook, a Cloud-Based Video Analytical Platform ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== DeepLook, a Cloud-Based Video Analytical Platform ===
+
+DeepLook is the world's first scalable video analytics PaaS (Platform as a Service) technology that is designed to facilitate the development of domain-specific video surveillance applications. The technology scales to a large number of surveillance cameras in a cost-effective way. Its open structure and unique plug and play nature allow AI to enhance recognitions upon humans, objects and cars. DeepLook provides video summarization, license plate recognition and object analysis, which currently offers excellent service for the police to save their time and resources in investigation.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/s7viWHs388
+
+--------------------------------------------------------------------------------
+
+=== RAIBA—Reconfigurable and Regulatable Battery Array System ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== Hybrid Power Drone with High Payload and Duration ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== Automatic Police UAV Patrol System ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== Automatic Police UAV Patrol System ===
+
+Automatic Police UAV Patrol System contains an UAV Ground Control Station, smart charging station, and multi-rotor UAVs equipped with multi-radio remote ability and 4G/LTE video streaming technology that was specially developed for police use. APUPs provides fully-automated high efficiency patrols and security monitoring, vastly boosting the efficiency and counter-terrorism capabilities of a police force.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/rB8RoMlx0D
+
+--------------------------------------------------------------------------------
+
+=== Key Components of the Variable Frequency Air Conditioning System for Mass Transportation ===
+
+ITRI’s Key Components of the Variable Frequency Air Conditioning System for Mass Transportation technology features two parts:
+1. DC variable speed 3-in-1 scroll compressor: horizontal type(50% reduction in height, 30% reduction in volume), aluminum alloy (50% weight reduction), built-in inverter (multi power input/single power output), full load COP ≥ 2.88 and partial load COP≥ 4.25.
+2. Variable speed fan module: demonstrates high efficiency, high static pressure airfoil outer-rotor type DC fan with power conversion control module, suitable for mass transportation air conditioning system. ITRI’s   high performance and low power consumption module exceeds those of other international companies.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/dukk1YkUFf
+
+--------------------------------------------------------------------------------
+
+=== iRoadSafe ===
+
+ITRI's iRoadSafe is the world's first V2X system solution integrating roadside communications, roadside sensing, and changeable message signs to provide safety warnings to road users. With DSRC NLOS and low latency abilities, iRoadSafe provides real-time alerts to avoid potential traffic accidents.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/gStDDZlzK3
+
+--------------------------------------------------------------------------------
+
+=== Reclaimed Asphalt Pavement Regeneration Technology ===
+
+伊特里（Itri）的瀝青恢復活力的劑將回收的瀝青路面（RAP）轉化為新的路面材料，從而解決了其處置問題。通常，根據漢堡車輪跟踪（HWT）測試，帶有40％RAP的回收瀝青混凝土符合發情電阻的國際標準。這項新型技術為將廢物轉化為材料，為循環經濟創造了新的範式。
+
+圖片：https：//vrmaker.istaging.com/3e5c2a66-9f4a-4174-4174-aff1-3d8d8d0e7449b9/markers/pfuyd2rg4y.jpeg
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+===連接的自動駕駛車輛解決方案===
+
+ITRI的自動駕駛汽車（ADV）是台灣的第一輛自動駕駛中型班車，最多可容納17名乘客，並由經濟事務部（MOEA）贊助。ITRI的ADV通過周圍的傳感子系統（S3）賦予了能力。它是亞洲城市信號交叉點和流量混合的理想選擇。ADV贏得了2019年迪拜自動駕駛運輸挑戰賽的初創企業類別中的二等獎。在2021年，ITRI的Adv在台灣高鐵（THSR）和位於Hsinchu的Zhubei的Sheraton Hsinchu Hotel之間運營並提供班車服務。
+
+圖片：https：//vrmaker.istaging.com/3e5c2a6666-9f4a-4174-aff1-3d8d8d0e7449b9/markers/lj_wcumjgk
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+===固態鋰離子電池的網絡酰胺環氧聚合物電解質，Naepe ====
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+=== raiba-可供電和可調節的電池陣列系統===
+
+Raiba是一個可以感知，思考和重新配置的電池系統。這些功能產生了兩個獨特的功能：異質電池的適應性和零冗餘的失敗函數。Raiba通過實時重新配置系統整合在線可重構電池陣列。它能夠分析電池陣列的組成，模擬可能的配置，選擇並實施適合負載要求，繞過電池耗盡或故障的配置，並確保最佳陣列操作以及充電/放電週期。
+
+圖片：https：//vrmaker.istaging.com/ad5e74e3-fe9f-422b-422b-af82-79253068248f/markers/qggvnrlllzre
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+===固態鋰離子電池的網絡酰胺環氧聚合物電解質，Naepe ====
+
+ITRI的NAEPE是一種易燃的低成本固態電解質，具有高離子電導率和電壓穩定性。它是下一代固態Li-Batteries的關鍵材料，為具有更好的安全性和循環壽命提供高能量密度的細胞。 NAEPE適用於在高壓和溫度下運行的應用。
+
+圖片：https：//vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d8d0e7449b9/markers/2U3S5WWUQQ
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+=== iroadsafe ===
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+===高效載荷和持續時間的混合動力無人機===
+
+ITRI的Hybrid Power無人機具有高有效載荷和持續時間是一個八桿驅動器，可以持續到30公斤有效載荷的懸停時間45分鐘。憑藉高效載荷，無人機甚至可以攜帶顆粒化肥料，證明其作為植物保護的先進農業無人機的能力。
+
+圖片：https：//vrmaker.istaging.com/3E5C2A66-9F4A-4174-AFF1-3D8D8D0E7449B9/markers/wqb3mhkeqj.jpeg
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+
+================================================================================
+場景2（我們）
+================================================================================
+
+===車聯網與自動駕駛解決方案===
+
+ITRI ADV為國內首部自動駕駛中型巴士，搭載自主研發之環周感知次系統(Surrounding Sensing Subsystem, S3)，並整合C-V2X(PC5)/V2X(DSRC)智慧路側系統與自駕營運管理平台，提供市區開放道路自動接駁能力。已於新竹縣竹北市區進行實證運行，第一年提供新竹高鐵往返喜來登飯店之自駕接駁服務，第二年將服務延伸至國際AI智慧園區；並曾於2019年榮獲杜拜全球自駕運輸挑戰賽新創組第二名。
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/vyFBQuOPJU.jpeg
+
+--------------------------------------------------------------------------------
+
+=== iRoadSafe ===
+
+ITRI's iRoadSafe is the world's first V2X system solution integrating roadside communications, roadside sensing, and changeable message signs to provide safety warnings to road users. With DSRC NLOS and low latency abilities, iRoadSafe provides real-time alerts to avoid potential traffic accidents.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/PQgGI90g4e.jpeg
+
+--------------------------------------------------------------------------------
+
+=== Ultra-High Energy Density Flywheel Battery ===
+
+The Ultra-High Energy Density Flywheel Battery possess more kinetic energy than general batteries, which enables the flywheel to safe charge electronic vehicles quickly without limiting the depth of discharge. The Battery is compact and portable and has the capacity for modular design.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/yo_SwMpOAO
+
+--------------------------------------------------------------------------------
+
+=== Reclaimed Asphalt Pavement Regeneration Technology ===
+
+ITRI’s asphalt rejuvenating agent transforms reclaimed asphalt pavement (RAP) into new pavement material and thus solves its disposal problem. In general, recycled asphalt concrete with 40% RAP complies with the international standard of rutting resistance according to the Hamburg Wheel Tracking (HWT) Test. This novel technology creates a new paradigm for circular economy in turning waste into materials.
+
+Key Features:
+1.	High Efficiency: The technology rejuvenates aged asphalt binder and reduces the viscosity to improve compatibility between new and old asphalt.
+2.	High Quality: The ductility of the recycled asphalt binder and the rutting resistance of the recycled asphalt concrete are both improved.
+3.	High Recycle Rate: RAP can be 100% used in asphalt mixtures while meeting domestic requirements.
+4.	Environmental Sustainability: The technology minimizes the use of natural resources, greatly improving the environment.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/HKcohKvCl0
+
+--------------------------------------------------------------------------------
+
+=== RAIBA 可動態重組與自我調節之電池陣列系統 ===
+
+「RAIBA可動態重組與自我調節之電池陣列系統」結合線上恆電流開關模組和電池陣列重組演算軟體，是一款具備感知、思考、分析、重組等四大能力的電池系統。此系統具有「可相容異質電池」和「零備援的容錯特性」兩大特點，能於電池系統運轉前和運轉期間即時分析電池陣列，模擬所有可能組合，並選擇最佳配置並快速切換，智慧調控不同電池模組，同時達到滿足負載需求和延長系統運轉時間。
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/EFoDxgqYbz.jpeg
+
+--------------------------------------------------------------------------------
+
+=== DeepLook, a Cloud-Based Video Analytical Platform ===
+
+DeepLook is the world's first scalable video analytics PaaS (Platform as a Service) technology that is designed to facilitate the development of domain-specific video surveillance applications. The technology scales to a large number of surveillance cameras in a cost-effective way. Its open structure and unique plug and play nature allow AI to enhance recognitions upon humans, objects and cars. DeepLook provides video summarization, license plate recognition and object analysis, which currently offers excellent service for the police to save their time and resources in investigation.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/q2EmjLxvTF.jpeg
+
+--------------------------------------------------------------------------------
+
+=== E-scooter Motor Drive ===
+
+“世界各國已經制定了促進車輛電氣化的政策，以達到全球碳排放量的目標。儘管踏板車的便利性和機動性，但傳統的汽油踏板車仍會增加空氣污染並對環境構成嚴重威脅。
+這款電子駕駛室電動機驅動器結合了世界上第一個具有超過8kW功率的高功率密度E型PIM。由ITRI電力電子研究小組開發的PIM，結合了三相逆變器和直流轉換器，當前電感，保護開關和溫度傳感。高密度包裝（SIP）的利用進一步增加了功率密度的三倍，而離散模塊的功率密度則增加了三倍。此外，使用絕緣金屬底物使電源模塊更加可靠和更安全。靈活的模塊與電動機驅動器集成在一起，並由於其易於變化的特性可以大大降低電動機故障頻率，因此輕鬆地穿透了AM市場。”
+
+圖片：https：//vrmaker.istaging.com/3E5C2A66-9F4A-4174-AFF1-3D8D0E7449B9/markers/markers/ldr4_u7ow_
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+===高效載荷和持續時間的混合動力無人機===
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+===高效載荷和持續時間的混合動力無人機===
+
+ITRI的Hybrid Power無人機具有高有效載荷和持續時間是一個八桿驅動器，可以持續到30公斤有效載荷的懸停時間45分鐘。憑藉高效載荷，無人機甚至可以攜帶顆粒化肥料，證明其作為植物保護的先進農業無人機的能力。
+
+圖片：https：//vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d8d0e7449b9/markers/xo_zpaxz9x
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+=== iroadsafe ===
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------

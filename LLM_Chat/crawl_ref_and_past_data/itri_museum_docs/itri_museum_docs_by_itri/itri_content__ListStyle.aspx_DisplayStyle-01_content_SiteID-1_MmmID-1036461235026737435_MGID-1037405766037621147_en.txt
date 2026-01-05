@@ -1,0 +1,92 @@
+front page
+Industrial Services
+Industry cooperation
+Commissioned research and product development
+Surface and film measurement
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Service Description
+FE-AES
+It is used in the microstructure analysis of nanomaterials and has many functions: block material, powder, thin film crystal phase identification, epitaxial film quality, lattice matching identification, multi-layer film thickness, interface roughness measurement, porosity distribution measurement of porosity films.
+Services
+Phase identification analysis
+Lattice constant analysis
+Grain size analysis
+Specification
+X-ray generator
+Max. output power: 3.0 kW
+Max. high voltage: 60 kV
+Max. anode current: 60 mA
+Stability (HV and anode current): < 0.01% per 10% mains fluctuation
+Ripple: < 2% peak to peak
+goniometer radius : between 130 and 240 mm
+Field emission Oujie Electronic Energy Spectrometer (FE-AES)
+This equipment performs nanomaterial surface and film analysis, including EDS, TA-XPS, BEI, REELS, SEM, AR-AES and other functions.The test piece can be heated to above 600°C, the image resolution is 6nm, the component image resolution is 9nm, and the depth resolution is 1nm.
+Services
+Properties analysis from 0.1nm surface to several μm depth
+Elemental, composition, thickness chemical bonding interface/depth profiling analysis
+allotrope identifier
+Atomic level, work function analysis
+non-reconstructive surface Elemental, composition, thickness chemical bonding interface/depth profiling analysis
+Specification
+image resolution  :7 nm
+element resolution :12 nm
+depth resolution:1 nm
+Energy resolution ~0.05%
+spectrum, line scan, mapping element analysis with 0.1～1μm depth
+application
+EDS, BEI system: element, image contract analysis at 1 μm depth
+UHV specimen chamber: temperature controller range from room temperature to 900 ºK
+3.XPS, (R)EELS systemme: chemical state analysis
+μ-ESCA
+Micro-domain chemical analysis electron spectrometer (μ-ESCA)
+This analyzer provides multi-material nanomaterial analysis, including elements, content, thickness, chemical state, interface, depth analysis, allotropic identification and analysis of "0.1 nanometer to several micron depth".
+Services
+Elemental, composition, thickness chemical bonding interface/depth profiling analysis
+allotrope identifier
+Atomic level, work function analysis
+non-reconstructive surface Elemental, composition, thickness chemical bonding interface/depth profiling analysis
+Specification
+image resolution ＜95 nm (SEM)
+element resolution 3 μm (ESCA)
+depth resolution 1 nm
+chemical state analysis (Analyser ΔE＜25  meV), spectrum, line  scan, mapping  element analysis with 0.1～1μm depth
+application
+FE-AES: To resolve the composition and imaging analysis from surface to 100nm depth.
+UHV specimen preparation Chamber: TEMP. range: 170～1000 ºK
+ISS system: to resolve surface monolayer composition analysis
+UPS system: to resolve valence band and band gap analysis
+TA-XPS: to assist the peak overlap analysis with monochromator (Al target)
+TF-XRD
+Thin film X-ray diffractionator (TF-XRD)
+It is used in the microstructure analysis of nanomaterials and has many functions: block material, powder, thin film crystal phase identification, epitaxial film quality, lattice matching identification, multi-layer film thickness, interface roughness measurement, porosity distribution measurement of porosity films.
+Services
+Phase analysis of Thin polycrystalline layers
+Lattice constant analysis
+Grain size analysis
+Stress analysis
+Specification
+X-ray generator
+Max. output power: 4KW
+Max. high voltage: 60KV
+Max. anode current: 1000mA
+Stability (HV and anode current): < 0.01%
+Vertical goniometer
+decoupled theta / 2theta drive
+XRD
+X-ray diffractionator (XRD)
+It is used in the microstructure analysis of nanomaterials and has many functions: block material, powder, thin film crystal phase identification, epitaxial film quality, lattice matching identification, multi-layer film thickness, interface roughness measurement, porosity distribution measurement of porosity films.
+Services
+Phase identification analysis
+Lattice constant analysis
+Grain size analysis
+Specification
+X-ray generator
+Max. output power: 3.0 kW
+Max. high voltage: 60 kV
+Max. anode current: 60 mA
+Stability (HV and anode current): < 0.01% per 10% mains fluctuation
+Ripple: < 2% peak to peak
+goniometer radius : between 130 and 240 mm

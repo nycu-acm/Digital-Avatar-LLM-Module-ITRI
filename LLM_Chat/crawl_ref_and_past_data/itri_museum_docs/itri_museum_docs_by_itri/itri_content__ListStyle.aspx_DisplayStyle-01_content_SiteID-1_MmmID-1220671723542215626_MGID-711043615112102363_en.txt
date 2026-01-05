@@ -1,0 +1,22 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Artificial intelligence and security
+Web-based state perception of process equipment
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Web-based state perception application of process equipment.
+When the factory performs visualization, the equipment processing status can be read through the handheld mobile device in a webpage mode, and moved to that device, and the screen will automatically switch to the device page. There is no need to select the device to be monitored on the screen. In addition to reading information, the equipment can also be operated.
+Features and innovation
+WebSocket, WebAPI
+Cross-platform architecture
+Embedded plug-in modules and IoT perceptron applications
+Tablets and mobile smart devices use RFID to automatically jump to real-time screens
+Application and benefits
+To meet the needs of manufacturing, promote factories that have not yet been automated and visualized by domestic manufacturers
+Provide traditional industrial automation technology upgrades and capacity velocity, and increase the promotion business opportunities of car parts factories
+Web-based state perception of process equipment.
+Web-based state perception of process equipment.

@@ -1,0 +1,48 @@
+首頁
+尖端科技
+智慧化致能技術
+通訊
+5G系統層級模擬器-WiSE
+Share to Facebook
+Share to Twitter
+分享到我的Line
+聯絡我們
+技術簡介
+5G系統層級模擬器-WiSE。
+在4G／5G行動通訊技術開發與標準制定的階段，參與標準制定的公司為了能夠快速評估各種技術的效能增益，會使用系統層級（system-level simulation；SLS）的模擬平台來對各個不同主題的技術做相關的效能分析。相對於硬體原型平台，SLS軟體模擬平台具有低建構成本、修改彈性高以及驗證快速等優點，因此普遍地被3GPP RAN標準組織與各系統開發商所採用。
+WiSE系統層級模擬器乃模擬大量的基地台與使用者設備之間，彼此同時運作、相互干擾以及各種通訊技術，相互影響下的整體網路行為，用以觀察包含基地台與使用者之整體行動通訊網路之效能。
+特色與創新
+支援NR R15功能之系統層網路佈建設置
+3GPP標準蜂巢型基地台。
+標準小型基地台。
+標準室內基地台。
+支援3GPP 3D SCM通道模型
+InH：12 gNB。
+UMa：19 gNB, ISD:200m or 500m。
+RMa：19 gNB, ISD:1732m or 6000m。
+支援排程方法
+Round-Robin。
+Proportional Fair。
+Subband Proportional Fair。
+具模擬 Downlink 與 Uplink 功能
+具模擬 Traffic model、MAC層、PHY層與基站協同運作
+支援5G-NR之MIMO傳輸功能交叉極化天線模型
+Tx./Rx. Beam Sweeping功能。
+Hybrid Beamforming功能。
+支援Multi-Panel Antenna Array架構。
+支援背對背天線陣列架構。
+支援最新5G NR高頻通道模型
+適用頻率0.5 – 100 GHz
+支援高頻Blockage效應
+支援UE端Rotation效應
+支援空間一致性之通道效應
+支援5G-NR之MU-MIMO傳輸功能
+支援5G-NR之CLI（Cross Link Interference）分析功能
+支援IMT-2020 Evaluation
+3 Usage Scenario：eMBB, mMTC, and uRLLC。
+5 Test Environments：Indoor Hotspot, Dense Urban, Rural, mMTC, and uRLLC。
+應用與效益
+標準研究：3GPP 標準模擬工具。
+學術教學：5G／4G 通訊系統模擬。
+網路研究：MAC／PHY 跨層分析。
+新產品開發：產品與技術效能評估。

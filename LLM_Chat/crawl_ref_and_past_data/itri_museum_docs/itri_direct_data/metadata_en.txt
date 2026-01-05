@@ -1,0 +1,8 @@
+Direct ITRI Website Crawler Metadata
+====
+
+source_url: https://www.itri.org.tw
+crawl_timestamp: 2025-07-28T15:59:48.578997
+organization_name: Institute of Industrial Technology
+english_name: Industrial Technology Research Institute
+abbreviation: ITRI

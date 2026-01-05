@@ -1,0 +1,62 @@
+Self-Developed Cloud-Based Hardware/Software Solutions  - 50 Years of Empowering Industry Through Innovations
+Industrial Technology Research Institute
+Major Milestones
+Half a Century Young
+Navigating the Future
+中
+Major Milestones
+Home
+Major Milestones
+ICT
+Self-Developed Cloud-Based Hardware/Software Solutions
+Cloud and Information Security
+Self-Developed Cloud-Based Hardware/Software Solutions
+Cloud and Information Security
+Desktop Computer
+Laptop Computer
+Network Communication
+Mobile Communication
+Cloud and Information Security
+Taiwan is the world’s largest server exporter; however, due to the lack of system and software integration capabilities, it is challenging for Taiwanese manufacturers to enter the large-scale cloud computing data center market as they have limited influence over server product technology standards. In 2009, ITRI began to work on cloud technology, developing the large-scale cloud computing data center management system and core technologies for data center-scale software-defined networking (SDN) and software-defined storage (SDS). This development supported local ICT manufacturers to transition from the traditional role of low-profit OEMs. It further helped develop cloud computing data center total solutions and establish cloud computing industry chain from scratch.
+In 2012, ITRI completed Taiwan’s first cloud OS that can be integrated with the hyperscale data center virtualization management system. It has been licensed to many businesses, which further facilitated the commercialization of large-scale cloud computing operating systems. In 2014, ITRI officially opened the world’s first Open Compute Project (OCP) Certification Center. The center helped server operators, including Wiwynn and Inventec, develop OCP products and bring in product specification and testing certification. This allowed Taiwanese manufacturers to swiftly enter the global supply chain and booming market of cloud computing data center.
+In addition, ITRI developed the cloud computing system software BAMPI (Bare-Metal Provisioning from ITRI) which can speed up data center deployment efficiency by 200 times and increase the added value and competitiveness of Taiwan-made products. In 2022, to achieve the goal of net-zero emissions, ITRI introduced the Immersion Cooling Technology for Edge Data Centers that uses liquids rather than air conditioning to cool the server, reducing carbon emissions by 40%. The two technologies have already been implemented by major Japanese telecom providers.
+1998
+ITRI completed the Secure Electronic Transaction (SET 1.0) software which was then deployed in over 20 banks and stores in Taiwan. This established a secure trading environment for e-commerce developments.
+2009
+ITRI developed the policing cloud mobile video surveillance system. It is used by the police force in Taiwan as well as during the 2009 Deaflympics and 2010 Flora Expo.
+2010
+ITRI collaborated with Wistron and Inventec to co-develop cloud computing data centers in mobile containers.
+2010
+ITRI assisted in setting up the Taiwan Cloud Computing Consortium to transform Taiwan into a hub of cloud computing technology applications.
+2012
+ITRI signed the Open Cloud Computing System Advanced Technology Licensing (ITRI Cloud OS 2.0) with Delta Electronics, Wistron, and Inventec to help manufacturers boost the commercialization of large-scale cloud computing OS software.
+2014
+ITRI presented the first Taiwan-made smart video surveillance cloud service platform CityEyes. The technology can help the police recover stolen cars within a day, effectively enhancing their work efficiency.
+2014
+ITRI officially opened the world’s first OCP Certification Center to help manufacturers develop OCP products, bring in product specifications and testing certification, and swiftly enter the global supply chain of cloud computing data center.
+2015
+ITRI developed the cloud computing system software BAMPI. With this new software, Taiwanese server manufacturers successfully entered the cloud computing data center system supply chain and the technology was implemented by major Japanese telecom providers such as KDDI.
+2015
+ITRI developed the ITRI Cloud OS OpenStack, the first large-scale cloud computing system software developed in Taiwan. It can be integrated with the cloud-based architecture service of the hyperscale data center virtualization management system.
+2022
+ITRI developed the Immersion Cooling Technology for Edge Data Centers which cuts down carbon emissions by 40%. The technology has already been used by Japanese telecom providers.
+MORE
+Origin
+Semiconductors
+Materials, Chemicals, and Nanotechnology
+Vehicles
+Metrology
+Textiles
+Optoelectronics
+PCB
+Machinery
+Biomedicine
+Green Energy
+AI and Big Data
+Others
+next
+prev
+© Industrial Technology Research Institute
++886-3-582-0100
+310401
+195, Sec. 4, Chung Hsing Rd., Chutung, Hsinchu, Taiwan 310401, R.O.C.

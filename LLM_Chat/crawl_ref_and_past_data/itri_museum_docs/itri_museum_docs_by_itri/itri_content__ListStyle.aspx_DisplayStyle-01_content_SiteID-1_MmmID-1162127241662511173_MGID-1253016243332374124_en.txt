@@ -1,0 +1,16 @@
+front page
+Net Zero Emissions
+Net Zero Technology
+Low carbon manufacturing
+[Carbon Reduction Manufacturing Solution] Digital twins unveiled the black box of steel process - Visual real-life twin system of steel process
+Share to Facebook
+Share to Twitter
+Share to my Line
+Business consultation
+Technology introduction
+Digital twin system for steel output of converter.
+Co-developed with China Steel, combining the physics engine and million-particle fluid simulation technology, the physical behavior in the steel process is accurately restored, and key parameters that cannot be directly measured in the actual situation are further estimated through AI inference and empirical models, thereby establishing a reliable digital twin system to help optimize the intelligent process.
+Application scope
+The digital twin environment of the steel production process is a virtual and real synchronous simulation system. Unlike the material consumption of traditional processes, the general digital twin pure processing, the cost and environmental pollution increased by the difficulty of experience inheritance and potential process failures, this system simulates the flow of more than 6 million particles of liquid steel, accurately reproduces its dynamic physical characteristics, and comprehensively improves the simulation accuracy.Combining the five major AI models, the simulation system is constructed, and the simulation value of the system is optimized through data reconstruction and actual image comparison, achieving a correct matching rate of more than 90%, laying a solid foundation for intelligent and automated steel production.
+Carbon reduction benefits
+Promoting the traditional steel production process to digitalization is more in line with the global push for net zero carbon emissions, reducing the cost of the past converter process, and promoting energy conservation to avoid unnecessary pollution in the fastest and most effective way. At the same time, the numericalization of the process is more conducive to the inheritance of experience.In addition, by realizing digital twin simulation of the complete process, it can be widely used in related industries to provide key technical assets to help them transform digitally.

@@ -1,0 +1,26 @@
+front page
+Cutting-edge technology
+Resilient society
+Productivity resilience
+Torque sensing module
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Torque sensing module.
+The torque sensor uses 17-4PH high-strength stainless steel, and the torque sensing module adopts an integrated sensing structure design, and is equipped with a micro-strain gauge, signal processing circuit and software display control interface to provide users with real-time torque monitoring information.
+Features and innovation
+The integrated sensor structural design can avoid measurement errors caused by slip.The patented torque gauge is integrated with the motor to avoid the influence of oil and temperature and the wear of the gear set or bearing.
+Technical Features
+Patented sensor and motor integrated design technology.
+Digital reading circuit design technology.
+IP65 waterproof and dustproof grade.
+The single-axis torque sensing module can be customized.
+Technical Specifications
+Torque Range: ±500Nm.
+Overload Capability: > 200%.
+/Thickness: 106mm/16mm.
+I/O: USB 2.0/RS485.
+Application and benefits
+It can be used for instant torque monitoring and feedback to improve processing quality.For example: (a) instant torque monitoring and feedback of (b) electric hand tools, (c) intelligent shaft, (d) drilling machine.

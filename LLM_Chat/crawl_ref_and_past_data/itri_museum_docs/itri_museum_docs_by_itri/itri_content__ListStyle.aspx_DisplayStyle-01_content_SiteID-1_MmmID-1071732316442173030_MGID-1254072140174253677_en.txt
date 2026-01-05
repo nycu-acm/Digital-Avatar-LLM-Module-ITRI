@@ -1,0 +1,19 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+communication
+O-RAN energy-saving dedicated network network management technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+O-RAN energy-saving dedicated network network management technology.
+Among the 5G private networks, the base station consumes the most electricity, accounting for more than 50%. Therefore, the Industrial Research Institute develops 5G O-RAN energy-saving management solutions based on the independently developed O-RAN network management system Athena Orchestrator.This energy-saving solution is entered by the tidal energy-saving control of the base station network to achieve maximum energy-saving benefits.5G O-RAN private network energy-saving management technology uses smart energy-saving algorithms to cooperate with network traffic monitoring, prediction and traffic redirection technology. Without reducing service quality, the most base stations can enter a dormant state and reduce power consumption and save the operating costs of 5G private network.This plan has three major characteristics, including: (1) "high deployment efficiency", reducing manual deployment, and improving network efficiency; (2) "high energy saving efficiency", reducing base station energy consumption, and visualization of equipment management (3) "highly flexible application", simplifying dedicated network operations, and fast application replication. In the future, the system can be quickly used in various private network scenarios, such as smart factories, smart hospitals, smart entertainment, smart warehousing and logistics, drones and other 5G vertical application fields.According to the actual measurement results, you can save up to 50% of energy consumption.
+Features and innovation
+The first set of independent development 5G O-RAN private network management solutions in China.
+Have prediction of the usage status of AI/ML auxiliary network.
+This solution is developed based on the K8S virtualization platform and can be quickly deployed.
+Through the modular architecture, this system can quickly optimize and meet various private network needs, whether in smart factories, smart hospitals, smart entertainment, smart warehousing and logistics, drones and other fields.
+Application and benefits
+5G private network vertical application fields, such as smart factories, smart hospitals, smart entertainment, smart warehousing and logistics, drones, etc.

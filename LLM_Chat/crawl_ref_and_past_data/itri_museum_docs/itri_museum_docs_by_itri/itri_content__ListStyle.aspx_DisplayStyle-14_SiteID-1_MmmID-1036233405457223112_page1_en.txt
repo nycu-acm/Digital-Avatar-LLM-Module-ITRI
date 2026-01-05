@@ -1,0 +1,83 @@
+front page
+Industrial Services
+Testing services
+Testing services
+search
+Note: You can enter the detection name/function specification/sample attribute/properties/possible components, certification agency number, contact window name, telephone number
+I want to test
+​
+Keywords:
+NO.
+Testing services
+Condition description
+Certification Agency Number
+contact person
+Telephone
+1
+(Head Space GC) Detection
+Content/purity detection and residual solvent detection with headspace GC
+Huang Qiumei
+03-5912931
+2
+Plasma detection
+Cell samples (cell number greater than 1E+6*3) It is recommended to use the actual cell number of cells in the cell product as the standard, and 1mL*3 of the cell culture medium is a set of test benchmarks.The applicability of the execution method needs to be discussed separately to confirm the sample demand quantity.
+TAF 2345,ilac
+Lin Jiaheng
+03-5918152
+3
+Molecular detection of plasminos
+Sample type: Cell final product whole solution (including cells) or final product supernatant (excluding cells).
+Comply with the Chinese Pharmacopoeia and the European Pharmacopoeia.
+3477
+Lin Jiaheng
+03-5918152
+4
+Black body furnace
+(-30 to 3000) ℃
+Lin Xinyi
+03-5732243
+5
+Viscosity test analysis
+Test temperature: 25 degrees C
+(The temperature increase detection cannot be detected)
+Test sample consistency: 10-1000 cP
+(ex: sauce paste->too thick->X)
+, Organic solvent samples are prone to volatilization and not suitable for detection
+Huang Qiumei
+03-5912931
+6
+Viscosity (diesel)
+TAF-0215
+Yang Shanshan
+03-5732036
+7
+Microphone test
+Test according to the function of the device
+No specific specifications
+Xu Minhuan
+03-5743738
+8
+Hydrochloric acid soluble sulfate, water-soluble
+Yang Shanshan
+03-5732036
+9
+Salt spray test
+Tested according to CNS 8886, JIS Z2371, ISO 9227, ASTM B117
+TAF L0435
+Zeng Fugan
+03-5916835
+10
+Salt spray test
+TAF 2295,ilac
+He Zhanxiao
+03-5918739
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10

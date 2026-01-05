@@ -1,0 +1,26 @@
+front page
+Cutting-edge technology
+Resilient society
+Productivity resilience
+Laser 3D scanning measurement technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Laser 3D scanning measurement technology.
+Taking laser scanning sensing as the core technology, high-speed sensing sampling control technology, full-domain 3D point cloud space reconstruction technology, and online 3D contour scanning measurement algorithm technology are developed to build a fully automated contactless detection system.
+Features and innovation
+Non-contact 3D laser scanning performs multi-point measurements in the entire area, and can capture the surface profile of the object at high speed to achieve fast 3D measurements such as shape, direction, positioning, and deflection.
+Technical Features
+Adaptation: Suitable for highly reflective metal surfaces and highly penetrating glass.
+Elasticity: Replaces customized inspection tools to meet the needs of elastic wire replacement.
+Accurate: Measuring and calculating technology has won the highest accuracy certification for PTB.
+Technical Specifications
+Scanning measurement speed: ≧ 10 mm/s.
+Depth measurement repeatability accuracy: ≦ ±0.002mm ± 2.5℃.
+Synchronous control scan rate: ≧500 lines/sec.
+Point cloud data processing volume: ≧1.5M pts.
+Application and benefits
+It can be used in the measurement of glass panels, automotive components and aerospace components, greatly improving quality inspection efficiency, filling the gap in domestic 3D inspection technology, and providing customers with a one-stop complete solution.
+(Left) Glass panel measurement application; (Second) Automotive component measurement application; (Right) Aerospace component measurement application.

@@ -1,0 +1,14 @@
+front page
+Net Zero Emissions
+Net Zero New Knowledge
+Net Zero Case
+Intelligent carbon reduction system of the Institute of Technology Research Institute, Best Maritime Actuary
+Share to Facebook
+Share to Twitter
+Share to my Line
+Business consultation
+Intelligent carbon reduction system of the Institute of Technology Research Institute, Best Maritime Actuary
+Smart carbon reduction emission system.
+According to statistics from the International Maritime Organization, 90% of global trade is maritime transportation, global shipping accounts for nearly 2% to 3% of global carbon emissions, and currently more than 50% of the world's ships have been more than 10 years.In order to support the United Nations Climate Summit and IMO environmental protection carbon reduction standards, the Industrial Research Institute has developed a smart carbon reduction emission system to assist traditional industries such as injection molding, shipping and transportation, and steel to set carbon reduction goals.
+This system is constructed using Mix Integer Linear Programming (MILP), which improves prediction accuracy through data exploration, deep learning, and reinforcement learning-related technologies. It uses mathematical model optimization techniques and website systems to combine the output ship distribution results to provide fleet navigation route sequence, voyage time, port sequence, line change, loading volume, how to transfer cargo, etc., and uses scheduling to find the best navigation path and conditions, and shortens the scheduling from 4 days to 4 hours, thereby reducing fuel and carbon dioxide emissions.
+According to the estimates of the Institute of Technology Research, Evergreen Shipping uses information such as fleet, office, dock berthing, combined with big data analysis, strengthens the collection and analysis of ship operation energy efficiency data, and instantly calculates the ship's carbon intensity indicators (CII) and other related information, which can save 3% to 5% of fuel costs and reduce carbon emissions by 10% to 15% per year, which is equivalent to saving 4 million metric tons of carbon emissions and millions of dollars of fuel costs annually, which is ahead of the front-line department to meet the global ship carbon reduction efficiency indicators.

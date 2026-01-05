@@ -1,0 +1,26 @@
+front page
+Industrial Services
+Industry cooperation
+Commissioned research and product development
+Advanced memory application platform service
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+5G, AI artificial intelligence, and cloud computing have caused a large amount of data storage and high-speed computing processing needs, and the improvement of memory bandwidth and capacity has become an inevitable trend in development.In order to increase the memory bandwidth and the requirements for signal quality are more rigorous, with the support of the Ministry of Economic Affairs, the Institute of Technology and Micron Technology established an advanced memory application platform service environment to provide basic platforms and services for online and offline learning and design verification in the middle and downstream of Taiwan's electronic industry chain. The three major service purposes of this application platform:
+1. "Provide technical services to assist in scientific and technological innovation":
+Assist domestic system manufacturers or new products in simulation, analysis, design and system testing, as early application system development and engineering support, and accelerate the R&D process.
+2. "Understanding the specifications of advanced memory and helping industry upgrade":
+Assist domestic manufacturers in need of advanced computing, high speed, low power, etc., understand advanced memory specifications and develop advanced memory derivative application products, help Taiwan's industry transformation, and master industrial opportunities in the fields of digital data centers, 5G applications, automotive-on-vehicle, and industrial servers.
+3. "Providing a platform as an effective bridge":
+Provide advanced memory design services and system-side simulation test manufacturing experience, lower the threshold for domestic operators to develop next-generation products, and then complete the domestic electronics industry chain, making products more internationally competitive.
+Advanced memory application platform service.
+Advanced memory application platform process.
+Advanced memory application platform service process:
+Step 1: Application is submitted by the manufacturer (Note 1: Advanced memory application platform for application)
+Step 2: After the acceptance of the Industrial Research Institute, the applicability review will begin
+Step 3: Proposal for applicability review will be formally imported into platform services
+More related information
+Note 1: Advanced memory application platform
+Note 2: Advanced memory application platform service description document
+Note 3: Micron TEP project link

@@ -1,0 +1,29 @@
+front page
+Cutting-edge technology
+Sustainable environment
+Low carbon manufacturing
+Laser Metal Deposition (LMD) Layer Manufacturing Technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Laser metal layering manufacturing technology - Laser metal deposition (LMD).
+Use laser energy to melt the metal powder/wire material sprayed at the same time and cover it on the base material, and form a metal protective layer (resistant to corrosion, anti-wear, anti-rust, etc.) on the base material, or melt and sinter the metal powder/wire and directly form a special molded body, so as to achieve the purpose of 3D printing and forming the shape of the structure.This technology can be produced or recycled and repaired for large and complex working components, solving the problems of time-consuming or difficult traditional processing, and reducing mold opening costs and time course.
+Features and innovation
+Key technologies
+Coaxial visual positioning and temperature control technology.
+High-speed deposition composite spot modulation technology.
+LMD equipment system integration technology.
+Value-added LMD CAD/CAM software technology.
+LMD CAD/CAM simulation platform.
+Technical Specifications
+Max.Laser power: 6KW.
+Fiber core: 200μm, 400μm, 1000μm.
+Processed powder materials: metal powders such as iron, cobalt-based/nickel-based alloys.
+Processed wires: iron, alloy and other metal wires.
+Application and benefits
+The surfaces of pipe fittings and ball valves are covered.
+Mold/metal defect repair.
+3D printing direct manufacturing.
+Laser metal layering manufacturing technology - Laser metal deposition (LMD).

@@ -1,0 +1,24 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Artificial intelligence and security
+Process simulation and intelligent control technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Technology module flow chart.
+This system is a digital twin system based on the first principles of chemical engineering, and is suitable for production efficiency optimization modules and equipment failure prediction modules.Through a large range of simulated data and on-site data, the best operating parameters and real-time product quality prediction can effectively improve production capacity and production efficiency.This system also provides equipment health (%), calculates health through theoretical formulas and predicts future equipment failure time points, so as to make equipment maintenance decisions in advance.
+Features and innovation
+1. Instant monitoring and operating parameter suggestions, taking into account industrial safety and capacity requirements to achieve optimal production efficiency.
+2. Be predictable and preventive, and conduct monitoring, warning and provide judgment and decision-making before problems occur.
+Application and benefits
+Application Performance 1: Factory A reaction system improves product yield by 3%.
+Application Performance 2: Factory B distillation system saves steam consumption by 7%.
+AI-enhanced Model.
+Further reading
+Application of AI in chemical engineering processes
+Identification and prediction of digital twin technology applied to cutting and machining systems
+Digital twins and virtual reality integrated application technology
+Digital twin immersive interaction is applied to process diagnosis of off-site production lines

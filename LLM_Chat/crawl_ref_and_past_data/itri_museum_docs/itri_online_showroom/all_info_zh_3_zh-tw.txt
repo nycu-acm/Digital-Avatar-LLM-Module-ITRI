@@ -1,0 +1,87 @@
+# 工研院線上展示館資訊 (醫療技術展區-中文版)
+
+本文件包含從工研院線上展示館虛擬導覽中提取的所有醫療技術展品信息 (zh-tw)。
+
+
+
+================================================================================
+場景 1 (zh-tw)
+================================================================================
+
+=== EPiTRI Full-Thickness Skin Printing System ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== iSmartweaR ===
+
+iSmartweaR measures physiological conditions including heart rate and respiratory rate using fabric antenna sensing and non-contact nanosecond pulse near-field sensing (NPNS) technology. The system detects signals from up to 20 centimeters, different from existing smart clothing technologies requiring contact with the wearer’s skin. It has been verified for hospital night care with high accuracy. Medical workers can access the real-time information with a mobile app.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/z42kmBN2ys,https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/k11JqRLeK0
+
+--------------------------------------------------------------------------------
+
+=== iPMx Molecular Rapid Test System ===
+
+Instead of the regular Polymerase Chain Reaction (PCR) systems with thermocycler for heating and cooling, ITRI uses innovative heating control methodology to fulfill rapid temperature control and perform both DNA and RNA amplification with a portable and easy-to-operate PCR system. With an innovative designed optical detection module, the whole system can achieve qualitative or semi-quantitative rapid detection for PCR within 30 minutes. In the near future, this system can be applied to clinics, agricultural, aquaculture and GMO testing.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/sW4AR6qJuL
+
+--------------------------------------------------------------------------------
+
+=== iSmartweaR ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== Heart Guardian ===
+
+Heart Guardian is a non-invasive wearable medical device that can monitor cardiac output, heart rate and stroke volume. With a miniature, high-sensitivity patch-type transducer, a low-power Doppler ultrasound signal processing chipset, and a mobile computing device, the Heart Guardian offers continuous real-time monitoring on patients with heart disease or sleep disorder and can be used in home care.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/buPX6GCpGB
+
+--------------------------------------------------------------------------------
+
+=== EPiTRI Full-Thickness Skin Printing System ===
+
+ITRI's innovative bionic full-thickness skin tissue printing technology constructs a multi-layer cell layer with a success rate greater than 85%. The full-skin tissue can be cultured and differentiated within six days, faster than the international average period of three to four weeks. With the rapid printing and fast solidifying properties of the ITRI Bio-ink material, the cells can be cultured for over 28 days with no deformation and shrinkage without needing a linking agent, thus creating a three-dimensional culturing condition for cells. EPiTRI can be used as a testing material for cosmetics and skin-care products, and stem cells can be added to form artificial skin for burn wounds and be 3D printed for mass production to provide industrial benefits.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/xzg2GSD9RC
+
+--------------------------------------------------------------------------------
+
+=== Heart Guardian ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== A Smart-Care Solution for Chronic Wound, iSCare ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== AI Decision Support Technology of Fundus Image in Diabetes Mellitus ===
+
+該技術結合了醫生的專業知識和AI分析的專業知識，這些分析來自人類腦和機器的智能。由於AI模型之間的互補性，因此可以顯著提高單獨任務的功效，例如分類和檢測。通過將硬件和軟件組合到便攜式醫療設備中，很容易攜帶，並縮短診斷時間。該技術增加了潛在患者的早期檢測率，並降低了醫療保健和社會護理的成本。
+
+圖片：https：//vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/gjzekxgiax
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+===一種用於慢性傷口的智能解決方案，ISCARE ===
+
+用於慢性傷口（ISCARE）的智能護理解決方案是一個圖像捕獲系統，該系統集成了顏色，熱圖像和3D圖像。結合AI技術，它可以捕獲傷口的表面地形，對於傷口大小和組織比的測量值估計的精度為85％。然後將幾秒鐘內生成的數據上傳到醫療平台，醫生可以隨時隨地訪問信息，以評估康復進展並確定最佳治療方法。
+
+圖片：https：//vrmaker.istaging.com/ad5e74e3-fe9f-422b-422b-79253068248f/markers/sp1jb0ibtr
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+=== AI糖尿病中的底面圖像的決策支持技術===
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------

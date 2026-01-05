@@ -1,0 +1,23 @@
+front page
+Cutting-edge technology
+Resilient society
+Infrastructure resilience
+Mechanical arm accuracy monitoring device
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Production line application diagram.
+The robotic arm accuracy monitoring module directly measures the deviation at the end of the robotic arm on the production line in a non-contact manner, and issues a warning message as soon as the accuracy of the robotic arm changes, so that the producer can instantly grasp the operating status of the production line.
+Features and innovation
+Contactless measurement: The light beam is projected on the accuracy detection device through the light projector for accuracy monitoring to avoid the offset on the hardware caused by contact measurement.
+Instant monitoring of production line: The lightweight design is easy to place on the production line for monitoring tasks, and the task of accuracy monitoring is achieved without relying on expensive measuring instruments.
+Application and benefits
+Assist domestic manufacturers to monitor the accuracy performance of robotic arms during production line automation, thereby maintaining product yield.
+China has cooperated with Hybrid Xinye (HCG) and introduced it to the polishing and grinding production line.
+Further reading
+Net Zero Sustainability in the Composite Materials Industry
+Application of vibration nanocomposite material in robotic arms
+High energy-saving process precision robot arm
+Multi-degree-of-freedom human hand mechanical palm

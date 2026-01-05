@@ -1,0 +1,488 @@
+<!doctype html>
+<html lang="zh-Hant">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Industrial Technology Research Institute-Homepage</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+<meta name="description" content="content description">
+<meta name="keywords" content="Industrial Technology Research Institute">
+<!--<meta name="Accessible_websit" content="This website passes AA detection level accessibility web page detection">-->
+
+<link rel="icon" type="image/png" href="favicon.ico" />
+<link rel="stylesheet" type="text/css" href="css/sm-core-css.css">
+<link rel="stylesheet" type="text/css" href="css/sm-green.css">
+<link rel="stylesheet" type="text/css" href="css/header.css">
+<link rel="stylesheet" type="text/css" href="css/main.css?20241123">
+<link rel="stylesheet" type="text/css" href="css/slick.css">
+<link rel="stylesheet" type="text/css" href="css/slick-theme.css">
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.smartmenus.min.js"></script>
+<!--Add By 880346 S-->
+<script type="text/javascript" async="true" defer="true" src="js/js_GetIndexData.js"></script>
+<script type="text/javascript" async="true" defer="true" src="js/js_searchfunc.js"></script>
+<script async="true" defer="true" type="text/javascript" src="js/scrollReveal.js"></script>
+<script type="text/javascript" src="js/slick.js"></script>
+<script src="js/members/commonUtil.js"></script>
+<script src="js/clearHTML.js"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<!-- Google Tag Manager -->
+<script src="js/_googlelog.js"></script>
+<!-- End Google Tag Manager -->
+
+<!-- Matomo Tag Manager -->
+<script src="js/_matomolog.js"></script>
+<script type="text/javascript">
+atomoLog();
+//var _mtm = _mtm || [];
+//_mtm.push({ 'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start' });
+//var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+//g.type = 'text/javascript'; g.async = true; g.defer = true; g.src = 'https://piwik.itri.org.tw/piwik/js/container_5EY1fJxn.js'; s.parentNode.insertBefore(g, s);
+</script>
+<!-- End Matomo Tag Manager -->
+
+<!--Add By 880346 E-->
+
+
+<!--[if IE]>
+<script type="text/javascript" src="js/html5shiv.min.js"></script>
+<script type="text/javascript" src="js/html5shiv-printshiv.min.js"></script>
+<![endif]-->
+<noscript>
+<p>class="info-alert">『Your browser does not support JavaScript function. If the web page function cannot be used normally, please enable the browser JavaScript status』</p>
+<link href="css/noscript.css" rel="stylesheet">
+</noscript>
+
+</head>
+
+<body class="index">
+<a href="#mainContent" id="jumpTo" title="Skip to main content block" tabindex="1">Skip to main content block</a>
+<header data-scroll-reveal="enter from the top over 1.5s">
+
+<div class="function_link">
+<a href="#U" id="AU" name="U" title="U" upper right function block" accesskey="U">:::</a>
+<ul>
+<li><a href="ListStyle.aspx?DisplayStyle=SiteMap&SiteID=1" title="Website Guide">Website Guide</a></li>
+<li><a href="https://www.itri-showroom.com/" title="Open window online exhibition hall">Online exhibition hall</a></li>
+<li><a href="ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1307112475533454221" title="Elite Recruitment">Elite Recruitment</a></li>
+<li><a href="ListStyle.aspx?DisplayStyle=12&SiteID=1&MmmID=1036461244216621372" target="_parent" title="Announcement">Announcement</a></li>
+
+
+
+
+<li><a href="https://www.itri.org.tw/english/index.aspx" target="_blank" title="Open a separate window to open English website">English</a></li>
+</ul>
+</div>
+<!--end function_link-->
+
+<div class="header flex">    <h1 class="logo sm lg"><a href="/index.aspx">工業技術研究院</a></h1>    <nav class="main-nav" role="navigation">    <!-- Mobile menu toggle button (hamburger/x icon) -->    <input id="main-menu-state" type="checkbox" />    <label class="main-menu-btn" for="main-menu-state">        <span class="main-menu-btn-icon"></span>        <span class="text">選單按鈕</span>    </label>    <!-- Sample menu definition -->    <ul id="main-menu" class="sm sm-green">        <li class="has-mega-menu"><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220471661407647132' title='&#23574;&#31471;&#31185;&#25216;' target=''>&#23574;&#31471;&#31185;&#25216;</a><ul class="mega-menu"><li><div class="menu_left"><div class="column"> <div class="title">&#23574;&#31471;&#31185;&#25216;</div></div></div><div class="menu_right"><div class="column"><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220471661407647132' title='&#26234;&#24935;&#29983;&#27963;' target=''>&#26234;&#24935;&#29983;&#27963;</a></div><ul><li><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220471661407647132' title='&#20154;&#27231;&#20114;&#21205;&#33287;&#26381;&#21209;' target=''>&#20154;&#27231;&#20114;&#21205;&#33287;&#26381;&#21209;</a></li><li><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376112763651' title='&#33258;&#20027;&#31227;&#21205;&#31995;&#32113;' target=''>&#33258;&#20027;&#31227;&#21205;&#31995;&#32113;</a></li><li><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220471661424412226' title='&#26234;&#24935;&#28040;&#36027;&#33287;&#36939;&#31820;&#26381;&#21209;' target=''>&#26234;&#24935;&#28040;&#36027;&#33287;&#36939;&#31820;&#26381;&#21209;</a></li></ul><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220671723542215626' title='&#26234;&#24935;&#21270;&#33268;&#33021;&#25216;&#34899;' target=''>&#26234;&#24935;&#21270;&#33268;&#33021;&#25216;&#34899;</a></div><ul><li><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220671723542215626' title='&#20154;&#24037;&#26234;&#24935;&#33287;&#36039;&#23433;' target=''>&#20154;&#24037;&#26234;&#24935;&#33287;&#36039;&#23433;</a></li><li><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1071732316365755674' title='&#21322;&#23566;&#39636;&#26230;&#29255;' target=''>&#21322;&#23566;&#39636;&#26230;&#29255;</a></li><li><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1071732316442173030' title='&#36890;&#35338;' target=''>&#36890;&#35338;</a></li><li><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1164152504353117356' title='&#26234;&#24935;&#24863;&#28204;' target=''>&#26234;&#24935;&#24863;&#28204;</a></li></ul></div><div class="column"><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376130625427' title='&#20581;&#24247;&#27138;&#27963;' target=''>&#20581;&#24247;&#27138;&#27963;</a></div><ul><li><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376130625427' title='&#26234;&#24935;&#37291;&#30274;' target=''>&#26234;&#24935;&#37291;&#30274;</a></li><li><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376157517435' title='&#20581;&#24247;&#29031;&#35703;' target=''>&#20581;&#24247;&#29031;&#35703;</a></li></ul></div><div class="column"><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376167172113' title='&#27704;&#32396;&#29872;&#22659;' target=''>&#27704;&#32396;&#29872;&#22659;</a></div><ul><li><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376167172113' title='&#24490;&#29872;&#32147;&#28639;' target=''>&#24490;&#29872;&#32147;&#28639;</a></li><li><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220671723431671212' title='&#20302;&#30899;&#35069;&#36896;' target=''>&#20302;&#30899;&#35069;&#36896;</a></li><li><a href='ListStyle.
+
+aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376244004650' title='&#32160;&#33021;&#31995;&#32113;&#33287;&#29872;&#22659;&#31185;&#25216;' target=''>&#32160;&#33021;&#31995;&#32113;&#33287;&#29872;&#22659;&#31185;&#25216;</a></li></ul></div><div class="column"><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220237422150543031' title='&#38860;&#24615;&#31038;&#26371;' target=''>&#38860;&#24615;&#31038;&#26371;</a></div><ul><li><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220237422150543031' title='&#22522;&#30990;&#35373;&#26045;&#38860;&#24615;' target=''>&#22522;&#30990;&#35373;&#26045;&#38860;&#24615;</a></li><li><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220237422605107207' title='&#36039;&#28304;&#33021;&#28304;&#38860;&#24615;' target=''>&#36039;&#28304;&#33021;&#28304;&#38860;&#24615;</a></li><li><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220237422646432531' title='&#29983;&#29986;&#21147;&#38860;&#24615;' target=''>&#29983;&#29986;&#21147;&#38860;&#24615;</a></li></ul></div></div></li></ul></li><li class="has-mega-menu"><a href='ListStyle.aspx?DisplayStyle=13&SiteID=1&MmmID=1036233405427625204' title='&#29986;&#26989;&#26381;&#21209;' target=''>&#29986;&#26989;&#26381;&#21209;</a><ul class="mega-menu"><li><div class="menu_left"><div class="column"> <div class="title">&#29986;&#26989;&#26381;&#21209;</div></div></div><div class="menu_right"><div class="column"><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=13&SiteID=1&MmmID=1036233405427625204' title='&#25216;&#34899;&#31227;&#36681;' target=''>&#25216;&#34899;&#31227;&#36681;</a></div><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1162132136253006037' title='&#28136;&#38646;&#25490;&#25918;&#26381;&#21209;' target=''>&#28136;&#38646;&#25490;&#25918;&#26381;&#21209;</a></div><ul><li><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1162132136253006037' title='&#28136;&#38646;&#25490;&#25918;&#26381;&#21209;' target=''>&#28136;&#38646;&#25490;&#25918;&#26381;&#21209;</a></li></ul><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=14&SiteID=1&MmmID=1036233405457223112' title='&#27298;&#28204;&#26381;&#21209;' target=''>&#27298;&#28204;&#26381;&#21209;</a></div><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=17&SiteID=1&MmmID=1036233406142165560' title='&#29986;&#26989;&#20154;&#25165;&#22521;&#35347;' target=''>&#29986;&#26989;&#20154;&#25165;&#22521;&#35347;</a></div></div><div class="column"><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=15&SiteID=1&MmmID=1036461234426716651' title='&#29986;&#26989;&#36264;&#21218;&#33287;&#24773;&#22577;' target=''>&#29986;&#26989;&#36264;&#21218;&#33287;&#24773;&#22577;</a></div><ul><li><a href='ListStyle.aspx?DisplayStyle=15&SiteID=1&MmmID=1036461234426716651' title='&#29986;&#26989;&#24773;&#22577;&#28966;&#40670;' target=''>&#29986;&#26989;&#24773;&#22577;&#28966;&#40670;</a></li><li><a href='ListStyle.aspx?DisplayStyle=16&SiteID=1&MmmID=1036461234717610054' title='&#29986;&#26989;&#36264;&#21218;&#25976;&#25818;' target=''>&#29986;&#26989;&#36264;&#21218;&#25976;&#25818;</a></li></ul><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036741260767443023' title='&#38283;&#25918;&#23526;&#39511;&#23460;&#33287;&#21109;&#26989;&#32946;&#25104;' target=''>&#38283;&#25918;&#23526;&#39511;&#23460;&#33287;&#21109;&#26989;&#32946;&#25104;</a></div><ul><li><a href='ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036741260767443023' title='&#38283;&#25918;&#23526;&#39511;&#23460;' target=''>&#38283;&#25918;&#23526;&#39511;&#23460;</a></li><li><a href='ListStyle.aspx?DisplayStyle=03&SiteID=1&MmmID=1036741261042234155' title='&#21109;&#26989;&#32946;&#25104;&#20013;&#24515;' target=''>&#21109;&#26989;&#32946;&#25104;&#20013;&#24515;</a></li></ul></div><div class="column"><div class="mega-menu-title"><a href='ListStyle.
+
+aspx?DisplayStyle=02&SiteID=1&MmmID=1036461235026737435' title='&#26989;&#30028;&#21512;&#20316;' target=''>&#26989;&#30028;&#21512;&#20316;</a></div><ul><li><a href='ListStyle.aspx?DisplayStyle=02&SiteID=1&MmmID=1036461235026737435' title='&#22996;&#35351;&#30740;&#31350;&#21450;&#29986;&#21697;&#38283;&#30332;' target=''>&#22996;&#35351;&#30740;&#31350;&#21450;&#29986;&#21697;&#38283;&#30332;</a></li><li><a href='ListStyle.aspx?DisplayStyle=02&SiteID=1&MmmID=1036461235100031417' title='&#30740;&#30332;&#23526;&#39511;&#23460;' target=''>&#30740;&#30332;&#23526;&#39511;&#23460;</a></li><li><a href='ListStyle.aspx?DisplayStyle=02&SiteID=1&MmmID=1036461235706027373' title='&#29986;&#26989;&#32879;&#30431;' target=''>&#29986;&#26989;&#32879;&#30431;</a></li></ul><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036677772233472511' title='&#28961;&#24418;&#36039;&#29986;&#35413;&#20729;' target=''>&#28961;&#24418;&#36039;&#29986;&#35413;&#20729;</a></div></div></div></li></ul></li><li class="has-mega-menu"><a href='ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036233406747565624' title='&#22283;&#38555;&#21512;&#20316;' target=''>&#22283;&#38555;&#21512;&#20316;</a><ul class="mega-menu"><li><div class="menu_left"><div class="column"> <div class="title">&#22283;&#38555;&#21512;&#20316;</div></div></div><div class="menu_right"><div class="column"><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036233406747565624' title='&#21512;&#20316;&#26696;&#20363;' target=''>&#21512;&#20316;&#26696;&#20363;</a></div><ul><li><a href='ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036233406747565624' title='&#23416;&#30740;&#27231;&#27083;' target=''>&#23416;&#30740;&#27231;&#27083;</a></li><li><a href='ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036233406757430274' title='&#22283;&#38555;&#20225;&#26989;' target=''>&#22283;&#38555;&#20225;&#26989;</a></li></ul></div><div class="column"><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036461264154254513' title='&#21512;&#20316;&#22821;&#20276;' target=''>&#21512;&#20316;&#22821;&#20276;</a></div><ul><li><a href='ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036461264154254513' title='&#20126;&#27954;' target=''>&#20126;&#27954;</a></li><li><a href='ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036461264166221171' title='&#32654;&#27954;' target=''>&#32654;&#27954;</a></li><li><a href='ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036461264273420723' title='&#27472;&#27954;' target=''>&#27472;&#27954;</a></li><li><a href='ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036461264303735476' title='&#22823;&#27915;&#27954;' target=''>&#22823;&#27915;&#27954;</a></li></ul></div><div class="column"><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036461236020411264' title='&#20840;&#29699;&#26381;&#21209;&#25818;&#40670;' target=''>&#20840;&#29699;&#26381;&#21209;&#25818;&#40670;</a></div><ul><li><a href='ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036461236020411264' title='&#22283;&#20839;&#26381;&#21209;&#25818;&#40670;' target=''>&#22283;&#20839;&#26381;&#21209;&#25818;&#40670;</a></li><li><a href='ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036461236030144272' title='&#22283;&#22806;&#26381;&#21209;&#25818;&#40670;' target=''>&#22283;&#22806;&#26381;&#21209;&#25818;&#40670;</a></li></ul></div></div></li></ul></li><li class="has-mega-menu"><a href='ListStyle.aspx?DisplayStyle=06&SiteID=1&MmmID=1036276263153520257' title='&#26032;&#32862;&#20013;&#24515;' target=''>&#26032;&#32862;&#20013;&#24515;</a><ul class="mega-menu"><li><div class="menu_left"><div class="column"> <div class="title">&#26032;&#32862;&#20013;&#24515;</div></div></div><div class="menu_right"><div class="column"><div class="mega-menu-title"><a href='ListStyle.
+
+aspx?DisplayStyle=06&SiteID=1&MmmID=1036276263153520257' title='&#26032;&#32862;&#23460;' target=''>&#26032;&#32862;&#23460;</a></div><ul><li><a href='ListStyle.aspx?DisplayStyle=06&SiteID=1&MmmID=1036276263153520257' title='&#26368;&#26032;&#26032;&#32862;' target=''>&#26368;&#26032;&#26032;&#32862;</a></li><li><a href='ListStyle.aspx?DisplayStyle=06&SiteID=1&MmmID=1125775676601166347' title='&#28548;&#28165;&#35498;&#26126;' target=''>&#28548;&#28165;&#35498;&#26126;</a></li></ul><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=06&SiteID=1&MmmID=1037361433721776651' title='&#27963;&#21205;&#35338;&#24687;' target=''>&#27963;&#21205;&#35338;&#24687;</a></div><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036461236504741606' title='&#38651;&#23376;&#22577;' target=''>&#38651;&#23376;&#22577;</a></div></div><div class="column"><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1036461236174225047' title='&#20986;&#29256;&#21697;' target=''>&#20986;&#29256;&#21697;</a></div><ul><li><a href='ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1036461236174225047' title='&#24037;&#26989;&#25216;&#34899;&#30740;&#31350;&#38498;&#24180;&#22577;' target=''>&#24037;&#26989;&#25216;&#34899;&#30740;&#31350;&#38498;&#24180;&#22577;</a></li><li><a href='ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1036461246000713111' title='&#24037;&#26989;&#25216;&#34899;&#30740;&#31350;&#38498;&#31777;&#20171;' target=''>&#24037;&#26989;&#25216;&#34899;&#30740;&#31350;&#38498;&#31777;&#20171;</a></li><li><a href='ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1036452026061075714' title='&#24037;&#26989;&#25216;&#34899;&#33287;&#36039;&#35338;&#26376;&#21002;' target=''>&#24037;&#26989;&#25216;&#34899;&#33287;&#36039;&#35338;&#26376;&#21002;</a></li><li><a href='ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1036452025756363357' title='&#27231;&#26800;&#24037;&#26989;&#38620;&#35468;' target=''>&#27231;&#26800;&#24037;&#26989;&#38620;&#35468;</a></li><li><a href='ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1036452026017131620' title='&#24037;&#26989;&#26448;&#26009;&#38620;&#35468; ' target=''>&#24037;&#26989;&#26448;&#26009;&#38620;&#35468; </a></li><li><a href='ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1036452026006746322' title='&#38651;&#33126;&#33287;&#36890;&#35338;' target=''>&#38651;&#33126;&#33287;&#36890;&#35338;</a></li><li><a href='ListStyle.aspx?DisplayStyle=18&SiteID=1&MmmID=1254536553446732606' title='&#27704;&#32396;&#22577;&#21578;&#26360;' target=''>&#27704;&#32396;&#22577;&#21578;&#26360;</a></li><li><a href='ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1254536553624761404' title='&#20844;&#30410;&#25163;&#20874;' target=''>&#20844;&#30410;&#25163;&#20874;</a></li></ul></div><div class="column"><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036276261006777130' title='&#31934;&#24425;&#24433;&#38899;' target=''>&#31934;&#24425;&#24433;&#38899;</a></div><ul><li><a href='ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036276261006777130' title='&#26234;&#24935;&#29983;&#27963;' target=''>&#26234;&#24935;&#29983;&#27963;</a></li><li><a href='ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036276261016573377' title='&#20581;&#24247;&#27138;&#27963;' target=''>&#20581;&#24247;&#27138;&#27963;</a></li><li><a href='ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036276261030451724' title='&#27704;&#32396;&#29872;&#22659;' target=''>&#27704;&#32396;&#29872;&#22659;</a></li><li><a href='ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1127554704742226474' title='&#31185;&#25216;&#21738;&#35041;&#36259;' target=''>&#31185;&#25216;&#21738;&#35041;&#36259;</a></li><li><a href='ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1164355506526206143' title='&#19968;&#36215;&#25769;&#31185;&#25216;' target=''>&#19968;&#36215;&#25769;&#31185;&#25216;</a></li><li><a href='ListStyle.
+
+aspx?DisplayStyle=04&SiteID=1&MmmID=1161722673125527636' title='&#28136;&#38646;&#27704;&#32396;&#26032;&#29983;&#27963;' target=''>&#28136;&#38646;&#27704;&#32396;&#26032;&#29983;&#27963;</a></li><li><a href='ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036233415135705271' title='&#20854;&#20182;' target=''>&#20854;&#20182;</a></li></ul><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=22&SiteID=1&MmmID=1126445272415215607' title='Podcast' target=''>Podcast</a></div></div></div></li></ul></li><li class="has-mega-menu"><a href='ListStyle.aspx?DisplayStyle=26&SiteID=1&MmmID=1163726127431613005' title='&#28136;&#38646;&#25490;&#25918;' target=''>&#28136;&#38646;&#25490;&#25918;</a><ul class="mega-menu"><li><div class="menu_left"><div class="column"> <div class="title">&#28136;&#38646;&#25490;&#25918;</div></div></div><div class="menu_right"><div class="column"><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=26&SiteID=1&MmmID=1163726127431613005' title='&#28136;&#38646;&#26032;&#30693;' target=''>&#28136;&#38646;&#26032;&#30693;</a></div><ul><li><a href='ListStyle.aspx?DisplayStyle=26&SiteID=1&MmmID=1163726127431613005' title='&#25919;&#31574;&#27861;&#35215;' target=''>&#25919;&#31574;&#27861;&#35215;</a></li><li><a href='ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1164552551034266046' title='&#28136;&#38646;&#32879;&#30431;' target=''>&#28136;&#38646;&#32879;&#30431;</a></li><li><a href='ListStyle.aspx?DisplayStyle=25&SiteID=1&MmmID=1164121731647300401' title='&#28136;&#38646;&#36264;&#21218;' target=''>&#28136;&#38646;&#36264;&#21218;</a></li><li><a href='ListStyle.aspx?DisplayStyle=26&SiteID=1&MmmID=1164121731675134073' title='&#28136;&#38646;&#26696;&#20363;' target=''>&#28136;&#38646;&#26696;&#20363;</a></li></ul><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1216705037317600401' title='&#35542;&#22727;&#31777;&#22577;' target=''>&#35542;&#22727;&#31777;&#22577;</a></div></div><div class="column"><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1164144620406753564' title='&#28136;&#38646;&#26381;&#21209;' target=''>&#28136;&#38646;&#26381;&#21209;</a></div><ul><li><a href='ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1164144620406753564' title='&#20225;&#26989;&#28136;&#38646;&#26041;&#26696;&#26381;&#21209;' target=''>&#20225;&#26989;&#28136;&#38646;&#26041;&#26696;&#26381;&#21209;</a></li><li><a href='ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1163726127545477703' title='&#30899;&#30436;&#26597;&#33287;&#30899;&#36275;&#36321;' target=''>&#30899;&#30436;&#26597;&#33287;&#30899;&#36275;&#36321;</a></li><li><a href='ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1163726127651626676' title='&#30899;&#26597;&#35657;' target=''>&#30899;&#26597;&#35657;</a></li><li><a href='ListStyle.aspx?DisplayStyle=24&SiteID=1&MmmID=1162130611512704224' title='&#28136;&#38646;&#27704;&#32396;&#23416;&#26657;' target=''>&#28136;&#38646;&#27704;&#32396;&#23416;&#26657;</a></li><li><a href='ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1164121735362566062' title='&#26234;&#27402;&#27861;&#21209;' target=''>&#26234;&#27402;&#27861;&#21209;</a></li><li><a href='ListStyle.aspx?DisplayStyle=23&SiteID=1&MmmID=1164121735352636141' title='&#28136;&#38646;&#27704;&#32396;&#23565;&#31574;&#33287;&#21830;&#27231;' target=''>&#28136;&#38646;&#27704;&#32396;&#23565;&#31574;&#33287;&#21830;&#27231;</a></li></ul></div><div class="column"><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1162127241645721235' title='&#28136;&#38646;&#25216;&#34899;' target=''>&#28136;&#38646;&#25216;&#34899;</a></div><ul><li><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1162127241645721235' title='&#38656;&#27714;&#20351;&#29992;' target=''>&#38656;&#27714;&#20351;&#29992;</a></li><li><a href='ListStyle.
+
+aspx?DisplayStyle=01&SiteID=1&MmmID=1162127241662511173' title='&#20302;&#30899;&#35069;&#36896;' target=''>&#20302;&#30899;&#35069;&#36896;</a></li><li><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1162127241653213770' title='&#33021;&#28304;&#20379;&#32102;' target=''>&#33021;&#28304;&#20379;&#32102;</a></li><li><a href='ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1162127241711441152' title='&#29872;&#22659;&#27704;&#32396;' target=''>&#29872;&#22659;&#27704;&#32396;</a></li></ul></div><div class="column"><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1164126144720047012' title='&#24433;&#38899;&#23560;&#21312;' target=''>&#24433;&#38899;&#23560;&#21312;</a></div><ul><li><a href='ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1164126144720047012' title='&#28187;&#30899;&#25216;&#34899;' target=''>&#28187;&#30899;&#25216;&#34899;</a></li><li><a href='ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1164126144735260001' title='&#20154;&#25165;&#22521;&#32946;' target=''>&#20154;&#25165;&#22521;&#32946;</a></li><li><a href='ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1164126144765520321' title='&#28187;&#30899;&#26032;&#30693;' target=''>&#28187;&#30899;&#26032;&#30693;</a></li></ul><div class="mega-menu-title"><a href='BusinessNegotiation.aspx?DisplayStyle=99&SiteID=1&MmmID=1217346472410014341' title='&#26989;&#21209;&#27965;&#35426;' target=''>&#26989;&#21209;&#27965;&#35426;</a></div><div class="mega-menu-title"><a href='maintenance.aspx?DisplayStyle=98&SiteID=1&MmmID=1217370122045450310' title='&#28136;&#38646;&#26371;&#21729;&#20013;&#24515;' target=''>&#28136;&#38646;&#26371;&#21729;&#20013;&#24515;</a></div></div></div></li></ul></li><li class="has-mega-menu"><a href="javascript:void(0);" title='&#32068;&#32340;&#27704;&#32396;'>&#32068;&#32340;&#27704;&#32396;</a><ul class="mega-menu"><li><div class="menu_left"><div class="column"> <div class="title">&#32068;&#32340;&#27704;&#32396;</div></div></div><div class="menu_right"><div class="column"><div class="mega-menu-title"><a href='https://itrisdgs.itri.org.tw/chi/index' title='&#32068;&#32340;&#27704;&#32396;&#32178;(開新視窗)' target='_blank'>&#32068;&#32340;&#27704;&#32396;&#32178;</a></div></div><div class="column"><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1254536556250062674' title='&#25972;&#21512;&#31649;&#29702;&#25919;&#31574;' target=''>&#25972;&#21512;&#31649;&#29702;&#25919;&#31574;</a></div></div><div class="column"><div class="mega-menu-title"><a href='https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036234671344040362' title='&#31038;&#26371;&#20844;&#30410;' target=''>&#31038;&#26371;&#20844;&#30410;</a></div></div></div></li></ul></li><li class="has-mega-menu"><a href='ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036233406503070534' title='&#38364;&#26044;&#25105;&#20497;' target=''>&#38364;&#26044;&#25105;&#20497;</a><ul class="mega-menu"><li><div class="menu_left"><div class="column"> <div class="title">&#38364;&#26044;&#25105;&#20497;</div></div></div><div class="menu_right"><div class="column"><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036233406503070534' title='&#24037;&#30740;&#38498;&#31777;&#20171;' target=''>&#24037;&#30740;&#38498;&#31777;&#20171;</a></div><ul><li><a href='ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=1036233406503070534' title='&#31777;&#20171;' target=''>&#31777;&#20171;</a></li><li><a href='ListStyle.aspx?DisplayStyle=21&SiteID=1&MmmID=1073041761577765124' title='&#27511;&#20219;&#33891;&#20107;&#38263;' target=''>&#27511;&#20219;&#33891;&#20107;&#38263;</a></li><li><a href='ListStyle.aspx?DisplayStyle=21&SiteID=1&MmmID=1073007573616144203' title='&#27511;&#20219;&#38498;&#38263;' target=''>&#27511;&#20219;&#38498;&#38263;</a></li></ul><div class="mega-menu-title"><a href='ListStyle.
+
+aspx?DisplayStyle=07&SiteID=1&MmmID=1036233406511370353' title='&#33891;&#30435;&#20107;&#26371;' target=''>&#33891;&#30435;&#20107;&#26371;</a></div><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=08&SiteID=1&MmmID=1036233406517556313' title='&#32147;&#29151;&#22296;&#38538;&#20171;&#32057;' target=''>&#32147;&#29151;&#22296;&#38538;&#20171;&#32057;</a></div></div><div class="column"><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=09&SiteID=1&MmmID=1036234671167627651' title='&#24037;&#30740;&#38498;&#38498;&#22763;' target=''>&#24037;&#30740;&#38498;&#38498;&#22763;</a></div><ul><li><a href='ListStyle.aspx?DisplayStyle=09&SiteID=1&MmmID=1036234671167627651' title='&#38498;&#22763;&#31777;&#20171;' target=''>&#38498;&#22763;&#31777;&#20171;</a></li><li><a href='ListStyle.aspx?DisplayStyle=10&SiteID=1&MmmID=1036234671176306267' title='&#38498;&#22763;&#25480;&#35657;' target=''>&#38498;&#22763;&#25480;&#35657;</a></li><li><a href='ListStyle.aspx?DisplayStyle=10&SiteID=1&MmmID=1036234671232642073' title='&#38498;&#22763;&#26371;&#35696;' target=''>&#38498;&#22763;&#26371;&#35696;</a></li></ul></div><div class="column"><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=19&SiteID=1&MmmID=1036261176767170542' title='&#29554;&#29518;&#27054;&#32768;' target=''>&#29554;&#29518;&#27054;&#32768;</a></div><div class="mega-menu-title"><a href='ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1073506342667552677' title='&#35488;&#20449;&#32147;&#29151;' target=''>&#35488;&#20449;&#32147;&#29151;</a></div></div></div></li></ul></li>
+
+</ul>
+<script type="text/javascript" src="js/jquery.smartmenus-plus.js"></script>
+</nav>
+<!--search-->
+<div class="headbar_search"><a href="#" title="S"><i class="icon-search color"></i><span>Search</span></a></div>
+<div class="search_block">
+<div class="search_form">
+<label for="Searchkeyword" class="input-label" style="display:none;">Enter keywords</label>
+<input type="text" id="Searchkeyword" name="Searchkeyword" placeholder="enter keyword" value="" title="enter keyword: keyword search" onfocus="this.placeholder=''" onblur="this.placeholder='Type'" onkeypress="return SearchSubmitEnter(event)">
+<button type="button" title="send" value="send" onclick="DoSearch()"><i class="icon-search color"></i><span>Send</span></button>
+</div><!--search_form-->
+<div class="hot_keyword" style="display:none">
+<div class="hot_label">Popular searches: </div>
+<div class="result" id="hot_queries"></div>
+</div><!--search_hot-->
+</div><!--search-->
+<div class="headbar_search_close"><a href="#" title="Close window"><i class="icon-search color search_close"></i><span>Close window</span></a></div>
+</div><!--end flex-->
+
+<script type="module" src="/js/members/logout.js"></script>
+<script type="module" src="/js/members/community.js?v=2023062703"></script>
+
+
+
+</header>
+
+<section class="sp bigcarousel slider" id="ADBennerData">
+
+<a class='analy_bigImg' href='https://itriwww.itri.org.tw/ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114060317201455004' title='&#21109;&#26032;&#30028;&#22887;&#26031;&#21345;' alt='&#21109;&#26032;&#30028;&#22887;&#26031;&#21345;'>
+<img src='WebTools/Thumbnail.ashx?SiteID=1&MmmID=10001&fd=ADBenner_Pics&Pname=%E6%84%9B%E8%BF%AA%E7%94%9F%E5%AE%A3%E5%82%B3Banner_%E5%AE%98%E7%B6%B2_%E8%8B%B1%E6%96%87.jpg' alt=''>
+<div class='bgcontent'>
+<p class='title'>&#21109;&#26032;&#30028;&#22887;&#26031;&#21345;</p>
+<p>&#21191;&#22890;&#19977;&#37329;&#19977;&#37504;&#19968;&#37509;</p>
+</div>
+</a>
+
+<a class='analy_bigImg' href='https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114031216035173729' title='&#20840;&#29699;&#30334;&#22823;&#21109;&#26032;&#27231;&#27083;' alt='&#20840;&#29699;&#30334;&#22823;&#21109;&#26032;&#27231;&#27083;'>
+<img src='WebTools/Thumbnail.ashx?SiteID=1&MmmID=10001&fd=ADBenner_Pics&Pname=20250312%20%E5%85%A8%E7%90%83%E7%99%BE%E5%A4%A7%E5%89%B5%E6%96%B0%E6%A9%9F%E6%A7%8B%E7%8D%B2%E7%8D%8E%E5%AE%98%E7%B6%B2banner.jpg' alt=''>
+<div class='bgcontent'>
+<p class='title'>&#20840;&#29699;&#30334;&#22823;&#21109;&#26032;&#27231;&#27083;</p>
+<p>&#29378;&#36032;&#26412;&#38498;&#20061;&#24230;&#29554;&#29518;</p>
+</div>
+</a>
+
+<a class='analy_bigImg' href='https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=04&SiteID=1&MmmID=1036233406747565624' title='&#22283;&#38555;&#21512;&#20316;' alt='&#22283;&#38555;&#21512;&#20316;'>
+<img src='WebTools/Thumbnail.ashx?SiteID=1&MmmID=10001&fd=ADBenner_Pics&Pname=banner_nternation%20cooperation.jpg' alt=''>
+<div class='bgcontent'>
+<p class='title'>&#22283;&#38555;&#21512;&#20316;</p>
+<p>&#27091;&#26751;&#22283;&#38555;&#33021;&#37327;&#12288;&#37832;&#32080;&#21109;&#26032;&#32178;&#32097;</p>
+</div>
+</a>
+
+<a class='analy_bigImg' href='https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220471661407647132' title='&#23574;&#31471;&#31185;&#25216;' alt='&#23574;&#31471;&#31185;&#25216;'>
+<img src='WebTools/Thumbnail.ashx?SiteID=1&MmmID=10001&fd=ADBenner_Pics&Pname=BANNER_%E5%B0%96%E7%AB%AF%E7%A7%91%E6%8A%802.jpg' alt=''>
+<div class='bgcontent'>
+<p class='title'>&#23574;&#31471;&#31185;&#25216;</p>
+<p>&#20197;&#36328;&#38936;&#22495;&#30740;&#30332;&#12288;&#24118;&#21205;&#29986;&#26989;&#30332;&#23637;</p>
+</div>
+</a>
+
+<a class='analy_bigImg' href='https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=03&SiteID=1&MmmID=1036741261042234155' title='&#29986;&#26989;&#26381;&#21209;' alt='&#29986;&#26989;&#26381;&#21209;'>
+<img src='WebTools/Thumbnail.ashx?SiteID=1&MmmID=10001&fd=ADBenner_Pics&Pname=%E7%94%A2%E6%A5%AD%E6%9C%8D%E5%8B%99-%E5%89%B5%E6%A5%AD%E8%82%B2%E6%88%90%E4%B8%AD%E5%BF%83.jpg' alt=''>
+<div class='bgcontent'>
+<p class='title'>&#29986;&#26989;&#26381;&#21209;</p>
+<p>&#20840;&#26041;&#20301;&#22810;&#20803;&#26381;&#21209;&#12288;&#25552;&#21319;&#29986;&#26989;&#31478;&#29229;&#21147;</p>
+</div>
+</a>
+
+<!--
+<a href="https://itriweb.itri.org.tw/operation/sitebar_topic.aspx" alt="1" title="1"><img src="images/bigimg_01.jpg"/><div class="bgcontent"><p class="title">Leadership Technology</p><p>High load and high endurance commercial drone</p></div></a>
+<a href="https://itriweb.itri.org.tw/index.aspx" alt="2" title="2"><img src="images/bigimg_02.jpg"/><div class="bgcontent"><p class="title">Industrial Services</p><p>High load, high endurance commercial drone</p></div></a>
+-->
+</section>
+<!--Big Background-->
+<!--Reminder Block-->
+<div class="Notice" >
+<article class="news" style="display:none;">
+<p>In order to upgrade and provide more stable network services, our hospital will conduct network maintenance operations from 09:00 to 15:00 am on June 21 (Saturday). During this period, the website service was temporarily interrupted. Thank you for your understanding and support!
+</p>
+</article>
+</div>
+<section id="mainContent" class="container smT sbg">
+<article class="slickblock">
+<a href="#C" title="Main Content Block" name="C" accesskey="c" class="accesskey">:::</a>
+<div class="hot slider"
+data-scrollreveal="enter bottom over 0.5s 0.25 and ease-in-out move 100px" id="NewsData">
+
+<dl><a class='Analy_NewData' href='ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114072414141446382' title='&#32147;&#28639;&#37096;&#25216;&#34899;&#21496;Bio Asia&#22823;&#23637;AI&#36628;&#21161;&#30123;&#33495;&#33287;&#25239;&#32954;&#30332;&#28814;&#34277;&#29289;&#21560;&#30555;&#12288;&#20445;&#20581;& #12289;&#38928;&#38450;&#12289;&#27835;&#30274;&#19977;&#31661;&#40778;&#30332;&#12288;&#25171;&#36896;&#38860;&#24615;&#20581;&#24247;&#33274;&#28771;' alt='&#32147;&#28639;&#37096;&#25216;&#34899;&#21496;Bio Asia&#22823;&#23637;AI&#36628;&#21161;&#30123;&#33495;&#33287;&#25239;&#32954;&#30332;&#28814;&#34277;&#29289;&#21560;&#30555;&#12288;&#20445;&#20581;&# 12289;&#38928;&#38450;&#12289;&#27835;&#30274;&#19977;&#31661;&#40778;&#30332;&#12288;&#25171;&#36896;&#38860;&#24615;&#20581;&#24247;&#33274;&#28771;'>
+<dt><img src='WebTools/Thumbnail.ashx?SiteID=1&MmmID=1036276263153520257&fd=NewsLetter_Pics&Pname=E55663CE-FC9E-4809-945D-20AA71C03B33_%E5%9C%961_20250724_56.jpg' alt=''></dt>
+<dd><p class='date'>2025-07-24</p><p class='cutstringtofitscreen_news'>&#32147;&#28639;&#37096;&#25216;&#34899;&#21496;Bio Asia&#22823;&#23637;AI&#36628;&#21161;&#30123;&#33495;&#33287;&#25239;&#32954;&#30332;&#28814;&#34277;&#29289;&#21560;&#30555;&#12288;&#20445;&#20581;&#1 2289;&#38928;&#38450;&#12289;&#27835;&#30274;&#19977;&#31661;&#40778;&#30332;&#12288;&#25171;&#36896;&#38860;&#24615;&#20581;&#24247;&#33274;&#28771;</p>
+</dd></a></dl>
+
+<dl><a class='Analy_NewData' href='ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114072209444906334' title='&#19977;&#20117;&#19981;&#21205;&#29986;&#21855;&#21205;RISE-A&#24179;&#21488;&#12288;&#24037;&#30740;&#38498;&#25104;&#21109;&#22987;&#22283;&#38555;&#21512;&#20316;&#22821;&#20276;&#12288;&#20849;&#27083;&#33274;&#26085;&#21322;&#23566;&#39636;&#21109;&#26032;&#37832;&#32080;' alt='&#19977;&#20117;&#19981;&#21205;&#29986;&#21855;&#21205;RISE-A&#24179;&#21488;&#12288;&#24037;&#30740;&#38498;&#25104;&#21109;&#22987;&#22283;&#38555;&#21512;&#20316;&#22821;&#20276;&#12288;&#20849;&#27083;&#33274;&#26085;&#21322;&#23566;&#39636;&#21109;&#26032;&#37832;&#32080;'>
+<dt><img src='WebTools/Thumbnail.ashx?SiteID=1&MmmID=1036276263153520257&fd=NewsLetter_Pics&Pname=1237CA49-5565-4358-B8B5-E23FB96DE065_%E5%9C%96%E4%B8%80_20250722_36.jpg' alt=''></dt>
+<dd><p class='date'>2025-07-22</p><p class='cutstringtofitscreen_news'>&#19977;&#20117;&#19981;&#21205;&#29986;&#21855;&#21205;RISE-A&#24179;&#21488;&#12288;&#24037;&#30740;&#38498;&#25104;&#21109;&#22987;&#22283;&#38555;&#21512;&#20316;&#22821;&#20276;&#12288;&#20849;&#27083;&#33274;&#26085;&#21322;&#23566;&#39636;&#21109;&#26032;&#37832;&#32080;</p>
+</dd></a></dl>
+
+<dl><a class='Analy_NewData' href='ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114072208202292312' title='&#24037;&#30740;&#38498;&#25884;&#25163;&#22235;&#22823;&#37291;&#30274;&#39636;&#31995;&#12288;&#20197;AI&#21109;&#26032;&#31185;&#25216;&#21161;&#25915;&#20581;&#24247;&#33274;&#28771;&#12288;&#25171;&#36896;MedBobi 2.0&#26234;&#24935;&#27770;&#31574;&#37291;&#35703;&#31995;&#32113;&#12288;&#21152;&#36895;&#26234;&#24935;&#37291;&#30274;&#29986;&#26989;&#21319;&#32026;' alt='&#24037;&#30740;&#38498;&#25884;&#25163;&#22235;&#22823;&#37291;&#30274;&#39636;&#31995;&#12288;&#20197;AI&#21109;&#26032;&#31185;&#25216;&#21161;&#25915;&#20581;&#24247;&#33274;&#28771;&#12288;&#25171;&#36896;MedBobi 2.0&#26234;&#24935;&#27770;&#31574;&#37291;&#35703;&#31995;&#32113;&#12288;&#21152;&#36895;&#26234;&#24935;&#37291;&#30274;&#29986;&#26989;&#21319;&#32026;'>
+<dt><img src='WebTools/Thumbnail.ashx?SiteID=1&MmmID=1036276263153520257&fd=NewsLetter_Pics&Pname=C4391541-0B8A-4EE8-BE37-3A5A1D557703_20250721_56_%E5%9C%96%E4%B8%80.jpg' alt=''></dt>
+<dd><p class='date'>2025-07-21</p><p class='cutstringtofitscreen_news'>&#24037;&#30740;&#38498;&#25884;&#25163;&#22235;&#22823;&#37291;&#30274;&#39636;&#31995;&#12288;&#20197;AI&#21109;&#26032;&#31185;&#25216;&#21161;&#25915;&#20581;&#24247;&#33274;&#28771;&#12288;&#25171;&#36896;MedBobi 2.0&#26234;&#24935;&#27770;&#31574;&#37291;&#35703;&#31995;&#32113;&#12288;&#21152;&#36895;&#26234;&#24935;&#37291;&#30274;&#29986;&#26989;&#21319;&#32026;</p>
+</dd></a></dl>
+
+<dl><a class='Analy_NewData' href='ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114071313571019762' title='&#31185;&#25216;&#25033;&#25588;&#19981;&#32570;&#24109;&#65281;&#24037;&#30740;&#38498;&#21109;&#26032;&#20786;&#33021;&#35373;&#20633;&#39347;&#25588;&#28797;&#21312;&#12289;&#21147;&#25402;&#21069;&#32218;&#33521;&#38596;' alt='&#31185;&#25216;&#25033;&#25588;&#19981;&#32570;&#24109;&#65281;&#24037;&#30740;&#38498;&#21109;&#26032;&#20786;&#33021;&#35373;&#20633;&#39347;&#25588;&#28797;&#21312;&#12289;&#21147;&#25402;&#21069;&#32218;&#33521;&#38596;'>
+<dt><img src='WebTools/Thumbnail.ashx?SiteID=1&MmmID=1036276263153520257&fd=NewsLetter_Pics&Pname=5FA45A0E-5F15-4FE9-99C6-679E8AA372CE_%E5%9C%96%E4%B8%80_20250713_01.jpg' alt=''></dt>
+<dd><p class='date'>2025-07-13</p><p class='cutstringtofitscreen_news'>&#31185;&#25216;&#25033;&#25588;&#19981;&#32570;&#24109;&#65281;&#24037;&#30740;&#38498;&#21109;&#26032;&#20786;&#33021;&#35373;&#20633;&#39347;&#25588;&#28797;&#21312;&#12289;&#21147;&#25402;&#21069;&#32218;&#33521;&#38596;</p>
+</dd></a></dl>
+
+<dl><a class='Analy_NewData' href='ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114070912310375344' title='&#24037;&#30740;&#38498;&#36212;&#27472;&#38283;&#21855;6G&#22283;&#38555;&#21512;&#20316;&#12288;&#31309;&#26997;&#24067;&#23616;&#27425;&#19990;&#20195;&#36890;&#35338;&#29983;&#24907;&#31995;' alt='&#24037;&#30740;&#38498;&#36212;&#27472;&#38283;&#21855;6G&#22283;&#38555;&#21512;&#20316;&#12288;&#31309;&#26997;&#24067;&#23616;&#27425;&#19990;&#20195;&#36890;&#35338;&#29983;&#24907;&#31995;'>
+<dt><img src='WebTools/Thumbnail.ashx?SiteID=1&MmmID=1036276263153520257&fd=NewsLetter_Pics&Pname=%E6%96%B0%E8%81%9E%E7%85%A7%E7%89%87%E4%B8%80.jpg' alt=''></dt>
+<dd><p class='date'>2025-07-09</p><p class='cutstringtofitscreen_news'>&#24037;&#30740;&#38498;&#36212;&#27472;&#38283;&#21855;6G&#22283;&#38555;&#21512;&#20316;&#12288;&#31309;&#26997;&#24067;&#23616;&#27425;&#19990;&#20195;&#36890;&#35338;&#29983;&#24907;&#31995;</p>
+</dd></a></dl>
+
+<dl><a class='Analy_NewData' href='ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036276263153520257&MGID=114070310002371792' title='&#24037;&#30740;&#38498;&#25884;&#25163;&#27861;&#22283;Saft&#21512;&#20316;&#30967;&#37240;&#37683;&#37941;&#37616;&#38651;&#27744;&#25216;&#34899;&#12288;&#28145;&#24230;&#25972;&#21512;&#26448;&#26009;&#33287;&#38651;&#27744;&#25216;&#34899;' alt='&#24037;&#30740;&#38498;&#25884;&#25163;&#27861;&#22283;Saft&#21512;&#20316;&#30967;&#37240;&#37683;&#37941;&#37616;&#38651;&#27744;&#25216;&#34899;&#12288;&#28145;&#24230;&#25972;&#21512;&#26448;&#26009;&#33287;&#38651;&#27744;&#25216;&#34899;'>
+<dt><img src='WebTools/Thumbnail.ashx?SiteID=1&MmmID=1036276263153520257&fd=NewsLetter_Pics&Pname=F6711A1F-6B83-42FC-9921-216DC85F75B5_%E5%9C%96%E4%B8%80_20250703_54.jpg.png' alt=''></dt>
+<dd><p class='date'>2025-07-03</p><p class='cutstringtofitscreen_news'>&#24037;&#30740;&#38498;&#25884;&#25163;&#27861;&#22283;Saft&#21512;&#20316;&#30967;&#37240;&#37683;&#37941;&#37616;&#38651;&#27744;&#25216;&#34899;&#12288;&#28145;&#24230;&#25972;&#21512;&#26448;&#26009;&#33287;&#38651;&#27744;&#25216;&#34899;</p>
+</dd></a></dl>
+
+</div>
+<!--end slide-->
+</article>
+<!--middle slide-->
+<article class="col_3">
+<h2>Sharing technology</h2>
+<div class="block_01">
+<dl>
+<dt>Smart Life</dt>
+<dd>
+<p><a href="ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220471661407647132"
+title="Human-computer interaction and service">Human-computer interaction and service</a></p>
+<p><a href="ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376112763651"
+title="Independent Mobile System">Independent Mobile System</a></p>
+<p><a href="ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220471661424412226"
+title="Smart Consumption and Operation Service">Smart Consumption and Operation Service</a></p>
+</dd>
+</dl>
+<div class="carousel02 slider" id="ilife">
+
+<div class='carousel_content'>
+<a class='Analy_ilife' href='ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036233376112763651&MGID=1036737742574626416' title='&#33​258;&#21205;&#21270;&#20998;&#25536;&#20489;&#20786;&#27770;&#31574;AI&#31995;&#32113;'>
+<img src='WebTools/Thumbnail.ashx?SiteID=1&MmmID=1036233376112763651&fd=MessagessPic_Pics&Pname=%E6%9C%8D%E7%A7%91_%E8%87%AA%E5%8B%95%E5%8C%96%E5%88%86%E6%8F%80%E5%80%89%E5%84%B2%E6%B1%BA%E7%AD%96AI%E7%B3%BB%E7%B5%B1_%E6%B8%85%E5%96%AE.jpg' alt=''>
+<p class='carousel_title'>&#33258;&#21205;&#21270;&#20998;&#25536;&#20489;&#20786;&#27770;&#31574;AI&#31995;&#32113;</p>
+<p class='cutstringtofitscreen_hightech'>&#24037;&#30740;&#38498;&#33258;&#21205;&#21270;&#20998;&#25536;&#20489;&#20786;&#27770;&#31574;AI&#31995;&#32113;&#65292;&#21487;&#32302;&#30701 ;&#32080;&#21934;&#21040;&#20986;&#36008;&#26178;&#38291;&#65292;&#36914;&#20986;&#36008;&#38928;&#28204;&#28310;&#30906;&#24230;&#25552;&#21319;&#65292;&#31680;&#30465;&#20489;...</p>
+<p class='more'>More information</p>
+</a>
+</div>
+
+</div>
+</div>
+<!--eng block_01 Smart life-->
+<div class="block_02">
+<dl>
+<dt>Healthy and happy</dt>
+<dd>
+<p><a href="ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376130625427"
+title="Smart Medical">Smart Medical</a></p>
+<p><a href="ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376157517435"
+title="Health Care">Health Care</a></p>
+</dd>
+</dl>
+<div class="carousel02 slider" id="icare">
+
+<div class='carousel_content'>
+<a class='Analy_icare' href='ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036233376130625427&MGID=1127334725341773111' title='&#36229;&#20998;&#23376;&#35079;&#21512;&#25216;&#34899;&#38283;&#30332;&#30524;&#24460;&#25151;&#34277;&#27700;'>
+<img src='WebTools/Thumbnail.ashx?SiteID=1&MmmID=1036233376130625427&fd=MessagessPic_Pics&Pname=A%20Novel%20Eye%20Drop%20Formulation%20for%20Treating%20Wet%20Age-Related%20Macular%20Degeneration.jpg' alt=''>
+<p class='carousel_title'>&#36229;&#20998;&#23376;&#35079;&#21512;&#25216;&#34899;&#38283;&#30332;&#30524;&#24460;&#25151;&#34277;&#27700;</p>
+<p class='cutstringtofitscreen_hightech'>&#24037;&#30740;&#38498;&#36930;&#20197;&#29544;&#29305;&#20849;&#21332;&#21512;&#36229;&#20998;&#23376;&#35079;&#21512;&#36617;&#39636;&#25216;&#34899; &#65292;&#20811;&#26381;&#20102;&#30524;&#28404;&#21137;&#28961;&#27861;&#23565;&#30524;&#24213;&#32068;&#32340;&#20659;&#36958;&#34277;&#29289;&#30340;&#22256;&#38627;&#65292;&#38283;...</p>
+<p class='more'>More information</p>
+</a>
+</div>
+
+</div>
+</div>
+<!--eng block_02 Healthy and happy life-->
+<div class="block_03">
+<dl>
+<dt>Sustainable Environment</dt>
+<dd>
+<p><a href="ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376167172113"
+title="Circular Economy">Circular Economy</a></p>
+<p><a href="ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1220671723431671212"
+title="Low Carbon Manufacturing">Low Carbon Manufacturing</a></p>
+<p><a href="ListStyle.aspx?DisplayStyle=01&SiteID=1&MmmID=1036233376244004650"
+title="Green Energy Systems and Environmental Technology">Green Energy Systems and Environmental Technology</a></p>
+</dd>
+</dl>
+<div class="carousel02 slider" id="ienv">
+
+<div class='carousel_content'>
+<a class='Analy_ienv' href='ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036233376167172113&MGID=620634543666664701' title='&#24290;&#28082;&#26230;&#38754;&#26495;&#20877;&#21033;&#29992;&#34389;&#29702;&#31995;&#32113;'>
+<img src='WebTools/Thumbnail.ashx?SiteID=1&MmmID=1036233376167172113&fd=MessagessPic_Pics&Pname=%E6%B6%B2%E6%99%B6%E9%9D%A2%E6%9D%BF%E5%86%8D%E5%88%A9%E7%94%A8%E8%99%95%E7%90%86%E6%8A%80%E8%A1%93.jpg' alt=''>
+<p class='carousel_title'>&#24290;&#28082;&#26230;&#38754;&#26495;&#20877;&#21033;&#29992;&#34389;&#29702;&#31995;&#32113;</p>
+<p class='cutstringtofitscreen_hightech'>&#24037;&#30740;&#38498;&#38283;&#30332;&#20986;&#12300;&#24290;&#28082;&#26230;&#38754;&#26495;&#20877;&#21033;&#29992;&#34389;&#29702;&#31995;&#32113; &#12301;&#65292;&#23559;&#20841;&#29255;&#23553;&#35037;&#28082;&#26230;&#30340;&#29627;&#29827;&#22522;&#26495;&#20998;&#38626;&#24460;&#65292;&#20877;&#29992;&#28629;&#24335;&#24490;...</p>
+<p class='more'>More information</p>
+</a>
+</div>
+
+</div>
+</div>
+<!--eng block_03 Sustainable environment-->
+<div class="block_05">
+<dl>
+<dt>Resilient Society</dt>
+<dd>
+<p><a href="ListStyle.aspx?DisplayStyle=01&amp;SiteID=1&amp;MmmID=1220237422150543031"
+title="Infrastructure Resilience">Infrastructure Resilience</a></p>
+<p><a href="ListStyle.aspx?DisplayStyle=01&amp;SiteID=1&amp;MmmID=1220237422605107207"
+title="Resource and Energy Resilience">Resource and Energy Resilience</a></p>
+<p><a href="ListStyle.aspx?DisplayStyle=01&amp;SiteID=1&amp;MmmID=1220237422646432531"
+title="Productivity Resilience">Productivity Resilience</a></p>
+</dd>
+</dl>
+<div class="carousel02 slider" id="icomn">
+
+<div class='carousel_content'>
+<a class='Analy_ResilientSociety' href='ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1220237422646432531&MGID=744026720625136051' title='&#21205;&#24907;&#21147;&#24863;&#28204;&#27169;&#32068;'>
+<img src='WebTools/Thumbnail.ashx?SiteID=1&MmmID=1220237422646432531&fd=MessagessPic_Pics&Pname=%E5%8B%95%E6%85%8B%E5%8A%9B%E6%84%9F%E6%B8%AC%E6%A8%A1%E7%B5%84_800x533.jpg' alt=''>
+<p class='carousel_title'>&#21205;&#24907;&#21147;&#24863;&#28204;&#27169;&#32068;</p>
+<p class='cutstringtofitscreen_hightech'>&#22739;&#38651;&#24335;&#21205;&#24907;&#21147;&#24863;&#28204;&#27169;&#32068;&#65292;&#20855;&#20633;&#39640;&#21205;&#24907;&#21453;&#25033;&#20197; &#21450;&#39640;&#21487;&#38752;&#24230;&#20043;&#29305;&#24615;&#65292;&#36879;&#36942;&#24863;&#28204;&#22120;&#35338;&#34399;&#21363;&#26178;&#30435;&#25511;&#35373;&#20633;&#34909;...</p>
+<p class='more'>More information</p>
+</a>
+</div>
+
+</div>
+</div>
+<!--eng block_05 Resilient society-->
+<div class="block_04">
+<dl>
+<dt>Intelligent Enable Technology</dt>
+<dd>
+<p><a href="ListStyle.aspx?DisplayStyle=01&amp;SiteID=1&amp;MmmID=1220671723542215626"
+title="Artificial Intelligence and Security">Artificial Intelligence and Security</a></p>
+<p><a href="ListStyle.aspx?DisplayStyle=01&amp;SiteID=1&amp;MmmID=1071732316365755674"
+title="Semiconductor wafer">Semiconductor wafer</a></p>
+<p><a href="ListStyle.aspx?DisplayStyle=01&amp;SiteID=1&amp;MmmID=1071732316442173030"
+title="Communication">Communication</a></p>
+<p><a href="ListStyle.aspx?DisplayStyle=01&amp;SiteID=1&amp;MmmID=1164152504353117356"
+title="Smart Sensing">Smart Sensing</a></p>
+</dd>
+</dl>
+<div class="carousel02 slider" id="icomn">
+
+<div class='carousel_content'>
+<a class='Analy_ICT' href='ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1220671723542215626&MGID=745375025213464462' title='3D&#35222;&#35258;&#23566;&#24341;&#27231;&#22120;&#20154;&#19978;&#26009;&#25216;&#34899;'>
+<img src='WebTools/Thumbnail.ashx?SiteID=1&MmmID=1220671723542215626&fd=MessagessPic_Pics&Pname=P9020545.jpg' alt=''>
+<p class='carousel_title'>3D&#35222;&#35258;&#23566;&#24341;&#27231;&#22120;&#20154;&#19978;&#26009;&#25216;&#34899;</p>
+<p class='cutstringtofitscreen_hightech'>3D&#35222;&#35258;&#23566;&#24341;&#21462;&#26009;&#27231;&#22120;&#20154;&#21487;&#25033;&#29992;&#26044;&#25955;&#20098;&#20837;&#26009;&#30340 ;&#29986;&#32218;&#19978;&#26009;&#12289;&#24037;&#20855;&#27231;&#19978;&#26009;&#12289;&#20919;&#37723;&#19978;&#26009;&#65292;&#23559;&#21407;&#26377;&#20208;&#36084;&#20154;...</p>
+<p class='more'>More information</p>
+</a>
+</div>
+
+</div>
+</div>
+<!--eng block_04 Common technology of intelligentization-->
+</article>
+<!--Sharing Technology-->
+<article class="industrial_service">
+<h2 data-scrollreveal="enter bottom over 0.5s and ease-in-out move 100px">Industrial Service</h2>
+
+<div class="col_4"> <div data-scrollreveal="enter bottom over 0.25s ease-in-out and move 50px"> <a href="ListStyle.aspx?DisplayStyle=13&SiteID=1&MmmID=1036233405427625204" title="Technical Transfer" class="is01"> <span></span> <p>Technical Transfer</p> </a> </div> <div data-scrollreveal="enter bottom over 0.25s ease-in-out and move 50px"> <a href="ListStyle.aspx?DisplayStyle=14&SiteID=1&MmmID=1036233405457223112" title="Detection Service" class="is02"> <span></span> <p>Detection Service</p> </a> </div> <div data-scrollreveal="enter bottom over 0.25s ease-in-out and move 50px"> <a href="ListStyle.aspx?DisplayStyle=02&SiteID=1&MmmID=1036461235026737435" title="Industry Cooperation" class="is03"> <span></span> <p>Industry Cooperation</p> </a> </div> <div data-scrollreveal="enter bottom over 0.25s ease-in-out and move 50px"> <a href="ListStyle.aspx?DisplayStyle=03&SiteID=1&MmmID=1036741261042234155" title="Entrepreneurship Cultivation Center" class="is04"> <span></span> <p>Entrepreneurship Cultivation Center</p> </a> </div> <div> </div> </article> <!--Industry Service--> <article class="news"> <div class="col_2"> <div class="news_list" id="indusnewsdata"> <div class="news_title"><span>Industry Intelligence Focus</span><a href="ListStyle.aspx?DisplayStyle=15&SiteID=1&MmmID=1036461234426716651" title="More Industry Intelligence Focus" class="more">More Information</a></div> <ul><li><a href='https://ieknet.iek.org.tw/iekrpt/rpt_open.aspx?actiontype=rpt&indu_idno=0&domain=0&rpt_idno=263593775' title='Open the window in another - IEKView&#65306;&#24478;AI&#36264;&#21218;&#25484;&#25569;&#32160;&#33394;&#36681;&#22411;&#21830;&#27231;' target='_blank' rel='noopener noreferrer'>IEKView&#65306;&#24478;AI&#36264;&#21218;&#25484;&#25569;&#32160;&#33394;&#36681;&#22411;&#21830;&#27231; </a></li></ul><ul><li><a href='https://ieknet.iek.org.tw/iekrpt/rpt_open.aspx?actiontype=rpt&indu_idno=0&domain=0&rpt_idno=151142354' title='Open another window-AI&#25033;&#29992;&#33853;&#22320;&#25104;&#28858; Computex 2025&#20027;&#36600;' target='_blank' rel='noopener noreferrer'>AI&#25033;&#29992;&#33853;&#22320;&#25104;&#28858; Computex 2025&#20027;&#36600; </a></li></ul><ul><li><a href='https://ieknet.iek.org.tw/iekrpt/rpt_open.aspx?actiontype=rpt&indu_idno=0&domain=0&rpt_idno=510784777' title='Open a separate window-IEKView AI&#65306;AI&#33287;&#26032;&#25033;&#29992;&#24118;&#21205;&#38646;&#32068;&#20214;&#29986;&#26989;&#21069;&#26223;&#20431;' target='_blank'
+
+IEKView'>IEKView&#6346;AI&#33287;&#366464;</li></ul><li><are:/ort_open.actiontype=rptino=0&domain=0&rpt_idno=2344444107Tinie='另窗-&#3037;9;&#31478;&#23616;&#20043;&#36264;&#21218;&#33287;&#25361;&#25136;&#31995;&#21015;&#30740;&#35342;&#320214;backup='blanc' rel='noopener&#300;&#3649;&#31478;&#23616;&#20043;&#36264;&#21218;&#33287;&#25361;&#25136;&#31995;&#21015;&#30740;&#35342;&#320214;</li></ul><li><are:/ort_open.action.actiontype=rptino=0&domain=0&rpt_idno=917239052title='另窗-&#3000;8;&#19978;&#29677;&#26063;&#21040;AI&#21332;&#20316;&#32773;&#30340;&#36681;&#35722;'backup='blanc' rel='noopenernourrer?&#3034;AC34;</a></li></ul>
+
+</div>
+<!--Industrial Information Focus-->
+<div class="news_list date" id="NewCourseData">
+<div class="news_title"><span>Industrial Talent Training</span><a
+href="ListStyle.aspx?DisplayStyle=17&SiteID=1&MmmID=1036233406142165560"
+title="More Industry Talent Training" class="more">More Information</a></div>
+<ul><li><a href='https://college.itri.org.tw/Home/LessonData?PosterGUID=876B7881-9E5C-4959-8FA0-7B55F8F7889B'
+title='Open another window-2024-09-05 &#38651;&#25511;&#33287;&#24037;&#26989;&#36890;&#35338;&#32879;&#32178;&#26280;&#22823;&#25976;&#25818; AI&#25033;&#29992;'
+target='_blank'
+rel='noopener noreferrer'>2024-09-05 &#38651;&#25511;&#33287;&#24037;&#26989;&#36890;&#35338;&#32879;&#32178;&#26280;&#22823;&#25976;&#25818; AI&#25033;&#29992;
+</a></li></ul>
+<ul><li><a href='https://college.itri.org.tw/Home/LessonData?PosterGUID=0B5ED16E-6496-4621-A0F6-890C041A9C39'
+title='Open another window-2024-10-17 &#26234;&#24935;&#27231;&#22120;&#20154;&#22522;&#30990;&#21450;&#36914;&#38542;&#25033;&#29992;&#25216;&#34899;&#23416;&#31243;'
+target='_blank'
+rel='noopener noreferrer'>2024-10-17 &#26234;&#24935;&#27231;&#22120;&#20154;&#22522;&#30990;&#21450;&#36914;&#38542;&#25033;&#29992;&#25216;&#34899;&#23416;&#31243;
+</a></li></ul>
+<ul><li><a href='https://college.itri.org.tw/Home/LessonData?PosterGUID=167726B5-93E9-4D83-98CF-4FC20D5DF3D9'​​
+title='Open another window-2024-10-21 &#33258;&#39381;&#36554;&#33287;&#38651;&#21205;&#36554;&#25216;&#34899;&#25972;&#21512;'
+target='_blank'
+rel='noopener noreferrer'>2024-10-21 &#33258;&#39381;&#36554;&#33287;&#38651;&#21205;&#36554;&#25216;&#34899;&#25972;&#21512;
+</a></li></ul>
+<ul><li><a href='https://college.itri.org.tw/Home/LessonData?PosterGUID=08872870-AB5E-43CF-8C12-FEF4D2C74D33'
+title='Open another window-2024-11-12 &#26234;&#24935;&#24037;&#24288;&#31995;&#32113;&#25972;&#21512;&#25216;&#34899;&#25033;&#29992;&#23416;&#31243;'
+target='_blank'
+rel='noopener noreferrer'>2024-11-12 &#26234;&#24935;&#24037;&#24288;&#31995;&#32113;&#25972;&#21512;&#25216;&#34899;&#25033;&#29992;&#23416;&#31243;
+</a></li></ul>
+<ul><li><a href='https://college.itri.org.tw/Home/LessonData?PosterGUID=34F4DF58-C6B0-4A96-9295-F1F03B3DD93A'
+title='Open another window-2024-12-04 &#31934;&#23494;&#25511;&#21046;&#33287;&#28961;&#20154;&#27231;&#25216;&#34899;&#35506;&#31243;'
+target='_blank'
+rel='noopener noreferrer'>2024-12-04 &#31934;&#23494;&#25511;&#21046;&#33287;&#28961;&#20154;&#27231;&#25216;&#34899;&#35506;&#31243;
+</a></li></ul>
+
+</div>
+<!--Industrial Talent Training-->
+</div>
+
+
+</article>
+<!--news-->
+
+
+</section>
+<!--end Main content-->
+
+<footer>
+<div class="ft_container">
+
+<a href="#Z" id="AZ" title="The function block below" accesskey="Z" name="Z">:::</a>
+
+<div class="ft_itrilogo">
+<img src="../images/itrilogo.svg" alt="Industrial Technology Research Institute">
+</div><!--end ft itrilogo-->
+
+<div class="footer_Mcontent lb">
+<p><a href="/ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036712133204351167" title="Legal Statement">Legal Statement</a>|<a href="https://vendor.itri.org.tw/broadBqry.aspx" title="Open a separate window-Procurement Information" target="_blank">Procurement Information</a>|<a href="/ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036715042742732171" title="中文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文文� title="Contact Us">Contact Us</a></p>
+<address><span>© Industrial Technology Research Institute All Rights Reserved</span><span>No. 195, Section 4, Zhongxing Road, Zhudong Town, Hsinchu County  ( <a href="/ListStyle.aspx?DisplayStyle=20&SiteID=1&MmmID=1036712143533651215" title="map"><img src="../images/icon_map.svg" alt="">map</a> )</span><span>Customer service line: 0800-45-8899</span></address>
+<div class="logo-box">
+<ul>
+<li>
+<a href="https://accessibility.moda.gov.tw/Applications/Detail?category=20230422000324" title="This website has passed the AA detection level and is linked to the marking details" style="display:block;" target="_blank">
+<img src="../images/AA_logo.png" alt="This website has passed the AA detection level">
+</a>
+</li>
+</ul>
+</div>
+
+</div><!--end footer_Mcontent-->
+
+<div class="social-box">
+<ul>
+<li>
+<a title="Open a separate window-facebook" target="_blank" href="https://www.facebook.com/itri.tw/?fref=ts">
+<img src="../images/f_logo.png" alt="facebook illustration">
+</a>
+</li>
+<li>
+<a title="Open a separate window-youtube" target="_blank" href="https://www.youtube.com/@ITRIvideo">
+<img src="../images/youtube_logo.png" alt="youtube illustration">
+</a>
+</li>
+<li>
+<a title="Open a separate window-IG" target="_blank" href="https://www.instagram.com/itri_tech/">
+<img src="../images/IG.png" alt="IG illustration">
+</a>
+</li>
+<li>
+<a title="Open a separate window-IChuang Technology" target="_blank" href="https://itritech.itri.org.tw/">
+<img src="../images/i_logo.png" alt="IChuang Technology Illustration">
+</a>
+</li>
+</ul><!--end fb-->
+<!--<div class="mail-box">
+<a href="https://itriedm.itri.org/itri_a/Epaper_Index_Cht.aspx" class="mainbtn subscribeBtn" title="Open a separate window-subscribeElectronic Newsletter" target="_blank"> SubscribeElectronic Newsletter</a>
+</div>
+end mailbox-->
+
+<div class="mail-box">
+<label for="email" class="input-label">Enter E-mail to subscribe to the newsletter</label>
+<input type="email" id="email" class="text-input" title="Enter E-mail subscription newsletter" value="" placeholder="Enter E-mail subscription newsletter" name="newsletter" id="newsletter" onfocus="this.placeholder=''" onblur="this.placeholder=''">
+<label class="input-label" for="mailsubmit">Subscribe</label>
+<input id="mailsubmit" type="submit" class="subscribeBtn" value="subscribe" title="subscribe">
+</div><!--end mailbox-->
+
+
+<div class="sligan-box">
+<p>INNOVATIONG <br /> A BETTER FUTURE</p>
+</div><!--end sligan box-->
+</div><!--end social-box-->
+<a href="javascript:void(0)" id="toTop"><span>Back to top</span></a>
+<!--<link rel="stylesheet" href="../js/lib/fancyapps-ui/fancybox/fancybox.min.css" />-->
+<link rel="stylesheet" type="text/css" href="../css/jquery.fancybox.css"/>
+<script type="text/javascript" src="../js/jquery.fancybox.min.js"></script>
+<!--<script src="../js/lib/fancyapps-ui/fancybox/fancybox.umd.min.js"></script>-->
+<script type="text/javascript" src="../js/jquery.fancybox.iframe.js"></script>
+<script type="text/javascript" src="../js/jquery.searchopen.js"></script>
+<script type="text/javascript" src="../js/jquery.toTop.js"></script>
+<script type="text/javascript" src="../js/sticky_navigation.js"></script>
+<script type="text/javascript" src="../js_page/Page.js"></script>
+<script type="text/javascript" src="../js_page/footer.js"></script>
+</div>
+</footer>
+<iframe id="agentFrame" style="display: none;" data-src="https://wwwagent.itri.org.tw/AgentToken" data-agentToken=""></iframe>
+<iframe id="loginStatus" style="display: none;" src="LoginStatus.aspx"></iframe>
+
+
+<script type="module" src="../js/members/agenttoken.js"></script>
+
+
+
+</body>
+
+</html>

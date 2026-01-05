@@ -1,0 +1,21 @@
+front page
+Cutting-edge technology
+Smart life
+Human-computer interaction and service
+Transparent display virtual and real integration open system architecture technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Transparent display, virtual and real, and open system architecture technology.
+The industry's first system platform architecture for transparent display virtual and real integration applications designed in accordance with OpenXR international standards is also the first to see in the OpenXR standard. It innovatively utilizes transparent display equipment and adds front and rear lenses to integrate AI Inference and Fusion virtual and real integration application system.
+The application system adopts an open system architecture design.In order to solve the problem of the existing virtual and real integration system, the system is relatively closed and difficult to amplify the accessibility of customized core functional modules and hardware. It provides an open and flexible standard application interface, hardware abstract layer interface and core module interface, which can accelerate the development of virtual and real integration applications for different smart displays.
+Integrates various core functional modules, including: eyes, objects, limbs, 2D/3D Fusion, human comfort and anti-dizziness, etc., and can quickly develop transparent display fusion interactive applications that introduce smart exhibition halls, smart entertainment, smart retail, etc., and provide users with the interactive experience of new sensory applications through the fusion and interactive application functions of advanced transparent displays.
+Features and innovation
+The industry's first system platform architecture for transparent display integrated applications in accordance with OpenXR's international standards.
+First seen in the OpenXR standard, it innovatively utilizes transparent display devices and adds front and rear lenses to integrate AI Inference with Fusion. A new generation of transparent display virtual and real application system.
+Open system architecture design, which can quickly integrate functional modules and hardware in series, and quickly develop applications.Integrating the core functions of various virtual and real integration can more accurately identify and position, and more accurately display the virtual and real overlap, presenting high interaction and enhancing immersion.
+Many world-renowned manufacturers have participated in the OpenXR standard and will become the hybrid reality application system standard that the industry focuses on in the future.
+Application and benefits
+Retail smart displays or smart display cabinets, car smart windows, exhibition hall smart display windows, etc., etc., are integrated applications of transparent displays such as virtual and real.

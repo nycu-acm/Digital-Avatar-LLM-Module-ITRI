@@ -1,0 +1,87 @@
+# Information on the Online Exhibition Hall of Industrial Research Institute (Medical Technology Exhibition Area-English Version)
+
+This document contains all medical technology exhibit information (us) extracted from the virtual tour of the Industrial Research Institute online exhibition hall.
+
+
+
+==============================================================================================================
+Scene 1 (us)
+==============================================================================================================
+
+=== EPiTRI Full-Thickness Skin Printing System ===
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+=== iSmartweaR ===
+
+iSmartweaR measures physical conditions including heart rate and respiratory rate using fabric antenna sensing and non-contact nanosecond pulse near-field sensing (NPNS) technology. The system detects signals from up to 20 centimeters, different from existing smart clothing technologies requiring contact with the wearer’s skin. It has been verified for hospital night care with high accuracy. Medical workers can access the real-time information with a mobile app.
+
+Image: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/z42kmBN2ys,https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/k11JqRLeK0
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+=== iPMx Molecular Rapid Test System ===
+
+Instead of the regular Polymerase Chain Reaction (PCR) systems with thermocycler for heating and cooling, ITRI uses innovative heating control methodology to fulfill rapid temperature control and perform both DNA and RNA amplification with a portable and easy-to-operate PCR system. With an innovative designed optical detection module, the whole system can achieve quality or semi-quantitative rapid detection for PCR within 30 minutes. In the near future, this system can be applied to clinics, agricultural, aquaculture and GMO testing.
+
+Image: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/sW4AR6qJuL
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+=== iSmartweaR ===
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+=== Heart Guardian ===
+
+Heart Guardian is a non-invasive wearable medical device that can monitor cardiac output, heart rate and stroke volume. With a miniature, high-sensitive patch-type transmitter, a low-power Doppler ultrasound signal processing chipset, and a mobile computing device, the Heart Guardian offers continue real-time monitoring on patients with heart disease or sleep disorder and can be used in home care.
+
+Image: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/buPX6GCpGB
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+=== EPiTRI Full-Thickness Skin Printing System ===
+
+ITRI's innovative bionic full-thickness skin tissue printing technology constructs a multi-layer cell layer with a success rate greater than 85%. The full-skin tissue can be cultured and differentiated within six days, faster than the international average period of three to four weeks. With the rapid printing and fast solidifying properties of the ITRI Bio-ink material, the cells can be cultured for over 28 days with no deformation and shrinkage without needing a linking agent, thus creating a three-dimensional culture condition for cells. EPiTRI can be used as a testing material for costumes and skin-care products, and stem cells can be added to form artistic skin for burn wounds and be 3D printed for mass production to provide industrial benefits.
+
+Image: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/xzg2GSD9RC
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+=== Heart Guardian ===
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+=== A Smart-Care Solution for Chronic Wound, iSCare ===
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+=== AI Decision Support Technology of Fundus Image in Diabetes Mellitus ===
+
+This technology combines the expertise of doctors and AI analysis derived from the intelligence of human brain and machines. Due to the complementary nature between the AI models, the efficacy of separate tasks, such as categorizing and detecting can be significantly increased. By combining hardware and software into a portable medical device, it is easy to carry around, and shortens the time for diagnosis. The technology increases early detection rate for potential patients and reduces the cost of healthcare and social care.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/gjZEkxgIaX
+
+--------------------------------------------------------------------------------
+
+=== A Smart-Care Solution for Chronic Wound, iSCare ===
+
+A Smart-Care Solution for Chronic Wound (iSCare) is an image capturing system that integrates color, thermal and 3D images. Combining AI technology, it can capture the surface topography of the wounds, attaining an estimated accuracy of 85% for wound size and tissue ratio measurement. The data generated within seconds are then uploaded to a healthcare platform, where physicians can access the information anytime and anywhere to evaluate the healing progression and determine the best treatment approach.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/sp1Jb0Ibtr
+
+--------------------------------------------------------------------------------
+
+=== AI Decision Support Technology of Fundus Image in Diabetes Mellitus ===
+
+
+
+--------------------------------------------------------------------------------

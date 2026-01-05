@@ -1,0 +1,140 @@
+front page
+Website Guide
+Website usage guide
+This website is built according to the principle of accessibility web design. The main content of the website is divided into three major blocks: 1. The upper functional block, 2. The central content block, and 3. The lower functional block.
+The main block content and quick key (Accesskey) of this website are as follows:
+The upper guide area (Alt+U)
+: Contains [upper right menu area], [site query area], and [main menu area]. This is a common border, so any screen will appear.
+In-site query area (Alt+S)
+: In-site keyword query.
+Central content area (Alt+C)
+: It is the main content area of ​​this site. After clicking on any link, all its content will be presented in this area.This is a shared border, so any screen will appear.
+Content area below (Alt+Z)
+: The function block below
+Operation instructions for quick keys for each browser:
+Internet Explorer Please use Alt plus quick key code operation.
+Firefox Please use Alt+Shift plus quick key code operation.
+Google Chrome If the operating system is Windows, please use Alt plus quick key code operation.If it is Mac, use Alt+Option plus quick key code operation.
+Opera Please use Shift+Esc plus quick key code operation.
+Safari If the operating system is Windows, please use Alt plus quick key code operation. If the operating system is Mac, use Alt+Option plus quick key code operation.
+Cutting-edge technology
+Smart life
+Autonomous mobile system
+Intelligent enabling technology
+Artificial intelligence and security
+Semiconductor chips
+communication
+Wisdom sensing
+Healthy and happy
+Smart medical
+Health care
+Sustainable environment
+Circular economy
+Green Energy Systems and Environmental Technology
+Resilient society
+Infrastructure resilience
+Resource and energy resilience
+Productivity resilience
+Industrial Services
+Technology transfer
+Net Zero Emission Service
+Net Zero Emission Service
+Testing services
+Industrial Talent Training
+Industry Trends and Intelligence
+Industrial Intelligence Focus
+Industry trend data
+Open laboratory and entrepreneurship
+Open lab
+Entrepreneurship Centre
+Industry cooperation
+Commissioned research and product development
+R&D laboratory
+Industry Alliance
+Intangible Asset Evaluation
+International cooperation
+Cooperation cases
+Research and research institutions
+International enterprises
+Partners
+Asia
+America
+Europe
+Oceania
+Global Service Points
+Domestic service points
+Foreign service points
+News Center
+News room
+Latest News
+Clarification Note
+Event message
+Newsletter
+Published
+Annual Report of the Institute of Industrial Technology
+Introduction to the Institute of Industrial Technology
+Industrial Technology and Information Monthly
+Machinery Industry Magazine
+Industrial Materials Magazine
+Computers and communications
+Perpetual report
+Charity Manual
+Wonderful audio and video
+Smart life
+Healthy and happy
+Sustainable environment
+Where is the fun of technology
+Flirt with technology together
+Net Zero Sustainable New Life
+other
+Podcast
+Technology decompression
+Net Zero Emissions
+Net Zero New Knowledge
+Policies and Regulations
+Net Zero Alliance
+Net Zero Trend
+Net Zero Case
+Net Zero Service
+Enterprise net zero solution service
+Carbon disc and carbon footprint
+Carbon Verification
+Net Zero Sustainable School
+Intellectual Rights Law
+Net Zero Sustainable Countermeasures and Business Opportunities
+Net Zero Technology
+Need to use
+Low carbon manufacturing
+Energy supply
+Sustainable environment
+Audio and video zone
+Carbon reduction technology
+Talent cultivation
+New knowledge on carbon reduction
+Business consultation
+Net Zero Member Center
+about Us
+Board of Directors and Supervisors
+Introduction to the management team
+Academician of the Institute of Technology Research
+Academician profile
+Academician Certificate
+Academician Conference
+Award-winning honors
+Integrity management
+Elite recruitment
+Latest news
+Multiple careers
+Happy workplace
+Student Area
+announcement
+Patent transfer and research and development achievements
+Industry-university-research cooperation announcement
+Procurement cases and suppliers
+Advertising
+Subsidies, donations
+Financial statements
+Legal Statement
+Procurement Information
+Professional link
+FAQ

@@ -1,0 +1,39 @@
+首頁
+產業服務
+業界合作
+委託研究及產品開發
+晶片布局設計服務
+Share to Facebook
+Share to Twitter
+分享到我的Line
+聯絡我們
+服務說明
+工研院晶片布局設計服務團隊，累積豐富IC設計流程經驗，運用專業知識及EDA工具提供Automatic Placement and Routing, Static Timing Analysis, Formal verification, Physical verification等服務項目。
+Design In & Out Data
+IN (From Designer)
+RTL and constraints
+Synthesized Netlist (w | w/o dft design)
+Custom IP data (GDS / LEF / LIB / DB are required) can be frame only
+Scan DEF
+Power Format (UPF)
+Misc requirement (don’t touch / keepout / Floorplan guide …)
+OUT
+GDS / DEF / SPI
+Post-APR netlist / SPEF / UPF for STA / Formal / Post-sim
+STA / Formal / DRC / ANT / LVS… report
+【聯絡窗口】
+聯絡人：余俊德 副理
+電話：+886-3-591-7378
+Email：
+jaz@itri.org.tw
+聯絡人：陳俊吉 管理師
+電話：+886-3-591-4465
+Email：
+sidchen@itri.org.tw
+地址：300新竹縣竹東鎮中興路四段195號14館247室
+延伸閱讀
+工研院攜手新思科技　人工智慧晶片設計實驗室揭牌啟用
+掌握新時代的商機  強化AI晶片研發與系統應用的跨域整合
+人工智慧晶片設計實驗室
+電源管理晶片設計自動化
+AI產品引領晶片設計新方向

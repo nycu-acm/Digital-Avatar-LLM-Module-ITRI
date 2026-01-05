@@ -1,0 +1,12 @@
+首頁
+國際合作
+合作案例
+學研機構
+工研院攜手UCLA引領創新記憶體科技傲全球
+Share to Facebook
+Share to Twitter
+分享到我的Line
+聯絡我們
+工研院與美國加州大學洛杉磯分校未來將共同開發下一代的磁性記憶體，期許以工研院媲美國際的技術基礎、結合
+5G、AI人工智慧已是驅動半導體產業成長趨勢，隨著晶片體積愈來愈小，擁有高速度、高效能的磁性記憶體（Magnetic Random Access Memory；MRAM）技術已成為主流。在經濟部技術處支持之下，工研院發展的磁性記憶體有最新突破。在美國國防高等研究計畫署（Defense Advanced Research Projects Agency；DARPA）支持下，工研院與美國加州大學洛杉磯分校（University of California, Los Angeles；UCLA）宣布簽署VC-MRAM合作開發計畫，未來將共同開發下一代的磁性記憶體，期許以工研院媲美國際的技術基礎、結合UCLA創新概念，將材料元件應用在記憶體晶片內進行運算儲存，未來可望減少近百倍能耗，提升逾十倍速度，樹立創新記憶體新里程碑。
+經濟部技術處表示，經濟部長期投入資源協助國內半導體產業技術研發，同時也力促工研院投入下世代自旋霍爾式磁性記憶體（Spin Orbit Torque MRAM；SOT-MRAM）技術，研發更快、更穩、不失憶的新世代記憶體技術，並於2019年在全球指標性IEEE國際電子元件會議（International Electron Devices Meeting MRAM Poster Session；IEDM Poster）中發表，其技術成果已逐步產業落地，為臺廠進入新世代記憶體鋪下康莊大道。如今，深厚的研發基礎吸引具有前瞻研發技術研發能量的頂尖學術機構UCLA與工研院合作開發電壓控制式磁性記憶體（Voltage Control Magnetic RAM；VC-MRAM）。其與SOT MRAM相比，VC-MRAM具有更快寫入速度（縮短50%）、讀寫能耗更低（減少75%）的特性，非常適合AIoT及汽車晶片的應用需求。此次合作，雙方強強聯手，進一步投入創新記憶體科技開發與產業化進程，並強化美國重要合作夥伴的關係，成功協助國內外廠商提升國際競爭力，於下世代先進製程上搶占先機。

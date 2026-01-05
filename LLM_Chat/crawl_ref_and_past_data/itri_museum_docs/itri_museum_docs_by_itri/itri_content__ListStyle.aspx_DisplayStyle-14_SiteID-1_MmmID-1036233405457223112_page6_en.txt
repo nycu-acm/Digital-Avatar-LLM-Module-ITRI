@@ -1,0 +1,79 @@
+front page
+Industrial Services
+Testing services
+Testing services
+search
+Note: You can enter the detection name/function specification/sample attribute/properties/possible components, certification agency number, contact window name, telephone number
+I want to test
+​
+Keywords:
+NO.
+Testing services
+Condition description
+Certification Agency Number
+contact person
+Telephone
+51
+LED street lights and light boxes on expressways and expressways
+LED street lights and light boxes on expressways and expressways
+TAF 1336
+Chen Meiling
+03-5732071
+52
+Qualitative analysis of principal components of polymers
+Plastic, rubber, resin, ink, coating
+Yang Shanshan
+03-5732036
+53
+Volume Resistance Measurement
+Ye Meizhen
+03-5913188
+54
+Volume bucket slot
+Cai Peishan
+03-5741201
+55
+Test of positioning accuracy of body and face angle
+TAF 3339
+Pan Kaiming
+04-23597116#805
+56
+Toilet flush test
+Check the toilet flush every time
+TAF0726
+Cai Wanglin
+03-5914321
+57
+2 tests for toilet flush valve (water discharge performance, durability)
+Testing 2 performances of toilet flush valve under test conditions
+TAF0726
+Cai Wanglin
+03-5914321
+58
+Toilet drainage test
+Test the minimum diameter of toilet drain pipe
+TAF 0726
+Cai Wanglin
+03-5914321
+59
+8 tests for toilet pottery (washing, drainage, water leakage, air leakage, urine residue, transportation distance, flush volume, connection sealing test)
+Testing 8 performances of toilets under test conditions
+TAF0726
+Cai Wanglin
+03-5914321
+60
+Toilet full water seal depth test
+Detection of toilet water seal depth
+TAF0726
+Cai Wanglin
+03-5914321
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10

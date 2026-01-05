@@ -1,0 +1,92 @@
+首頁
+產業服務
+業界合作
+委託研究及產品開發
+表面與薄膜量測
+Share to Facebook
+Share to Twitter
+分享到我的Line
+聯絡我們
+服務說明
+FE-AES
+應用於奈米材料的微結構分析，並具有多種功能：塊材、粉末、薄膜結晶相鑑定、磊晶膜品質、晶格匹配性鑑定、多層膜厚度、界面粗糙度量測、孔隙性薄膜孔隙度分布量測。
+服務項目
+晶相鑑定分析（Phase identification analysis）
+晶格常數分析（Lattice constant analysis）
+晶粒度分析（grain size analysis）
+規格
+X-ray generator
+Max. output power : 3.0 kW
+Max. high voltage: 60 kV
+Max. anode current: 60 mA
+Stability (HV and anode current): < 0.01% per 10% mains fluctuation
+Ripple: < 2% peak to peak
+goniometer radius : between 130 and 240 mm
+場發射歐傑電子能譜儀（FE-AES）
+本設備執行奈米材料表面及薄膜分析，含EDS、TA-XPS、BEI、REELS、SEM、AR-AES等功能。試片可加溫至600℃以上、影像解析度6nm、成分影像解析度9nm、縱深解析度1nm。
+服務項目
+Properties analysis from 0.1nm surface to several μm depth
+Elemental、composition、thickness chemical bonding interface/depth profiling analysis
+allotrope identify
+Atomic level、work function analysis
+non-reconstructive surface Elemental、composition、thickness chemical bonding interface/depth profiling analysis
+規格
+image resolution  :7 nm
+element resolution :12 nm
+depth resolution :1 nm
+Energy  resolution ～0.05%
+spectrum、line  scan、mapping  element analysis with 0.1～1μm depth
+應用
+EDS、BEI system：element、image contract analysis at 1 μm depth
+UHV specimen chamber：temperature controller range from room temperature to 900 ºK
+3.XPS、（R）EELS systme： chemical state analysis
+μ-ESCA
+微區化學分析電子譜儀（μ-ESCA）
+本分析儀提供多材質奈米材料分析，含“0.1奈米起至數微米深度”之元素、含量、厚度、化態、介面、縱深分析、同素異形體鑑定&分析。
+服務項目
+Elemental、composition、thickness chemical bonding interface/depth profiling analysis
+allotrope identify
+Atomic level、work function analysis
+non-reconstructive surface Elemental、composition、thickness chemical bonding interface/depth profiling analysis
+規格
+image resolution ＜95  nm（SEM）
+element resolution 3 μm（ESCA）
+depth resolution 1 nm
+chemical state analysis（Analyser ΔE＜25  meV）、spectrum、line  scan、mapping  element analysis with 0.1～1μm depth
+應用
+FE-AES：To resolve the composition and imaging analysis from surface to 100nm depth.
+UHV specimen preparation Chamber：TEMP. range: 170～1000 ºK
+ISS system：to resolve surface monolayer composition analysis
+UPS system：to resolve valence band and band gap analysis
+TA-XPS：to assist the peak overlap analysis with monochromator (Al target)
+TF-XRD
+薄膜X光繞射儀（TF-XRD）
+應用於奈米材料的微結構分析，並具有多種功能：塊材、粉末、薄膜結晶相鑑定、磊晶膜品質、晶格匹配性鑑定、多層膜厚度、界面粗糙度量測、孔隙性薄膜孔隙度分布量測。
+服務項目
+多晶薄膜材料結晶相分析（Phase analysis of Thin polycrystalline layers）
+晶格常數分析（Lattice constant analysis）
+晶粒度分析（grain size analysis）
+應力分析（Stress analysis）
+規格
+X-ray generator
+Max. output power : 4KW
+Max. high voltage: 60KV
+Max. anode current: 1000mA
+Stability (HV and anode current): < 0.01%
+Vertical goniometer
+decoupled theta / 2theta drive
+XRD
+X光繞射儀（XRD）
+應用於奈米材料的微結構分析，並具有多種功能：塊材、粉末、薄膜結晶相鑑定、磊晶膜品質、晶格匹配性鑑定、多層膜厚度、界面粗糙度量測、孔隙性薄膜孔隙度分布量測。
+服務項目
+晶相鑑定分析（Phase identification analysis）
+晶格常數分析（Lattice constant analysis）
+晶粒度分析（grain size analysis）
+規格
+X-ray generator
+Max. output power : 3.0 kW
+Max. high voltage: 60 kV
+Max. anode current: 60 mA
+Stability (HV and anode current): < 0.01% per 10% mains fluctuation
+Ripple: < 2% peak to peak
+goniometer radius : between 130 and 240 mm

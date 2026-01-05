@@ -1,0 +1,66 @@
+Independent research and development of cloud solutions, soft and hard business opportunities take all - 50th anniversary of the Industrial Research Institute, deepening the industry and innovating the future
+Industrial Technology Research Institute 50th Anniversary Story
+See history
+Deeply cultivated 50
+Critical moments
+Continue the past and start the future
+Welcoming the future
+Innovation 50
+EN
+See history
+Deeply cultivated 50
+front page
+See history and cultivate 50
+Communications Industry
+Independent development of cloud solutions, soft and hard business opportunities
+Cloud and security
+Independent development of cloud solutions, soft and hard business opportunities
+Cloud and security
+Desktop computer
+Laptop computer
+Network communication
+Mobile Communications
+Cloud and security
+Taiwan is the world's largest server exporter, but due to its lack of system software integration capabilities, it is unable to dominate the technical standards of server products, making it difficult to enter the large cloud data center market.Since 2009, the Institute of Technology has invested in cloud technology development, developed the "large cloud data center management system" and the "software-defined network" and "software-defined storage" core technologies at the data center level, supporting my country's ICT manufacturers to break away from the traditional low-profit OEM role, develop the overall solution of domestic independent cloud data centers, and gradually establish a cloud industry chain from scratch.
+In 2012, the Industrial Research Institute completed Taiwan’s first cloud operating system, which can support the integration of virtualization management of huge data centers and authorize multiple companies to strengthen the commercialization capabilities of large cloud computing operating systems; in 2014, the world’s first official operation Open Compute Project (OCP) certification center was established to assist server operators such as Weiying and Yingyeda to develop OCP products, import product specifications, test certifications, quickly enter the supply chain of the international cloud data center, and enter the booming cloud data center market.
+In addition, the self-developed domestic cloud system software BAMPI (Bare-Metal Provisioning from ITRI) technology can accelerate the deployment efficiency of computer rooms by 200 times and enhance the added value and competitiveness of Taiwanese factories; in 2022, in response to the net zero emission issue, the "Immersive Cooling Edge Data Center Technology" was developed, replacing blown air-blowing heat dissipation with liquids, which can reduce carbon emissions by 40%. Both technologies have been successfully introduced to the major Japanese telecommunications manufacturers.
+1998
+The payment software "Security Electronic Trading System (SET 1.0)" has been developed and promoted to more than 20 banks and stores in China to build a secure transaction environment for the development of e-commerce.
+2009
+Develop a cloud-based police operation video surveillance system, and apply it to the Taiwan police security system, the 2009 Hearing Impaired Olympics, the 2010 Flower Expo, etc.
+2010
+Cloud container data center jointly developed with Wistron and Yingyeda.
+2010
+The "Taiwan Cloud Computing Industry Alliance" will be organized to promote Taiwan to become a base for cloud technology application innovation.
+2012
+Completed the signing of the "Open Cloud OS 2.0 Advanced Technology License (ITRI Cloud OS 2.0)" with Delta Electric, Wistron and Inertia to assist manufacturers in strengthening the productization capabilities of large-scale cloud computing operating system software technology.
+2014
+CityEyes, the first domestically produced independent smart security video surveillance cloud service platform technology, successfully assisted the police station in finding stolen cars within one day, and substantially improved case handling efficiency.
+2014
+Establish the world's first official OCP certification center to assist domestic manufacturers in developing OCP products, import product specifications, test certifications, and quickly enter the supply chain of international cloud data centers.
+2015
+The self-developed domestic cloud system software BAMPI has successfully entered the supply chain of the KDDI telecommunications grade cloud data center system of the major Japanese telecommunications manufacturer.
+2015
+The first domestic ITRI Cloud OS OpenStack independently developed, which is the first time in China to develop large-scale cloud system software technology, which can support cloud infrastructure services that integrate virtualization management of huge data centers.
+2022
+Developed "Immersive Cooling Edge Data Center Technology" to reduce carbon emissions by 40%, and has cooperated with Japanese telecommunications companies.
+More industries
+The birth of the Institute of Technology
+Semiconductor Industry
+Materials and chemical industry and nanometers
+Vehicle industry
+Measuring industry
+Textile Industry
+Optoelectronics Industry
+Printed circuit board industry
+Machinery Industry
+Biomedical industry
+Green Energy Industry
+Artificial intelligence and huge amount of information
+other
+next
+prev
+© ITRI. Works by the Institute of Industrial Technology
++886-3-582-0100
+310401
+No. 195, Section 4, Zhongxing Road, Zhudong Town, Hsinchu County

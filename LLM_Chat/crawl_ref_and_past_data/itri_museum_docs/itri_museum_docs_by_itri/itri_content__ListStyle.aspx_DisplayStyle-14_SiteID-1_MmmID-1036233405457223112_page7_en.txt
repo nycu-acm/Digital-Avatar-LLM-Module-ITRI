@@ -1,0 +1,85 @@
+front page
+Industrial Services
+Testing services
+Testing services
+search
+Note: You can enter the detection name/function specification/sample attribute/properties/possible components, certification agency number, contact window name, telephone number
+I want to test
+​
+Keywords:
+NO.
+Testing services
+Condition description
+Certification Agency Number
+contact person
+Telephone
+61
+Toilet urine residue test
+Check whether the toilet can achieve water sealing and water replacement effect
+TAF0726
+Cai Wanglin
+03-5914321
+62
+Toilet water tank parts drain valve sealing and durability test
+Check whether the drain valve can maintain the seal without damage after long-term use
+TAF0726
+Cai Wanglin
+03-5914321
+63
+Seal test of toilet tank parts drain valve
+Check whether the drain valve can maintain seal after installation
+TAF0726
+Cai Wanglin
+03-5914321
+64
+Flow test of toilet tank parts drain valve
+Detect drainage capacity of drain valve
+TAF0726
+Cai Wanglin
+03-5914321
+65
+Flexibility test for toilet tank parts
+Check the operational flexibility of water tank parts after assembly
+TAF0726
+Cai Wanglin
+03-5914321
+66
+3 tests for toilet water tank parts (drain valve sealing and durability, water inlet valve anti-siphon, float valve durability test)
+Testing 3 properties of toilet tank parts under test conditions
+TAF0726
+Cai Wanglin
+03-5914321
+67
+Anti-siphon test for toilet water tank parts water inlet valve
+Check whether the water inlet valve can prevent return and avoid siphon
+TAF0726
+Cai Wanglin
+03-5914321
+68
+Water inlet flow test of toilet tank parts water inlet valve
+Detect the water inlet capacity of the inlet valve
+TAF0726
+Cai Wanglin
+03-5914321
+69
+Toilet water tank connection sealing test
+Check whether the toilet water tank is leaky under test conditions
+TAF0726
+Cai Wanglin
+03-5914321
+70
+Toilet water seal residual depth test
+Detection of the water seal depth after flushing of the toilet
+TAF0726
+Cai Wanglin
+03-5914321
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10

@@ -1,0 +1,16 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Wisdom sensing
+Composite optical air-efficient sensing technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Composite optical empty product sensing technology.
+Air pollution affects physical health and has always been a concern for the people.In recent years, the government has used IoT technology to collect environmental sensing data to provide immediate and future changes in the public environment. Among them, PM2.5 and O3 are one of the two important indicators of the Internet of Things in the quality of the Internet of Things. The commercially available optical PM2.5 and electrochemical O3 sensors are susceptible to environmental humidity, temperature, and dust interference, resulting in poor outdoor accuracy and durability that cannot be widely distributed. Therefore, it is urgent to have anti-environmental interference and high-precision air quality sensors to meet the needs of air quality Internet of Things such as smart cities and autonomous management.
+Features and innovation
+The "Composite Optical Air Product Sensing Technology" developed by the Institute of Technology has achieved the impact of sensor errors by less than 13% by high and low humidity through dual-channel initial screening and dust accumulation design, dynamic light source regulation, and multi-environmental factor compensation. Its accuracy is verified by the Environmental Protection Agency type, and it is small in size, low in power consumption, and its service life can reach more than two years.Compared with standard testing stations, it can be widely installed outside residential houses, factory areas, street lights, buses, public facilities, etc.
+Application and benefits
+This technology research and development assists domestic sensor and system manufacturers in the construction and application of intelligent urban and rural environments, and has introduced air product improvements in the air product monitoring network of the environmental protection bureaus of five counties and cities including Hsinchu, Miaoli, Taichung, Changhua, Chiayi, and instant monitoring, as well as seven major commercial ports in Taiwan, to reduce the impact of cargo loading and unloading operations on urban air products, and cooperate with the power industry and petrochemical industry to track and manage air pollution hotspots in real time.

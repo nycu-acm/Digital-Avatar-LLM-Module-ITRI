@@ -1,0 +1,23 @@
+front page
+Cutting-edge technology
+Resilient society
+Productivity resilience
+3D visual guidance technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Develop standard 3D domestic hand-eye collaboration robots.
+Develop domestically made parity anti-reflective 3D sensors, innovate patented technologies to solve the bottlenecks of guidance failure caused by metal processing, electronic assembly, and ready-made textiles due to workpiece reflection, and greatly reduce the manufacturer's introduction costs.
+Features and innovation
+Innovative anti-deformation treatment parity laser projection design reduces the cost of 2/3 of the key components (15,000→2,000); automatically identify the reflection degree of each area of ​​the workpiece, dynamically learn decoding parameters, improve point cloud sensing integrity, and effectively reduce 3D errors.
+Technical Features
+High resistance to deformation decoding and correction.
+Adaptive anti-reflective technology.
+Technical Specifications
+3D error:  ≦ 1mm.
+Guidance success rate: ≧ 99%.
+Application and benefits
+Locomotive, shoemaking, textile and robotics indicators have been introduced to conduct production line verification.
+Introduce textile rapid proofing line to save 70% of manpower.

@@ -1,0 +1,20 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+communication
+5G O-RAN AI-driven non-instant smart controller
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+5G O-RAN AI-powered non-instant smart controllers.
+5G is not only suitable for public action networks, but also can build dedicated networks based on specific applications, which is commonly known as 5G private networks. The application situation of 5G private networks is rich and diverse, and each situation has different levels of network performance requirements. Therefore, an open and intelligent network architecture is needed to adapt to local conditions. In recent years, the 5G open radio access network (O-RAN) with main opening and opening interfaces has emerged. Among them, the Non Real Time RAN Intelligent Controller (Non-RT RIC) platform is the core of decision-making of the entire O-RAN architecture. In addition to meeting O-RAN standard interfaces such as A1/R1, it can also be used through O-RAN Service Management & Orchestration. After obtaining base station data analysis of the O1 interface of Framework (SMO), the policy is issued to the Near Real Time RAN Intelligent Controller (Near-RT RIC) to control the behavior of the base station.The ITRI Non-RT RIC platform supports AI/ML workflow, and can independently drive AI/ML training and prediction analysis results from data to meet the needs of application software. This platform provides user GUI or API methods to perform training, prediction or model management and monitoring, and application software can obtain various models through interface operations to adjust prediction data.For example, the Abnormal Detection application software (rApp) obtains the base station data through the R1 interface to the Non-RT RIC framework (Framework), including terminal measurement data, base station performance indicators and network performance indicators, organizes it into trainable data, and calls the machine learning workflow tools for model training and training, store this model, and predict and monitor the accuracy in the future.When the accuracy deteriorates, the retraining mechanism is enabled, and a new set of data is trained to obtain a more optimized model.
+Features and innovation
+O-RAN WG2 compliant technical documents include:
+O-RAN.WG2.Non-RT-RIC-ARCH-TS-v02.01
+O-RAN.WG2.Non-RT-RIC-ARCH-TR-v01.01
+O-RAN.WG2.A1AP-v03.00
+O-RAN.WG2.AIML-v01.03
+Application and benefits
+5G dedicated network industry and 5G open architecture smart network management.

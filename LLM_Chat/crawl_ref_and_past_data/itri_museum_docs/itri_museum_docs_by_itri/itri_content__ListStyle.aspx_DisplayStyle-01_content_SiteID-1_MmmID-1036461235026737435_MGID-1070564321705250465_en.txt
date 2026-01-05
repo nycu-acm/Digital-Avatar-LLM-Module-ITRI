@@ -1,0 +1,95 @@
+front page
+Industrial Services
+Industry cooperation
+Commissioned research and product development
+Scanning electron microscope detection and analysis equipment
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Service Description
+JEOL JSM-6500F
+Field emission scanning electron microscope (FE-SEM) JEOL JSM-6500F
+Equipment functions
+Multifunctional field emission scanning electron microscope additional:
+Energy dispersion X-Spectrometer (SDD EDS, Oxford X-Max 80 mm).
+Cathode luminescence analyzer (CL, Gatan monoCL3).
+Electron backscatter diffraction diffraction meter (EBSD, Oxford INCA Crystal 300).
+Wet cell sample loading stage.
+Equipment Application
+EDS is used for component analysis, including qualitative, semi-quantitative, mapping and line scan of chemical elements in specific regions.
+CL is used for luminescence spectral measurement, image analysis, trace impurities and defect analysis.
+EBSD is used for the analysis of crystal structure, orientation, micro-region texture, grain, grain boundary properties of polycrystalline materials.
+For Wet Sample Observation.
+LEO 1530
+Field emission scanning electron microscope (FE-SEM) LEO 1530
+Equipment Service
+Topography analysis: The surface features of an object or "how it looks", its texture; detectable features limited to a few manometers.
+Morphology analysis: The shape, size and arrangement of the particles making up the object that are lying on the surface of the sample or have been exposed by grinding or chemical etching; detectable features limited to a few manometers .
+Composition analysis: The elements and compound the sample is composed of and their relative ratios, in areas ~ 1 micrometer in diameter .
+Equipment functions
+Energy dispersion X-Spectrometer (SDD EDS, Bruker Quantax™ 10mm).
+Equipment Specifications
+Field emission (schottky type) electronic gun.
+The resolution is 5.0nm (1kV), 1.5nm (15~20kV).
+Operating voltage 0.5~30kV, Probe current: Max.>5 nA.
+Detectors: QBSD, SE2, InLens.
+Measurement function: X, Y direction distance, any two points distance, and angle can all be measured in multiple groups at the same time.
+Output device: USB.
+Equipment Application
+EDS system (Bruker Quantax 400).
+FEI Nova 200
+Two-particle beam focusing ion beam microscope (DB-FIB) FEI Nova200
+Equipment functions
+Fixed-point cutting, selective material evaporation, reinforced etching or selective etching, etching end point detection, nanoscale manipulation of nanoscale high analytical image observation, low temperature observation ability.
+Equipment Application
+Field emission (schottky type) Electronic gun, resolution 5.0nm (1kV), 1.0nm (15~20kV), operating voltage 0.5~30kV, Probe current: Max. >5 nA, Measurement   function: X, Y direction distance, any two points distance, and angle can all be measured at the same time.
+JEOL JEM-2100F
+Field emission penetrating electron microscope (FE-TEM) model: JEOL JEM-2100F
+Field emission penetrating electron microscope, which simultaneously analyzes material images, microstructures, components, bonding and other information, includes high resolution image (High Resolution Lattice Image), scanning penetrating image (STEM image) and high angle annular dark field image (HAADF), EDS component analysis and Mapping, EELS electron energy loss spectrum and Mapping, etc.
+Equipment functions
+The main functions include high-resolution imaging, scan penetrating imaging and high-angle annular dark field image (HAADF), EDS component analysis and Mapping, EELS electron energy loss spectrum and Mapping, and three-dimensional structure analysis.
+Equipment Specifications
+electron gun: ZrO/W (100), Schottky type (field emission).
+accelerating voltage: max.200 KV.
+magnification: 50 X～1,500,000 X.
+title angle: ±25 degree.
+Probe Size:
+TEM Mode: 2 ~ 5 nm (diameter).
+EDS Mode: 0.5 ~ 2.4 nm (diameter).
+NBD Mode: 0.5 ~ 2.4 nm (diameter).
+CBD Mode: 0.5 ~ 2.4 nm (diameter).
+Equipment Application
+The detection application includes general semiconductors, metals, ceramics, and polymer materials, and can analyze information such as images, microstructures, components, bonding, etc.
+JEOL JEM-2100
+Low temperature three-dimensional penetrating electron microscope (3D Cryo-TEM) model: JEOL JEM-2100
+Field emission penetrating electron microscope, which simultaneously analyzes material images, microstructures, components, bonding and other information, includes high resolution image (High Resolution Lattice Image), scanning penetrating image (STEM image) and high angle annular dark field image (HAADF), EDS component analysis and Mapping, and low-temperature electron microscope three-dimensional structure analysis.
+Equipment functions
+Microstructure analysis of nanoscale.
+Analysis of the characteristics of the crystal direction of microstructure in the nano region.
+Quantitative element analysis.
+Analysis of material elements one-dimensional (line-scan) and two-dimensional distribution (2D mapping).
+Observation of low-temperature microstructure.
+Three-dimensional microstructure observation.
+Equipment Specifications
+electron gun: Thermal free (LaB6 single crystal).
+accelerating voltage: max.200 KV.
+magnification: 50 X ~ 1,200,000 X.
+title angle: X≧±40°, Y≧±30° (Special stage: X, Y>±80°).
+Probe Size:
+TEM Mode: 20~200nm (diameter).
+EDS Mode: 1.5~35nm (diameter).
+NBD Mode: 1.5~35nm (diameter).
+CBD Mode: 1.5~35nm (diameter).
+Equipment Application
+Analysis of microstructure and composition of various types of materials, observation of liquid nitrogen low-temperature microstructure throughout the process, and observation of Cryo-TEM three-dimensional microstructure.
+JEOL ARM-200F
+Spherical aberration correction low-field college penetration electron microscope (Cs corrector FE-TEM) model: JEOL ARM-200F
+Equipment functions
+Establish in-Situ, low voltage spherical aberration correction, and ultra-high spatial analytical imaging technology to provide dynamic diagnostic detection required for forward-looking material research and development, atomic/nano interface structure identification and rapid element analysis capabilities.
+Equipment Application
+The detection application includes general semiconductors, metals, ceramics, and polymer materials, and can analyze information such as images, microstructures, components, bonding, etc.
+On-site (change temperature, variable voltage) microstructure observation.
+Three-dimensional microstructure observation.
+Image analysis of subatomic scale atomic structure.
+High energy analytical molecular bond analysis.

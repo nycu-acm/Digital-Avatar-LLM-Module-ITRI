@@ -1,0 +1,18 @@
+front page
+Cutting-edge technology
+Smart life
+Autonomous mobile system
+Ultra-high speed dynamic vision technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Ultra-high-speed dynamic vision technology.
+Ultra-high-speed dynamic vision technology is an algorithmic technology developed with event cameras and an event-oriented vision technology.It is based on a bionic sensing technology in which the human eye has high attention to moving objects.
+It can solve the problem that traditional image cameras often experience motion blur under high-speed motion due to insufficient frame rate;at the same time, the low dynamic range of pixels, the imaging quality are restricted by ambient lighting, and the number of pixels with a width and height product every moment and every frame needs to be processed, which requires extremely high pain points such as computing power and energy requirements.
+This technology can promptly predict objects of relative speeds of more than 100 kilometers per hour, regardless of size, and shape, in the event of poor ambient light, such as too bright or too dark, and then follow up on actions such as capturing or dodging.Furthermore, the occurrence of sparse events does not always occur. Lower computing power and energy requirements are important links in energy-saving operations.
+Application and benefits
+Dynamic visual sensing technology has low data transmission, fast response, high dynamic range and low power consumption characteristics, and is suitable for factory inspection, people flow detection, self-driving/unmanned transport vehicles, in-vehicle driving and passenger behavior monitoring, etc. Since the output data has no color information and no personal characteristics, it can avoid privacy leakage and is also suitable for accidental detection of medical institutions and home care.
+Related links:
+More technology-related information.

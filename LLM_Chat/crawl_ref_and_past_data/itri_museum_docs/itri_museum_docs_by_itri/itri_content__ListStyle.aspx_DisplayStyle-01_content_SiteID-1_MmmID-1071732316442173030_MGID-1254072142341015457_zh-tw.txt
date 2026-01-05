@@ -1,0 +1,43 @@
+首頁
+尖端科技
+智慧化致能技術
+通訊
+5G協同網緣運算技術
+Share to Facebook
+Share to Twitter
+分享到我的Line
+聯絡我們
+技術簡介
+5G協同網緣運算技術。
+5G Synergic Edge Computing（SynerEdge）於5G行動網路邊緣與鄰近基地台的位置提供雲端運算能力以及應用服務的管理。具備3GPP R16 UPF／AF及ETSI MEC架構規格，其將傳統網路架構上運行於Cloud 的應用服務轉移到使用者近端的5G SynerEdge協同網緣運算平台上運行能具有以下優點：
+1. 由於應用服務鄰近使用者，因此可以有效降低服務的延遲時間。
+2. 同時資料於行動網路邊緣進行運算可以有效降低透過核心網路傳輸的資料負載．
+3. OAM網管平台一鍵佈署各場域所需的邊緣運算平台。
+4. 支援異質網路接取專網技術，可支援5G RAN及Wi-Fi接取技術。
+5G SynerEdge的系統架構支援運行於Commodity Hardware上；ITRI 所開發的ETSI MEC APP Platform Services 可以提供APP的管理包含：上架、下架、生命週期與Traffic Rules…等。APP可佈建與運行於混合式的NFV 平台上包含Hypervisor-base（VM）及Container-base 的NFV 平台。
+特色與創新
+5G SA架構支援，具備3GPP R16標準介面
+N3：支援5G基站介接。
+N4：5GC SMF介接。
+N6：Local DN介接。
+N9：5GC UPF介接。
+網路&服務虛擬化
+系統以Container-Based運行。
+支援Container-Based／VM-Based的應用服務上架。
+智慧路由
+無縫服務重新導向。
+支援具備FQDN之服務上架。
+資料封包卸載。
+異質網路技術
+N3IWF模組功能（N2／NWu）。
+支援UE透過N3IWF存取的邊緣運算服務。
+即時服務啟動（Just-in-Time）
+於應用服務被存取時快速啟動服務，並節省edge cloud資源。
+OAM管理功能
+一鍵自動部署邊緣平台系統與邊緣APP。
+系統模組及APP狀態檢測。
+APP上架／下架／狀態檢視／版本管理及FQDN更新。
+系統流量及效能監測。
+系統告警通報設計。
+應用與效益
+網路服務供應商、電信業者，提供5G垂直應用專網系統所需運算服務。

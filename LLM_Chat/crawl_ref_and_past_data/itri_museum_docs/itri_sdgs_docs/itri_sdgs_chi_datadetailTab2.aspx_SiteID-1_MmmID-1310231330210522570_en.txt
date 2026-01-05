@@ -1,0 +1,234 @@
+URL: https://itrisdgs.itri.org.tw/chi/datadetailTab2.aspx?SiteID=1&MmmID=1310231330210522570
+Depth: 1
+Crawled: 2025-07-28 16:11:04
+====================================================================
+front page
+Technology research and development
+Resilient society
+Technology research and development
+Scientific research and innovation promotion
+2035 Technical Strategy and Blueprint
+Smart life
+Healthy and happy
+Sustainable environment
+Resilient society
+Intelligent intelligent technology
+Train maintenance machine factory equipment domestic production-General valve test device
+High-deep, aspect ratio, multi-component, low-temperature atomic layer deposition technology
+Release date 2025-06-25
+Train maintenance machine factory equipment domestic production-General valve test device
+Train maintenance machine factory equipment domestic production-General valve test device
+General-purpose valve test benches improve maintenance efficiency and safety, and promote the localization of railway equipment and industrial upgrading.
+Environment (E)
+Society (S)
+Economy (E)
+In the past, a valve-type functional test could only be applied to one measuring table. The general-purpose valve-type measuring table can be installed with multiple different testing valve parts at the same time, which can increase the detection energy of the measuring table and reduce energy consumption.
+Solve the problems of labor shortage and reliability testing of factory maintenance, improve railway maintenance resilience, and improve people's ride safety
+Establish a resilient railway operation and maintenance system, promote the upgrading of domestic railway equipment industry, develop domestic products, solve the dilemma of long-term reliance on foreign imports, and then enter the international market competitiveness
+Solution
+Track operators have long relied on imported equipment from abroad, and are reluctant to pay attention to it because they do not meet on-site maintenance needs. This institute has developed a domestic valve test bench, which can install test valve parts of different specifications on the same test bench at the same time, replacing traditional manual switching installation with an automatic switching circuit design.At the same time, it can enable operators to quickly eliminate faults, greatly reduce maintenance costs, and provide high-efficiency test bench solutions for track operators.
+Technology application
++ Adopt core control components that comply with CE certification and EN61131 and EN61000 specifications.
++ Test standards meet the original specifications of each valve type.
++ Integrate and use AI technology, graphically controlled human-computer interface, test samples and data instantly present.
++ Intelligent maintenance database, big data analysis shows maintenance results and continues to track them.
++ Customized service (functional specification planning).
++ Assist owners in testing and verification, and on-site installation and adjustment.
++ Domestic equipment for technical cooperation, high autonomy and expansion.
+Results Display
++ Taiwan Railway Company provides testing needs and valuable maintenance experience.The Industrial Research Institute provides testing equipment integration technology according to requirements.The two parties jointly develop valve-type comprehensive testing equipment that can meet PP buses and 35F2000 flat car machine systems. Using AI technology and modular design, we achieve multi-function integrated testing, making vehicle maintenance safer and more reliable.
+High-deep, aspect ratio, multi-component, low-temperature atomic layer deposition technology
+High-deep, aspect ratio, multi-component, low-temperature atomic layer deposition technology
+Low-temperature atomic layer deposition technology improves semiconductor process efficiency and expands Taiwan's advantages in equipment independent innovation.
+Environment (E)
+Society (S)
+Economy (E)
+Novel low-temperature deposition coating technology to improve component application performance and reduce energy consumption
+Strengthen the international competitiveness of my country's semiconductor manufacturing equipment and create high added value and employment opportunities for equipment
+Establish a key module supply chain, promote the upgrading and independence of the domestic semiconductor equipment industry, and drive the growth of the output value of my country's semiconductor coating equipment
+Solution
+By developing high-deep aspect ratio, multi-component low-temperature atomic layer deposition technology, we optimize the process requirements of semiconductor components and carry out the overlay deposition of three-dimensional uniform films.In addition, ICP precision plasma source and high-speed film thickness measurement technology are combined to improve the coating uniformity and quality of ALD technology, and thus support the process requirements of next-generation high-speed and high-performance 3D semiconductor components.
+Technology application
++ The first high-deep aspect ratio bidirectional flow technology to meet the precision coating requirements of semiconductor components such as 3D high-deep aspect ratio structure, multi-component control, and atomic layers.
++ Complete memory component development verification, demonstrate good Set/Reset memory operation characteristics, and meet the project goals.
++ Innovative composite all-in-one coating system to reduce transmission and pollution, improve coating quality and production capacity.
+Results Display
++ Break through the international (AMAT, ASM) patent blockade, lead domestic innovation and research and development, and provide strong support for the supply chain of next-generation semiconductor ALD coating equipment (accounting for about 10% of the international equipment market).
++ Win the 2023 Global Top 100 Science and Technology R&D Awards (R&D100 Awards), the 2024 Legal Person Science and Technology Award, Industrial Technology Innovation Award, and the TIE Best Display Award.Xu Yuteng, a professional domestic equipment manufacturer, cooperates with technology to produce and will be introduced into semiconductor manufacturing plants for application.
+--- Section ---
+Train maintenance machine factory equipment domestic production-General valve test device
+General-purpose valve test benches improve maintenance efficiency and safety, and promote the localization of railway equipment and industrial upgrading.
+Environment (E)
+Society (S)
+Economy (E)
+In the past, a valve-type functional test could only be applied to one measuring table.The general-purpose valve-type measuring table can be installed with multiple different testing valve parts at the same time, which can increase the detection energy of the measuring table and reduce energy consumption.
+Solve the problems of labor shortage and reliability testing of factory maintenance, improve railway maintenance resilience, and improve people's ride safety
+Establish a resilient railway operation and maintenance system, promote the upgrading of domestic railway equipment industry, develop domestic products, solve the dilemma of long-term reliance on foreign imports, and then enter the international market competitiveness
+Solution
+Track operators have long relied on imported equipment from abroad, and are reluctant to pay attention to it because they do not meet on-site maintenance needs.This institute has developed a domestic valve test bench, which can install test valve parts of different specifications on the same test bench at the same time, replacing traditional manual switching installation with an automatic switching circuit design. At the same time, it can enable operators to quickly eliminate faults, greatly reduce maintenance costs, and provide high-efficiency test bench solutions for track operators.
+Technology application
++ Adopt core control components that comply with CE certification and EN61131 and EN61000 specifications.
++ Test standards meet the original specifications of each valve type.
++ Integrate and use AI technology, graphically controlled human-computer interface, test samples and data instantly present.
++ Intelligent maintenance database, big data analysis shows maintenance results and continues to track them.
++ Customized service (functional specification planning).
++ Assist owners in testing and verification, and on-site installation and adjustment.
++ Domestic equipment for technical cooperation, high autonomy and expansion.
+Results Display
++ Taiwan Railway Company provides testing needs and valuable maintenance experience. The Industrial Research Institute provides testing equipment integration technology according to requirements. The two parties jointly develop valve-type comprehensive testing equipment that can meet PP buses and 35F2000 flat car machine systems.Using AI technology and modular design, we achieve multi-function integrated testing, making vehicle maintenance safer and more reliable.
+--- Section ---
+High-deep, aspect ratio, multi-component, low-temperature atomic layer deposition technology
+Low-temperature atomic layer deposition technology improves semiconductor process efficiency and expands Taiwan's advantages in equipment independent innovation.
+Environment (E)
+Society (S)
+Economy (E)
+Novel low-temperature deposition coating technology to improve component application performance and reduce energy consumption
+Strengthen the international competitiveness of my country's semiconductor manufacturing equipment and create high added value and employment opportunities for equipment
+Establish a key module supply chain, promote the upgrading and independence of the domestic semiconductor equipment industry, and drive the growth of the output value of my country's semiconductor coating equipment
+Solution
+By developing high-deep aspect ratio, multi-component low-temperature atomic layer deposition technology, we optimize the process requirements of semiconductor components and carry out the overlay deposition of three-dimensional uniform films.In addition, ICP precision plasma source and high-speed film thickness measurement technology are combined to improve the coating uniformity and quality of ALD technology, and thus support the process requirements of next-generation high-speed and high-performance 3D semiconductor components.
+Technology application
++ The first high-deep aspect ratio bidirectional flow technology to meet the precision coating requirements of semiconductor components such as 3D high-deep aspect ratio structure, multi-component control, and atomic layers.
++ Complete memory component development verification, demonstrate good Set/Reset memory operation characteristics, and meet the project goals.
++ Innovative composite all-in-one coating system to reduce transmission and pollution, improve coating quality and production capacity.
+Results Display
++ Break through the international (AMAT, ASM) patent blockade, lead domestic innovation and research and development, and provide strong support for the supply chain of next-generation semiconductor ALD coating equipment (accounting for about 10% of the international equipment market).
++ Win the 2023 Global Top 100 Science and Technology R&D Awards (R&D100 Awards), the 2024 Legal Person Science and Technology Award, Industrial Technology Innovation Award, and the TIE Best Display Award. Xu Yuteng, a professional domestic equipment manufacturer, cooperates with technology to produce and will be introduced into semiconductor manufacturing plants for application.
+--- Navigation ---
+Sustainable navigation
+The operator's words
+Sustainable words
+Sustainable management organization
+Sustainable Development Goals
+Interested persons
+Major Topics
+Integrity governance
+Organizational culture
+Governance structure
+Integrity management
+Perpetual value chain
+Technology research and development
+Scientific research and innovation promotion
+2035 Technical Strategy and Blueprint
+Smart life
+Healthy and happy
+Sustainable environment
+Resilient society
+Intelligent intelligent technology
+Happy workplace
+Diversity and Integration
+Talent cultivation and development
+Retain talents
+Occupational Safety and Hygiene
+Employee health promotion
+Green courtyard area
+Climate and nature management
+Low-carbon operation
+Energy Management
+Water Resources Management
+Waste treatment
+Social welfare
+Industrial development
+Highlights of industrial applications
+Social benefits
+Industrial talent cultivation
+Social welfare
+Menu
+--- Navigation ---
+Sustainable navigation
+The operator's words
+Sustainable words
+Sustainable management organization
+Sustainable Development Goals
+Interested persons
+Major Topics
+Integrity governance
+Organizational culture
+Governance structure
+Integrity management
+Perpetual value chain
+Technology research and development
+Scientific research and innovation promotion
+2035 Technical Strategy and Blueprint
+Smart life
+Healthy and happy
+Sustainable environment
+Resilient society
+Intelligent intelligent technology
+Happy workplace
+Diversity and Integration
+Talent cultivation and development
+Retain talents
+Occupational Safety and Hygiene
+Employee health promotion
+Green courtyard area
+Climate and nature management
+Low-carbon operation
+Energy Management
+Water Resources Management
+Waste treatment
+Social welfare
+Industrial development
+Highlights of industrial applications
+Social benefits
+Industrial talent cultivation
+Social welfare
+--- Navigation ---
+The operator's words
+Sustainable words
+Sustainable management organization
+Sustainable Development Goals
+Interested persons
+Major Topics
+--- Navigation ---
+Scientific research and innovation promotion
+2035 Technical Strategy and Blueprint
+Smart life
+Healthy and happy
+Sustainable environment
+Resilient society
+Intelligent intelligent technology
+--- Navigation ---
+Diversity and Integration
+Talent cultivation and development
+Retain talents
+Occupational Safety and Hygiene
+Employee health promotion
+--- Navigation ---
+Climate and nature management
+Low-carbon operation
+Energy Management
+Water Resources Management
+Waste treatment
+--- Navigation ---
+Industrial development
+Highlights of industrial applications
+Social benefits
+Industrial talent cultivation
+Social welfare
+--- Navigation ---
+front page
+Latest news
+Research and development will continue to work together
+Glory and affirmation
+Perpetual Database
+Site Map
+--- Navigation ---
+Scientific research and innovation promotion
+2035 Technical Strategy and Blueprint
+Smart life
+Healthy and happy
+Sustainable environment
+Resilient society
+Intelligent intelligent technology
+--- Navigation ---
+Train maintenance machine factory equipment domestic production-General valve test device
+High-deep, aspect ratio, multi-component, low-temperature atomic layer deposition technology
+--- Navigation ---
+Copyright © 2024 Industrial Technology Research Institute
+Social Welfare Zone of the Institute of Technology
+Integrity governance
+--- Navigation ---
+Customer service line:
+0800-45-8899
+Contact Window

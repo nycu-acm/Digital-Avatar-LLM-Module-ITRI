@@ -1,0 +1,34 @@
+front page
+Cutting-edge technology
+Healthy and happy
+Smart medical
+Magphage chimeric antigen receptor nucleic acid drug composition for cancer treatment
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+In the efficacy trial of homologous mice, M1+anti-CD47 CAR (M1-CAR) mRNA-LNP (MC3-t2) can effectively inhibit A20 tumor metastasis to the liver and reduce tumor volume (Tumor Burden).
+This technology can be applied to the treatment of solid tumors (such as liver cancer, lung cancer, etc.).It is characterized by the use of lipid nanoparticles (LNPs) to form mRNA-LNP nucleic acid drugs with tumor antigen (TAA) specific use, combined with mRNA that promotes the activation of macrophages M1 type, to form mRNA-LNP nucleic acid drugs.This innovative strategy can directly generate chimeric receptor CARs with tumor antigen (TAA) specificity in vivo (In Vivo) and activate into M1 chimeric antigen receptor macrophages (CAR-M), thereby producing anticancer effects.
+M1 CAR-M mRNA-LNP drugs can be used as an off-the-shelf immune cell therapy preparation, with low treatment costs and can be administered multiple times to make long-term treatment possible.Using macrophages with natural properties that can penetrate the tumor parenchyma combined with mRNA-LNP technology provides a high-efficiency, scalable and clinically accessible new generation immunotherapy for solid tumors.
+Features and innovation
+Technical Features
+M1-mRNA: Effectively induce macrophages to polarize to M1 type and enhance their anti-tumor ability.
+CAR-mRNA: enables macrophages to express chimeric antigen receptors (CARs), improve tumor cell recognition ability, and enhance their tumor suppression efficacy.
+The above two mRNAs are encapsulated in lipid nanoparticles (LNPs), protecting mRNA from degradation and enhancing their efficacy in ingestion by macrophages.
+Activated tumor microenvironment regulation: After CAR-macrophages penetrate into the tumor microenvironment, they actively participate in tumor cell phagocytosis, antigen presentation and release of proinflammatory cytokines, and promote strong immune activation of solid tumors.
+Technical Advantages
+Macrophages play a key role in cancer immunity, including tumor infiltration, phagocytosis, antigen presentation and regulation of adaptive immunity to achieve tumor clearance.
+Dual mechanism: combining macrophage activation (M1 type polarization) with tumor-targeted CAR expression to produce a more comprehensive anti-tumor immune response.
+In Vivo Delivery (In Vivo): No in vitro cellular engineering, reducing the complexity of production and clinical treatment.
+Regulating the tumor microenvironment: Activating macrophages promotes immune activation and enhances solid tumor suppression efficacy.
+Application and benefits
+Solve the difficulties in the treatment of solid tumors in clinical immune cell therapy.
+Reduce the cost of immune cell therapy in clinical cancer treatment and provide high-efficiency clinical solid cancer treatment strategies.
+IVT-mRNA-LNP new drug development.
+One-stop service in the field of biomedical medicine in the Institute of Technology and Research
+Regulatory guidance: FDA/TFDA/CE application, medical product verification/export, inspection and registration, IRB document compilation and clinical trial application, etc.
+Technology transfer: biomedical and electrical technology, precision medical guidance and diagnostic technology, regenerative medicine technology, natural medicine and health care technology, target drugs and transmission technology.
+Translation of prototype: Introduce domestic supply chain, medical material design control, market analysis, product listing regulations and strategy analysis, etc.
+Preclinical verification/clinical trials: functional safety assessment, testing organization links, clinical evaluation and analysis, clinical trial planning, trial results analysis and reporting.
+Other services: quality system construction counseling, commercialized counseling, smart medical solutions, software effectiveness, medical material risk management, financial security risk assessment, technical document preparation, linking industrial ecosystem, etc.

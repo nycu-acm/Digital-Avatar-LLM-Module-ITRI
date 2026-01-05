@@ -1,0 +1,8 @@
+直接ITRI網站爬行者元數據
+====
+
+source_url：https：//www.itri.org.tw
+crawl_timestamp：2025-07-28T15：59：48.578997
+agrancy_name：工業技術研究所
+English_name：工業技術研究所
+縮寫：itri

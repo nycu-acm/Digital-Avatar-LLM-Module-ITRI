@@ -1,0 +1,27 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Wisdom sensing
+Clear image pickup and anti-hand vibration module
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Clear image of anti-hand vibration module.
+Clear image-proof hand vibration module is used in image recording products to improve unclear images due to hand shaking. Using the sensing of hand shaking, an expert control system and driving circuit can be designed to effectively compensate for the shaking afterimage caused by hand shaking, so that the residual shaking amount can be controlled below 20%, and the best compensation effect can be obtained at various shaking frequencies to obtain stable recording images.
+Features and innovation
+Develop a broadband zero-phase vibration algorithm to accurately estimate complex motion signals, use intelligent control technology, adjust controller parameters, and achieve better manual vibration suppression effect.
+Technical Features
+Phase compensation filter.
+Frequency optimization filter design.
+Expert control system.
+Optical anti-hand vibration testing platform.
+Technical Specifications
+DSC Anti-shaking.
+12X Tele, Shutter ½”, ISO100.
+Compen. vibration: 4Hz~12Hz@ ±0.15°.
+Tremor residual: 9% ~ 14%.
+Application and benefits
+Digital cameras, digital cameras, mobile phone photography modules, handheld projectors, and various portable image recording products.
+Clear image of anti-hand vibration module.

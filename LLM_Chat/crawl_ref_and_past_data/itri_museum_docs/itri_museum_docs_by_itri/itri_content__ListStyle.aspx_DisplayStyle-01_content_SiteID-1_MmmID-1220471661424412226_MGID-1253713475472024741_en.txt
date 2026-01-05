@@ -1,0 +1,23 @@
+front page
+Cutting-edge technology
+Smart life
+Smart consumption and operation services
+Smart image analysis in commercial fields
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Smart image analysis in commercial fields.
+The key elements of smart image analysis in commercial field applications must have the characteristics of reproducibility, operationality and ease of maintenance to correspond to the requirements of commercial application field entry standards and efficient operation.This system is based on the intelligent image analysis core of fully developed intelligent image analysis, which can be connected to existing camera images in the field, and provides accurate, diverse and flexible observation data through image analysis technology, and provides flexible operator services through edge computing lightweight system entry or Software as a Service (SaaS) method; and establish data-driven operation decision-making solutions in physical commercial fields using image analysis technology.
+Features and innovation
+Elastic setting analysis target provides complete timing and comprehensive flow information
+Software-defined probe target analysis: A single image source can set multiple observation target areas (1 to 4).
+Accurate and fast analysis: image detection and tracking at frame level, distributed multi-GPUs parallel processing.
+Web UI presents basic analytical data, or provides integrated application of diversified analytical data using a flexible interface.
+Lightweight and fast entry (SaaS version)
+The existing surveillance cameras can be accessed in the field, without the need to purchase additional human flu sensing and computing equipment.
+For standardized installation and construction, only the existing camera streaming image is required in the central control room.
+The incoming equipment is extremely simplified, occupying a small space in the computer room (< 4U) and low power consumption (< 150W).
+Application and benefits
+Physical commercial areas such as department stores, shopping centers, composite shopping malls, retail store locations, etc.

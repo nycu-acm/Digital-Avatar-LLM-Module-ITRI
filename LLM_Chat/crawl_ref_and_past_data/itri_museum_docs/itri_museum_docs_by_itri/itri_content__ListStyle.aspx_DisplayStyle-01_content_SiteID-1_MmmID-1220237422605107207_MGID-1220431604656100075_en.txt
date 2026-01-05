@@ -1,0 +1,16 @@
+front page
+Cutting-edge technology
+Resilient society
+Resource and energy resilience
+Smart Pipe Network Action Leakage Quick Screening Early Warning System
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Smart city pipeline leakage detection system.
+In order to improve the efficiency and accuracy of leak detection operations in underground tap water pipelines, the Institute of Materials and Chemical Engineering has established the world's first [Smart Pipe Network Action Leak Quick Screening Warning System], using localized leak diagnosis equipment to capture dynamic information on the spot, and integrate 5G and AIoT information to synchronize leakage event identification and leakage point positioning, and collect the concept of leak-line-point pipeline leakage detection strategy, and develop fast and accurate pipeline leakage positioning technology to meet the needs of quick screening of mobile pipeline leakage.
+Features and innovation
+This system is distributed to multiple people in an ultra-low frequency and high sensitivity sound transceiver probe module, and can be maneuvered on the surface of the local pipeline network, fire hydrant, or any surface, and combines the acoustic and vibration coupled filtering leakage diagnosis module and the multi-point active sound field degradation diagnosis module that can be wirelessly transmitted to the cloud platform to perform AI-assisted diagnosis.Currently, we are working with Taiwan Water Tap Company to conduct about 300 excavation verification cases in the bamboo seedling area, and the verification cases are continuing to increase.The underground detection distance can be up to 150 meters or more, compared with the accuracy of manual diagnosis, and the identification accuracy of this technology is as high as 95%, effectively protecting and preventing safety concerns associated with leakage of underground pipelines. At the same time, the road excavation range can be accurate to within 1 square meter, and the detection time can end within half a day, greatly reducing the inconvenience of water and traffic caused by construction.
+Application and benefits
+Through the inspection and excavation verification process, water leakage sound data is collected, and a big data pipeline AI leak prediction model is constructed to achieve the goal of significantly reducing the water leakage rate of tap water pipes.This technology is currently suitable for the detection of leakage of low-pressure water pipes at the end. In the future, it will be further applied to high-pressure underground pipelines with relatively high acoustic signal strength, such as factory fire protection pipelines, wastewater pipelines, industrial pipelines (oil and gas), gas gas pipelines, etc.

@@ -1,0 +1,31 @@
+首頁
+產業服務
+技術移轉
+技術名稱：
+語言模型研究與應用技術
+技術簡介
+本研究聚焦於低資源語言模型的開發與應用，特別針對台灣原住民族語的學習推廣與文化傳承。研究緣起於原住民族語面臨的多重挑戰，包括語言複雜性高、使用人口稀少、及資源開發不足。為回應這些挑戰，我們著眼於數位工具與技術的應用，藉由建構小規模語言模型及互動學習場域，以支持族語學習者與教師的需求。技術調查方面發現小規模 NLP 模型在特定任務中展現了可行性，例如語音辨識與口說練習反饋，亦可考慮運用轉移學習技術，縮短模型訓練時間並提升效能；同時，可行方向亦包涵族語展示空間設置規劃，旨在推廣與引發了族語學習的興趣，進一步支持語言與文化的雙向傳承。
+Abstract
+The study explores the development and application of low-resource language models to promote the learning and preservation of Taiwan’s indigenous languages. Addressing challenges like linguistic complexity, limited speakers, and insufficient resources, the research focuses on small-scale NLP models, interactive learning tools, and AI-assisted material generation to support educators and learners. Findings show that AI tools reduce teaching burdens and gamified platforms like Quizlet and Kahoot enhance learning outcomes. Small-scale models, aided by transfer learning, prove effective for tasks like speech recognition and feedback. Future plans also involve creating exhibition spaces to spark interest in indigenous languages and support their cultural and linguistic preservation.
+技術規格
+1. 小規模 NLP 族語學習刺激工具
+2. AI 族語教材生成工具
+Technical Specification
+1. Small-scale NLP-based Indigenous Language Learning Stimulation Tool
+2. AI-generated Indigenous Language Teaching Material Tool
+技術特色
+"本研究聚焦於低資源語言模型的開發與應用，特別針對台灣原住民族語的學習推廣與文化傳承。研究緣起於原住民族語面臨的多重挑戰，包括語言複雜性高、使用人口稀少、及資源開發不足。為回應這些挑戰，我們著眼於數位工具與技術的應用，藉由建構小規模語言模型及互動學習場域，以支持族語學習者與教師的需求。技術調查方面發現小規模 NLP 模型在特定任務中展現了可行性，例如語音辨識與口說練習反饋，亦可考慮運用轉移學習技術，縮短模型訓練時間並提升效能；同時，可行方向亦包涵族語展示空間設置規劃，旨在推廣與引發了族語學習的興趣，進一步支持語言與文化的雙向傳承。
+The study explores the development and application of low-resource language models to promote the learning and preservation of Taiwan’s indigenous languages. Addressing challenges like linguistic complexity, limited speakers, and insufficient resources, the research focuses on small-scale NLP models, interactive learning tools, and AI-assisted material generation to support educators and learners. Findings show that AI tools reduce teaching burdens and gamified platforms like Quizlet and Kahoot enhance learning outcomes. Small-scale models, aided by transfer learning, prove effective for tasks like speech recognition and feedback. Future plans also involve creating exhibition spaces to spark interest in indigenous languages and support their cultural and linguistic preservation."
+應用範圍
+族語數位互動教材應用、輔助教師生成教材工具、展場展示內容生成或互動應用協助
+接受技術者具備基礎建議（設備）
+相關開發軟體
+接受技術者具備基礎建議（專業）
+族語教學與推廣人才、NLP開發人才、展場規劃與設計人才
+技術分類
+設計驅動
+聯絡資訊
+聯絡人：何冠廷 設計創新組
+電話：+886-49-2345245 或 Email：timoh＠itri.org.tw
+客服專線：+886-800-45-8899
+傳真：+886-49-2345234

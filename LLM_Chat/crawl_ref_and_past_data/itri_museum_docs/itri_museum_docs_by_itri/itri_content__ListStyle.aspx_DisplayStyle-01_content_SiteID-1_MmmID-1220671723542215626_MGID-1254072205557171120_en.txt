@@ -1,0 +1,22 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Artificial intelligence and security
+Automated network control technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Automated network control technology.
+From the Internet level, how to achieve zero trust?From a traditional perspective, it may be believed that this is just a use of the concept of a firewall to judge, but it is not the case.In fact, in such a complex DPI detection traffic operation process, it is impossible to make detailed settings one by one based on limited scale of security and IT manpower. Instead, it is necessary to use the "automatic" mechanism to achieve the network whitelist policy and establish a subtle risk filtering table.
+Therefore, in such isolation protection equipment, in addition to using a simple firewall and network monitoring (Sniffer) functional structure, traditional website application firewall (WAF) can be placed on the outermost layer of the border to miniaturize and place it at the bottom to defend, so that the horizontal threat can be greatly reduced.After all, many industrial control equipment now also have small website systems built-in.
+In addition, it can also be combined with intrusion detection system (IDS), anti-software tampering, and even compliance inspection tools, data leakage protection (DLP), malicious program analysis, endpoint protection inspection, anti-DDoS, automatic endpoint detection protection, etc. It is hoped that through this combined storage module, the threats and conflicts faced by smart factories can be greatly reduced.
+Based on this idea, the Industrial Research Institute has developed a product called Janus to solve the risks and hazards that the old system cannot be updated immediately, while taking into account the need for the system to maintain normal operation.The key idea is to establish an Internet trust relationship diagram through the AI ​​"automatic" mechanism, as well as a network whitelist policy from subtle to communication agreements, and to miniaturize and expand the production of isolation protection equipment that can be isolated and protected.
+Features and innovation
+Solutions that automatically generate and manage rules, taking into account zero trust isolation and reducing IT personnel management investment.
+Automatically converge the rules of each CPGate in AI learning mode and provide risk analysis management analysis.
+By establishing correct daily behavior baseline rules, we can achieve the ability to actively eliminate all potential abnormal intrusion behaviors.
+Intuitively manage benchmark rules according to daily work content, and can be effectively managed without hacker expertise.
+Application and benefits
+Medical institutions, manufacturing industries, factories, defense units, enterprises and banks, etc.

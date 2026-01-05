@@ -1,0 +1,27 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Wisdom sensing
+Optical PM2.5 sensing module
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Domestic independent PM2.5 sensor.
+Developed domestically produced independent PM2.5 sensors, which can be used for indoor and outdoor detection, mainly use light scattering to detect PM2.5 concentration in the air, develop self-cleaning dust screening technology and optical detection technology, and compare the correlation coefficient R2 to standard instruments is above 0.7, and has the capability of auxiliary station testing. In the future, it will be equipped with the EPA's planned empty IoT sensors to conduct large-scale and high-density air quality monitoring, in order to copy and spread the successful model abroad.
+Features and innovation
+Using the new stable runner particle detection technology and particle signal characteristic identification technology, we will improve the flow velocity stability in the detection chamber and reduce the interference between light sources and large-particle particles.Through the particle signal acquisition and feature analysis, the Outlier particles are eliminated to improve detection accuracy.
+Technical Features
+Improve the accuracy of low-concentration detection.
+Reduce dust accumulation and improve module life.
+Provides PM2.5 sensor correction and optimization technology.
+Designed with EPA type certification.
+Technical Specifications
+PM2.5 concentration detection range: 15~500ug/m3.
+Median relative air difference: < 30%.
+Correlation coefficient: >0.7.
+Data update rate: 1 transaction/per second.
+Application and benefits
+It can be used in outdoor and indoor monitoring, such as environmental monitoring applications, smart city air product monitoring, as well as indoor home appliance applications such as air purifiers and air boxes.
+Optical PM2.5 sensing module will be used in the future.

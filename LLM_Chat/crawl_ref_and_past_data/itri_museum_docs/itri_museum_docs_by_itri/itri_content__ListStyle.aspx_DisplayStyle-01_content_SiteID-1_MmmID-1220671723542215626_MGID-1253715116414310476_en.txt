@@ -1,0 +1,19 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Artificial intelligence and security
+AI-QoS dynamic model inference control technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+AI-QoS technology can dynamically select models that can be completed within the time limit based on the connection quality.In the case of poor network connection quality, use a faster model for identification to improve identification speed and reduce overall delay.When the network connection quality is good, it is identified with a relatively accurate model to obtain the best identification results.
+Features and innovation
+Reasoning for elasticity in response to network status
+AI-QoS technology combines the ability to accurately identify large models and also has fast response time for small models. It can achieve instant response time in different network quality areas, reducing practical problems such as reducing application performance due to network advantages and disadvantages.
+Guaranteed inference results
+AI-QoS technology does not include: intermittent frame drops, and there will be no recognition results in the picture from time to time.
+Included AI-QoS technology: high probability ensures that every picture has inference results.
+Application and benefits
+It can be applied in areas where AI real-time imaging applications such as AR/VR/MR, drones and self-driving vehicles need to rely on stable and low-latency network environment requirements.

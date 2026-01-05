@@ -1,0 +1,42 @@
+front page
+Industrial Services
+Industry cooperation
+Commissioned research and product development
+Surface energy measurement
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Service Description
+When a crack grows, the energy required to generate a new crack surface is called surface energy, which can be obtained through experimental measurements.The value of surface energy is an important basis for building rupture judgments and is closely related to the fracture toughness or critical value of the rupture parameters of the material.The Institute of Technology provides the following instrument measurement services:
+Services
+Surface Energy Analyzer (SEA-IGC).
+Surface Energy Analyzer (SEA-IGC)
+That is, inverse gas chromatography (IGC), which measures the surface characteristics of powders, particles, fibers, and semi-solids, and is described by surface energy. It is a solid-phase surface characteristic analysis instrument. It is like the principle of gas-phase layer absorption. The probe solvent is vaporized into the pipe column and passes through the surface of the sample to be tested.It has different residence times due to the influence of the intermolecular forces between solid and gas.A series of measurement data is collected and calculated through theoretical formulas to analyze and obtain the solid surface energy and acid-base characteristics.Probe molecules used:
+Non-polarity: n-hexane, n-heptane, n-octane.
+Polar molecules: ethanol, chloroform, dichloromethane, toluene, ethyl acetate.
+Instrument performance
+The total surface area required for single measurement of sample volume is 0.5m
+2
+.
+Operating temperature is 30~140℃.
+The measured sample types include powder, particles, fibers, and semi-solids.
+Interface surface tension force measurement instrument (K100-MK2).
+Interface surface tension force measurement instrument (K100-MK2)
+Use a platinum ring or a platinum plate to measure the surface tension of the liquid and the interface tension between the two liquids.
+Instrument accessories: platinum ring, platinum plate, glass sample cup, plastic sample cup, sample cup lid, constant temperature system connector,
+Magnet, gas spray gun
+Specification
+Surface tension value measurement range: 1-1000mN/m, Resolution: 0.001mN/m.
+Platform measurement range: >110mm, Resolution: 0.1 µm, Speed: 0.099... 500 mm/min.
+Temperature control range: -10-130°C.
+Interface surface tension force measurement instrument (BP100-MK2).
+Interface surface tension force measurement instrument (BP100-MK2)
+Dynamic surface tension force measurement, measure and discuss dynamic surface tension and surface age
+(surface age) relationship and dynamic surface tension and bubble frequency relationship.
+Instrument accessories: 2 glass capillaries (0.203mm, 0.222mm), plastic capillaries, glass sample cup,
+Plastic sample cup, constant temperature system connector, magnet.
+Specification
+Surface tension value measurement range: 10-100mN/m, Resolution: ± 0.01mN/m.
+Temperature control range: -10-100°C.
+Vacuum surface age Surface age: 5 ms - 100 s.

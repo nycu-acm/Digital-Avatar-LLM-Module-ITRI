@@ -1,0 +1,55 @@
+Developing a Vehicular Information System Utilizing Information and Communication Technology - 50 Years of Empowering Industry Through Innovations
+Industrial Technology Research Institute
+Major Milestones
+Half a Century Young
+Navigating the Future
+中
+Major Milestones
+Home
+Major Milestones
+Vehicles
+Developing a Vehicular Information System Utilizing Information and Communication Technology
+Vehicle telematics
+Developing a Vehicular Information System Utilizing Information and Communication Technology
+Vehicle telematics
+Scooters
+Cars
+Public Transportation
+Vehicle telematics
+With the widespread adoption of information and communication technology (ICT), the development of vehicle telematics systems has taken off since the 2000s. These systems, initially limited to providing music and basic vehicle information, have progressively evolved to incorporate communication and multimedia entertainment functionalities. This period also marked ITRI’s strategic shift towards developing relevant technologies in the field of ICT.
+In 2005, ITRI transferred its automotive electronic information device technology to Universal Scientific Industrial. Furthermore, in 2009, the Institute achieved a significant milestone by introducing Taiwan’s first vehicular environments/dedicated short-range communications (WAVE/DSRC) technology. Building on these successes, ITRI, with the support of the European Union, organized the 2011 European Satellite Navigation Competition (ESNC) for Galileo, utilizing the WAVE/DSRC technology to showcase Taiwan’s satellite navigation and vehicle telematics applications to the international community.
+In 2012, ITRI collaborated with the major automotive supplier DENSO to jointly develop a DSRC vehicle onboard device, which was subsequently introduced to global markets. Additionally, ITRI partnered with Far EasTone Telecommunications, Anytek Technology, and Taiwan’s largest taxi company, Taiwan Taxi, to establish TOLiFE, an interactive digital media platform for vehicles. Installed in over 13,000 vehicles, this platform has created a new passenger experience by offering innovative services such as interactive audio-visual entertainment, interactive games, safe-riding text messages, driver information, and survey questionnaires.
+2005
+ITRI collaborated with Universal Scientific Industrial and facilitated the transfer of its automotive electronic information device technology. This partnership resulted in the production of Taiwan’s first vehicular information system, compliant with local vehicle regulations. The system was integrated into vehicles manufactured by the renowned French car brand PEUGEOT, with domestic automobile brands following suit within a year.
+2009
+ITRI developed Taiwan’s first WAVE/DSRC technology, conducted testing with the internationally renowned unit, PATH, and introduced the technology to major international automobile manufacturers. ITRI also partnered with Visteon, an automaker supplier, and joined the Crash Avoidance Metrics Partnership (CAMP) to establish connections between domestic automobile manufacturers and the global market.
+2011
+ITRI hosted the 2011 Satellite Navigation Competition for Galileo in the Taiwan region, garnering the highest number of registrations and submissions worldwide.
+2012
+ITRI and DENSO codeveloped a DSRC vehicle onboard device, which was subsequently introduced to global markets.
+2014
+A press conference was held for TOLiFE, an interactive digital media platform for vehicles.
+2014
+TOLiFE offered innovative services such as interactive audio-visual entertainment, interactive games, safe-riding text messages, driver information, and survey questionnaires.
+2018
+ITRI introduced a smart vehicle broadband service platform, providing one-stop networking services to passenger transportation companies.
+MORE
+Origin
+Semiconductors
+ICT
+Materials, Chemicals, and Nanotechnology
+Metrology
+Textiles
+Optoelectronics
+PCB
+Machinery
+Biomedicine
+Green Energy
+AI and Big Data
+Others
+next
+prev
+© Industrial Technology Research Institute
++886-3-582-0100
+310401
+195, Sec. 4, Chung Hsing Rd., Chutung, Hsinchu, Taiwan 310401, R.O.C.

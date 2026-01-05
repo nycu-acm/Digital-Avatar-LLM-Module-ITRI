@@ -1,0 +1,22 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Artificial intelligence and security
+Application Performance Management Platform-APM
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Application performance management platform.
+The application performance management platform (APM) allows the ever-changing micro-application services to be able to see the Internet behavior of the ever-changing micro-application services in the 5G era to be hiding.Enterprises are accelerating digital transformation, and various virtualized, containerized and hybrid cloud microservice APPs have become the main body of various 5G smart applications, promoting more dynamic communication behaviors and aggravating the challenges of system administrators in tracking, monitoring, security and detection.APM provides functions such as microservice performance monitoring, abnormal behavior detection and micronet segment safety isolation, etc., to assist administrators in easy and instantly grasp all APP communication activities, track behavioral trajectories and block illegal abnormal connections.
+Features and innovation
+You can see: Monitoring APP microservice communication topology, trajectory and delay.
+Guandao: construct behavior indicators, instant detection, warning and micro-isolation abnormal behavior.
+Hybrid monitoring: monitoring across virtual machines and containers, across virtual layers and entity layers.
+Abnormal alarm: Instant detection and alarm communication delay abnormality in uRLLC applications.
+Lite suite: thin and simple, occupies low-system CPU and memory resources.
+Completed in a blink of an eye: Full monitoring from construction, use to startup.
+Application and benefits
+One of the applications: Assist system administrators to locate the root cause of the performance bottleneck of microservice APP, and to recommend resources such as network, CPU, memory, etc. in the possible locations of virtual computing layer and physical network layer, shorten the time for administrators to detect errors in the system.
+Application 2: When 5G applications malicious software enters the intranet of the virtual environment and the ACL firewall fails to effectively block the behavior, the micro-net segment technology constructed in this project will dynamically detect and isolate the abnormal communication behavior of horizontal diffusion, reducing the attacked surface.

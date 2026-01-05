@@ -1,0 +1,28 @@
+front page
+Industrial Services
+Technology transfer
+Technical name:
+Computer-assisted design and development technology for air-cooled cooling and heating coils
+Technology introduction
+Air-cooled cooling and heating coil computer-assisted design and development technology includes condenser and evaporator performance calculations, and is easy to operate and learn in combination with Windows mode.Collect heat exchanger test data that the Green Energy Institute has tested for many years, test and integrate data to build a database, and use it as built-in data for design software.It is actually used in the design and development of heat exchangers, shortening R&D time and saving trial production funds.This technology mainly uses theoretical analysis to establish mathematical equations for air-cooled cooling and heating coils, and then uses numerical methods to establish computer-assisted design software. The improvement of heat exchanger performance can increase the effective average temperature difference between the air side and the refrigerant in the tube by (1) using reinforced fins or internal threaded copper tubes (2) to increase the total heat transfer area (3). This technical content provides detailed analysis of the heat transfer analysis, air-side pressure drop, and inner tube pressure drop of the heat exchanger, and the calculation results are similar to the experimental results.
+Abstract
+Air-Cooled heating and cooling Coils include Condenser and Evaporator. The Green Energy and Environment Research Laboratories of the Industrial Technology Research Institute (GEL/ITRI) have gained many years of practical experiences and have established a complete and detailed database from the test results of heat exchangers. With the data source from testing, we build the simulation software to be used for the air-cooled heat exchanger under Windows Environment. This software has the potential power to save a great deal of time and costs resulted in trial and error during the processes in heat exchanger design and development for manufacturings. This technology presents mathematic models and numerical method to calculate the performance of the air-cooled heat exchangers. To effectively improve the performance of air-cooled heat exchanges, passive enhancement techniques are often employed. The methods are (1) by using enhanced fin/tube surfaces; (2) by increasing total surface area; (3) by increasing the effective means temperature difference between the air flow and disadvantage flow. The technology provides detailed analysis on heat transfer, air-side pressure drop, and internal tube pressure drop. The calculated results closely match the experimental data.
+Technical Specifications
+The specifications of air-cooled cooling and heating coils are: pipe diameter 6.35~15.87mm, column number 1~12, fin spacing between 1.2mm~2.5mm, fin types are flat panels, wavy types and blinds, which are used in refrigeration and air conditioning equipment to achieve the purpose of improving the performance of heat exchangers.
+Technical Specification
+The specifications for air-cooled heating and cooling coils are as follows: tube diameters range from 6.35 mm to 15.87 mm, with 1 to 12 rows. Fin spacing ranges from 1.2 mm to 2.5 mm. Fin types include plain, wavy, and louvered fins. These coils are used in refrigeration and air conditioning equipment to enhance heat exchanger performance and improve efficiency
+Technical Features
+Collect heat exchanger test data that the Green Energy Institute has tested for many years, integrate test data, establish performance curves, and use it as a built-in air-side data library for software. The refrigerant database can be expanded according to requirements, including fluids such as low-carbon refrigerant (LGWP) and PG. It is actually used in the design and development of heat exchangers, shortening R&D time and saving trial production funds.Under known geometric dimensions of heat exchangers and conditions for air-side inlet and pipe-side refrigerant import, the outlet status, heat transfer amount and pressure drop analysis of the air-side and pipe-side refrigerant of the air-cooled heat exchanger can be calculated.
+Application scope
+Air-cooled heat exchanger
+Accept basic suggestions (equipment) for technicians
+Manufacturers of refrigerated air conditioners, heat exchangers and home appliances
+Accept basic advice from technicians (professional)
+Refrigeration air conditioning and heat exchanger technology
+Technical classification
+01 Green Energy Environment
+Contact Information
+Contact: Liao Jianshun High-efficiency Equipment and Building Energy Saving Technology Group
+Phone: +886-3-5914220 or Email: JSLiaw@itri.org.tw
+Customer service line: +886-800-45-8899
+Fax: +886-3-5910155

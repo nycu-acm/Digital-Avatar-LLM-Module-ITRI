@@ -1,0 +1,41 @@
+front page
+Industrial Services
+Testing services
+Testing services
+search
+Note: You can enter the detection name/function specification/sample attribute/properties/possible components, certification agency number, contact window name, telephone number
+I want to test
+​
+Keywords:
+NO.
+Testing services
+Condition description
+Certification Agency Number
+contact person
+Telephone
+1861
+120-CH scanner/doubler
+resistance
+Ye Yuxuan
+03-5911036
+1862
+1.TGA Thermal Gravity Analysis 2.DSC Differential Scanning Caloric Analysis
+1. The upper temperature limit is 1000℃
+2. The heating rate is 10~30℃/min
+3. Measurement of the following samples is prohibited:
+a.Corrosive gaseous materials will be generated during decomposition.
+b.Metal materials such as carbon, phosphorus, boron, arsenic, silicon, antimony, bismuth, lead, and tin.
+Yan Daxiang
+03-5915715
+1863
+Quantitative analysis of ultra trace elements
+MDL 10ppt
+Yang Shanshan
+03-5732036
+181
+182
+183
+184
+185
+186
+187

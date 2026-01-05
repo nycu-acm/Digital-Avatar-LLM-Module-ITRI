@@ -1,0 +1,32 @@
+front page
+Cutting-edge technology
+Healthy and happy
+Health care
+Thermal imaging care technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Thermal imaging care technology.
+IR thermal image sensing technology was developed by the Industrial Research Institute to complete a home security application system that takes into account privacy, AI recognition and affordable prices.Realize wide-area thermal image scanning and thermal image AI action behavior identification technology, change the existing single-line home care services provided by limited care workers, add safety pre-analysis tools for caregivers, and provide timely and precise safety services with more professional and diverse support systems.
+Features and innovation
+The dual-axis scanning mechanism is equipped with a affordable thermal image sensing module to realize thermal image AI action behavior identification technology and meet the application of home space care.
+Technical Features
+Affordable and private thermal imaging wide area scanning module.
+Thermal image AI action behavior recognition technology.
+Embedded computing module.
+Mobile device APP dual notification.
+Technical Specifications
+It can identify care behaviors such as sitting on the bed, leaving the bed, falling down, standing for a long time, lying for a long time, and sitting for a long time, with a non-response rate of 2%.
+Provides 24 daily routine statistics.
+Application and benefits
+It can be used in nursing homes, long-term care centers, elderly apartments and homes to shorten the time for reporting dangerous care events and reduce the risk of falling.It can be extended to industrial security, machine monitoring and security monitoring and other fields.
+Fall detection.
+Off-bed detection.
+Further reading
+The Trusted AI Seminar of the Institute of Industrial Research and Research will be held in 2022. Gathering heavyweight speakers at home and abroad to discuss AI governance
+The "2022 Trusted AI International Seminar" of the Institute of Industrial Research is on the scene. Experts analyze AI risk management, AI joint learning, and AI ethical characteristics analysis
+Accelerate the AIization of the industry, AIdea edge AI problem-solving platform is launched
+Ministry of Economics TMTS exhibited more than 20 technologies in 2024. The Institute of Industrial Research and Research develops AI high-precision five-axis tool machine to assist the national machine and manufacture
+Industrial Research Institute promotes the international upgrade of AIoT industry chain and works with Arm to create a world-class system verification center

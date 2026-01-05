@@ -1,0 +1,9 @@
+# ITRI Wikipedia Crawler Metadata
+
+organization_name: Industrial Technology Research Institute
+english_name: Industrial Technology Research Institute
+abbreviation: ITRI
+crawled_at: 2025-07-28T14:16:50.635500
+source_url: https://zh.wikipedia.org/zh-tw/Industrial Technology Research Institute
+total_sections: 10
+total_content_length: 18067

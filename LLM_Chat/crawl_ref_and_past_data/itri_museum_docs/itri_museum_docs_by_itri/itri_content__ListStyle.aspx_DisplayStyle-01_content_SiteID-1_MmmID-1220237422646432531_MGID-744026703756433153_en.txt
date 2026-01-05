@@ -1,0 +1,26 @@
+front page
+Cutting-edge technology
+Resilient society
+Productivity resilience
+Thin composite sensing module
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+The ultra-thin force sensing module has temperature and power sensing.
+The thin composite sensing module adopts an integrated structural design and highly rigid materials, which can achieve thinner size, high linearity signal output and high overload design (Static overload).The sensing module has power and temperature sensing, which can meet the state sensing needs of industrial mechanical equipment.
+Features and innovation
+The thin composite sensing module can be directly integrated into the ball screw, directly measuring the pre-pressure and temperature of the ball screw, achieving the function of diagnosis and maintenance reminder of the screw health status.
+Technical Features
+Sensing force and temperature at the same time.
+Thin structural design.
+IP65 waterproof and dustproof grade.
+It has screw health diagnosis function.
+Technical Specifications
+Thickness: 9mm.
+Force Range: 0~2000 N.
+Overload > 200%.
+Temperature Range: 0~100℃.
+Application and benefits
+This technology can be applied to pre-detection detection of ball screws, positioning platform pre-pressure bearings, motor thrust bearing temperature and pre-pressure, spindle thrust bearing temperature and pre-pressure workpiece chuck force attached sensing, and chemical mechanical grinding pressure detection as feedback control.

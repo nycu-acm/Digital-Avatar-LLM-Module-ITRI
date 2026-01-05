@@ -1,0 +1,28 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Wisdom sensing
+High sensitivity microelectromechanical microphone
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+High sensitivity microelectromechanical microphone.
+The high-sensitivity microelectromechanical microphone components are owned by a low-stress diaphragm structure and combined with a composite layer sensing electrode backplate. In addition to having good characteristics such as high sensitivity, high noise ratio, high sound pressure resistance and low temperature variation influence, they also have competitive advantages in size and cost-effectiveness.
+Features and innovation
+Starting from the CMOS foundry compatible process, the special backplane structural design is used to achieve the purpose of improving steel properties and reducing acoustic resistance, and thus improving the reliability and component characteristics of the differences.
+Technical Features:
+CMOS foundry compatible process design.
+The eight-pass mask process design process simplifies and improves yield.
+The reliability issue of the innovative composite backplane structure to enhance the impact of temperature difference.
+Low stress and high sensitivity sensing films improve acoustic sensitivity.
+Technical Specifications:
+Freq.response: 100 ~ 10kHz.
+Sensitivity: -38±3dB (Unit Gain).
+SNR: > 62dB.
+THD: < 0.5% (@100dB SPL).
+<0.3% (@94dB SPL).
+Application and benefits
+MEMS microphones have been widely used in mobile devices, such as smart phones, wearable devices, smart speakers and other 3C products. The product trend will be miniaturized, high sensitivity and low noise, and the global market demand in 2020 is as high as more than 5 billion.
+SEM diagram of the actual structure of the microphone.

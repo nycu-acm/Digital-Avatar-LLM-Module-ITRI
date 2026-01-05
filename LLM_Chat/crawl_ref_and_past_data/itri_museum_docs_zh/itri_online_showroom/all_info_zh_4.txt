@@ -1,0 +1,496 @@
+# 工研院線上展示館資訊 (能源科技展區-中文版)
+
+本文件包含從工研院線上展示館虛擬導覽中提取的所有能源科技展品信息 (zh-tw)。
+
+
+
+================================================================================
+場景 1 (zh-tw)
+================================================================================
+
+=== Full Compatibility Two-Way Intelligent Charger ===
+
+The Full Compatibility Two-Way Intelligent Charger is compatible with multiple international electric vehicle charging interfaces, and provides quick charging services within 10 minutes. This intelligent charger is combined with 6 proprietary dynamic load management and bi-directional charging technologies to complete smart grid modulation. With cloud-based vehicle and charger diagnostics, a new energy service platform is established for users, utility operators, vehicle manufacturers, and vendors. This platform has highly compatibility with international standards and can be exported directly to Southeast Asia, Europe, and the United States without changing any system designs.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/SlukZhoqZM
+
+--------------------------------------------------------------------------------
+
+=== Combine solar and grid power smart battery charging/discharging management system ===
+
+Storage of  daytime excess solar energy for nighttime usage.
+
+Feature: 
+Maximizing use of renewable solar energy, grid power use only in bad weather days, or when power storage is low.
+
+Energy-saving Benefit: 
+Minimizing use of grid power, time shift for low tariff, optimizing charging capacity by referencing next day weather forecast and power consumption data.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/8FTFwGGHd7
+
+--------------------------------------------------------------------------------
+
+=== Exoskeleton Robot for the People with Spinal Cord Injury ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== Solar power generation and demand prediction smart algorithms ===
+
+Use forecast data to determine charging amount during nighttime.
+
+Feature: 
+Can optimize daily charging needs, maximizing solar energy usage.
+
+Energy-saving Benefit: 
+Priority to use solar power for charging, minimize grid power use for charging.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/xcoshNemQD
+
+--------------------------------------------------------------------------------
+
+=== Exoskeleton Robot for the People with Spinal Cord Injury ===
+
+With the assistance of exoskeleton robot, people with spinal cord injury can easily move. ITRI’s exoskeleton robot equips the following attributes: thin and light-weight, special sole design, on-board remote controller, and open-close up switch at waist. These help users stand up, sit down, walk on flat floors or ramps, and go up and down stairs, without much effort and with stability. Users can also easily put on and off the exoskeleton.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/8lRkYehE76
+
+--------------------------------------------------------------------------------
+
+=== Exoskeleton Robot for the People with Spinal Cord Injury ===
+
+With the assistance of exoskeleton robot, people with spinal cord injury can easily move. ITRI’s exoskeleton robot equips the following attributes: thin and light-weight, special sole design, on-board remote controller, and open-close up switch at waist. These help users stand up, sit down, walk on flat floors or ramps, and go up and down stairs, without much effort and with stability. Users can also easily put on and off the exoskeleton.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/8lRkYehE76
+
+--------------------------------------------------------------------------------
+
+=== Solar power + heat pump hot water system ===
+
+Use solar energy combine with heat pump system to produce hot water.
+
+Feature: 
+demonstrate three different hot water systems and compare their energy efficiency.
+● PV thermal plus heat pump system can produce electricity and hot water in same module, along with high efficiency heat pump to make up temperature.
+● This unit equip with solar hot water plus high efficiency heat pump system to provide residential hot water.
+● Other units are using conventional solar hot water system with auxiliary electrical heating which is less efficient.
+
+Energy-saving Benefit: 
+PVT plus heat pump system will save about 2kwh/day in summer and 3.5kwh/day in winter.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/txBhyIarPA
+
+--------------------------------------------------------------------------------
+
+
+
+================================================================================
+場景 2 (zh-tw)
+================================================================================
+
+=== CelluadTM ===
+
+CelluadTM utilizes cellulose derivatives as raw materials, and possesses excellent adhesion and water resistance.  It is capable of resolving the problems induced by formaldehyde gas releasing and environmental pollution. CelluadTM can be used for products such as plywood and lumber core plywood.  The potential applications include flooring, cabinetry, and interior renovation, among others.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/9JzA9uBmTW
+
+--------------------------------------------------------------------------------
+
+=== The Muddle of Micro-LED Signage ===
+
+ITRI developed a fine pitch passive matrix μLED display module with the resolution of 80 x 80 by successfully integrating the μLED array with the PCB substrate. Fine pitch μLED display panel breaks the bottleneck of the conventional LED display which has been suffered by the limitation of reaching less than 1mm pitch. Furthermore, the panel size can be made freely, and save huge costs in research and maintenance.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/7lUPnC1KLi
+
+--------------------------------------------------------------------------------
+
+=== iPetWeaR ===
+
+iPetWeaR is an innovative wearable device using ITRI's low-power radar sensing technology to detect multiple physiological parameters for non-contact and long-term pet health monitoring. This innovation is capable of tracking a pet’s health data such as heart rate, respiration, and activity. It can alert the owner in events of abnormalities via a mobile app and is usable both indoors and outdoors.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/kYAW4ohoKy
+
+--------------------------------------------------------------------------------
+
+=== An Optical Particulate Matter (PM) 2.5 Sensor ===
+
+ITRI’s Optical PM 2.5 Sensor is developed based on optical scattering, combining with a dual flow particle filtering channel and particle signal feature recognition to estimate PM 2.5 concentration in ambient air. The Environmental Protection Agency (EPA) field tests showed that the sensor yielded a precision-and-bias error rate in concentrations ≦50% and a high correlation with R2>0.7 compared to reference instruments. The sensor can collaborate with other devices as a reference. This cost–effective technology can be adopted for personal use or indoor/outdoor air quality monitoring for IoT applications.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/VIuY84aN5z
+
+--------------------------------------------------------------------------------
+
+=== Soybean Dregs Discarding and Value-Adding Technology ===
+
+ITRI provides two different methods for industries to dispose of soybean dregs: (1) using large quantities of soybean dregs as swine feed, and (2) processing soybean dregs into value-added products such as cat litter and vermicompost. Starting from the pet and feed markets, ITRI collects the feedback from export manufacturers and consumers and then markets the technology to food and fertilizer indsutries. Gradually, a  collaborative ecosystem for soy products is built up, driving futher industrial development.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/b_jOFjlRa6
+
+--------------------------------------------------------------------------------
+
+=== Handheld Pesticide Residue Detector ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== Handheld Pesticide Residue Detector ===
+
+ITRI’s Handheld Pesticide Residue Detector is designed to enhance food safety by an intelligent method. It employs an optical detection system to determine whether pesticide residues are within a safe range when washing fruits or vegetables. With its dynamic degradative algorithm and real-time spectral analysis, users can easily know the cleansing status and when they can complete the washing. This technology can be furthered integrated with IoT technologies to provide food management services, offering greater protection for our health.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/QNP8guCP48
+
+--------------------------------------------------------------------------------
+
+=== iStimUweaR ===
+
+iStimUweaR incorporates flexible, washable, and conductive fabric printed electrodes to create comfortable garments that can provide multiple micro-electrical stimulation and massage functions for muscle improvement and pain relief.
+1. Contains fabric electrodes that is washable and no tight fitness design is required. 
+2. Supports multiple micro-electrical stimulation, printable fabric electrode, algorithm for physiological perception and comfort analysis. 
+3. Includes 3 set of flexible control (press/ rub/ tap) and 6 arrangements for different massage positions for pain relief. 
+4. Adopts wireless remote control via smartphones for recording data and time.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/PajyutNuan
+
+--------------------------------------------------------------------------------
+
+=== Dye Sensitized Cell Automatic Curtain System ===
+
+DS cell capable of producing electricity even under low light, use it to drive a motor in automatic curtain no need to use grid power.
+
+Special features:
+● Capable producing electricity even under low light.
+● Free of grid power, easy to install.
+● Environmentally friendly manufacturing.
+● Flexible, can attach to a curve surface.
+
+Energy-saving benefit: power from DSC cells, power saves 100%.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/NzOaityjtK
+
+--------------------------------------------------------------------------------
+
+=== Formaldehyde Gas Detector ===
+
+The formaldehyde gas detector draws the ambient gas via its sampling pump for analysis and displays the airborne formaldehyde concentration every 20 seconds. The detector can connect to a smartphone (iOS, Android) to record and monitor real-time data via Bluetooth, and can transmit the data or store them in the cloud through smartphone network.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/byeqvpPSSC.jpeg
+
+--------------------------------------------------------------------------------
+
+=== Smart Checkerboard System for Dementia Delay ===
+
+Smart Checkerboard System for Dementia Delay is designed to improve or maintain the cognitive function of dementia. Users can play against AI on a real chessboard; as well as play online against other people using the smart checkerboard app. The system collects data of chess games which can be further analyzed to reflect the user's cognitive ability changes. In addition, it also adjusts the level of difficulty based on the players’ data in order to achieve the purpose of training cognitive function.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/M6GTcMLHeN
+
+--------------------------------------------------------------------------------
+
+=== Portable UVC LED Water Sterilizer System ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== PoseFit: Muscular Functional Screening Mirror for Older Adults ===
+
+ITRI’s PoseFit is a muscle assessment screen mirroring system designed for elders. It can detect early signs of ‘frailty’ through screening one’s muscle strength. During the process, elders do not need to wear additional devices and can complete the assessment by following a set of guided poses. The system offers  personalized ‘Strengthening Exercise Guide’ that adopts image-recognition analysis of the elder’s poses and movements. This technology helps elders take precautions against physiological decline.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/8WTFTwrNbL
+
+--------------------------------------------------------------------------------
+
+=== PECOLA ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== iPetWeaR ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== Building Energy Simulation Technology with Artificial Intelligence ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== PECOLA ===
+
+ITRI's PECOLA employs ambient intelligence technology in caring for its elderly companions, making sure they are eating and sleeping well and are in good health and spirits. The robot also compiles information and sends it to the children of these individuals to help spark topics of discussion and bolster communication between them. PECOLA uses image recognition to record food portion change and carry out diet analysis to understand the individual's food intake. PECOLA also uses a WiFi signal in detecting one’s breathing rate during sleep. What's more, it utilizes deep learning technology to detect falls. Once a fall is detected, the robot immediately dials the individual's children and initiates a two-way video session, helping to improve safety in the home. A daily analysis report that includes the above physiological information will be generated and sent to family members’ mobile phones so that they can learn the seniors’ emotion, activity, diet, and sleep conditions. PECOLA continues to integrate third-party services, such as entertainment and social activities for the elderly, as well as functions to foster convenience, smart living, and healthcare.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/PwTGi4cAaC
+
+--------------------------------------------------------------------------------
+
+=== Building Energy Simulation Technology with Artificial Intelligence ===
+
+BESTAI (Building Energy Simulation Technology with Artificial Intelligence) is an energy-saving expert system with a user-friendly interface that allows non-specialists to easily perform energy diagnosis for commercial buildings, and residential buildings. It provides energy-saving strategies, ROI analysis, and real-time integration of geographical information systems (GIS) to analyze power consumption of buildings across multiple geographic zones. With BESTAI, users are able to conduct precise and low-cost energy-saving diagnosis for a large number of buildings in a short period of time.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/m_2VZU8F0O
+
+--------------------------------------------------------------------------------
+
+=== Portable UVC LED Water Sterilizer System ===
+
+ITRI’s Portable UVC LED Water Sterilizer System uses its self-made UV LED as the light source and reduces the sterilizer volume by 1/3, compared to a mercury lamp sterilizer. The UV LED is activated only when water flows through the sterilizer, which is energy-efficient. Also, the battery-powered design allows for easy carrying. This technology can provide immediate water sterilization to ensure drinking-water safety, making it an ideal solution for emergency situations such as in humanitarian assistance/disaster relief or in areas with poor sanitation.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/MhDahiSSxU
+
+--------------------------------------------------------------------------------
+
+=== video ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== iStimUweaR ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== Video ===
+
+展示屋影片轉小檔.mp4
+
+--------------------------------------------------------------------------------
+
+=== PMV based indoor environment control system ===
+
+Indoor environmental control with human centric factor to provide comfort condition through out day and night.
+
+Special Features：
+Based on ISO7730 model, co-developed control algorithm with sleep research center in Yang-Ming university, by inputting user’s metabolic rate, closing, and personal preference through an APP in a handheld device, it will control air-conditioner, fan, and HRV system to provide optimum indoor comfort conditions, and saves energy around 6% to 10%.
+
+Energy-saving Benefit: 
+By controlling air-conditioner and fan speed working together can save electricity around 6% to 10% an maintain comfortable conditions.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/ljKxcyCgQE
+
+--------------------------------------------------------------------------------
+
+
+
+================================================================================
+場景 3 (zh-tw)
+================================================================================
+
+=== PECOLA ===
+
+ITRI's PECOLA employs ambient intelligence technology in caring for its elderly companions, making sure they are eating and sleeping well and are in good health and spirits. The robot also compiles information and sends it to the children of these individuals to help spark topics of discussion and bolster communication between them. PECOLA uses image recognition to record food portion change and carry out diet analysis to understand the individual's food intake. PECOLA also uses a WiFi signal in detecting one’s breathing rate during sleep. What's more, it utilizes deep learning technology to detect falls. Once a fall is detected, the robot immediately dials the individual's children and initiates a two-way video session, helping to improve safety in the home. A daily analysis report that includes the above physiological information will be generated and sent to family members’ mobile phones so that they can learn the seniors’ emotion, activity, diet, and sleep conditions. PECOLA continues to integrate third-party services, such as entertainment and social activities for the elderly, as well as functions to foster convenience, smart living, and healthcare.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/PwTGi4cAaC
+
+--------------------------------------------------------------------------------
+
+=== The Muddle of Micro-LED Signage ===
+
+ITRI developed a fine pitch passive matrix μLED display module with the resolution of 80 x 80 by successfully integrating the μLED array with the PCB substrate. Fine pitch μLED display panel breaks the bottleneck of the conventional LED display which has been suffered by the limitation of reaching less than 1mm pitch. Furthermore, the panel size can be made freely, and save huge costs in research and maintenance.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/rPEzzwtvs2
+
+--------------------------------------------------------------------------------
+
+=== PECOLA ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== Portable UVC LED Water Sterilizer System ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== PoseFit: Muscular Functional Screening Mirror for Older Adults ===
+
+ITRI’s PoseFit is a muscle assessment screen mirroring system designed for elders. It can detect early signs of ‘frailty’ through screening one’s muscle strength. During the process, elders do not need to wear additional devices and can complete the assessment by following a set of guided poses. The system offers  personalized ‘Strengthening Exercise Guide’ that adopts image-recognition analysis of the elder’s poses and movements. This technology helps elders take precautions against physiological decline.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/mhF80SQDIv
+
+--------------------------------------------------------------------------------
+
+=== iStimUweaR ===
+
+"iStimUweaR incorporates flexible, washable, and conductive fabric printed electrodes to create comfortable garments that can provide multiple micro-electrical stimulation and massage functions for muscle improvement and pain relief.
+1. Contains fabric electrodes that is washable and no tight fitness design is required. 
+2. Supports multiple micro-electrical stimulation, printable fabric electrode, algorithm for physiological perception and comfort analysis. 
+3. Includes 3 set of flexible control (press/ rub/ tap) and 6 arrangements for different massage positions for pain relief. 
+4. Adopts wireless remote control via smartphones for recording data and time. "
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/GXuvIWVnds
+
+--------------------------------------------------------------------------------
+
+=== Video ===
+
+展示屋影片轉小檔.mp4
+
+--------------------------------------------------------------------------------
+
+=== iStimUweaR ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== Dye Sensitized Cell Automatic Curtain System ===
+
+DS cell capable of producing electricity even under low light, use it to drive a motor in automatic curtain no need to use grid power.
+
+Special features:
+● Capable producing electricity even under low light.
+● Free of grid power, easy to install.
+● Environmentally friendly manufacturing.
+● Flexible, can attach to a curve surface.
+
+Energy-saving benefit: 
+Power from DSC cells, power saves 100%.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/NzOaityjtK
+
+--------------------------------------------------------------------------------
+
+=== Formaldehyde Gas Detector ===
+
+The formaldehyde gas detector draws the ambient gas via its sampling pump for analysis and displays the airborne formaldehyde concentration every 20 seconds. The detector can connect to a smartphone (iOS, Android) to record and monitor real-time data via Bluetooth, and can transmit the data or store them in the cloud through smartphone network.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/abID2ykbwO.jpeg
+
+--------------------------------------------------------------------------------
+
+=== PMV based indoor environment control 
+system ===
+
+Indoor environmental control with human centric factor to provide comfort condition through out day and night.
+
+Special Features：
+Based on ISO7730 model, co-developed control algorithm with sleep research center in Yang-Ming university, by inputting user’s metabolic rate, closing, and personal preference through an APP in a handheld device, it will control air-conditioner, fan, and HRV system to provide optimum indoor comfort conditions, and saves energy around 6% to 10%.
+
+Energy-saving Benefit: 
+By controlling air-conditioner and fan speed working together can save electricity around 6% to 10% an maintain comfortable conditions.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/9g18cNNxfS.jpeg
+
+--------------------------------------------------------------------------------
+
+=== Smart Checkerboard System for Dementia Delay ===
+
+Smart Checkerboard System for Dementia Delay is designed to improve or maintain the cognitive function of dementia. Users can play against AI on a real chessboard; as well as play online against other people using the smart checkerboard app. The system collects data of chess games which can be further analyzed to reflect the user's cognitive ability changes. In addition, it also adjusts the level of difficulty based on the players’ data in order to achieve the purpose of training cognitive function.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/M6GTcMLHeN
+
+--------------------------------------------------------------------------------
+
+=== Building Energy Simulation Technology with Artificial Intelligence ===
+
+BESTAI (Building Energy Simulation Technology with Artificial Intelligence) is an energy-saving expert system with a user-friendly interface that allows non-specialists to easily perform energy diagnosis for commercial buildings, and residential buildings. It provides energy-saving strategies, ROI analysis, and real-time integration of geographical information systems (GIS) to analyze power consumption of buildings across multiple geographic zones. With BESTAI, users are able to conduct precise and low-cost energy-saving diagnosis for a large number of buildings in a short period of time.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/m_2VZU8F0O
+
+--------------------------------------------------------------------------------
+
+=== Handheld Pesticide Residue Detector ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== Building Energy Simulation Technology with Artificial Intelligence ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== Portable UVC LED Water Sterilizer System ===
+
+ITRI’s Portable UVC LED Water Sterilizer System uses its self-made UV LED as the light source and reduces the sterilizer volume by 1/3, compared to a mercury lamp sterilizer. The UV LED is activated only when water flows through the sterilizer, which is energy-efficient. Also, the solar -battery-powered design allows for easy carrying. This technology can provide immediate water sterilization to ensure drinking-water safety, making it an ideal solution for emergency situations such as in humanitarian assistance/disaster relief or in areas with poor sanitation.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/MhDahiSSxU
+
+--------------------------------------------------------------------------------
+
+=== CelluadTM ===
+
+CelluadTM utilizes cellulose derivatives as raw materials, and possesses excellent adhesion and water resistance.  It is capable of resolving the problems induced by formaldehyde gas releasing and environmental pollution. CelluadTM can be used for products such as plywood and lumber core plywood.  The potential applications include flooring, cabinetry, and interior renovation, among others.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/9JzA9uBmTW
+
+--------------------------------------------------------------------------------
+
+=== Handheld Pesticide Residue Detector ===
+
+ITRI’s Handheld Pesticide Residue Detector is designed to enhance food safety by an intelligent method. It employs an optical detection system to determine whether pesticide residues are within a safe range when washing fruits or vegetables. With its dynamic degradative algorithm and real-time spectral analysis, users can easily know the cleansing status and when they ITRI’s Portable UVC LED Water Sterilizer System uses its self-made UV LED as the light source and reduces the sterilizer volume by 1/3, compared to a mercury lamp sterilizer. The UV LED is activated only when water flows through the sterilizer, which is energy-efficient. Also, the solar -battery-powered design allows for easy carrying. This technology can provide immediate water sterilization to ensure drinking-water safety, making it an ideal solution for emergency situations such as in humanitarian assistance/disaster relief or in areas with poor sanitation.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/QNP8guCP48
+
+--------------------------------------------------------------------------------
+
+=== An Optical Particulate Matter (PM) 2.5 Sensor ===
+
+ITRI’s Optical PM 2.5 Sensor is developed based on optical scattering, combining with a dual flow particle filtering channel and particle signal feature recognition to estimate PM 2.5 concentration in ambient air. The Environmental Protection Agency (EPA) field tests showed that the sensor yielded a precision-and-bias error rate in concentrations ≦50% and a high correlation with R2>0.7 compared to reference instruments. The sensor can collaborate with other devices as a reference. This cost–effective technology can be adopted for personal use or indoor/outdoor air quality monitoring for IoT applications.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/2NjttGkVtm.jpeg
+
+--------------------------------------------------------------------------------
+
+=== Outer rotor permanent magnet brushless motor ceiling fan ===
+
+Integrated solution of motor technology
+
+Special Features:
+● Free of Rare-Earth Magnets
+● Sensorless Driver 
+● Large Torque at Low Speed
+● Flat Design and High C/P
+
+Energy-saving Benefit: 
+It can apply in range of fan products, capable of provide more air movements at low speed, compare with conventional motor technology saving energy by 50%.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/YPqOVgWX3r
+
+--------------------------------------------------------------------------------
+
+
+
+================================================================================
+場景 4 (zh-tw)
+================================================================================
+
+=== iDarlingWeaR ===
+
+ITRI’s iDarlingWeaR is an easy-to-use baby care product that provides remote monitoring, real-time alerts, and multi-functionality integration. It employs harmless low-power radar sensing technology to detect pulse and chest motion. Users can simply attach the detector on the swaddling blanket that wraps the infant to enable long-term heartbeat and respiration monitoring, without direct contact of a baby’s skin. The detection accuracy is over 95%. iDarlingWeaR can also identify sleep/awake state, work in dark places for nighttime monitoring, and send smartphone alerts to prevent   sudden death. Now, with the device, it becomes more efficient and less stressed when the parents or caregivers are taking care of their babies.
+
+圖片: https://vrmaker.istaging.com/3e5c2a66-9f4a-4174-aff1-3d8d0e7449b9/markers/FqCg5HXXSu
+
+--------------------------------------------------------------------------------
+
+=== iDarlingWeaR ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== Comfort indoor condition for sleeping ===
+
+To control the indoor environment by considering human factors, to enable thermal comfort level is maintained at the optimal level for the occupants fall to sleep and during sleep.
+
+Special features:
+● Including humidity, radiant temperature, clothing and bedding types, metabolic rates all parameters.
+● Daytime model is based on the ISO 7730 thermal comfort model, and the sleep control mode is based on a sleep thermal comfort model developed by our team in ITRI and Yang Ming university sleep research center.
+● Automatically adjust air conditioner and ceiling fan settings to maintain comfort lavel.
+
+Energy-saving benefit: 
+Main function is to maintain comfort indoor condition for sleeping.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/sK17l9zbCV
+
+--------------------------------------------------------------------------------
+

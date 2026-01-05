@@ -1,0 +1,8 @@
+ITRI English Wikipedia Metadata
+==================================================
+
+source_url: https://en.wikipedia.org/wiki/Industrial_Technology_Research_Institute
+language: english
+crawl_timestamp: 2025-07-28T14:41:44.361058
+total_sections: 7
+total_content_length: 11328

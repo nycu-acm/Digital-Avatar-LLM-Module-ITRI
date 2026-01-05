@@ -1,0 +1,19 @@
+front page
+Cutting-edge technology
+Smart life
+Human-computer interaction and service
+Smart cockpit driving ECG perception system
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Smart cockpit driving ECG perception system.
+Technology introduction
+Develop a driving physiological sensing steering wheel for smart cockpits, integrating a soft coupled ECG sensing system and a full-area coupled sensing electrode for steering wheel.
+Through the high-coupling quantity sensing system combined with noise filtering and signal compensation processing technology, driving electronic cardiac signals can be measured at 1.5mm leather, achieving a fast heart rate measurement value.
+The heart rate range can be measured by 40~130 BPM and the error value is ≤±3 BPM, and the driving physiological indicators HRV calculation and pressure tension indicator are integrated and calculated.
+Application and benefits
+It has a non-skin contact physiological monitoring ECG steering wheel and steering wheel cover to monitor driving physiological status to improve driving safety.
+In the future, it can be applied to the driving of the smart cockpit and the physiological monitoring of the passengers, as well as smart mobility and smart care.
+Related links:
+More technology-related information

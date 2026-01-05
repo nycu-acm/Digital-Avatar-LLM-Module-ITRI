@@ -1,0 +1,17 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+communication
+LEO low-orbit satellite communication technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+LEO low-orbit satellite communication technology.
+As international satellite merchants SpaceX and OneWeb enter the intensive launch period of low-orbit communication satellites and provide Internet testing services for specific regions, it has driven the demand for satellite communication equipment such as small satellite ground base stations and ground reception equipment and related components to gradually emerge. The Institute of Technology has developed advanced large-scale phase array antenna module technology, including beamforming modules, frequency lifting and lowering circuits, phase locking circuits, digital control circuits and power supply circuits, etc., to improve the development of independent satellite communication systems and components.
+Features and innovation
+Domestic independent development of satellite communication system ground station advanced phase array and front-end module design.
+Low-orbit satellite ground communication fundamental frequency simulation platform and FPGA solution, including Dumble effect compensation technology and beam acquisition and tracking technology.
+Application and benefits
+Provide domestic ICT manufacturers with low-orbit satellite ground communication antenna development, fundamental frequency integration, ground communication beam acquisition and tracking solutions, and satellite communication ground station application system design. Combined with heat dissipation, power supply systems, chips, front-end modules and sub-systems, it builds a complete low-orbit satellite ground station industrial chain in millimeter-wave ultra-high frequency communication related technical fields to seize the international market.

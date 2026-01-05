@@ -1,0 +1,44 @@
+front page
+Cutting-edge technology
+Healthy and happy
+Smart medical
+Immune long-acting CD40 ligand nucleic acid vaccine adjuvant
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+Develop novel "polyploid CD40L-tumor-specific antigen fusion mRNA" for dendritic cell cancer vaccine immunotherapy.
+mRNA was translated into fusion proteins of secreted polyploid CD40 ligand and shared MHC I-neogenic antigen peptide.mRNA is coated with lymph node-targeted nanoparticles, and mRNA is sent to dendritic cells in mice for expression through intravenous transmission.Dendritic cells are not only activated by polyploid CD40L after mRNA transfection, but the neogenic antigen peptide degraded in the cell can also successfully activate the peptide-specific T cells and successfully kill tumors.
+Features and innovation
+Technical Features
+Compared with tumor cells or vaccines where peptides are antigens, mRNA has the advantage of rapid production and direct activation of T cells through dendritic cells.
+Multivalent CD40L has an adjuvant effect and can also induce immune cells to produce memory responses to antigens and prolong protection.
+Combining next-generation sequencing and AI big data analysis can assist in the development of personalized cancer vaccines.
+Technical Advantages
+After binding of polyploid CD40L to the surface of dendritic cells, it can produce stronger multivalent aggregation effect, promote initial DC activation, secrete IL-12 and induce Th1 pathway, which is beneficial to CD8
++
+T activation, which in turn poisons tumor cells.
+Polyploid CD40L directly fuses tumor-specific antigens and sends them to dendritic cells in DNA or mRNA. Compared with traditional protein or peptide vaccines, it can present antigen peptides and activate CD8 with toxicity.
++
+T cells can reduce the use of vaccine antigens and reduce costs.
+Polyploid CD40-CD40L activation can replace CD4
++
+The role of helper T cells to help activated CD8
++
+T cells differentiate into memory CD8
++
+T cells, providing long-term protection.
+The use of secretory polyploids can avoid the toxicity of the membrane-type CD40 ligand or traditional CD40-activated antibodies due to overactivated immune cells.
+Application and benefits
+In vitro dendritic cell activation is used in cancer therapy.
+mRNA-LNP targeted with dendritic cells is used in cancer immunotherapy.
+Multivalent CD40L can be used as an immune adjuvant to increase activation of toxic CD8+ T cells and antibody titers.
+One-stop service in the field of biomedical medicine in the Institute of Technology and Research
+Regulatory guidance: FDA/TFDA/CE application, medical product verification/export, inspection and registration, IRB document compilation and clinical trial application, etc.
+Technology transfer: biomedical and electrical technology, precision medical guidance and diagnostic technology, regenerative medicine technology, natural medicine and health care technology, target drugs and transmission technology.
+Translation of prototype: Introduce domestic supply chain, medical material design control, market analysis, product listing regulations and strategy analysis, etc.
+Preclinical verification/clinical trials: functional safety assessment, testing organization links, clinical evaluation and analysis, clinical trial planning, trial results analysis and reporting.
+Other services: quality system construction counseling, commercialized counseling, smart medical solutions, software effectiveness, medical material risk management, financial security risk assessment, technical document preparation, linking industrial ecosystem, etc.
+Further reading
+The era of personalized cancer vaccines is coming

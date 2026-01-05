@@ -1,0 +1,192 @@
+# 工研院線上展示館資訊 (綠能永續展區-中文版)
+
+本文件包含從工研院線上展示館虛擬導覽中提取的所有綠能永續展品信息 (zh-tw)。
+
+
+
+================================================================================
+場景 1 (zh-tw)
+================================================================================
+
+=== VPP Technology Verification Platform with Aggregation of Distributed Resources ===
+
+To achieve the goal of net-zero carbon emissions, flexible renewable energy accommodation is necessary for electrical grids. By introducing Virtual Power Plant (VPP) technology, existing private resources can be properly utilized to improve the stability of the electrical grid. The VPP technology is based on AI algorithms and the plug-and-play remote unit U-Box. It can aggregate DERs (distributed energy resources) scattered throughout different regions to provide ancillary services in the electricity market.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/IWwqiDO7Ra.jpeg
+
+--------------------------------------------------------------------------------
+
+=== Low Carbon 100% Bio-Based PEF Polyester Material ===
+
+ITRI has developed a biomass conversion catalyst and polymerization technologies to produce 100% bio-based polyethylene furanoate (PEF) to replace petrochemical-derived polyethylene terephthalate (PET). The new generation PEF has excellent processing characteristics: better oxygen barrier capacity and stronger mechanical properties. It can produce lighter, thinner, but stronger bottles or food packaging materials, reducing greenhouse gas emission during production by 67%.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/mHLLvaQCgZ.jpeg
+
+--------------------------------------------------------------------------------
+
+=== Micro Immersion Cooling Data Center ===
+
+Amid the surging demand for cloud computation in the 5G era, the reliability and energy consumption of data centers are crucial to cloud service providers which look to achieve net zero emissions. ITRI developed a green data center and an energy-efficient micro immersion data server. With passive cooling and remote management technologies, the size and energy consumption of computing equipment can be reduced. These efforts will also facilitate high-reliability edge computing applications.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/2DM9hhLEqB.jpeg
+
+--------------------------------------------------------------------------------
+
+=== Networked Amide Epoxy Polymer Electrolyte for Solid State Lithium-Ion Batteries, NAEPE ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== Cloud Carbon Management Platform ===
+
+The cloud carbon management platform is built based on ITRI’s over 20 years of experience in life cycle assessment and industry consulting. Its database includes more than 10,000 entries covering nearly 20 industry sectors in Taiwan. The platform guides users to check and calculate carbon footprints and generates analytical reports. It also provides carbon reduction comparison to assist manufacturers in determining raw material replacement, enabling them to move towards low-carbon design and production.
+
+--------------------------------------------------------------------------------
+
+=== Building Energy Simulation Technology & Analysis Platform ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== Networked Amide Epoxy Polymer Electrolyte for Solid State Lithium-Ion Batteries, NAEPE ===
+
+NAEPE is a nonflammable, low-cost solid-state electrolyte with high ionic conductivity and voltage stability. It is a key material for the next generation solid-state Li-batteries, offering high energy density cells with better safety and cycle life. NAEPE is suitable for applications that operate at high voltages and temperatures.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/5NsqqHVXZt.jpeg
+
+--------------------------------------------------------------------------------
+
+=== Total Solution for LCD Panel Recycling ===
+
+ITRI has developed a total solution for LCD panel recycling, turning waste into valuables with a cost-effective six-step process. With the techniques such as separation, extraction, purification, scrubbing, concentration, and modification, the process enables the reuse of the waste LCD panel components. Liquid crystal, indium, and glass are then made to new LCDs or liquid crystal smart windows, indium targets, green construction materials and multifunctional adsorbents, respectively. This also presents an example of creating a circular economy.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/dPDE9ojlwm.png
+
+--------------------------------------------------------------------------------
+
+=== Building Energy Simulation Technology & Analysis Platform ===
+
+Building Energy Simulation Technology & Analysis Platform can quickly perform an analysis via standard building models developed with diverse building types. It also has a complete database of construction materials and equipment, in which reliable internet resources and data can be searched on a regular basis using web crawler technology with artificial intelligence. It's intelligent screening and sequencing technologies for equipment are used to provide a list of optimal equipment, as well as an assessment and recommendations on energy conservation and economic benefits, in order to both diagnose the energy consumption problems within current buildings and propose solutions.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/NGSfbRG1df.jpeg
+
+--------------------------------------------------------------------------------
+
+=== E-scooter Motor Drive ===
+
+This e-scooter motor drive incorporates the world’s first high power density e-scooter PIM with more than 8kW power. The PIM developed by ITRI’s power electronics research group, combines three-phase inverter and DC converter, current inductance, protection switching, and temperature sensing. The utilization of high-density system-in-package (SiP) further increases the power density by three times than that of the discrete module. Furthermore, the use of insulated metal substrate makes the power module more reliable and safer. The flexible module integrates with the motor drive and penetrates the AM market easily due to its easy-to-change characteristic that can significantly reduce the motor malfunction frequency.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/6IsCT0i0Cr.jpeg
+
+--------------------------------------------------------------------------------
+
+=== Easy Disassemble PV Module Technology ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== Easy Disassemble PV Module Technology ===
+
+Traditional PV modules featuring product longevity are difficult to disassemble and have a low recycle value. To address this issue, ITRI developed a new design that makes module disassembly easy and keeps the cells intact. The dismantled components and materials can be recycled and reused, creating new values for PV modules and achieving environmental sustainability.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/mOqYyYct6y.jpeg
+
+--------------------------------------------------------------------------------
+
+
+
+================================================================================
+場景 2 (zh-tw)
+================================================================================
+
+=== Technology of Carbon Sequestration and High-valued Production by Microalgae ===
+
+Microalgae carbon sequestration and utilization technology uses CO2 from industrial flue gas for microalgae cultivation. While cutting industrial CO2 emissions to reduce environmental pollution, this technology also saves the cost for biofuel production. In addition, to facilitate technology commercialization, ITRI has been dedicated to developing low-cost and low-energy-consumption techniques in microalgae culture, harvesting, and downstream extraction process.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/zx2MfvCn2X.jpeg
+
+--------------------------------------------------------------------------------
+
+=== 全球唯一LCD面板全循環技術 ===
+
+全球首創的LCD面板全循環技術涵蓋分離、萃取、純化、萃洗、濃縮和改質等6道程序，將LCD面板中的液晶、銦和玻璃以低汙染、低操作成本及高效能的模式依序取出、純化並轉化為高值化循環產品，兼具環保與經濟雙重效益，更符合循環經濟的國際潮流，為LCD面板最佳之處理技術。
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/dPDE9ojlwm.png
+
+--------------------------------------------------------------------------------
+
+=== 二氧化碳再利用－低碳世代綠色甲醇生產技術 ===
+
+甲醇應用領域廣泛，2021年全世界產能1億噸，預估到2050增加到5億噸，最重要的是甲醇可轉化成化工產業基礎原料，所以由二氧化碳(CO2)生產綠色甲醇取代化石資源是產業界拚零碳排不可或缺的關鍵技術。建立高性能CO2觸媒氫化技術，將捕獲的CO2直接轉化成甲醇，能同時滿足製程二氧化碳零排放及將廢氣轉化高值化學品的需求，若結合使用再生能源，可達到負碳排的效果。
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/A1SS2dakiu.jpeg
+
+--------------------------------------------------------------------------------
+
+=== Ultra-high Energy Density Flywheel Battery ===
+
+The Ultra-High Energy Density Flywheel Battery possess more kinetic energy than general batteries, which enables the flywheel to safe charge electronic vehicles quickly without limiting the depth of discharge. The Battery is compact and portable and has the capacity for modular design.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/IAcfp3GfBJ.jpeg
+
+--------------------------------------------------------------------------------
+
+=== Easy Disassemble PV Module Technology ===
+
+Traditional PV modules featuring product longevity are difficult to disassemble and have a low recycle value. To address this issue, ITRI developed a new design that makes module disassembly easy and keeps the cells intact. The dismantled components and materials can be recycled and reused, creating new values for PV modules and achieving environmental sustainability.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/mOqYyYct6y.jpeg
+
+--------------------------------------------------------------------------------
+
+=== High-efficiency Calcium Looping Technology ===
+
+Limestone is first calcined at 850~950°C to obtain lime (CaO), which is very suitable for CO2 capture because of its high adsorption capacity (theoretical 786g CO2/kg). Next, CaO is reacted with the CO2 in the flue gas at 600~700°C to become CaCO3, and then the CaCO3 is transported to the calciner for CaO regeneration under high temperature, and finally the regenerated CaO can capture CO2 within the carbonator in the next cycle. This CO2 capture method, using CaO/CaCO3 being circulated in the system to adsorb/desorb CO2 in the flue gas, is called the Calcium-Looping process.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/kyzBvxpqHR.jpeg
+
+--------------------------------------------------------------------------------
+
+=== Easy Disassemble PV Module Technology ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== Networked Amide Epoxy Polymer Electrolyte for Solid State Lithium-Ion Batteries, NAEPE ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== Networked Amide Epoxy Polymer Electrolyte for Solid State Lithium-Ion Batteries, NAEPE ===
+
+NAEPE is a nonflammable, low-cost solid-state electrolyte with high ionic conductivity and voltage stability. It is a key material for the next generation solid-state Li-batteries, offering high energy density cells with better safety and cycle life. NAEPE is suitable for applications that operate at high voltages and temperatures.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/5NsqqHVXZt.jpeg
+
+--------------------------------------------------------------------------------
+
+=== High-efficiency Calcium Looping Technology ===
+
+
+
+--------------------------------------------------------------------------------
+
+=== E-scooter Motor Drive ===
+
+This e-scooter motor drive incorporates the world’s first high power density e-scooter PIM with more than 8kW power. The PIM developed by ITRI’s power electronics research group, combines three-phase inverter and DC converter, current inductance, protection switching, and temperature sensing. The utilization of high-density system-in-package (SiP) further increases the power density by three times than that of the discrete module. Furthermore, the use of insulated metal substrate makes the power module more reliable and safer. The flexible module integrates with the motor drive and penetrates the AM market easily due to its easy-to-change characteristic that can significantly reduce the motor malfunction frequency.
+
+圖片: https://vrmaker.istaging.com/ad5e74e3-fe9f-422b-af82-79253068248f/markers/6IsCT0i0Cr.jpeg
+
+--------------------------------------------------------------------------------
+
+=== Ultra-high Energy Density Flywheel Battery ===
+
+
+
+--------------------------------------------------------------------------------
+

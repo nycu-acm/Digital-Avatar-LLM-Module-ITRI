@@ -1,0 +1,125 @@
+front page
+Industrial Services
+Industry cooperation
+Commissioned research and product development
+Probe microscope equipment
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Service Description
+Scanning probe microscope-SPM
+Scanning probe microscope-SPM (AFM, STM, MFM)
+Probe scanning micrometer measurement can be performed on test pieces below 8 inches wafers, and a variety of physical characteristics can be measured according to different probes.
+Services
+Topography
+dielectric properties
+contact potential, electric dipole moment
+magnetic domain
+Dopant
+conductivity
+probe lithography
+Specification
+scanning range: 90μm × 90μm × 6μm
+resolution: X axis and Y axis are 2 nm; Z axis is 0.05 nm; nonlearity < 1%
+specimen size: 200 mm (diameter) x 12 mm (thicjness)
+application
+AFM Contact Mode, Tapping Mode, Non-contact Mode
+Lateral Force Microscopy (LFM)
+Visco-elastic AFM
+Magnetic Force Microscopy (MFM)
+Kelvin Force Microscopy (KFM or Scanning Surface Potential Microscopy, SSPM)
+Conductive AFM
+Scanning Capacitance Microscopy (SCM)
+Nanolithography
+Vacuum temperature-controlled scanning probe microscope
+Vacuum temperature-controlled scanning probe microscope--SPM (AFM, STM, MFM)
+The environmental conditions of the test piece can be changed, vacuumed to 10^-6 torr, and the temperature range is -120°C to 400°C (heating up to 800°C).Limited to 2.5cm x 1cm test piece.Depending on the use of different probes, measurement of various physical characteristics can be carried out.
+Services
+Topography
+dielectric properties
+contact potential, electric dipole moment
+magnetic domain
+Dopant
+conductivity
+probe lithography
+Specification
+scanning range: 150μm × 150μm × 6μm
+resolution: both of the X axis and Y axis are 1 nm; Z axis is 5 nm
+specimen size: 2.5 cm (diameter) x 1.0 cm (thickness)
+application
+AFM Contact Mode, Tapping Mode, Non-contact Mode
+Lateral Force Microscopy (LFM)
+Visco-elastic AFM
+Magnetic Force Microscopy (MFM)
+Kelvin Force Microscopy (KFM or Scanning Surface Potential Microscopy, SSPM)
+Conductive AFM
+Scanning Capacitance Microscopy (SCM)
+Nanolithography
+Quantitative Mechanics and Rapid Scanning Probe Microscope-Q-SPM
+This instrument has a New generation AFM action force <50 pN, and its contact area is much smaller than that of traditional AFM.It will not scratch the sample (suitable for soft substances), can scan stably in liquid state, integrate optical systems (Raman, fluorescence...), electrode surface potential measurement, nano quantitative mechanics and electrical characteristics measurement, and high-speed scanning functions.
+Services
+Topography
+Nanomechanics
+Imaging in liquid
+Force mapping
+Raman mapping
+Specification
+scanning range: 150 μm × 150 μm × 20 μm
+image resolution: X and Y axis are 2 nm ; height noise: < 0.1 nm RMS (air), < 0.2 nm RMS (fluid)
+force resolution: 10 pN RMS for cantilever with k = 20 pN/nm
+specimen size: 1 × 3 inch slides, 25 mm coverslips, 35 and 60 mm plastic petri dishes
+application
+AFM Contact Mode, Tapping Mode, Non-contact Mode, Peak Force Mode
+Phase Imaging
+PeakForce Quantitative Nanomechanical Property Mapping (QNM)
+Force Volume
+Nano-Indentation
+Integrated AFM-Raman Imaging System (IRIS)
+Microscope Image Registration and Overlay (MIRO)
+Quantitative Mechanics and Rapid Scanning Probe Microscope-FS-SPM
+This instrument has a New generation AFM action force <50 pN, and its contact area is much smaller than that of traditional AFM.It will not scratch the sample (suitable for soft substances), can scan stably in liquid state, integrate optical systems (Raman, fluorescence...), electrode surface potential measurement, nano quantitative mechanics and electrical characteristics measurement, and high-speed scanning functions.
+Services
+Topography
+Nano-mechanics
+Fastscan
+Force mapping
+surface potential
+surface magnetic property
+Nano-conductivity
+Specification
+scanning range: 90 μm × 90 μm × 10 μm
+resolution: X axis and Y axis are 2 nm ; vertical noise: <40 pm RMS
+speed: X-Y tip-velocity max.: > 2 mm/Sec.; Z tip-velocity max.: 12 mm/Sec
+specimen size: 210 mm (diameter) x 15 mm (thickness)
+application
+AFM Contact Mode, Tapping Mode, Non-contact Mode, Peak Force Mode
+Phase Imaging
+PeakForce Quantitative Nanomechanical Property Mapping (QNM)
+Force Volume
+Nano-Indentation
+Integrated AFM-Raman Imaging System (IRIS)
+Microscope Image Registration and Overlay (MIRO)
+SNOM
+Scanning near-field optical microscope (SNOM)
+This instrument is a microscope that combines three functions: near-field optics, confocals and atomic force.It can perform near-field optical image detection and surface morphology measurement on test pieces below 3.5 inches.
+Services
+Topography
+dielectric properties
+contact potential, electric dipole moment
+magnetic domain
+Dopant
+conductivity
+probe lithography
+Specification
+0.2 cps to 2x1012 cps:
+Complete analysis from 0.1 fg.g-1 to 0.1% (LR, solution)
+Minimum integration time:
+Counting: 0.1 ms
+Analog: 1 ms
+Faraday: 1 ms
+No decay time with Faraday detection system:
+Specially designed integration circuit
+Automatic switching between detection modes:
+no preset
+< 1 ms to Faraday detection

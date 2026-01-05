@@ -1,0 +1,18 @@
+front page
+Cutting-edge technology
+Smart life
+Smart consumption and operation services
+5G enterprise dedicated network monitoring visualization solution
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+5G enterprise dedicated network monitoring visualization solution.
+The 5G private network monitoring center provides continuous network monitoring and management from users to applications for enterprise private networks, dynamically detects the use of private network resources to control network status, and promptly detects the faults and abnormalities of core network or network equipment. Notify management personnel through the alarm monitoring and broadcasting system, which can effectively and quickly eliminate problems to improve the reliability of private network application services.
+Features and innovation
+Seven major devices can be retrieved including 5G core network, base station, switch, synchronization source, MEC, Wi-Fi AP, and physical UE.
+Supports communication agreements such as HTTP, SNMP, TR-069, and MQTT.
+The usage situation of 5G private network monitoring center includes network traffic monitoring, user monitoring, equipment working status, application service monitoring, specialized monitoring center operation management, dedicated network statistical reports (providing long-term trends), alarm monitoring push waves, etc.
+Application and benefits
+5G private network monitoring and management, communication agreement connection, communication equipment data acquisition, and dedicated network alarm management.

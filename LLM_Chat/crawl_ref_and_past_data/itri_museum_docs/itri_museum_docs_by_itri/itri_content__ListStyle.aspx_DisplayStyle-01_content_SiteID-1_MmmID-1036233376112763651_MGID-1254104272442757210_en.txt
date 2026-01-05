@@ -1,0 +1,16 @@
+front page
+Cutting-edge technology
+Smart life
+Autonomous mobile system
+5G MR virtual and real fusion drone competition
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+5G MR virtual and real integration drone competition.
+The Institute of Technology Research Institute has developed a 5G MR virtual and real fusion drone competition system.This system introduces 5G transmission technology, and at the same time develops low-latency digital streaming technology, high-speed body precision positioning technology, and hybrid real-life interactive technology. By combining a number of innovative technologies, we can create a UAV competitive experience that integrates virtual and real fusion.The integration of virtual and real is the key to the future development of racing drones. Relevant technical modules can be spread to consumer/commercial drones, AR/VR and entertainment sports application markets and other fields related to meta-universe applications, creating huge application business opportunities.
+Features and innovation
+Competitive drones emphasize speed, accuracy and performance, just like the F1 racing competition in the air.Because it operates drones with FPV (First Person View, first-person perspective), the quality and delay of image transmission are very critical. The current analog FPV is poor in image quality and is easy to break out and produce snowflakes. This technology is used in digital FPV, which can meet the needs of large bandwidth (each drone needs upstream bandwidth > 50Mb), low latency (digital instant streaming delay < 50ms), and enrich the presentation of exciting game events experience.
+Application and benefits
+Consumer/commercial drones, AR/VR education and entertainment applications, and related applications in the meta-universe field.

@@ -1,0 +1,14 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Semiconductor chips
+X-ray measurement technology for the front section of semiconductor 2-nanometer GAA process
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+X-ray measurement technology for the front stage of semiconductor 2-nanometer GAA process.
+For the quality of domestic semiconductor 2nm front-section process, there are currently no commercial measurement equipment available internationally for process monitoring and improving yield.Traditional measurement technologies have faced bottlenecks. For example, Scanning Electron Microscope (SEM) electrons are easily absorbed by deep structures and cannot obtain the CD size of the deep structure; Optical Critical Dimension (OCD) is facing the challenge of insufficient resolution limits and sensitivity.The Institute of Technology has developed a new generation of "X-ray measurement technology" to meet the CD measurement of the advanced Gate All-Around (GAA).
+Application and benefits
+Since X-ray can analyze the multi-layer GAA structure size of 2-nanometer process and can penetrate the three-dimensional complex GAA structure, it is suitable for CD measurements used in GAA processes. The team developed key size reflective X-ray measurement technologies and equipment, and industrialized X-ray measurement technology online, which can analyze line width changes of 0.1 nm, and solve the needs of four domestic semiconductor 2-nanometer process sites, such as Fin formation, Etch back, Inner spacer and Nanowire release.

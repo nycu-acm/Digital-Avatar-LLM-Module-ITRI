@@ -1,0 +1,51 @@
+front page
+Net Zero Emissions
+Net Zero Service
+Carbon disc and carbon footprint
+Net Zero Service
+Enterprise net zero solution service
+Carbon disc and carbon footprint
+Carbon Verification
+Net Zero Sustainable School
+Intellectual Rights Law
+Net Zero Sustainable Countermeasures and Business Opportunities
+About Carbon Disc and Carbon Footprint
+Faced with the challenges of global trade carbon tax and considerations of corporate competitiveness, many companies are eager to join the ranks of net zero carbon reduction.The "Sustainable Carbon Management Platform" of the Institute of Technology provides carbon emission management solutions for two major computing modules, "organized greenhouse gas inspection" and "product carbon footprint calculation".In the "Organized Greenhouse Gas Survey", it has covered scope one and two, and will be expanded to scope three in the future. In the "Product Carbon Footprint Calculation" section, it has a localized industry application database, with more than 10,000 local coefficient carbon emission data, and spans nearly 20 industrial categories, making it the richest database of Taiwan's current industrial carbon footprint.The one-stop service also has three core functions: database, in-depth investigation and calculation, and green design, allowing enterprises to conduct organizational greenhouse gas investigation and product carbon footprint calculation online.
+Product carbon footprint implementation steps
+Calculation results and hot spot analysis.
+Assist an activity or product throughout the life cycle, directly and indirectly generated greenhouse gas emissions.
+1. Purpose and scope definition: Confirm that the purpose of performing carbon footprint calculation is to seek product carbon reduction opportunities, green supply chains and form Green Partners with the supply chain, or continuously improve carbon reduction... etc. This determines which unit processes should be included in the evaluation of the product carbon footprint.
+2. Process flow chart: Construct the product life cycle process map according to the scope definition, which may include all input-output projects such as raw materials, energy, waste, etc. from the raw materials to waste treatment process.
+3. Data collection: Data collection is based on the investment of various raw materials, energy and resources involved in the product manufacturing process, as well as the output of various wastes (air, water, waste).
+4. Carbon footprint calculation: Use project emission coefficient (supply chain)╳ Activity data (all usage data of the target product production process) is related to all substances, energy and emissions in the product life cycle.
+5. Hot Spot Analysis and Report: Through the results of carbon footprint calculation, we can understand the hot spots of the product's carbon emissions, and use this to seek opportunities for product carbon reduction and process improvement.
+Implementation steps for tissue-type greenhouse gas inspection
+A survey of greenhouse gas emissions within the organization is carried out to understand the organization's greenhouse gas emissions.
+1. Establish a promotion organization
+The organization's senior supervisor promised to reveal the determination of greenhouse gas investigation and provided appropriate resources to establish a greenhouse gas investigation system to enable effective internal communication to form a common understanding.
+2. Organizational boundaries and operational boundaries setting
+Due to the diversification of company ownership or control rights, the set enterprise boundaries will affect the subsequent greenhouse gas investigation scope. Therefore, the primary purpose of conducting inspection operations is to confirm that the organizational scope is a factory, company or group.Further identify and investigate all emission sources within the geographical scope, distinguish between direct and indirect emission sources, and clearly define their operating boundaries to assist in managing risks and opportunities of greenhouse gases.
+3. Select the benchmark year
+The base year may be a single year, or average performance over the past few years. The purpose of setting the base year is to assist manufacturers in establishing a self-comparative benchmark for greenhouse gas management performance and to evaluate the status of their reduction targets.
+4. Identification and quantification of emission sources
+Identify and examine the entity units or processes within the boundaries of the organization that will cause changes in the concentration of atmospheric greenhouse gases. The greenhouse gas system refers to six major greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs) and sulfur hexafluoride (SF6) standardized by the Kyoto Protocol.It can be divided into fixed combustion emissions, process emissions, mobile combustion emissions, and escape emissions according to the emission source type.
+5. Establish a greenhouse gas disk inspection list
+Aggregate greenhouse gas emission information so that users can update and maintain their content.
+6. Data quality management
+Confirm that the developed inspection management procedures can effectively identify errors, reduce uncertainty and improve data quality to achieve the goal of continuous improvement.
+7.Program fileization and greenhouse gas inspection report production
+The procedures, methods, data, etc. retained during the inspection and execution are filed and recorded and enabled for verification (can be paper, electronic files, etc.), and the documents are retained and recorded.
+8. Internal and external verification
+Through the verification process, we support the generation, summary, reporting of data, etc., and confirm that the objective facts presented at each stage do meet the accuracy and completeness pursued by the purpose of disclosure, as the basis for actions such as public reporting, regulatory requirements, and transaction preparation.
+Platform Features
+1. Cover two major computing modules: "product carbon footprint" and "organic greenhouse gas".
+2. It has three core functions: "database", "discussion and calculation" and "green design".
+3. Include in the category one and category two of tissue-type greenhouse gas investigation, and expand the scope three.
+4. "Industry classification" is carried out for the localized carbon footprint database, which can provide 21 industrial applications and is continuously expanding.
+5. Coupled with the "Practical Course of Carbon Footprint Practice" of the Institute of Industry and Research Institute, learn carbon footprint calculation from practice.
+6. Release the product carbon footprint evaluation report with one click to meet the verification needs.
+Perpetual carbon management platform link
+:
+https://scm.itri.org.tw/
+Perpetual carbon management platform
+Carbon Footprint Practical Workshop

@@ -1,0 +1,44 @@
+首頁
+產業服務
+業界合作
+委託研究及產品開發
+耐候環境試驗-可靠度設備
+Share to Facebook
+Share to Twitter
+分享到我的Line
+聯絡我們
+服務說明
+模擬產品在氣候環境溫濕組合條件下(高低溫操作&儲存、溫度循環、高溫高濕、低溫低濕...等)，檢測產品本身的適應能力與特性是否改變。
+恆溫恆濕機（GTH-800-40-CP-AR）
+服務項目
+低溫（耐寒性）試驗 Cold Test
+乾熱（耐熱性）試驗 Dry heat Test
+溫度循環試驗 Temperature Cycling Test
+溫濕度循環試驗 Damp heat cycling Test
+高溫高濕（穩態）試驗 Damp heat Test
+規格說明
+Chamber Size（Internal）：50*60*50cm（W*H*D）
+Temperature（Option）：-50～25℃（±0.3℃）
+低溫恆濕機（GLTS-150-50-SP-AR ）
+服務項目
+低溫（耐寒性）試驗 Cold Test
+規格說明
+Chamber Size（Internal）：50*50*50cm（W*H*D）
+Temperature（Option）：35～200 ℃（±0.3℃）
+高溫試驗機（ GPO-125 ）
+服務項目
+加速壽命試驗 Acceleration Life Test
+乾熱（耐熱性）試驗 Dry heat Test
+規格說明
+Chamber Size（Internal）：50*50*50cm（W*H*D）
+Temperature（Option）：35～200 ℃（±3℃）
+電動拉力試驗機（MX2-1000N-L）
+在固定速度及角度情況下，進行產品拉力、剝離力測試
+服務項目
+Tensile test
+規格說明
+Capacity：2～200 N（±2%）
+Speed：10 ～20 (0.5mm╱min)
+20 ～100(5mm╱ min)
+100～300(10mm╱ min)
+Sampling rate(max.)：2000 data / sec

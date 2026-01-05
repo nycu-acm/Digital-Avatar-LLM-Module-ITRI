@@ -1,0 +1,82 @@
+Control components to controller lay the foundation for the mother of machinery and machine industry - 50th anniversary of the Industrial Research Institute Deeply cultivate the industry and innovate the future
+Industrial Technology Research Institute 50th Anniversary Story
+See history
+Deeply cultivated 50
+Critical moments
+Continue the past and start the future
+Welcoming the future
+Innovation 50
+EN
+See history
+Deeply cultivated 50
+front page
+See history and cultivate 50
+Machinery Industry
+Control components to controller lay the foundation for the mother machine tool industry
+Tool machine
+Control components to controller lay the foundation for the mother machine tool industry
+Tool machine
+Tool machine
+automation
+Service robot
+Drone
+Machine tools are the foundation of the development of the machinery industry. In the 1960s, with the government's economic and construction plan, the machinery industry was listed as a key development, and the domestic machine tools industry took a slight prototype.With the rapid development of heavy industry, Taiwan changed from labor-intensive to capital-tech-intensive in the 1970s, and the tool machine industry gradually entered its takeoff period.
+At that time, the country lacked the manufacturing technology of machine-machinery. In order to enhance domestic manufacturing energy, the Industrial Research Institute built a precision tool machine demonstration factory in 1977, laying the foundation for Taiwan's precision tool machine and automation. In the same year, it signed a technical cooperation contract with Brown & Sharpe Manufacturing Company in the United States to introduce the design, manufacturing and processing of ordinary, horizontal and vertical universal milling machines for precision knee milling machines and manufacturing technology for its auxiliary accessories.
+At the same time, in order to make up for the industrial gap, the Industrial Research Institute actively developed a "controller" that can be called the brain of the tool machine, thereby improving the situation that has been monopolized by Europe and Japan for many years. From nothing to something, it has comprehensively developed domestic controllers, and technology transfer line cutting and discharge processing control technology to domestic operators such as Qinghong and Laitong to assist in establishing a new discharge processing industry, making Taiwan's line cutting machine industry output jump to the third place in the world, and successfully assisting the industry transformation; in 1994, the first generation of motion control and I/O control chips were developed, and the second generation of integrated motion and I/O control special (EPCIO, Exquisite Position Control and Input/Output) control chips were born in 2000, which promoted my country's development of domestic controller core modules; in 1996, turning controllers were developed, and in 2014, the advanced turning controller technology was turned into Delta Electric.Gradually establish the domestic controller industry, add price advantages to tool machine manufacturers and drive the intelligence of Taiwan's precision machinery.
+In addition, in order to continuously strengthen the self-made technology capabilities of the tool machine, the Industrial Research Institute has started to upgrade industrial technology from the key modules of the whole machine. For example, in 1994, the first domestic motor-contained high-speed spindle was completed, which improved the conversion efficiency and greatly reduced the spindle volume, driving the domestic high-speed spindle application trend.With the evolution of technology, the Industrial Research Institute has also assisted the industry in step by step to strengthen the technical foundation, such as the TCP function of the domestic five-axis controller (Tool Center Point tool center point control) in 2010, which is the most critical function of five-axis co-motor control.
+With the advent of the era of smart tool machines, the Industrial Research Institute has led the industry forward with its technology that has been deeply rooted in many years.For example, in 2015, it transferred the "Five-axis fine interpolation control technology" technology to Youjia, assisting it in establishing its own five-axis controller, which reduces the cost of the five-axis controller by more than 50%, allowing the tool machine to accurately and accurately mill out workpieces of multiple surfaces and complex shapes in one clamp; in the same year, it developed a high-end dual-spindle double-turret tower turning and milling composite controller. Through the development of high-end controller technology, the industry will be upgraded again, and the product quality of domestic tool machine operators' complete machines will be improved to A+ level.
+In 2017, we assisted Youjia in integrating industrial robot control modules, establishing advanced intelligent automation five-axis machining system control solution, and constructing the world's first Robot inside advanced intelligent automation five-axis machining control system and equipment.The Industrial Research Institute continues to assist Youjiajian in the establishment of its own brand FETROL M100 Touch full-digital milling controller with domestic control technology, combined with Xinhan Company's original automatic production line professional, and then introduces domestic mold processing machines and drilling tapping machines to complete the I4.0 intelligent automation production demonstration line.In 2020, the domestically produced all-digital gantry five-axis controller and high-power servo support will be supported by Xiehong Industry to build a tens of million-level aerospace gantry five-axis processing machine, and introduced domestic aerospace processing industry to mass-produce aerospace wing components (36 hours per piece, 100mm thick to 2.5mm thick), verifying that domestic high-end controllers have reliability and quality performance in aerospace applications.The technical achievements of domestic high-end controllers such as domestic five-axis machining controllers were displayed at the Taipei International Machine Tool Exhibition "TIMTOS × TMTS 2022".More than 30 domestic tool machine manufacturers have introduced the application range from two-axis turning centers and three-axis milling centers of one million yuan to large five-axis co-driven and multi-axis turning and milling composite machining machines of tens of million yuan. It has also led the three domestic tool machine controller manufacturers to produce up to 80,000 to 100,000 sets, with an annual output of more than 5 billion yuan.The Institute of Industrial Research and Research promotes the industrialization of new technologies with cross-field smart machinery energy and helps the tool machine industry to stabilize its exports to the international market.
+1977
+Create a precision tool machine demonstration factory to lay the foundation for Taiwan’s precision tool machine and automation.
+1977
+Signed a technical cooperation contract with Brown Sharp Manufacturing Company in the United States.
+1983
+The contract was signed with Gaoming Precision Machinery Industry Company to develop "gantry-type integrated processing machine products and technologies", which transformed the company from a production of traditional spiral arm drilling machines to a manufacturer of CNC tool machines.
+1985
+Developed PLC-1000 programmable logic controller.
+1990
+The technology has been transferred to the "discharge processing machine computer numerical controller technology" to relevant operators, and an EDM computer numerical controller tutoring group has been established to lay a solid foundation for my country's own development of computer numerical controller CNC technology.
+1993
+From nothing to something, we have fully developed domestic controllers, and technology transfer line cutting and discharge processing control technology to domestic operators such as Qinghong and Laitong to assist in establishing new discharge processing industries, making Taiwan's line cutting machine industry output jump to the third place in the world, and successfully assisting the industry transformation.
+1994
+Develop the first generation of motion control and I/O control ICs.
+1994
+From Switzerland Yibei Chrome (IBAG) technology to motor hidden high-speed spindle technology, it has completed the first set of motor hidden high-speed spindles in China.
+2000
+Launched the second generation of integrated motion and I/O control special IC "EPCIO".
+2001
+Taiwan's first self-designed and produced linear motor tool machine has attracted cooperation and development by major domestic manufacturers, and has also opened a new milestone in the history of Taiwan's tool machine machines.
+2014
+Technology-to-mechanical controllers and software are used to help domestic manufacturers to break the current situation of the tool machine market monopoly on European, American and Japanese controller manufacturers.
+2015
+Develop a high-end dual-spindle double-turret tower turning and milling composite controller. Through the development of high-end controller technology, the industry will be upgraded and the product quality of domestic tool machine operators will be improved to A+ level.
+2015
+The "five-axis fine interpolation control technology" allows the tool to clamp and accurately mill out multi-faceted complex shape workpieces at one time, and is suitable for complex five-axis workpieces and mold applications such as aerospace, medical care, and automobiles.
+2017
+Assist Youjia in constructing Robot inside advanced intelligent automation five-axis machining control system and equipment.
+2019
+Assist Youjia to establish its own brand FETROL M100 Touch full-digital milling controller and build an I4.0 intelligent automation production demonstration line.
+2020
+Support Xiehong domestic gantry five-axis processing machine for mass production and processing of aerospace structural parts and components.
+2022
+Taipei International Machine Tool Exhibition "TIMTOS × TMTS 2022" displays the technical achievements of domestic five-axis processing controllers
+More industries
+The birth of the Institute of Technology
+Semiconductor Industry
+Communications Industry
+Materials and chemical industry and nanometers
+Vehicle industry
+Measuring industry
+Textile Industry
+Optoelectronics Industry
+Printed circuit board industry
+Biomedical industry
+Green Energy Industry
+Artificial intelligence and huge amount of information
+other
+next
+prev
+© ITRI. Works by the Institute of Industrial Technology
++886-3-582-0100
+310401
+No. 195, Section 4, Zhongxing Road, Zhudong Town, Hsinchu County

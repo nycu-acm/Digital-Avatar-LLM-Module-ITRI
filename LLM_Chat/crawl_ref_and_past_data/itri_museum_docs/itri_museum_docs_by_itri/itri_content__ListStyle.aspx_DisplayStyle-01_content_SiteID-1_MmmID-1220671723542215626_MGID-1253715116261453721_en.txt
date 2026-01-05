@@ -1,0 +1,21 @@
+front page
+Cutting-edge technology
+Intelligent enabling technology
+Artificial intelligence and security
+AI object detection acceleration technology
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+AI object detection acceleration technology.
+Video video data accounts for more than 70% of all network transmission data.A large amount of data makes it impossible to monitor all image content with manpower, so AI technology is used to assist in identifying images.In AI image recognition technology, AI object detection technology can find the location and size of the specified object in the image screen, assist in monitoring whether the object appears, location, object size, movement direction and speed, etc., and can be applied to the real-time image identification needs of various fields, such as the occurrence of people, cars, ships and other objects photographed in unmanned vehicles, smart cities, department stores, and transportation fields, and whether there are any abnormalities.
+Since AI object detection technology finds a specified object for a single picture, when applied to Video images, the image will be first cut into multiple single-spot images, and then each uses AI object detection and identification to achieve continuous image recognition of Video.However, this recognition method does not make good use of the continuous characteristics of the front and back images in Video images.
+The Institute of Technology has developed AI object detection acceleration technology, integrating optical flow techniques that use continuous image characteristics to achieve the purpose of acceleration.The optical flow technique can select important pixels in the picture, that is, pixel points that are not similar to the surrounding pixels and are therefore more representative, such as the outline or sharp angle of the object, and find the new position of the pixel in the subsequent continuous image.The resulting displacement is tracked through pixels through optical flow method to estimate the new position of objects in Video and assist in the AI ​​object detection technology that accelerates the image.
+Through the AI ​​object detection technology assisted by optical flow technology, it can achieve an acceleration of about 15 times than the original pure AI object detection technology. Taking the image content captured by a monitor camera with a GPU for AI identification as an example. After applying the acceleration technology, only one GPU is needed for AI identification for every about 15 monitor cameras, which greatly reduces the cost of building AI recognition hardware to about one fifteenth of the original. While lowering the threshold for construction, it also accelerates the diffusion of AI applications. This technology is suitable for all kinds of applications that require AI to recognize Video images.
+Features and innovation
+Integrate optical flow technology to accelerate the detection efficiency of AI objects to 15 times the original one.
+Through the improvement of the efficiency of AI object detection, the cost of AI hardware construction has been greatly reduced to about one fifteenth of the original one.
+Optical flow technology uses CPU computing, which is different from the GPU computing resources required by AI object detection technology, improving parallel effects.
+Application and benefits
+Various related applications that require AI recognition of Video images, such as unmanned vehicles, smart cities, department stores, transportation, smart services, etc.

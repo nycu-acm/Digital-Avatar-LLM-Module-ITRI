@@ -1,0 +1,16 @@
+front page
+Cutting-edge technology
+Resilient society
+Infrastructure resilience
+Grid system integration
+Share to Facebook
+Share to Twitter
+Share to my Line
+Contact Us
+Technology introduction
+The South Branch of the Institute of Technology Research and Research has established a microgrid demonstration system.
+Renewable energy and decentralized energy in modern power grids are gradually increasing, and the power market and system control methods will gradually change due to their influence, and the regional regulation technology of microgrids and distribution systems will also be more important.
+Features and innovation
+The Institute of Technology has developed an energy management system (EMS) required for microgrid and regional energy regulation, integrated renewable energy, energy storage systems, backup generators and load regulation technologies, and established a microgrid demonstration system at the South Branch of the Institute of Technology.The energy management system establishes operation schedule based on recent load predictions and solar photoelectric output predictions, can adjust peak loads, realize functions such as smooth solar photoelectric output, regional supply and demand balance control, and supports the testing and research of power quality control technology.
+Application and benefits
+In order to establish the complete industrial capacity of energy storage systems, the Industrial Research Institute also developed an energy storage system energy converter (PCS). The latest prototype product has a power of 1MVA, consisting of two 500kVA modules, 760VDC on the DC side, and 440VAC on the AC side, with an efficiency of 98.5%.
